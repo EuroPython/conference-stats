@@ -1,0 +1,143 @@
+[
+    "EuroPython": [
+        "2025": [
+            {
+                "name": "Bloomberg",
+                "website": "https://www.bloomberg.com/company/values/tech-at-bloomberg/python/",
+                "level": "Platinum",
+                "amount": 18000
+            },
+            {
+                "name": "Gel",
+                "website": "https://www.geldata.com/",
+                "level": "Platinum",
+                "amount": 18000
+            },
+            {
+                "name": "Microsoft",
+                "website": "https://www.microsoft.com/",
+                "level": "Platinum",
+                "amount": 18000
+            },
+            {
+                "name": "ARM",
+                "website": "https://www.arm.com/",
+                "level": "Gold",
+                "amount": 9500
+            },
+            {
+                "name": "G-Research",
+                "website": "https://www.gresearch.com/",
+                "level": "Gold",
+                "amount": 9500
+            },
+            {
+                "name": "Jetbrains",
+                "website": "https://jetbrains.com/",
+                "level": "Gold",
+                "amount": 9500
+            },
+            {
+                "name": "Google Cloud",
+                "website": "https://cloud.google.com/",
+                "level": "Gold",
+                "amount": 9500
+            },
+            {
+                "name": "Numberly",
+                "website": "https://numberly.com/",
+                "level": "Gold",
+                "amount": 9500
+            },
+            {
+                "name": "Picnic",
+                "website": "https://jobs.picnic.app/en/home",
+                "level": "Gold",
+                "amount": 9500
+            },
+            {
+                "name": "Pydantic",
+                "website": "https://pydantic.dev/",
+                "level": "Gold",
+                "amount": 9500
+            },
+            {
+                "name": "Travelperk",
+                "website": "https://grnh.se/e4647ad81us",
+                "level": "Gold",
+                "amount": 9500
+            },
+            {
+                "name": "Ataccama",
+                "website": "https://jobs.ataccama.com/",
+                "level": "Silver",
+                "amount": 7000
+            },
+            {
+                "name": "Apify",
+                "website": "https://apify.com/",
+                "level": "Silver",
+                "amount": 7000
+            },
+            {
+                "name": "Pretix",
+                "website": "https://pretix.eu/",
+                "level": "Silver",
+                "amount": 7000
+            },
+            {
+                "name": "Snowflake",
+                "website": "https://snowflake.com/",
+                "level": "Silver",
+                "amount": 7000
+            },
+            {
+                "name": "Anaconda Inc",
+                "website": "https://www.anaconda.com/",
+                "level": "Bronze",
+                "amount": 2000
+            },
+            {
+                "name": "Sema",
+                "website": "https://www.semasoftware.com/",
+                "level": "Bronze",
+                "amount": 2000
+            },
+            {
+                "name": "Sentry",
+                "website": "https://sentry.io/welcome",
+                "level": "Bronze",
+                "amount": 2000
+            },
+            {
+                "name": "Python Institute",
+                "website": "https://pythoninstitute.org/",
+                "level": "Patron",
+                "amount": 1000
+            },
+            {
+                "name": "Qt Group",
+                "website": "https://qt.io",
+                "level": "Patron",
+                "amount": 1000
+            },
+            {
+                "name": "Rossum",
+                "website": "https://rossum.ai/",
+                "level": "Patron",
+                "amount": 1000
+            }
+        ],
+        "2024": [
+            {
+                "name": "...",
+                "website": "...",
+                "level": "...",
+                "amount": 2000
+            }
+        ]
+    ],
+    "PyCon Italy": [],
+    "PyCon Greece": [],
+    "PyCon Germany": []
+]
