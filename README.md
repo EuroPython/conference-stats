@@ -1,4 +1,4 @@
-# Conference Stats
+f# Conference Stats
 
 The goal of this repository is to gather the public conference information
 from the many Python events we have in Europe, so new ones can have a good
@@ -19,9 +19,14 @@ most in Python conferences, similarly to the most active speakers.
 
 # How to contribute?
 
-You can visit any missing conference edition, and populate the JSON files
-accordinly with the `YYYY-levels` information, and an array for `YYYY`
-listing all the sponsors. See `sponsors.json` for more information.
+For each missing conference in the JSON file, find the information by visiting official 
+websites, archives, and past event pages. For each year, document the sponsorship tiers 
+and costs in a `levels` object (e.g., `"Gold": 10000`), then create an array under that 
+year listing all sponsors with their name, website, and sponsorship level. Find this 
+information from conference websites, sponsor pages, event programs (often PDFs), social 
+media posts, and press releases. Ensure accuracy of sponsor names and URLs, verify 
+sponsorship levels match the documented tiers for that specific year, and maintain 
+consistent formatting as shown in the existing `sponsors.json` structure.
 
 Remember to submit a Pull Request with the information and adding the
 conference and year to this README.
