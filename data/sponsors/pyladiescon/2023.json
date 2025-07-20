@@ -1,0 +1,63 @@
+{
+    "year":2023,
+    "levels": {
+        "Champion": 10000,
+        "Supporter": 5000,
+        "Booster": 1000,
+        "Partner": 500,
+        "Individual": 50,
+        "Special contributors": "other"
+    },
+    "sponsors": [
+        {
+            "name": "Kraken",
+            "website": "https://kraken.tech/",
+            "level": "Supporter"
+        },
+
+        {   "name": "Auth0", 
+            "website": "https://auth0.com/", 
+            "level": "Booster"
+        },
+        {
+            "name": "Numerly",
+            "website": "https://fr.linkedin.com/company/numberly/",
+            "level": "Booster"
+        },
+
+        {   "name": "Posit", 
+            "website": "https://posit.co/", 
+            "level": "Booster"
+        },
+        
+        {
+            "name": "EuroPython Society (EPS)",
+            "website": "https://www.europython-society.org/",
+            "level": "Booster"
+        },
+        {
+            "name": "Six Feet up",
+            "website": "https://sixfeetup.com/",
+            "level": "Partner"
+        },
+        {
+            "name": "Data Roots",
+            "website": "https://dataroots.io/",
+            "level": "Partner"
+        },
+        {
+            "name": "Willing Consulting",
+            "website": "https://www.willingconsulting.com/",
+            "level": "Partner"
+        },
+        {
+            "name": "Jet Brains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Special contributor"
+        },
+        {
+            "name": "Viva Translations",
+            "website": "https://www.jetbrains.com/",
+            "level": "Special contributor"}
+        ]
+    }
