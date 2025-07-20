@@ -1,0 +1,153 @@
+{
+    "year": 2023,
+    "levels": {
+        "Diamond": 30000,
+        "Platinum": 17000,
+        "Gold": 9500,
+        "Silver": 6500,
+        "Bronze": 2000,
+        "Patron": 1000
+    },
+    "sponsors": [
+        {
+            "name": "JetBrains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Microsoft",
+            "website": "https://developer.microsoft.com/en-us/python",
+            "level": "Platinum"
+        },
+        {
+            "name": "Kraken",
+            "website": "https://www.kraken.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Optiver",
+            "website": "https://www.optiver.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Numberly",
+            "website": "www.numberly.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "arm",
+            "website": "www.arm.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Google Cloud",
+            "website": "www.google.com/cloud/",
+            "level": "Gold"
+        },
+        {
+            "name": "Sentry",
+            "website": "https://sentry.io/",
+            "level": "Gold"
+        },
+        {
+            "name": "Temporal",
+            "website": "www.temporal.io/",
+            "level": "Gold"
+        },
+        {
+            "name": "Bloomberg",
+            "website": "www.bloomberg.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Pretix",
+            "website": "www.pretix.eu/",
+            "level": "Silver"
+        },
+        {
+            "name": "sonar",
+            "website": "www.sonarsource.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "The Mobility House",
+            "website": "www.mobilityhouse.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Picnic",
+            "website": "www.picnic.app/",
+            "level": "Silver"
+        },
+        {
+            "name": "Kiwi.com",
+            "website": "www.kiwi.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Energy & Meteo Systems",
+            "website": "www.energymeteo.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "SIG Susquehanna",
+            "website": "www.sig.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "HRT",
+            "website": "www.hudsonrivertraiding.com",
+            "level": "Patron"
+        },
+        {
+            "name": "Qt Group",
+            "website": "www.qt.io",
+            "level": "Patron"
+        },
+        {
+            "name": "Taipy",
+            "website": "www.taipy.io",
+            "level": "Patron"
+        },
+        {
+            "name": "Kiwi.com",
+            "website": "www.kiwi.com/",
+            "level": "Social Event Sponsor"
+        },
+        {
+            "name": "EuroPython Society",
+            "website": "www.europython-society.org/",
+            "level": "Financial Aid"
+        },
+        {
+            "name": "evolabel",
+            "website": "www.evolabel.com",
+            "level": "Supporters"
+        },
+        {
+            "name": "Pretalx",
+            "website": "www.pretalx.com",
+            "level": "Supporters"
+        },
+        {
+            "name": "1Password",
+            "website": "www.1password.com",
+            "level": "Supporters"
+        },
+        {
+            "name": "O'Reilly",
+            "website": "www.oreilly.com",
+            "level": "Supporters"
+        },
+        {
+            "name": "Manning Publications Co.",
+            "website": "www.manning.com",
+            "level": "Supporters"
+        },
+        {
+            "name": "stickermule",
+            "website": "www.stickermule.com",
+            "level": "Supporters"
+        }
+    ]
+}
