@@ -44,7 +44,7 @@
         {
             "fullname": "Valerio Maggio",
             "type": "Talk",
-            "title": "Hitchhickers Guide to D&D \ud83d\udc09"
+            "title": "Hitchhickers Guide to D&D ������"
         },
         {
             "fullname": "Pranjal Biyani",
@@ -102,7 +102,7 @@
             "title": "Dynamically generated methods with a non-generic signature"
         },
         {
-            "fullname": "\u0141ukasz Langa",
+            "fullname": "Łukasz Langa",
             "type": "Panel",
             "title": "CPython Core Developer Panel"
         },
@@ -134,7 +134,7 @@
         {
             "fullname": "Patrick Arminio",
             "type": "Tutorial",
-            "title": "Build your first GraphQL API using Python \ud83c\udf53"
+            "title": "Build your first GraphQL API using Python 🍓"
         },
         {
             "fullname": "Jakub Urban",
@@ -164,7 +164,7 @@
         {
             "fullname": "Stefan Behnel",
             "type": "Talk",
-            "title": "Cython 3 \u2013 Python at the speed of C"
+            "title": "Cython 3 – Python at the speed of C"
         },
         {
             "fullname": "Jean-Baptiste Braun",
@@ -207,7 +207,7 @@
             "title": "Asyncio Evolved: Enhanced Exception Handling with TaskGroup in Python 3.11"
         },
         {
-            "fullname": "Mike M\u00fcller",
+            "fullname": "Mike Müller",
             "type": "Tutorial",
             "title": "Decorators - A Deep Dive"
         },
@@ -224,7 +224,7 @@
         {
             "fullname": "Sebastiaan Zeeff",
             "type": "Talk",
-            "title": "Don\u2019t Panic! A Developer\u2019s Guide to Security"
+            "title": "Don’t Panic! A Developer’s Guide to Security"
         },
         {
             "fullname": "Omotola Eunice Omotayo",
@@ -257,7 +257,7 @@
             "title": "How we are making CPython faster. Past, present and future"
         },
         {
-            "fullname": "Rodrigo Gir\u00e3o Serr\u00e3o",
+            "fullname": "Rodrigo Girão Serrão",
             "type": "Tutorial",
             "title": "Build a terminal TODO app with Textual"
         },
@@ -297,17 +297,17 @@
             "title": "Building native Rust modules for Python"
         },
         {
-            "fullname": "Rodrigo Gir\u00e3o Serr\u00e3o",
+            "fullname": "Rodrigo Girão Serrão",
             "type": "Talk",
             "title": "How dunder methods rule Python under the hood"
         },
         {
             "fullname": "Patrick Arminio",
             "type": "Talk",
-            "title": "GraphQL Subscriptions: Real-time Data with WebSockets* and Strawberry \ud83c\udf53"
+            "title": "GraphQL Subscriptions: Real-time Data with WebSockets* and Strawberry 🍓"
         },
         {
-            "fullname": "Marc-Andr\u00e9 Lemburg",
+            "fullname": "Marc-André Lemburg",
             "type": "Talk",
             "title": "Diving into Event-Driven Architectures with Python"
         },
@@ -327,7 +327,7 @@
             "title": "Solving Data Problems in Management Accounting"
         },
         {
-            "fullname": "Lucas-Raphael M\u00fcller",
+            "fullname": "Lucas-Raphael Müller",
             "type": "Talk",
             "title": "Solving Data Problems in Management Accounting"
         },
@@ -337,7 +337,7 @@
             "title": "Subclassing, Composition, Python, and You"
         },
         {
-            "fullname": "Micha\u0142 Lowas-Rzechonek",
+            "fullname": "Michał Lowas-Rzechonek",
             "type": "Talk",
             "title": "Caching in microservices"
         },
@@ -362,17 +362,17 @@
             "title": "PEP 458 a solution not only for PyPI"
         },
         {
-            "fullname": "Cristi\u00e1n Maureira-Fredes",
+            "fullname": "Cristián Maureira-Fredes",
             "type": "Talk",
             "title": "The Python's stability promise"
         },
         {
-            "fullname": "Franz W\u00f6llert",
+            "fullname": "Franz Wöllert",
             "type": "Talk",
             "title": "Apache Spark vs cloud-native SQL engines"
         },
         {
-            "fullname": "Rafa\u0142 Nowicki",
+            "fullname": "Rafał Nowicki",
             "type": "Talk",
             "title": "Zero downtime deployments: Is it worth the effort?"
         },
@@ -392,7 +392,7 @@
             "title": "Gathering data from the web using Python"
         },
         {
-            "fullname": "Sebastian Buczy\u0144ski",
+            "fullname": "Sebastian Buczyński",
             "type": "Talk",
             "title": "BDD - how to make it work?"
         },
@@ -472,7 +472,7 @@
             "title": "We are Python Weekend!"
         },
         {
-            "fullname": "Luk\u00e1\u0161 Kubi\u0161",
+            "fullname": "Lukáš Kubiš",
             "type": "Poster",
             "title": "We are Python Weekend!"
         },
@@ -497,7 +497,7 @@
             "title": "The challenges of doing Infra-As-Code without \"the cloud\""
         },
         {
-            "fullname": "Eva Klimentov\u00e1",
+            "fullname": "Eva Klimentová",
             "type": "Talk",
             "title": "Using NLP to Detect Knots in Protein Structures"
         },
@@ -507,14 +507,14 @@
             "title": "Beginners' Day - PyLadies Snake Workshop"
         },
         {
-            "fullname": "Mia Baji\u0107",
+            "fullname": "Mia Bajić",
             "type": "Free Workshop",
             "title": "Beginners' Day - PyLadies Snake Workshop"
         },
         {
             "fullname": "Dilyan Grigorov",
             "type": "Talk",
-            "title": "Python 3.11 What\u2019s new?"
+            "title": "Python 3.11 What’s new?"
         },
         {
             "fullname": "Neil Vaytet",
@@ -532,7 +532,7 @@
             "title": "Vector data cubes as a bridge between raster and vector worlds"
         },
         {
-            "fullname": "\u0141ukasz Langa",
+            "fullname": "Łukasz Langa",
             "type": "Talk",
             "title": "Games of Life: generative art in Python"
         },
@@ -587,7 +587,7 @@
             "title": "Test your data like you test your code"
         },
         {
-            "fullname": "Vin\u00edcius Gubiani Ferreira",
+            "fullname": "Vinícius Gubiani Ferreira",
             "type": "Talk",
             "title": "CLI application development made easier with typer"
         },
@@ -622,7 +622,7 @@
             "title": "Polars vs Pandas - what's the difference?"
         },
         {
-            "fullname": "\u0160t\u011bp\u00e1n \u0160indel\u00e1\u0159",
+            "fullname": "Štěpán Šindelář",
             "type": "Talk",
             "title": "HPy: The Future of Python Native Extensions"
         },
@@ -632,7 +632,7 @@
             "title": "HPy: The Future of Python Native Extensions"
         },
         {
-            "fullname": "Ram\u00f3n Corominas",
+            "fullname": "Ramón Corominas",
             "type": "Talk",
             "title": "What a screen reader can teach you about remote Python debugging"
         },
@@ -669,12 +669,12 @@
         {
             "fullname": "Jeroen Overschie",
             "type": "Tutorial",
-            "title": "How to MLOps: Experiment tracking & deployment \ud83d\udcca"
+            "title": "How to MLOps: Experiment tracking & deployment 📊"
         },
         {
             "fullname": "Yke Rusticus",
             "type": "Tutorial",
-            "title": "How to MLOps: Experiment tracking & deployment \ud83d\udcca"
+            "title": "How to MLOps: Experiment tracking & deployment 📊"
         },
         {
             "fullname": "Merve Noyan",
@@ -704,17 +704,17 @@
         {
             "fullname": "Eirini Angeloudi",
             "type": "Talk",
-            "title": "How well do we understand our Universe? Let\u2019s Python it out!"
+            "title": "How well do we understand our Universe? Let’s Python it out!"
         },
         {
             "fullname": "Regina Sarmiento",
             "type": "Talk",
-            "title": "How well do we understand our Universe? Let\u2019s Python it out!"
+            "title": "How well do we understand our Universe? Let’s Python it out!"
         },
         {
             "fullname": "Maxim Fateev",
             "type": "Sponsored",
-            "title": "Temporal Python \u2013 A Durable, Distributed Asyncio Event Loop"
+            "title": "Temporal Python – A Durable, Distributed Asyncio Event Loop"
         },
         {
             "fullname": "Damian Wysocki",
@@ -742,7 +742,7 @@
             "title": "From Jupyter Notebooks to a Python Package: The Best of Both Worlds"
         },
         {
-            "fullname": "Furkan Taha \u00d6NDER",
+            "fullname": "Furkan Taha ÖNDER",
             "type": "Talk",
             "title": "Instrumenting CPython with eBPF"
         },
@@ -762,7 +762,7 @@
             "title": "Build, Serve, and Deploy a Fast, Production-Ready API with Python and Robyn"
         },
         {
-            "fullname": "Petr \u0160ime\u010dek",
+            "fullname": "Petr Šimeček",
             "type": "Talk",
             "title": "Word Wranglers & News Navigators: Taming GPT-3 Beast for Media Monitoring"
         },
@@ -777,12 +777,12 @@
             "title": "Python Organizers' Panel: Exploring Community-Driven Python Conferences"
         },
         {
-            "fullname": "Jimena Berm\u00fadez",
+            "fullname": "Jimena Bermúdez",
             "type": "Panel",
             "title": "Python Organizers' Panel: Exploring Community-Driven Python Conferences"
         },
         {
-            "fullname": "B\u00e1ra Drbohlavov\u00e1",
+            "fullname": "Bára Drbohlavová",
             "type": "Panel",
             "title": "Python Organizers' Panel: Exploring Community-Driven Python Conferences"
         },
@@ -792,7 +792,7 @@
             "title": "Python Organizers' Panel: Exploring Community-Driven Python Conferences"
         },
         {
-            "fullname": "Tim (\u6587\u660c) Hsu",
+            "fullname": "Tim (文昌) Hsu",
             "type": "Panel",
             "title": "Python Organizers' Panel: Exploring Community-Driven Python Conferences"
         },
@@ -802,19 +802,19 @@
             "title": "Python Organizers' Panel: Exploring Community-Driven Python Conferences"
         },
         {
-            "fullname": "Rodrigo Gir\u00e3o Serr\u00e3o",
+            "fullname": "Rodrigo Girão Serrão",
             "type": "Poster",
-            "title": "You DON'T know comprehensions \ud83e\udd37"
+            "title": "You DON'T know comprehensions ������"
         },
         {
-            "fullname": "Rodrigo Gir\u00e3o Serr\u00e3o",
+            "fullname": "Rodrigo Girão Serrão",
             "type": "Tutorial",
             "title": "Practical introduction to descriptors"
         },
         {
             "fullname": "Michael Seifert",
             "type": "Talk",
-            "title": "Bulletproof Python \u2013 Writing fewer tests with a typed code base"
+            "title": "Bulletproof Python – Writing fewer tests with a typed code base"
         },
         {
             "fullname": "Florian Bruhin",
@@ -847,7 +847,7 @@
             "title": "Orchestrating Python Workflows in Apache Airflow"
         },
         {
-            "fullname": "Luka Raljevi\u0107",
+            "fullname": "Luka Raljević",
             "type": "Talk",
             "title": "Dive into codebase like a pro"
         },
@@ -867,7 +867,7 @@
             "title": "Beginners' Day - PyLadies Snake Workshop"
         },
         {
-            "fullname": "Mia Baji\u0107",
+            "fullname": "Mia Bajić",
             "type": "Free Workshop",
             "title": "Beginners' Day - PyLadies Snake Workshop"
         },
@@ -879,10 +879,10 @@
         {
             "fullname": "Tibs",
             "type": "Talk",
-            "title": "Fish and chips and Apache Kafka\u00ae"
+            "title": "Fish and chips and Apache Kafka®"
         },
         {
-            "fullname": "Artur Sm\u0119t",
+            "fullname": "Artur Smęt",
             "type": "Talk",
             "title": "GraphQL as an umbrella for microservices"
         },
@@ -922,7 +922,7 @@
             "title": "Building and Deploying Fair and Unbiased ML Systems : An Art, Not Science"
         },
         {
-            "fullname": "Mia Baji\u0107",
+            "fullname": "Mia Bajić",
             "type": "Talk",
             "title": "The Standard Library Tour"
         },
@@ -992,14 +992,14 @@
             "title": "From idea to production"
         },
         {
-            "fullname": "Honza Kr\u00e1l",
+            "fullname": "Honza Král",
             "type": "Talk",
             "title": "From idea to production"
         },
         {
             "fullname": "Bhawna Singh",
             "type": "Talk",
-            "title": "Generative AI: Beyond technicalities \u2013 an ethical perspective"
+            "title": "Generative AI: Beyond technicalities – an ethical perspective"
         },
         {
             "fullname": "Anupama Tiruvaipati",
@@ -1012,7 +1012,7 @@
             "title": "Serve notebook as a Web App with Mercury framework"
         },
         {
-            "fullname": "Piotr P\u0142o\u0144ski",
+            "fullname": "Piotr Płoński",
             "type": "Poster",
             "title": "Serve notebook as a Web App with Mercury framework"
         },
@@ -1027,12 +1027,12 @@
             "title": "Food For Rabbits: Celery From Zero to Hero"
         },
         {
-            "fullname": "Micha\u0142 Karzy\u0144ski",
+            "fullname": "Michał Karzyński",
             "type": "Talk",
             "title": "Understanding Neural Network Architectures with Attention and Diffusion"
         },
         {
-            "fullname": "\u00c7a\u011f\u0131l Ulu\u015fahin S\u00f6nmez",
+            "fullname": "Çağıl Uluşahin Sönmez",
             "type": "Talk",
             "title": "The coding conventions that makes our lives easier"
         },
