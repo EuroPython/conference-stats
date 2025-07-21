@@ -3,7 +3,7 @@ import requests
 
 # Configuration variables:
 # This URL can be a custom URL or pretalx.com/ one depending on the event configuration
-CONFERENCE_URL = "https://programme.europython.eu/api/events/europython-2025"
+CONFERENCE_URL = ""
 TOKEN = ""  # Not necessary, but in case of private events it's required
 YEAR = 2025  # Some events will not have it in the URL so we do it manually
 
