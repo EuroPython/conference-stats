@@ -103,24 +103,23 @@ def get_pretalx_speakers():
 if __name__ == "__main__":
     speakers = get_pretalx_speakers()
 
-    data = get_pretalx_submissions(speakers)
-    d = {}
+    submission_data = get_pretalx_submissions(speakers)
+    data = {}
 
-    if data:
+    if submission_data:
 
-        d["year"] = YEAR
-        d["speakers"] = []
-        for _, entry in data.items():
-            d["speakers"].append(
+        data["year"] = YEAR
+        data["speakers"] = []
+        for _, entry in submission_data.items():
+            data["speakers"].append(
                 {
                     "fullname": entry["fullname"],
                     "type": entry["type"],
                     "title": entry["title"],
-                    "level": "",  # TODO: each conference will have this as a custom question
                 }
             )
 
-        print(json.dumps(d, indent=4))
+        print(json.dumps(data, indent=4))
 
     else:
         print("Failed to fetch speakers data")
