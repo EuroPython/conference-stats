@@ -1,4 +1,4 @@
-f# Conference Stats
+# Conference Stats
 
 The goal of this repository is to gather the public conference information
 from the many Python events we have in Europe, so new ones can have a good
