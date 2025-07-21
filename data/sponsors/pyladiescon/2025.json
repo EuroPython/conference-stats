@@ -1,0 +1,23 @@
+{
+    "year":2025,
+    "levels": {
+        "Champion": 10000,
+        "Supporter": 6000,
+        "Connector": 3000,
+        "Booster": 1500,
+        "PyLadies Chapter Sponsor": 600,
+        "PyLadies Discussion Sponsor": 600,
+        "Partner": 750,
+        "Individual": 50,
+        "Custom sponsorhip":"custom",
+        "Special contributors": "other"
+    },
+    "sponsors": [
+        {
+            "name": "",
+            "website": "",
+            "level": ""
+        }
+        
+    ]
+}
