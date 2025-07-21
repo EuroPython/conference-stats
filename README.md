@@ -49,3 +49,26 @@ The fields for speakers are the following:
 * Title: Title of the proposal
 * Level: If provided by the schedule. If two levels are displayed, pick the
     most general one
+
+## Scripts
+
+> [!NOTE]
+> Make sure to install the dependencies in `scripts/requirements.txt`
+
+In case the event you are trying to contribute is using Pretalx, you can get
+the speaker list by running the command:
+
+```
+python scripts/get_speakers.py --url https://pretalx.com/api/events/pyladiescon-2025
+```
+To write the output directly into a file, you can use the `--output` option,
+and execute the script like this:
+
+```
+python scripts/get_speakers.py \
+    --url https://pretalx.com/api/events/pyladiescon-2024 \
+    --output data/speakers/PyLadiesCon/2024.json
+```
+
+> [!IMPORTANT]
+> Make sure that the URL needs to the the one pointing to the API.
