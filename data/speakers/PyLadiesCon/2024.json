@@ -2,10 +2,434 @@
     "year": 2024,
     "speakers": [
         {
-            "fullname": "",
-            "url": "",
-            "type": "",
-            "title": ""
+            "fullname": "Mariela",
+            "type": "Talk",
+            "title": "Análisis de la Extensión de Incendios con Datos Abiertos utilizando Jupyter Notebooks"
+        },
+        {
+            "fullname": "Soojin",
+            "type": "Panel",
+            "title": "Sharing PyLadies from East Asia activities"
+        },
+        {
+            "fullname": "Maaya Ishida",
+            "type": "Panel",
+            "title": "Sharing PyLadies from East Asia activities"
+        },
+        {
+            "fullname": "Debbie",
+            "type": "Panel",
+            "title": "Sharing PyLadies from East Asia activities"
+        },
+        {
+            "fullname": "Sheila M. Saia",
+            "type": "Talk",
+            "title": "Empowering Sustainable Agriculture: Quantifying the Impact of Water Resources Management Practices with Python"
+        },
+        {
+            "fullname": "Rebeca Almeida",
+            "type": "Workshop (60 mins)",
+            "title": "Vou pegar essa issue! Guia rápido para colaborar com código aberto"
+        },
+        {
+            "fullname": "Lilian",
+            "type": "Talk",
+            "title": "Enhance Your Tests With Property-based Testing"
+        },
+        {
+            "fullname": "Aisha Yasir",
+            "type": "Talk",
+            "title": "Preserving Privacy in AI: Techniques and Tools for Secure Machine Learning"
+        },
+        {
+            "fullname": "Emmanuelle ABOAF",
+            "type": "Talk",
+            "title": "Empowering Communication: The quest for automatic solutions in sign language"
+        },
+        {
+            "fullname": "Marysia Winkels",
+            "type": "Workshop (90 mins)",
+            "title": "Introduction to Data Storytelling"
+        },
+        {
+            "fullname": "PyLadies Amsterdam",
+            "type": "Workshop (90 mins)",
+            "title": "Introduction to Data Storytelling"
+        },
+        {
+            "fullname": "Velda Kiara",
+            "type": "Keynote",
+            "title": "[Keynote]  Storytelling as a Technical Art Form"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Talk",
+            "title": "First Conference Recap"
+        },
+        {
+            "fullname": "Elfreeda  Sunny",
+            "type": "Talk",
+            "title": "Finding Your Voice: Overcoming Networking Challenges for LGBTQ+ Individuals"
+        },
+        {
+            "fullname": "Abigail Mesrenyame Dogbe",
+            "type": "Workshop (90 mins)",
+            "title": "Empowering Change: Building and Amplifying the PyLadies Community as Black Women in Tech"
+        },
+        {
+            "fullname": "Abigail Afi Gbadago",
+            "type": "Workshop (90 mins)",
+            "title": "Empowering Change: Building and Amplifying the PyLadies Community as Black Women in Tech"
+        },
+        {
+            "fullname": "Rahmat Akintola",
+            "type": "Workshop (90 mins)",
+            "title": "Empowering Change: Building and Amplifying the PyLadies Community as Black Women in Tech"
+        },
+        {
+            "fullname": "Naa Ashiorkor Nortey",
+            "type": "Workshop (90 mins)",
+            "title": "Empowering Change: Building and Amplifying the PyLadies Community as Black Women in Tech"
+        },
+        {
+            "fullname": "Ariane Djeupang",
+            "type": "Workshop (90 mins)",
+            "title": "Empowering Change: Building and Amplifying the PyLadies Community as Black Women in Tech"
+        },
+        {
+            "fullname": "Theresa Seyram Agbenyegah",
+            "type": "Workshop (90 mins)",
+            "title": "Empowering Change: Building and Amplifying the PyLadies Community as Black Women in Tech"
+        },
+        {
+            "fullname": "Lokko Joyce Dzifa",
+            "type": "Workshop (90 mins)",
+            "title": "Empowering Change: Building and Amplifying the PyLadies Community as Black Women in Tech"
+        },
+        {
+            "fullname": "Dorothy Ewuah",
+            "type": "Workshop (90 mins)",
+            "title": "Empowering Change: Building and Amplifying the PyLadies Community as Black Women in Tech"
+        },
+        {
+            "fullname": "Sayantika Banik",
+            "type": "Talk",
+            "title": "Designing data tool-kit: Your Open-Source Atlas"
+        },
+        {
+            "fullname": "Laura Funderburk",
+            "type": "Panel",
+            "title": "El Futuro de la IA: Oportunidades y Desafíos en un Mundo Interconectado"
+        },
+        {
+            "fullname": "Marcela Huerfano B.",
+            "type": "Panel",
+            "title": "El Futuro de la IA: Oportunidades y Desafíos en un Mundo Interconectado"
+        },
+        {
+            "fullname": "Tania Yovanović",
+            "type": "Panel",
+            "title": "El Futuro de la IA: Oportunidades y Desafíos en un Mundo Interconectado"
+        },
+        {
+            "fullname": "[HOST] Paula Andrea Pinzón Maldonado",
+            "type": "Panel",
+            "title": "El Futuro de la IA: Oportunidades y Desafíos en un Mundo Interconectado"
+        },
+        {
+            "fullname": "Mai Giménez",
+            "type": "Panel",
+            "title": "El Futuro de la IA: Oportunidades y Desafíos en un Mundo Interconectado"
+        },
+        {
+            "fullname": "Terri Oda",
+            "type": "Talk",
+            "title": "Better Mentoring While Overwhelmed"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Talk",
+            "title": "Conference Closing"
+        },
+        {
+            "fullname": "Cristián Maureira-Fredes",
+            "type": "Talk",
+            "title": "Conference Closing"
+        },
+        {
+            "fullname": "Maria Jose Molina Contreras",
+            "type": "Talk",
+            "title": "Conference Closing"
+        },
+        {
+            "fullname": "Naomi Ceder",
+            "type": "Talk",
+            "title": "Conference Closing"
+        },
+        {
+            "fullname": "Denny Perez",
+            "type": "Talk",
+            "title": "Conference Closing"
+        },
+        {
+            "fullname": "Mariatta",
+            "type": "Talk",
+            "title": "Conference Closing"
+        },
+        {
+            "fullname": "Georgi Ker",
+            "type": "Talk",
+            "title": "Conference Closing"
+        },
+        {
+            "fullname": "Emily Chen",
+            "type": "Talk",
+            "title": "The adoption of the Array API standard in scikit-learn and how to use it"
+        },
+        {
+            "fullname": "Riya Joshi",
+            "type": "Talk",
+            "title": "Holistic Evaluation of Large Language Models: From References to Human Judgment"
+        },
+        {
+            "fullname": "Arya",
+            "type": "Talk",
+            "title": "History of Women in Programming"
+        },
+        {
+            "fullname": "Lynn Root",
+            "type": "Panel",
+            "title": "PyLadies Global Council Panel"
+        },
+        {
+            "fullname": "Mariatta",
+            "type": "Panel",
+            "title": "PyLadies Global Council Panel"
+        },
+        {
+            "fullname": "Marie-Louise Annan",
+            "type": "Panel",
+            "title": "PyLadies Global Council Panel"
+        },
+        {
+            "fullname": "Sarah Adigwe",
+            "type": "Panel",
+            "title": "PyLadies Global Council Panel"
+        },
+        {
+            "fullname": "María Andrea Vignau",
+            "type": "Workshop (60 mins)",
+            "title": "El Zen del testing en Python: más alla del debugger"
+        },
+        {
+            "fullname": "Karen Jex",
+            "type": "Talk",
+            "title": "Optimising your Database for Analytics"
+        },
+        {
+            "fullname": "Magdalena Kowalczuk",
+            "type": "Talk",
+            "title": "Alice in Open Source Land"
+        },
+        {
+            "fullname": "Lisa Becker",
+            "type": "Workshop (90 mins)",
+            "title": "#IAmRemarkable - workshop for self-advocacy"
+        },
+        {
+            "fullname": "Swarooprani Manoor",
+            "type": "Talk",
+            "title": "Loop Less, Map More! Rethink How You Iterate in Python"
+        },
+        {
+            "fullname": "Jessica Temporal",
+            "type": "Talk",
+            "title": "Device Flow: Login em Dispositivos com Restrição de Entrada"
+        },
+        {
+            "fullname": "Melissa Weber Mendonça",
+            "type": "Panel",
+            "title": "PyLadies in Open Source"
+        },
+        {
+            "fullname": "Abigail Mesrenyame Dogbe",
+            "type": "Panel",
+            "title": "PyLadies in Open Source"
+        },
+        {
+            "fullname": "Jessica Tegner",
+            "type": "Panel",
+            "title": "PyLadies in Open Source"
+        },
+        {
+            "fullname": "Yaa Nuamah Kusi-Fordjour",
+            "type": "Panel",
+            "title": "PyLadies in Open Source"
+        },
+        {
+            "fullname": "Natalia",
+            "type": "Panel",
+            "title": "PyLadies in Open Source"
+        },
+        {
+            "fullname": "Sheena",
+            "type": "Talk",
+            "title": "Power to the people who teach the people"
+        },
+        {
+            "fullname": "Sasi Dharani",
+            "type": "Talk",
+            "title": "Igniting Young Minds: Sparking Creativity in Kids Through Python"
+        },
+        {
+            "fullname": "Bowrna",
+            "type": "Talk",
+            "title": "Impact of Open Source on my professional journey"
+        },
+        {
+            "fullname": "Susan Shu Chang",
+            "type": "Keynote",
+            "title": "[Keynote] How Game Development in Python kickstarted my software and machine learning career"
+        },
+        {
+            "fullname": "Barbara Asiamah",
+            "type": "Workshop (90 mins)",
+            "title": "From Play to Python"
+        },
+        {
+            "fullname": "Daphne Choong",
+            "type": "Keynote",
+            "title": "[Keynote] Our Future with AI"
+        },
+        {
+            "fullname": "KC Tseng",
+            "type": "Talk",
+            "title": "Leveraging Python for Community Policy Evaluation in Taiwan"
+        },
+        {
+            "fullname": "Juliana (Jules) Barros Lima",
+            "type": "Keynote",
+            "title": "[Keynote] Embracing dreams and fostering communities: lessons learned as a PyLady"
+        },
+        {
+            "fullname": "Aji Fama Jobe",
+            "type": "Talk",
+            "title": "Thriving on Two Fronts: How to Manage a Full-Time Job and a Passion for Volunteering"
+        },
+        {
+            "fullname": "Ana Krelling",
+            "type": "Talk",
+            "title": "ASTx: Empowering Language Processing Through Custom Abstract Syntax Trees"
+        },
+        {
+            "fullname": "Lucie Anglade",
+            "type": "Talk",
+            "title": "Living from Free Software – for Real"
+        },
+        {
+            "fullname": "Divya Rani",
+            "type": "Talk",
+            "title": "Understanding Concurrency Models in Python"
+        },
+        {
+            "fullname": "Pavithra Eswaramoorthy",
+            "type": "Talk",
+            "title": "Accessible Data Visualizations"
+        },
+        {
+            "fullname": "れなっち",
+            "type": "Talk",
+            "title": "Python初心者が、外部の勉強会で習ったStreamlitとYOLOでアプリを半日で完成させた話"
+        },
+        {
+            "fullname": "Alison Orellana-Rios",
+            "type": "Workshop (60 mins)",
+            "title": "La comunicación automatizada con NLP"
+        },
+        {
+            "fullname": "Yashasvi Misra",
+            "type": "Talk",
+            "title": "Beyond Single Models: The Secret Sauce of Predictive Success"
+        },
+        {
+            "fullname": "Eloisa Perez-Bennetts",
+            "type": "Talk",
+            "title": "How to Stop an Epidemic using the Atomica Python Tool"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Mentored Sprints",
+            "title": "Mentored Sprints Orientation"
+        },
+        {
+            "fullname": "Katie McLaughlin",
+            "type": "Keynote",
+            "title": "[Keynote] Turning 'wat' into 'why'"
+        },
+        {
+            "fullname": "Maria Jose Molina Contreras",
+            "type": "Talk",
+            "title": "Conference Opening"
+        },
+        {
+            "fullname": "Mariatta",
+            "type": "Talk",
+            "title": "Conference Opening"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Panel",
+            "title": "PyLadies entrepreneurs and career development"
+        },
+        {
+            "fullname": "Tereza Iofciu",
+            "type": "Panel",
+            "title": "PyLadies entrepreneurs and career development"
+        },
+        {
+            "fullname": "Ines Montani",
+            "type": "Panel",
+            "title": "PyLadies entrepreneurs and career development"
+        },
+        {
+            "fullname": "Anwesha Das",
+            "type": "Panel",
+            "title": "PyLadies entrepreneurs and career development"
+        },
+        {
+            "fullname": "Una Galyeva",
+            "type": "Panel",
+            "title": "PyLadies entrepreneurs and career development"
+        },
+        {
+            "fullname": "Eliete Quirlia",
+            "type": "Talk",
+            "title": "Liderança na Comunidade: Entre Acertos e Erros"
+        },
+        {
+            "fullname": "Diana Calizaya",
+            "type": "Talk",
+            "title": "IA Ética en Python: Construyendo Soluciones Responsables y Equitativas"
+        },
+        {
+            "fullname": "Anastasiia Potekhina",
+            "type": "Talk",
+            "title": "Python profiling tools"
+        },
+        {
+            "fullname": "Anwesha Das",
+            "type": "Keynote",
+            "title": "[Keynote] Pyladies and Purpose : Snakes and Ladders, a tale of winding progress."
+        },
+        {
+            "fullname": "Monica Oyugi",
+            "type": "Talk",
+            "title": "Building and Managing Tech Communities: A Guide for Empowerment and Growth"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Talk",
+            "title": "Second Conference Recap"
         }
     ]
 }
