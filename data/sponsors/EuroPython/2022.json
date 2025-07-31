@@ -31,7 +31,7 @@
             "level": "Gold"
         },
         {
-            "name": "Numerly",
+            "name": "Numberly",
             "website": "https://numberly.com/",
             "level": "Gold"
         },
@@ -68,11 +68,6 @@
         {
             "name": "Sonar",
             "website": "https://www.sonarsource.com/",
-            "level": "Gold"
-        },
-        {
-            "name": "Udemy",
-            "website": "https://about.udemy.com/",
             "level": "Gold"
         },
         {
@@ -146,7 +141,7 @@
             "level": "Bronze"
         },
         {
-            "name": "kiwi",
+            "name": "Kiwi",
             "website": "https://jobs.kiwi.com/",
             "level": "Bronze"
         },
@@ -156,7 +151,7 @@
             "level": "Bronze"
         },
         {
-            "name": "zalando",
+            "name": "Zalando",
             "website": "https:/zalando.com/",
             "level": "Bronze"
         }
