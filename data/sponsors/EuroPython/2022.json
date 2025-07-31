@@ -1,0 +1,165 @@
+{
+    "year": 2022,
+    "levels": {
+        "Keystone": 42000,
+        "Diamond": 30000,
+        "Platinum": 17000,
+        "Gold": 9500,
+        "Silver": 6500,
+        "Bronze": 2000,
+        "Patron": 1000
+    },
+    "sponsors": [
+        {
+            "name": "Oomnitza",
+            "website": "https://www.oomnitza.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Microsoft",
+            "website": "https://developer.microsoft.com/en-us/python/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Bank of America",
+            "website": "https://careers.bankofamerica.com/en-us/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Channable",
+            "website": "https://www.channable.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Numerly",
+            "website": "https://numberly.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Optiver",
+            "website": "https://optiver.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Optum",
+            "website": "https://www.optum.ie/",
+            "level": "Gold"
+        },
+        {
+            "name": "arm",
+            "website": "https://www.arm.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "RenaissanceRe",
+            "website": "https://www.renre.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "HRT",
+            "website": "https://www.hudsonrivertrading.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Google Cloud",
+            "website": "https://cloud.google.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Sonar",
+            "website": "https://www.sonarsource.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Udemy",
+            "website": "https://about.udemy.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Udemy",
+            "website": "https://about.udemy.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Rapidratings",
+            "website": "https://www.rapidratings.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Bloomberg",
+            "website": "https://www.bloomberg.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Worday",
+            "website": "https://www.workday.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Sendcloud",
+            "website": "https://www.sendcloud.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Ebury",
+            "website": "https://ebury.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Sourcery",
+            "website": "https://sourcery.ai/",
+            "level": "Silver"
+        },
+        {
+            "name": "Anvil",
+            "website": "https://anvil.works/",
+            "level": "Silver"
+        },
+        {
+            "name": "Apework",
+            "website": "https://www.apeworx.io/",
+            "level": "Silver"
+        },
+        {
+            "name": "Kraken",
+            "website": "https://kraken.tech/",
+            "level": "Silver"
+        },
+        {
+            "name": "Superblocks",
+            "website": "https://www.superblocks.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Digitgaming",
+            "website": "https://www.digitgaming.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "fourTheorem",
+            "website": "https://fourtheorem.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Backmarket",
+            "website": "https://www.backmarket.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "kiwi",
+            "website": "https://jobs.kiwi.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "inscribe",
+            "website": "https://www.inscribe.ai/",
+            "level": "Bronze"
+        },
+        {
+            "name": "zalando",
+            "website": "https:/zalando.com/",
+            "level": "Bronze"
+        }
+       
+    ]
+}
