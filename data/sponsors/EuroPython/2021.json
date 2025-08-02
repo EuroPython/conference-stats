@@ -1,0 +1,87 @@
+{
+    "year": 2021,
+    "levels": {
+        "Keystone": 12500,
+        "Diamond": 6500,
+        "Gold": 2500,
+        "Silver": 1000,
+        "Patron": 500
+    },
+    "sponsors": [
+        {
+            "name": "Microsoft",
+            "website": "https://developer.microsoft.com/en-us/python/",
+            "level": "Diamond"
+        },
+         {
+            "name": "Optiver",
+            "website": "https://optiver.com/",
+            "level": "Diamond"
+        },
+        {
+            "name": "Bloomberg",
+            "website": "https://www.bloomberg.com/",
+            "level": "Diamond"
+        },
+        {
+            "name": "Numberly",
+            "website": "https://numberly.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Trayport",
+            "website": "https://numberly.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Jet Brains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "auth0",
+            "website": "https://auth0.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Google Cloud",
+            "website": "https://cloud.google.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Vonage",
+            "website": "https://developer.vonage.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Terminusdb",
+            "website": "https://terminusdb.com/docs/get-started-with-terminusdb/",
+            "level": "Silver"
+        },
+        {
+            "name": "stackbuilders",
+            "website": "https://www.stackbuilders.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "scoutAPM",
+            "website": "https://www.scoutapm.com/",
+            "level": "Patron"
+        },
+        {
+            "name": "RiverBank computing",
+            "website": "https://www.riverbankcomputing.com/",
+            "level": "Patron"
+        },
+        {
+            "name": "Adiminan",
+            "website": "https://www.adimian.com/",
+            "level": "Patron"
+        },
+        {
+            "name": "Remastr",
+            "website": "https://remastr.com/",
+            "level": "Patron"
+        }
+    ]
+}
