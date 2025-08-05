@@ -1,0 +1,136 @@
+{
+    "year":2024,
+    "levels": {
+        "Cíes": 6500,
+        "Ons": 4750,
+        "Sálvora": 3200,
+        "Cortegada": 1000
+    },
+    "sponsors": [
+        {
+            "name": "Nagarro",
+            "website": "https://www.nagarro.com/en/",
+            "level": "Cíes"
+        },
+        {
+            "name": "Skydance",
+            "website": "https://skydance.com/",
+            "level": "Ons"
+        },
+        {
+            "name": "Lareira digital",
+            "website": "https://lareira.digital/",
+            "level": "Ons"
+        },
+        {
+            "name": "IBM",
+            "website": "https://research.ibm.com/",
+            "level": "Ons"
+        },
+        {
+            "name": "Travel Perk",
+            "website": "https://www.travelperk.com/es/",
+            "level": "Ons"
+        },
+        {
+            "name": "Raiola Networks",
+            "website": "https://raiolanetworks.com/",
+            "level": "Ons"
+        },
+        {
+            "name": "Cepsa",
+            "website": "https://www.moeve.es/es/particular",
+            "level": "Ons"
+        },
+        {
+            "name": "Innatial developers",
+            "website": "https://innatial.com/",
+            "level": "Ons"
+        },
+        {
+            "name": "Okta",
+            "website": "https://www.okta.com/",
+            "level": "Ons"
+        },
+        {
+            "name": "Kairos",
+            "website": "https://www.kairosds.com/",
+            "level": "Sálvora"
+        },
+        {
+            "name": "Fever",
+            "website": "https://feverup.com/es",
+            "level": "Sálvora"
+        },
+        {
+            "name": "Bloomberg",
+            "website": "https://www.bloomberg.com/europe",
+            "level": "Sálvora"
+        },
+        {
+            "name": "Kraken",
+            "website": "https://kraken.tech/",
+            "level": "Sálvora"
+        },
+        {
+            "name": "Gradiant",
+            "website": "https://gradiant.org/",
+            "level": "Sálvora"
+        },
+        {
+            "name": "Datamaran",
+            "website": "https://www.datamaran.com/",
+            "level": "Sálvora"
+        },
+        {
+            "name": "Inditex",
+            "website": "https://www.inditex.com/itxcomweb/de/es/home",
+            "level": "Sálvora"
+        },
+        {
+            "name": "Britex",
+            "website": "https://britepayments.com/",
+            "level": "Sálvora"
+        },
+        {
+            "name": "Gisce",
+            "website": "https://gisce.net/es/",
+            "level": "Cortegada"
+        },
+        {
+            "name": "Som energia",
+            "website": "https://www.somenergia.coop/es/",
+            "level": "Cortegada"
+        },
+        {
+            "name": "Kaleidos",
+            "website": "https://kaleidos.net/",
+            "level": "Cortegada"
+        },
+        {
+            "name": "Alice biometrics",
+            "website": "https://alicebiometrics.com/",
+            "level": "Cortegada"
+        },
+        {
+            "name": "Confluent",
+            "website": "https://www.confluent.io/es-es/",
+            "level": "Cortegada"
+        },
+        {
+            "name": "Icarto",
+            "website": "https://icarto.es/",
+            "level": "Cortegada"
+        },
+        {
+            "name": "Tiny bird",
+            "website": "https://www.tinybird.co/",
+            "level": "Cortegada"
+        },
+        {
+            "name": "Code think",
+            "website": "https://www.codethink.co.uk/",
+            "level": "Cortegada"
+        }
+    ]
+}
