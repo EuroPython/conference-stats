@@ -1,0 +1,175 @@
+{
+    "year": 2018,
+    "levels": {
+        "Keystone": 35000,
+        "Diamond": 24000,
+        "Platinium": 12000,
+        "Gold": 6000,
+        "Silver": 4000,
+        "Bronze": 2000,
+        "Patron": 1000
+    },
+    "sponsors": [
+        {
+            "name": "Smarkets",
+            "website": "https://smarkets.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "EuroPython Society (EPS)",
+            "website": "https://ep2018.europython.eu/en/europython/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Intel",
+            "website": "https://www.intel.com/content/www/us/en/developer/overview.html",
+            "level": "Unknown"
+        },
+        {
+            "name": "Microsoft",
+            "website": "https://developer.microsoft.com/en-us/python/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf-landing/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Cambridge Spark",
+            "website": "https://www.cambridgespark.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Jet Brains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Kiwi",
+            "website": "https://www.kiwi.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Vonage",
+            "website": "https://developer.vonage.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "On truck",
+            "website": "https://www.ontruck.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Numberly",
+            "website": "https://numberly.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Yelp",
+            "website": "https://www.yelp.de/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Datadog",
+            "website": "https://www.datadoghq.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Snap Craft",
+            "website": "https://snapcraft.io/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Code Think",
+            "website": "hhttps://www.codethink.co.uk/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Data Camp",
+            "website": "https://www.datacamp.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Fan Fuel",
+            "website": "https://www.fanduel.careers/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Proteon",
+            "website": "https://proteon.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Trust you",
+            "website": "https://www.trustyou.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "anvil",
+            "website": "https://anvil.works/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Edinburgh",
+            "website": "https://edinburgh.org/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Administrate",
+            "website": "https://www.getadministrate.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "UKG",
+            "website": "https://www.ukg.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Python Academy",
+            "website": "https://www.python-academy.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Python Everywhere",
+            "website": "https://www.pythonanywhere.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Red Hat",
+            "website": "https://www.redhat.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Travel Nest",
+            "website": "https://travelnest.com/es/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Odoo",
+            "website": "https://odoo-community.org/",
+            "level": "Unknown"
+        },
+        {
+            "name": "RiverBank computing",
+            "website": "https://www.riverbankcomputing.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Eventbrite",
+            "website": "https://www.eventbrite.com//",
+            "level": "Unknown"
+        },
+        {
+            "name": "Plone",
+            "website": "https://plone.org/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Plone",
+            "website": "https://plone.org/",
+            "level": "Unknown"
+        }
+
+    ]
+}
