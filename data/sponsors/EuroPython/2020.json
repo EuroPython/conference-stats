@@ -1,0 +1,64 @@
+{
+    "year": 2020,
+    "levels": {
+        "Keystone": 12500,
+        "Diamond": 7500,
+        "Platinium": 5000,
+        "Gold": 3000,
+        "Silver": 2000,
+        "Bronze": 1250,
+        "Patron": 750
+    },
+    "sponsors": [
+        {
+            "name": "Microsoft",
+            "website": "https://developer.microsoft.com/en-us/python/",
+            "level": "Unknown"
+        },
+         {
+            "name": "Optiver",
+            "website": "https://optiver.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Bloomberg",
+            "website": "https://www.bloomberg.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Vonage",
+            "website": "https://developer.vonage.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Google Cloud",
+            "website": "https://cloud.google.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Trayport",
+            "website": "https://numberly.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Numberly",
+            "website": "https://numberly.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "RiverBank computing",
+            "website": "https://www.riverbankcomputing.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "mgx.io",
+            "website": "https://mgx.io/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Manning",
+            "website": "https://www.manning.com/",
+            "level": "Unknown"
+        }
+    ]
+}
