@@ -1,0 +1,254 @@
+{
+    "year": 2015,
+    "levels": {
+        "Keystone": 30000,
+        "Diamond": 20000,
+        "Platinium": 10000,
+        "Gold": 5000,
+        "Silver": 3500,
+        "Bronze": 2000,
+        "Patron": 1000
+    },
+    "sponsors": [
+        {
+            "name": "Google",
+            "website": "https://google.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Bilbao",
+            "website": "http://www.bilbao.net/",
+            "level": "Unknown"
+        },
+        {
+            "name": "DataRobot",
+            "website": "https://www.datarobot.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "hp",
+            "website": "https://www.hp.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Euskal Herriko Unibersitatea",
+            "website": "https://www.ehu.eus/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Sky atlas",
+            "website": "https://www.skyatlas.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Sky atlas",
+            "website": "https://www.skyatlas.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Blue yonder",
+            "website": "http://www.blue-yonder.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Cloud mas",
+            "website": "http://www.cloudmas.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Anaconda",
+            "website": "https://www.anaconda.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Fanduel",
+            "website": "https://www.fanduel.careers/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Plural Sight",
+            "website": "https://www.pluralsight.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Jet Brains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Python Anywhere",
+            "website": "https://www.pythonanywhere.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Python Academy",
+            "website": "https://www.python-academy.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Red Hat",
+            "website": "https://www.redhat.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Zyte",
+            "website": "https://www.zyte.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Zalando",
+            "website": "https://www.zalando.de/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Numberly",
+            "website": "https://numberly.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Enterprise database",
+            "website": "https://www.enterprisedb.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Enterprise database",
+            "website": "https://www.enterprisedb.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Intel",
+            "website": "https://www.intel.de/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Shell",
+            "website": "https://www.shell.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Skyscanner",
+            "website": "https://www.skyscanner.net/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Yelp",
+            "website": "https://www.yelp.de/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Demonware",
+            "website": "https://www.demonware.net/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Scurri",
+            "website": "https://www.scurri.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Cloudera",
+            "website": "https://www.cloudera.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Code Syntax",
+            "website": "https://www.codesyntax.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Delivery Hero",
+            "website": "https://www.deliveryhero.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "gandi.net",
+            "website": "https://www.gandi.net/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Irontec",
+            "website": "https://www.irontec.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Order bird",
+            "website": "https://www.orderbird.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Skoobe",
+            "website": "https://www.skoobe.de/",
+            "level": "Unknown"
+        },
+        {
+            "name": "E-Frontiers",
+            "website": "https://e-frontiers.ie/",
+            "level": "Unknown"
+        },
+        {
+            "name": "LWN.net",
+            "website": "https://lwn.net/",
+            "level": "Unknown"
+        },
+        {
+            "name": "asmatu",
+            "website": "https://asmatusolutions.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "engine",
+            "website": "http://engine.pwr.wroc.pl/en/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Grupo de Inteligencia Computacional (GIC)",
+            "website": "https://www.ehu.eus/ccwintco/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Hotel Ercilla",
+            "website": "http://www.hotelercilla.es/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Komodo IDE",
+            "website": "https://docs.activestate.com/komodo/12/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Neurita",
+            "website": "https://www.neurita.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "RiverBank computing",
+            "website": "https://www.riverbankcomputing.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Python Software Foundation (PSF)",
+            "website": "https://www.python.org/psf-landing/",
+            "level": "Unknown"
+        },
+        {
+            "name": "PyData",
+            "website": "https://pydata.org/",
+            "level": "Unknown"
+        },
+        {
+            "name": "O'REILLY",
+            "website": "https://www.oreilly.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Spyhce",
+            "website": "https://www.spyhce.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "WearAR",
+            "website": "https://www.wearracon.com/",
+            "level": "Unknown"
+        }
+    ]
+}
