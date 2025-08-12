@@ -1,0 +1,248 @@
+{
+    "year": 2014,
+    "levels": {
+        "Keystone": 0,
+        "Diamond": 0,
+        "Gold": 0,
+        "Silver": 0,
+        "Patron": 0
+    },
+    "sponsors": [
+
+        {
+            "name": "Google",
+            "website":  "https://Google.com",
+            "level": "Platinum"
+        },
+        {
+            "name": "hp",
+            "website": "https://www.hp.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "RhodeCode",
+            "website": "https://rhodecode.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Amazon",
+            "website": "https://amazon.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Aldryn",
+            "website": "http://www.aldryn.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Flying Circus",
+            "website": "http://flyingcircus.io/",
+            "level": "Gold"
+        },
+        {
+            "name": "PyCharm",
+            "website": "http://www.jetbrains.com/pycharm/",
+            "level": "Gold"
+        },
+        {
+            "name": "LocalBitCoins.com",
+            "website": "http://localbitcoins.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Lyst",
+            "website": "http://lyst.co.uk/careers",
+            "level": "Gold"
+        },
+        {
+            "name": "Otto group",
+            "website": "http://www.ottogroup.com/en/",
+            "level": "Gold"
+        },
+        {
+            "name": "Python Software Foundation (PSF)",
+            "website": "https://www.python.org/psf-landing/",
+            "level": "Gold"
+        },
+        {
+            "name": "Red Hat",
+            "website": "https://www.redhat.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Skoobe",
+            "website": "https://www.skoobe.de/",
+            "level": "Gold"
+        },
+        {
+            "name": "Atlassian",
+            "website": "https://www.atlassian.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Blue yonder",
+            "website": "http://www.blue-yonder.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Continuum",
+            "website": "http://www.continuum.io/",
+            "level": "Silver"
+        },
+        {
+            "name": "Crate",
+            "website": "https://crate.io/",
+            "level": "Silver"
+        },
+        {
+            "name": "Digital Ocean",
+            "website": "https://www.digitalocean.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "elastic search",
+            "website": "http://www.elasticsearch.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "enquos",
+            "website": "http://enquos.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "mozilla",
+            "website": "http://www.mozilla.org/",
+            "level": "Silver"
+        },
+        {
+            "name": "Open Stark",
+            "website": "http://www.openstack.org/",
+            "level": "Silver"
+        },
+        {
+            "name": "Python Academy",
+            "website": "https://www.python-academy.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "STXNEXT",
+            "website": "http://stxnext.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Twoub",
+            "website": "https://twoub.io/",
+            "level": "Silver"
+        },
+        {
+            "name": "Veit Schiele",
+            "website": "https://www.veit-schiele.de/",
+            "level": "Silver"
+        },
+        {
+            "name": "Ypsilon.net AG ",
+            "website": "http://ypsilon.net/",
+            "level": "Silver"
+        },
+        {
+            "name": "1000 metrics",
+            "website": "http://www.1000mercis.com/",
+            "level": "Bronzer"
+        },
+        {
+            "name": "Ableton",
+            "website": "https://www.ableton.com/",
+            "level": "Bronzer"
+        },
+        {
+            "name": "Delivery Hero",
+            "website": "https://www.deliveryhero.com/",
+            "level": "Bronzer"
+        },
+        {
+            "name": "Demonware",
+            "website": "https://www.demonware.net/",
+            "level": "Bronzer"
+        },
+        {
+            "name": "Github",
+            "website": "http://github.com/",
+            "level": "Bronzer"
+        },
+        {
+            "name": "Good Clouds",
+            "website": "http://goodscloud.com/",
+            "level": "Bronzer"
+        },
+        {
+            "name": "Immobilien Scout",
+            "website": "http://developer.immobilienscout24.de/",
+            "level": "Bronzer"
+        },
+        {
+            "name": "KTEL communications",
+            "website": "http://www.ktel.de/",
+            "level": "Bronzer"
+        },
+        {
+            "name": "KTEL communications",
+            "website": "http://www.ktel.de/",
+            "level": "Bronzer"
+        },
+        {
+            "name": "Python Anywhere",
+            "website": "https://www.pythonanywhere.com/",
+            "level": "Bronzer"
+        },
+        {
+            "name": "billiger.de",
+            "website": "http://www.billiger.de/",
+            "level": "Bronzer"
+        },
+        {
+            "name": "Enterprise database",
+            "website": "https://www.enterprisedb.com/",
+            "level": "Patron"
+        },
+        {
+            "name": "abstract",
+            "website": "http://abstract-technology.com/",
+            "level": "Patron"
+        },
+        {
+            "name": "Flying Elephant",
+            "website": "http://projectflyingelephant.com/",
+            "level": "Patron"
+        },
+        {
+            "name": "CKAN",
+            "website": "http://ckan.org/",
+            "level": "Patron"
+        },
+        {
+            "name": "Plural Sight",
+            "website": "http://www.pluralsight.com/",
+            "level": "Patron"
+        },
+        {
+            "name": "Transcode",
+            "website": "http://www.transcode.de/",
+            "level": "Patron"
+        },
+        {
+            "name": "Vision Smarts",
+            "website": "http://www.visionsmarts.com/",
+            "level": "Patron"
+        },
+        {
+            "name": "Web interpreter",
+            "website": "http://www.webinterpret.com/",
+            "level": "Patron"
+        },
+        {
+            "name": "Zeit Online",
+            "website": "http://www.zeit.de/index",
+            "level": "Patron"
+        }
+    ]
+}
