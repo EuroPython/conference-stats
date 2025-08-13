@@ -13,48 +13,49 @@
         {
             "name": "Microsoft",
             "website": "https://developer.microsoft.com/en-us/python/",
-            "level": "Unknown"
-        },
-         {
-            "name": "Optiver",
-            "website": "https://optiver.com/",
-            "level": "Unknown"
+            "level": "Keystone"
         },
         {
             "name": "Bloomberg",
             "website": "https://www.bloomberg.com/",
-            "level": "Unknown"
+            "level": "Diamond"
+        },
+        {
+            "name": "Optiver",
+            "website": "https://optiver.com/",
+            "level": "Gold"
         },
         {
             "name": "Vonage",
             "website": "https://developer.vonage.com/",
-            "level": "Unknown"
+            "level": "Gold"
         },
         {
             "name": "Google Cloud",
             "website": "https://cloud.google.com/",
-            "level": "Unknown"
+            "level": "Gold"
         },
         {
             "name": "Trayport",
             "website": "https://trayport.com/",
-            "level": "Unknown"
+            "level": "Gold"
         },
         {
             "name": "Numberly",
             "website": "https://numberly.com/",
-            "level": "Unknown"
-        },
-        {
-            "name": "RiverBank computing",
-            "website": "https://www.riverbankcomputing.com/",
-            "level": "Unknown"
+            "level": "Silver"
         },
         {
             "name": "mgx.io",
             "website": "https://mgx.io/",
-            "level": "Unknown"
+            "level": "Silver"
         },
+        {
+            "name": "RiverBank computing",
+            "website": "https://www.riverbankcomputing.com/",
+            "level": "Patron"
+        },
+        
         {
             "name": "Manning",
             "website": "https://www.manning.com/",
