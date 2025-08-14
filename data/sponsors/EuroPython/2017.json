@@ -7,33 +7,119 @@
         "Gold": 6000,
         "Silver": 4000,
         "Bronze": 2000,
-        "Patron": 1000
+        "Patron": 1000,
+        "Community: 0"
     },
     "sponsors": [
         {
             "name": "Intel",
             "website": "https://www.intel.com/content/www/us/en/developer/overview.html",
-            "level": "Unknown"
-        },
-        {
-            "name": "Facebook",
-            "website": "https://www.facebook.com/",
-            "level": "Unknown"
-        },
-        {
-            "name": "Microsoft",
-            "website": "https://developer.microsoft.com/en-us/python/",
-            "level": "Unknown"
+            "level": "Diamond"
         },
         {
             "name": "Winton",
             "website": "https://www.winton.com/",
-            "level": "Unknown"
+            "level": "Platinium"
         },
         {
             "name": "Criteo",
             "website": "https://www.criteo.com/",
-            "level": "Unknown"
+            "level": "Platinium"
+        },
+        {
+            "name": "Facebook",
+            "website": "https://www.facebook.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Microsoft",
+            "website": "https://developer.microsoft.com/en-us/python/",
+            "level": "Gold"
+        },
+        {
+            "name": "Jet Brains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Kiwi",
+            "website": "https://www.kiwi.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Numberly",
+            "website": "https://numberly.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Data Dog",
+            "website": "https://www.datadoghq.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "On truck",
+            "website": "https://www.ontruck.com/",
+            "level": "Gold"
+        },
+         {
+            "name": "Demon ware",
+            "website": "https://www.demonware.net/",
+            "level": "Gold"
+        },
+        {
+            "name": "Yelp",
+            "website": "https://www.yelp.de/",
+            "level": "Gold"
+        },
+        {
+            "name": "2ndQuadrant Enterprise db",
+            "website": "hhttps://www.enterprisedb.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Adimian",
+            "website": "https://www.adimian.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Vonage",
+            "website": "https://developer.vonage.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Python Academy",
+            "website": "https://www.python-academy.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Hotjar",
+            "website": "https://www.hotjar.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Capital Fund Management CFM",
+            "website": "http://cfm.fr/",
+            "level": "Silver"
+        },
+        {
+            "name": "Ebury",
+            "website": "https://ebury.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "20tab",
+            "website": "https://www.20tab.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "RiverBank computing",
+            "website": "https://www.riverbankcomputing.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Trux code",
+            "website": "https://thux.it/en/",
+            "level": "Bronze"
         },
         {
             "name": "Python Software Foundation (PSF)",
@@ -41,105 +127,19 @@
             "level": "Unknown"
         },
         {
-            "name": "Numberly",
-            "website": "https://numberly.com/",
-            "level": "Unknown"
-        },
-        {
-            "name": "Adimian",
-            "website": "https://www.adimian.com/",
-            "level": "Unknown"
-        },
-        {
-            "name": "Data Dog",
-            "website": "https://www.datadoghq.com/",
-            "level": "Unknown"
-        },
-        {
-            "name": "Demon ware",
-            "website": "https://www.demonware.net/",
-            "level": "Unknown"
-        },
-        {
-            "name": "Jet Brains",
-            "website": "https://www.jetbrains.com/",
-            "level": "Unknown"
-        },
-        {
-            "name": "Kiwi",
-            "website": "https://www.kiwi.com/",
-            "level": "Unknown"
-        },
-        {
-            "name": "Vonage",
-            "website": "https://developer.vonage.com/",
-            "level": "Unknown"
-        },
-        {
-            "name": "On truck",
-            "website": "https://www.ontruck.com/",
-            "level": "Unknown"
-        },
-        {
-            "name": "Yelp",
-            "website": "https://www.yelp.de/",
-            "level": "Unknown"
-        },
-        {
-            "name": "Enterprise db",
-            "website": "hhttps://www.enterprisedb.com/",
-            "level": "Unknown"
-        },
-        {
-            "name": "Hotjar",
-            "website": "https://www.hotjar.com/",
-            "level": "Unknown"
-        },
-        {
-            "name": "Python Academy",
-            "website": "https://www.python-academy.com/",
-            "level": "Unknown"
-        },
-        {
-            "name": "CFM",
-            "website": "http://cfm.fr/",
-            "level": "Unknown"
-        },
-        {
-            "name": "Ebury",
-            "website": "https://ebury.com/",
-            "level": "Unknown"
-        },
-        {
-            "name": "20tab",
-            "website": "https://www.20tab.com/",
-            "level": "Unknown"
-        },
-        {
-            "name": "RiverBank computing",
-            "website": "https://www.riverbankcomputing.com/",
-            "level": "Unknown"
-        },
-        {
-            "name": "Trux code",
-            "website": "https://thux.it/en/",
-            "level": "Unknown"
-        },
-        {
-            "name": "O'reilly",
+            "name": "O'REILLY",
             "website": "https://www.oreilly.com/",
-            "level": "Unknown"
+            "level": "Community"
         },
         {
             "name": "NumFocus",
             "website": "https://numfocus.org/",
-            "level": "Unknown"
+            "level": "Community"
         },
         {
             "name": "Plone",
             "website": "https://plone.org/",
-            "level": "Unknown"
+            "level": "Community"
         }
-        
     ]
 }
