@@ -1,10 +1,245 @@
-{
-    "year": 2023,
-    "speakers": [
-        {
-            "fullname": "",
-            "type": "",
-            "title": ""
-        }
-    ]
+{    
+  "year": 2023,
+  "speakers": [
+    {
+      "fullname": "Pri Boyano",
+      "type": "talk",
+      "title": "Pyladies Bioinfo Brasil"
+    },
+    {
+      "fullname": "Cosima Meyer",
+      "type": "talk",
+      "title": "Sparkling Connections: Making PyLadies' Contributions Visible Through Mastodon Bots"
+    },
+    {
+      "fullname": "Marlene Mhangami",
+      "type": "talk",
+      "title": "Transcendence: The Power of Representation"
+    },
+    {
+      "fullname": "Sarah Adigwe",
+      "type": "panel",
+      "title": "Unity in Diversity: The Voices of PyLadies Global Council"
+    },
+    {
+      "fullname": "Ria Bhatia",
+      "type": "talk",
+      "title": "Cache me if you can: Boosting performance with Data Caching in Python"
+    },
+    {
+      "fullname": "Jessie Newman",
+      "type": "talk",
+      "title": "Testing in Python"
+    },
+    {
+      "fullname": "Thais Viana",
+      "type": "talk",
+      "title": "How can we tell if the search results are good ?"
+    },
+    {
+      "fullname": "Jimena Bermúdez",
+      "type": "keynote",
+      "title": "Tu voz en Python"
+    },
+    {
+      "fullname": "April",
+      "type": "talk",
+      "title": "时间序列特征一键式提取神器-tsfresh"
+    },
+    {
+      "fullname": "Lidiane Monteiro",
+      "type": "panel",
+      "title": "Vozes na Tecnologia: Contando Experiências na Indústria de Tecnologia"
+    },
+    {
+      "fullname": "Lisa Marielle Cooper",
+      "type": "talk",
+      "title": "Python Adventures for the Neurospicy"
+    },
+    {
+      "fullname": "Bianca Rosa",
+      "type": "panel",
+      "title": "Vozes na Tecnologia: Contando Experiéncias na Indústria de Tecnologia"
+    },
+    {
+      "fullname": "Swarooprani Manoor",
+      "type": "talk",
+      "title": "Pythonic Principles: Best Practices for Clean Code"
+    },
+    {
+      "fullname": "Micaela Reyes",
+      "type": "panel",
+      "title": "Challenges for Women Working in Technology"
+    },
+    {
+      "fullname": "Stefanni Cavaletto",
+      "type": "panel",
+      "title": "Empoderando a las Mujeres en la Industria Tecnológica: Experiencias y Perspectivas"
+    },
+    {
+      "fullname": "Sarah Huang (HOST)",
+      "type": "panel",
+      "title": "Challenges for Women Working in Technology"
+    },
+    {
+      "fullname": "Lynn Root",
+      "type": "panel",
+      "title": "Unity in Diversity: The Voices of PyLadies Global Council"
+    },
+    {
+      "fullname": "Sophia Yang",
+      "type": "keynote",
+      "title": "PyScript: Empowering Rich Python Applications in the Browser 在浏览器中运行Python"
+    },
+    {
+      "fullname": "Pavithra Eswaramoorthy",
+      "type": "talk",
+      "title": "Collaboration Infrastructure in Data Science: Tools, Challenges and Best Practices"
+    },
+    {
+      "fullname": "Tania Allard",
+      "type": "panel",
+      "title": "Unity in Diversity: The Voices of PyLadies Global Council"
+    },
+    {
+      "fullname": "sireesha chavali",
+      "type": "talk",
+      "title": "The Genie is out of the Bottle -Generative AI"
+    },
+    {
+      "fullname": "Judit Guimera Busquets",
+      "type": "talk",
+      "title": "Mujeres en tecnología: experiencias de una Principal Data Scientist"
+    },
+    {
+      "fullname": "Aparna Soneja",
+      "type": "talk",
+      "title": "Exploring Generative AI through the lens of Open source"
+    },
+    {
+      "fullname": "Beatris Mendez Gandica",
+      "type": "panel",
+      "title": "Empoderando a las Mujeres en la Industria Tecnol\u00f3gica: Experiencias y Perspectivas"
+    },
+    {
+      "fullname": "Joanna Jablonski",
+      "type": "talk",
+      "title": "How to Make a Docs Site: Shortcuts for Busy Devs"
+    },
+    {
+      "fullname": "Mariana Oliveira",
+      "type": "talk",
+      "title": "Drones : Do Software ao Hardware!  Utilizando  conhecimentos sobre Python para desenvolver um drone de voo aut\u00f4nomo"
+    },
+    {
+      "fullname": "Bilge Yücel",
+      "type": "talk",
+      "title": "Build Your First LLM-based Application with Haystack"
+    },
+    {
+      "fullname": "Rossana Suarez",
+      "type": "talk",
+      "title": "IAcelearando despliegues poderosos"
+    },
+    {
+      "fullname": "HanaPoulpe",
+      "type": "talk",
+      "title": "Survival Guide to typing in python"
+    },
+    {
+      "fullname": "Ana Dulce Padovan",
+      "type": "talk",
+      "title": "Django Ninja - uma excelente opção para o desenvolvimento web"
+    },
+    {
+      "fullname": "Sarah Abderemane",
+      "type": "talk",
+      "title": "Djangonaut Space, how we organized a mentorship program"
+    },
+    {
+      "fullname": "Winnie Ke",
+      "type": "panel",
+      "title": "Challenges for Women Working in Technology"
+    },
+    {
+      "fullname": "Jessica Temporal",
+      "type": "talk",
+      "title": "Vozes na Tecnologia: Contando Experiéncias na Indústria de Tecnologia"
+    },
+    {
+      "fullname": "Andrea Griffiths (HOST)",
+      "type": "panel",
+      "title": "Empoderando a las Mujeres en la Industria Tecnológica: Experiencias y Perspectivas"
+    },
+    {
+      "fullname": "Marina Moro López",
+      "type": "talk",
+      "title": "Usando Python para curar enfermedades genéticas"
+    },
+    {
+      "fullname": "Cecilia Tivir",
+      "type": "talk",
+      "title": "PyLadies Maputo - Construir uma comunidade que promove a diversidade, conecta, encoraja e desenvolve competéancias profissionais e humanas"
+    },
+    {
+      "fullname": "Abigail Mesrenyame Dogbe",
+      "type": "talk",
+      "title": "Starting my career, the Open Source way."
+    },
+    {
+      "fullname": "Maaya Ishida",
+      "type": "panel",
+      "title": "Challenges for Women Working in Technology"
+    },
+    {
+      "fullname": "Marian Villa",
+      "type": "panel",
+      "title": "Empoderando a las Mujeres en la Industria Tecnológica: Experiencias y Perspectivas"
+    },
+    {
+      "fullname": "Daisy Leigh Brenecki",
+      "type": "talk",
+      "title": "From futons to functions: the principles of good API design"
+    },
+    {
+      "fullname": "Ryllari Costa",
+      "type": "panel",
+      "title": "Vozes na Tecnologia: Contando Experiências na Indústria de Tecnologia"
+    },
+    {
+      "fullname": "Caroline Therwath-Chavier",
+      "type": "keynote",
+      "title": "Créer une communauté de 5000 expertes en apprentissage automatique"
+    },
+    {
+      "fullname": "Mona Obedoza",
+      "type": "talk",
+      "title": "Project TEDDY (Text-based Early Distress Detector for Youth)"
+    },
+    {
+      "fullname": "Joeun Park",
+      "type": "panel",
+      "title": "Challenges for Women Working in Technology"
+    },
+    {
+      "fullname": "Débora Azevedo (HOST)",
+      "type": "panel",
+      "title": "Vozes na Tecnologia: Contando Experiéncias na Indúestria de Tecnologia"
+    },
+    {
+      "fullname": "Lorena Mesa",
+      "type": "panel",
+      "title": "Unity in Diversity: The Voices of PyLadies Global Council"
+    },
+    {
+      "fullname": "Yodra López",
+      "type": "panel",
+      "title": "Empoderando a las Mujeres en la Industria Tecnológica: Experiencias y Perspectivas"
+    },
+    {
+      "fullname": "Mariana Bocoi",
+      "type": "talk",
+      "title": "How and why I built a PyLadies avatar generator in 2 days"
+    }
+  ]
 }
