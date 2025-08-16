@@ -1,0 +1,145 @@
+{
+    "year": 2017,
+    "levels": {
+        "Keystone": 35000,
+        "Diamond": 24000,
+        "Platinium": 12000,
+        "Gold": 6000,
+        "Silver": 4000,
+        "Bronze": 2000,
+        "Patron": 1000,
+        "Community": 0
+    },
+    "sponsors": [
+        {
+            "name": "Intel",
+            "website": "https://www.intel.com/content/www/us/en/developer/overview.html",
+            "level": "Diamond"
+        },
+        {
+            "name": "Winton",
+            "website": "https://www.winton.com/",
+            "level": "Platinium"
+        },
+        {
+            "name": "Criteo",
+            "website": "https://www.criteo.com/",
+            "level": "Platinium"
+        },
+        {
+            "name": "Facebook",
+            "website": "https://www.facebook.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Microsoft",
+            "website": "https://developer.microsoft.com/en-us/python/",
+            "level": "Gold"
+        },
+        {
+            "name": "Jet Brains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Kiwi",
+            "website": "https://www.kiwi.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Numberly",
+            "website": "https://numberly.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Data Dog",
+            "website": "https://www.datadoghq.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "On truck",
+            "website": "https://www.ontruck.com/",
+            "level": "Gold"
+        },
+         {
+            "name": "Demon ware",
+            "website": "https://www.demonware.net/",
+            "level": "Gold"
+        },
+        {
+            "name": "Yelp",
+            "website": "https://www.yelp.de/",
+            "level": "Gold"
+        },
+        {
+            "name": "2ndQuadrant Enterprise db",
+            "website": "hhttps://www.enterprisedb.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Adimian",
+            "website": "https://www.adimian.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Vonage",
+            "website": "https://developer.vonage.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Python Academy",
+            "website": "https://www.python-academy.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Hotjar",
+            "website": "https://www.hotjar.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Capital Fund Management CFM",
+            "website": "http://cfm.fr/",
+            "level": "Silver"
+        },
+        {
+            "name": "Ebury",
+            "website": "https://ebury.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "20tab",
+            "website": "https://www.20tab.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "RiverBank computing",
+            "website": "https://www.riverbankcomputing.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Trux code",
+            "website": "https://thux.it/en/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Python Software Foundation (PSF)",
+            "website": "https://www.python.org/psf-landing/",
+            "level": "Unknown"
+        },
+        {
+            "name": "O'REILLY",
+            "website": "https://www.oreilly.com/",
+            "level": "Community"
+        },
+        {
+            "name": "NumFocus",
+            "website": "https://numfocus.org/",
+            "level": "Community"
+        },
+        {
+            "name": "Plone",
+            "website": "https://plone.org/",
+            "level": "Community"
+        }
+    ]
+}
