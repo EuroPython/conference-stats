@@ -1,0 +1,135 @@
+{
+    "year": 2019,
+    "levels": {
+        "Keystone": 35000,
+        "Diamond": 24000,
+        "Platinium": 14000,
+        "Gold": 7000,
+        "Silver": 4500,
+        "Bronze": 2000,
+        "Patron": 1000,
+        "Community":0,
+    },
+    "sponsors": [
+          {
+            "name": "MongoDB",
+            "website": "https://www.mongodb.com/",
+            "level": "keystone"
+        },
+         {
+            "name": "Google Cloud",
+            "website": "https://cloud.google.com/",
+            "level": "Platinium"
+        },
+        {
+            "name": "Microsoft",
+            "website": "https://developer.microsoft.com/en-us/python/",
+            "level": "Gold"
+        },
+        {
+            "name": "Kiwi",
+            "website": "https://www.kiwi.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Jet Brains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Transifex",
+            "website": "https://www.transifex.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Yelp",
+            "website": "https://www.yelp.de/",
+            "level": "Gold"
+        },
+        {
+            "name": "Numberly",
+            "website": "https://numberly.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Vonage",
+            "website": "https://developer.vonage.com/",
+            "level": "Gold"
+        },
+         {
+            "name": "Anvil",
+            "website": "https://anvil.works/",
+            "level": "Silver"
+        },
+         {
+            "name": "DeepCode AI",
+            "website": "https://snyk.io/es/platform/deepcode-ai/",
+            "level": "Silver"
+        },
+        {
+            "name": "Intel SOS software",
+            "website": "https://sos-software.com/en/",
+            "level": "Silver"
+        },
+        {
+            "name": "Man group",
+            "website": "https://www.man.com/",
+            "level": "Silver"
+        },
+          {
+            "name": "Datadog",
+            "website": "https://www.datadoghq.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "4teamwork",
+            "website": "https://www.4teamwork.ch/en",
+            "level": "Bronze"
+        },
+         {
+            "name": "Trust you",
+            "website": "https://www.trustyou.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Revolution Technology",
+            "website": "https://revolutiontechnology.co.uk/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Seantis",
+            "website": "https://www.seantis.ch/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Trayport",
+            "website": "https://trayport.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Python Academy",
+            "website": "https://www.python-academy.com/",
+            "level": "Patron"
+        },
+        {
+            "name": "RiverBank computing",
+            "website": "https://www.riverbankcomputing.com/",
+            "level": "Patron"
+        },
+        {
+            "name": "basel ch",
+            "website": "https://www.bs.ch/",
+            "level": "Community"
+        },
+        {
+            "name": "NumFocus",
+            "website": "https://numfocus.org/",
+            "level": "Community"
+        },
+        {
+            "name": "Plone",
+            "website": "https://plone.org/",
+            "level": "Community"
+        } 
+    ]
+}
