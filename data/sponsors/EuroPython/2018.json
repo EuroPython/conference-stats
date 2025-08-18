@@ -1,0 +1,170 @@
+{
+    "year": 2018,
+    "levels": {
+        "Keystone": 35000,
+        "Diamond": 24000,
+        "Platinium": 12000,
+        "Gold": 6000,
+        "Silver": 4000,
+        "Bronze": 2000,
+        "Patron": 1000,
+        "Community": 0
+    },
+    "sponsors": [
+        {
+            "name": "Smarkets",
+            "website": "https://smarkets.com/",
+            "level": "Keystone"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf-landing/",
+            "level": "Gold"
+        },
+        {
+            "name": "Cambridge Spark",
+            "website": "https://www.cambridgespark.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Jet Brains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Kiwi",
+            "website": "https://www.kiwi.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Vonage",
+            "website": "https://developer.vonage.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "On truck",
+            "website": "https://www.ontruck.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Numberly",
+            "website": "https://numberly.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Yelp",
+            "website": "https://www.yelp.de/",
+            "level": "Gold"
+        },
+        {
+            "name": "Datadog",
+            "website": "https://www.datadoghq.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "EuroPython Society (EPS)",
+            "website": "https://ep2018.europython.eu/en/europython/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Intel",
+            "website": "https://www.intel.com/content/www/us/en/developer/overview.html",
+            "level": "Silver"
+        },
+        {
+            "name": "Anvil",
+            "website": "https://anvil.works/",
+            "level": "Silver"
+        },
+        {
+            "name": "DataCamp",
+            "website": "https://www.datacamp.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "FanFuel",
+            "website": "https://www.fanduel.careers/",
+            "level": "Silver"
+        },
+        {
+            "name": "Code Think",
+            "website": "hhttps://www.codethink.co.uk/",
+            "level": "Silver"
+        },
+        {
+            "name": "Snap Craft",
+            "website": "https://snapcraft.io/",
+            "level": "Silver"
+        },
+        {
+            "name": "Proteon",
+            "website": "https://proteon.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Trust you",
+            "website": "https://www.trustyou.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Microsoft",
+            "website": "https://developer.microsoft.com/en-us/python/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Administrate",
+            "website": "https://www.getadministrate.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Python Academy",
+            "website": "https://www.python-academy.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Python Everywhere",
+            "website": "https://www.pythonanywhere.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Red Hat",
+            "website": "https://www.redhat.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Travel Nest",
+            "website": "https://travelnest.com/es/",
+            "level": "Bronze"
+        },
+        {
+            "name": "PeopleDoc UKG",
+            "website": "https://www.ukg.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Odoo community association",
+            "website": "https://odoo-community.org/",
+            "level": "Patron"
+        },
+        {
+            "name": "RiverBank computing",
+            "website": "https://www.riverbankcomputing.com/",
+            "level": "Patron"
+        },
+        {
+            "name": "Edinburgh Byte-Night charity",
+            "website": "https://edinburgh.org/",
+            "level": "Community"
+        },
+        {
+            "name": "Plone",
+            "website": "https://plone.org/",
+            "level": "Community"
+        },
+        {
+            "name": "O'REILLY",
+            "website": "https://www.oreilly.com/",
+            "level": "Community"
+        }
+    ]
+}
