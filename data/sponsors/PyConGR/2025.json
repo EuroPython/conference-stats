@@ -1,0 +1,117 @@
+{
+    "year":2025,
+    "levels": {
+        "Platinium": 7500,
+        "Gold": 4500,
+        "Silver": 1500,
+        "Cortegada": 1000,
+        "Community": "Unknown"
+    },
+    "sponsors": [
+        {
+            "name": "yodeck",
+            "website": "https://www.yodeck.com/",
+            "level": "Platinium"
+        },
+        {
+            "name": "elastic search",
+            "website": "http://www.elasticsearch.com/",
+            "level": "Platinium"
+        },
+        {
+            "name": "eshare",
+            "website": "https://www.eshare.io/",
+            "level": "Gold"
+        },
+        {
+            "name": "HF MARKETS",
+            "website": "https://www.hfeu.com/en/",
+            "level": "Gold"
+        },
+        {
+            "name": "Plum",
+            "website": "Unknown",
+            "level": "Gold"
+        },
+        {
+            "name": "Dialectica",
+            "website": "https://www.dialectica.io/",
+            "level": "Gold"
+        },
+        {
+            "name": "Ademu AI Agents",
+            "website": "https://ademu.com/",
+            "level": "Gold"
+        },
+         {
+            "name": "Ademu AI Agents",
+            "website": "https://ademu.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Bloomberg",
+            "website": "https://www.bloomberg.com/company/values/tech-at-bloomberg/python/",
+            "level": "Silver"
+        },
+         {
+            "name": "Quansight",
+            "website": "https://quansight.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "OpenTeams",
+            "website": "https://openteams.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "instacar",
+            "website": "hhttps://www.instacar.gr/en",
+            "level": "Silver"
+        },
+        {
+            "name": "logic",
+            "website": "Unknown",
+            "level": "Silver"
+        },
+        {
+            "name": "<packt>",
+            "website": "https://www.packtpub.com/en-de",
+            "level": "Silver"
+        },
+        {
+            "name": "Witside",
+            "website": "https://www.witside.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Jet Brains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Unknown",
+            "website": "Unknown",
+            "level": "Silver"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf-landing/",
+            "level": "Silver"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf-landing/",
+            "level": "Community"
+        },
+        {
+            "name": "EuroPython Society (EPS)",
+            "website": "https://www.europython-society.org/",
+            "level": "Community"
+        },
+         {
+            "name": "Django",
+            "website": "https://www.djangoproject.com/",
+            "level": "Community"
+        }
+    ]
+}
