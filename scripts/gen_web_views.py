@@ -1,3 +1,11 @@
+# /// script
+# dependencies = [
+#   "jinja2",
+#   "numpy",
+#   "pandas",
+# ]
+# ///
+
 import sys
 import jinja2
 import json
