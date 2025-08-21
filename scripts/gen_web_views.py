@@ -26,7 +26,7 @@ for datafile in sponsor_dir.glob("**/*.json"):
         try:
             data = json.load(f)
         except json.decoder.JSONDecodeError:
-            print("[ERROR] Failed to part", datafile)
+            print("[ERROR] Failed to parse", datafile)
             sys.exit(1)
 
     df = pd.DataFrame(data["sponsors"])
