@@ -1,0 +1,138 @@
+{
+    "year":2023,
+    "levels": {
+        "Teide": 6000,
+        "Tamadaba": 4500,
+        "Teneguia": 3000,
+        "Timanfaya": 1000,
+        "Special": "Unknown",
+        "Community": "Unknown"
+    },
+    "sponsors": [
+        {
+            "name": "apsl",
+            "website": "https://apsl.tech/es/",
+            "level": "Teide"
+        },
+        {
+            "name": "/bluetab",
+            "website": "https://www.bluetab.net/es/",
+            "level": "Teide"
+        },
+        {
+            "name": "Shapelets",
+            "website": "https://shapelets.io/",
+            "level": "Teide"
+        },
+        {
+            "name": "Skydance",
+            "website": "https://skydance.com/",
+            "level":  "Tamadaba"
+        },
+        {
+            "name": "Octopus energy",
+            "website": "https://octopus.energy/",
+            "level":  "Tamadaba"
+        },
+        {
+            "name": "Cepsa",
+            "website": "https://www.moeveglobal.com/es",
+            "level": "Tamadaba"
+        },
+        {
+            "name": "pwc",
+            "website": "https://www.pwc.es/",
+            "level": "Tamadaba"
+        },
+        {
+            "name": "Inditex tech",
+            "website": "https://www.zaratalent.com/",
+            "level": "Teneguia"
+        },
+        {
+            "name": "Ebury",
+            "website": "https://www.ebury.es/",
+            "level": "Teneguia"
+        },
+        {
+            "name": "Bloomberg",
+            "website": "https://www.bloomberg.com/c",
+            "level": "Teneguia"
+        },
+        {
+            "name": "Gisce",
+            "website": "https://gisce.net/",
+            "level": "Timanfaya"
+        },
+        {
+            "name": "Kaleidos",
+            "website": "https://kaleidos.net/",
+            "level": "Timanfaya"
+        },
+        {
+            "name": "arte_",
+            "website": "https://arte.dev/index-es.html",
+            "level": "Timanfaya"
+        },
+        {
+            "name": "somenergia",
+            "website": "https://www.somenergia.coop/es/",
+            "level": "Timanfaya"
+        },
+        {
+            "name": "Kave home",
+            "website": "https://kavehome.com/",
+            "level": "Timanfaya"
+        },
+        {
+            "name": "sngular",
+            "website": "https://www.sngular.com/",
+            "level": "Timanfaya"
+        },
+        {
+            "name": "Instituto de Astrofisica de Canarias",
+            "website": "https://iac.es/",
+            "level": "Timanfaya"
+        },
+        {
+            "name": "Qt Group",
+            "website": "https://www.qt.io/",
+            "level": "Timanfaya"
+        },
+        {
+            "name": "EdgeTier",
+            "website": "https://www.edgetier.com/",
+            "level": "Timanfaya"
+        },
+        {
+            "name": "Multiverse computing",
+            "website": "https://multiversecomputing.com/",
+            "level": "Timanfaya"
+        },
+        {
+            "name": "Universidad de la Laguna",
+            "website": "https://www.ull.es/",
+            "level": "Special"
+        },
+        {
+            "name": "Eventbrite",
+            "website": "https://www.eventbrite.es/",
+            "level": "Special"
+        },
+        {
+            "name": "EuroPython Society (EPS)",
+            "website": "https://www.europython-society.org/",
+            "level": "Community"
+        },
+        {
+            "name": "Python Software Foundation (PSF)",
+            "website": "https://www.python.org/psf-landing/",
+            "level": "Community"
+        },
+        {
+            "name": "Python Spain",
+            "website": "https://es.python.org/",
+            "level": "Community"
+        }
+    ]
+}
