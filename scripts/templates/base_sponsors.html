@@ -1,0 +1,46 @@
+{% extends "templates/base.html" %}
+{% block content %}
+  <h2 class="block font-medium text-black dark:text-gray-200 text-xl sm:text-2xl md:text-3xl lg:text-4xl text-center py-5">
+    Ranking by amount
+  </h2>
+  <table class="border-collapse border border-gray-400 mx-auto">
+    <thead class="bg-gray-300 dark:bg-gray-800">
+      <tr>
+        <th class="border border-gray-300 px-5 py-3">Company</th>
+        <th class="border border-gray-300 px-5 py-3">Total amount (EUR)</th>
+      </tr>
+    </thead>
+    <tbody>
+    {% for idx, sponsor in grouped.iterrows() %}
+     <tr>
+       <td class="border border-gray-300 p-3"><a href="{{ sponsor['website'] }}">{{ sponsor['name'] }}</a></td>
+       <td class="border border-gray-300 p-3 text-right">{{ sponsor['level'] }}</td>
+     </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+
+  <h2 class="block font-medium text-black dark:text-gray-200 text-xl sm:text-2xl md:text-3xl lg:text-4xl text-center py-5">
+    All data
+  </h2>
+  <table class="border-collapse border border-gray-400 mx-auto">
+    <thead class="bg-gray-300 dark:bg-gray-800">
+      <tr>
+        <th class="border border-gray-300 px-5 py-3">Year</th>
+        <th class="border border-gray-300 px-5 py-3">Conference</th>
+        <th class="border border-gray-300 px-5 py-3">Company</th>
+        <th class="border border-gray-300 px-5 py-3">Amount (EUR)</th>
+      </tr>
+    </thead>
+    <tbody>
+    {% for idx, sponsor in sponsors.iterrows() %}
+     <tr>
+       <td class="border border-gray-300 p-3">{{ sponsor['year'] }}</td>
+       <td class="border border-gray-300 p-3">{{ sponsor['conference'] }}</td>
+       <td class="border border-gray-300 p-3"><a href="{{ sponsor['website'] }}">{{ sponsor['name'] }}</a></td>
+       <td class="border border-gray-300 p-3 text-right">{{ sponsor['level'] }}</td>
+     </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+{% endblock %}
