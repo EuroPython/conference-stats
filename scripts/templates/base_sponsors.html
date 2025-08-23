@@ -1,46 +1,43 @@
 {% extends "templates/base.html" %}
 {% block content %}
+{% set sort_icon = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="size-5 inline"><path fill-rule="evenodd" d="M2.24 6.8a.75.75 0 0 0 1.06-.04l1.95-2.1v8.59a.75.75 0 0 0 1.5 0V4.66l1.95 2.1a.75.75 0 1 0 1.1-1.02l-3.25-3.5a.75.75 0 0 0-1.1 0L2.2 5.74a.75.75 0 0 0 .04 1.06Zm8 6.4a.75.75 0 0 0-.04 1.06l3.25 3.5a.75.75 0 0 0 1.1 0l3.25-3.5a.75.75 0 1 0-1.1-1.02l-1.95 2.1V6.75a.75.75 0 0 0-1.5 0v8.59l-1.95-2.1a.75.75 0 0 0-1.06-.04Z" clip-rule="evenodd" /></svg>' %}
   <h2 class="block font-medium text-black dark:text-gray-200 text-xl sm:text-2xl md:text-3xl lg:text-4xl text-center py-5">
     Ranking by amount
   </h2>
-  <table class="border-collapse border border-gray-400 mx-auto">
-    <thead class="bg-gray-300 dark:bg-gray-800">
-      <tr>
-        <th class="border border-gray-300 px-5 py-3">Company</th>
-        <th class="border border-gray-300 px-5 py-3">Total amount (EUR)</th>
-      </tr>
-    </thead>
-    <tbody>
+  <table class="border-collapse mx-auto">
+    <tr class="bg-gray-300 dark:bg-gray-800">
+      <th class="border border-gray-600 px-5 py-3">Company {{ sort_icon }}</th>
+      <th class="border border-gray-600 px-5 py-3">Total amount (EUR) {{ sort_icon }}</th>
+    </tr>
     {% for idx, sponsor in grouped.iterrows() %}
+    {% if sponsor['name'] and ( sponsors['level'] is defined )%}
      <tr>
-       <td class="border border-gray-300 p-3"><a href="{{ sponsor['website'] }}">{{ sponsor['name'] }}</a></td>
-       <td class="border border-gray-300 p-3 text-right">{{ sponsor['level'] }}</td>
+       <td class="border border-gray-600 p-3"><a href="{{ sponsor['website'] }}">{{ sponsor['name'] }}</a></td>
+       <td class="border border-gray-600 p-3 text-right">{{ sponsor['level'] }}</td>
      </tr>
+    {% endif %}
     {% endfor %}
-    </tbody>
   </table>
 
   <h2 class="block font-medium text-black dark:text-gray-200 text-xl sm:text-2xl md:text-3xl lg:text-4xl text-center py-5">
     All data
   </h2>
-  <table class="border-collapse border border-gray-400 mx-auto">
-    <thead class="bg-gray-300 dark:bg-gray-800">
-      <tr>
-        <th class="border border-gray-300 px-5 py-3">Year</th>
-        <th class="border border-gray-300 px-5 py-3">Conference</th>
-        <th class="border border-gray-300 px-5 py-3">Company</th>
-        <th class="border border-gray-300 px-5 py-3">Amount (EUR)</th>
-      </tr>
-    </thead>
-    <tbody>
+  <table class="border-collapse mx-auto">
+    <tr class="bg-gray-300 dark:bg-gray-800">
+      <th class="border border-gray-600 px-5 py-3">Year {{ sort_icon }}</th>
+      <th class="border border-gray-600 px-5 py-3">Conference {{ sort_icon }}</th>
+      <th class="border border-gray-600 px-5 py-3">Company {{ sort_icon }}</th>
+      <th class="border border-gray-600 px-5 py-3">Amount (EUR) {{ sort_icon }}</th>
+    </tr>
     {% for idx, sponsor in sponsors.iterrows() %}
+    {% if sponsor['name'] and ( sponsors['level'] is defined )%}
      <tr>
-       <td class="border border-gray-300 p-3">{{ sponsor['year'] }}</td>
-       <td class="border border-gray-300 p-3">{{ sponsor['conference'] }}</td>
-       <td class="border border-gray-300 p-3"><a href="{{ sponsor['website'] }}">{{ sponsor['name'] }}</a></td>
-       <td class="border border-gray-300 p-3 text-right">{{ sponsor['level'] }}</td>
+       <td class="border border-gray-600 p-3">{{ sponsor['year'] }}</td>
+       <td class="border border-gray-600 p-3">{{ sponsor['conference'] }}</td>
+       <td class="border border-gray-600 p-3"><a href="{{ sponsor['website'] }}">{{ sponsor['name'] }}</a></td>
+       <td class="border border-gray-600 p-3 text-right">{{ sponsor['level'] }}</td>
      </tr>
+    {% endif %}
     {% endfor %}
-    </tbody>
   </table>
 {% endblock %}
