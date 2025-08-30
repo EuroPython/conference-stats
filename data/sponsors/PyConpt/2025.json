@@ -1,8 +1,8 @@
 {
     "year":2025,
     "levels": {
-        "Silver": "Unknown",
-        "Bronze": "Unknown",
+        "Silver": 2000,
+        "Bronze": 1000,
         "Grants": "Unknown"
     },
     "sponsors": [
