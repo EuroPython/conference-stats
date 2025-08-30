@@ -73,6 +73,35 @@ def get_pycon_sponsors(conference_code: str) -> GraphQLResponse:
     return fetch_graphql_data(query, variables)
 
 
+def get_pycon_speakers(conference_code: str) -> GraphQLResponse:
+    """
+    Fetch speakers data from PyCon Italia GraphQL API.
+    """
+
+    query = """
+    query GetSpeakers($code: String!) {
+      conference(code: $code) {
+        start
+        days {
+          slots {
+            items {
+              title
+              speakers {
+                fullName
+              }
+              type
+            }
+          }
+        }
+      }
+    }
+    """
+
+    variables = {"code": conference_code}
+
+    return fetch_graphql_data(query, variables)
+
+
 class Sponsor(TypedDict):
     name: str
     website: str
@@ -83,6 +112,17 @@ class SponsorsData(TypedDict):
     year: int
     levels: dict[str, int]
     sponsors: list[Sponsor]
+
+
+class Speaker(TypedDict):
+    fullname: str
+    type: str
+    title: str
+
+
+class SpeakersData(TypedDict):
+    year: int
+    speakers: list[Speaker]
 
 
 def format_sponsors_data(raw_data: GraphQLResponse) -> SponsorsData:
@@ -126,7 +166,52 @@ def format_sponsors_data(raw_data: GraphQLResponse) -> SponsorsData:
     return {"year": year, "levels": levels_dict, "sponsors": sponsors_list}
 
 
-def save_to_json(data: SponsorsData, output_file: Path) -> None:
+def format_speakers_data(raw_data: GraphQLResponse) -> SpeakersData:
+    """
+    Format the raw GraphQL response into a structured speakers format.
+    """
+    if "errors" in raw_data and raw_data["errors"]:
+        raise ValueError(f"GraphQL errors: {raw_data['errors']}")
+
+    conference_data = raw_data["data"]["conference"]
+    days = conference_data["days"]
+    start_date = conference_data["start"]
+
+    # Create speakers list
+    speakers_list: list[Speaker] = []
+    
+    # Track processed items to avoid duplicates
+    
+    # Extract year from start date
+    year = int(start_date.split("-")[0])
+    
+    for day in days:
+        for slot in day["slots"]:
+            for item in slot["items"]:
+                # Only process training, talk, and keynote items
+                if item["type"] not in ["training", "talk", "keynote"]:
+                    continue
+                
+                title = item["title"]
+                item_type = item["type"]
+                speakers = item["speakers"]
+                
+                # If no speakers, skip this item
+                if not speakers:
+                    continue
+                
+                # Add one entry per speaker
+                for speaker in speakers:
+                    speakers_list.append({
+                        "fullname": speaker["fullName"],
+                        "type": item_type.title(),  # Capitalize first letter
+                        "title": title
+                    })
+
+    return {"year": year, "speakers": speakers_list}
+
+
+def save_to_json(data: SponsorsData | SpeakersData, output_file: Path) -> None:
     """
     Save data to a JSON file.
     """
@@ -141,42 +226,33 @@ def save_to_json(data: SponsorsData, output_file: Path) -> None:
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Fetch sponsors data from PyCon Italia GraphQL API"
+        description="Fetch data from PyCon Italia GraphQL API"
     )
     parser.add_argument(
         "--conference-code", required=True, help="Conference code (e.g., pycon12)"
     )
-    parser.add_argument(
-        "--output",
-        type=Path,
-        help=(
-            "Output JSON file path (optional, defaults to "
-            "data/sponsors/PyConIt/{year}.json)"
-        ),
-    )
-
     args = parser.parse_args()
 
-    logger.info("Fetching sponsors data for conference: %s", args.conference_code)
+    logger.info(
+        "Fetching data for conference: %s", args.conference_code
+    )
 
-    # Fetch raw data from GraphQL API
+    raw_data = get_pycon_speakers(args.conference_code)
+    formatted_data = format_speakers_data(raw_data)
+    output_path = Path("data/speakers/PyConItalia") / f"{formatted_data['year']}.json"
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    save_to_json(formatted_data, output_path)
+
     raw_data = get_pycon_sponsors(args.conference_code)
+    formatted_data = format_sponsors_data(raw_data)
+    output_path = Path("data/sponsors/PyConItalia") / f"{formatted_data['year']}.json"
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    save_to_json(formatted_data, output_path)
 
     if not raw_data:
         logger.error("No data received from the API")
         sys.exit(1)
-
-    # Format the data
-    formatted_data = format_sponsors_data(raw_data)
-
-    # Output or save data
-    output_path = (
-        args.output
-        if args.output
-        else (Path("data/sponsors/PyConItalia") / f"{formatted_data['year']}.json")
-    )
-    output_path.parent.mkdir(parents=True, exist_ok=True)
-    save_to_json(formatted_data, output_path)
+    
 
 
 if __name__ == "__main__":
