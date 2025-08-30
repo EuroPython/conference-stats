@@ -1,0 +1,155 @@
+{
+    "year": 2022,
+    "levels": {
+        "Keystone": 0,
+        "Gold": 0,
+        "Silver": 0,
+        "Bronze": 0,
+        "Patron": 0,
+        "Diversity": 0,
+        "Startup": 0,
+        "Partners": 0
+    },
+    "sponsors": [
+        {
+            "name": "Symphonie Prime",
+            "website": "https://symphonieprime.com/",
+            "level": "Keystone"
+        },
+        {
+            "name": "Telnyx",
+            "website": "https://telnyx.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Prima",
+            "website": "http://www.helloprima.com",
+            "level": "Gold"
+        },
+        {
+            "name": "Casavo",
+            "website": "https://casavo.com/it/",
+            "level": "Silver"
+        },
+        {
+            "name": "Jina",
+            "website": "https://github.com/jina-ai/jina",
+            "level": "Silver"
+        },
+        {
+            "name": "Octopus Energy",
+            "website": "https://octopusenergy.it/",
+            "level": "Silver"
+        },
+        {
+            "name": "BCG",
+            "website": "https://www.bcg.com/it-it",
+            "level": "Bronze"
+        },
+        {
+            "name": "20tab",
+            "website": "https://www.20tab.com/",
+            "level": "Patron"
+        },
+        {
+            "name": "Maieutical Labs",
+            "website": "https://maieuticallabs.it/",
+            "level": "Patron"
+        },
+        {
+            "name": "Djungle",
+            "website": "https://djungle.io/",
+            "level": "Patron"
+        },
+        {
+            "name": "EuroPython Society",
+            "website": "https://www.europython-society.org/",
+            "level": "Diversity"
+        },
+        {
+            "name": "Nephila",
+            "website": "https://www.nephila.digital/it/",
+            "level": "Diversity"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Diversity"
+        },
+        {
+            "name": "ClearBox AI",
+            "website": "https://clearbox.ai/",
+            "level": "Startup"
+        },
+        {
+            "name": "Fabio Lamanna",
+            "website": "http://www.fabiolamanna.it/",
+            "level": "Startup"
+        },
+        {
+            "name": "Vedrai",
+            "website": "https://vedrai.com/",
+            "level": "Startup"
+        },
+        {
+            "name": "iGenius",
+            "website": "https://igenius.ai/",
+            "level": "Startup"
+        },
+        {
+            "name": "Roll Studio",
+            "website": "https://rollstudio.co.uk",
+            "level": "Partners"
+        },
+        {
+            "name": "Top-IX",
+            "website": "https://www.top-ix.org/it/home/",
+            "level": "Partners"
+        },
+        {
+            "name": "Python Biella Group",
+            "website": "https://pythonbiellagroup.it/",
+            "level": "Partners"
+        },
+        {
+            "name": "DataMasters",
+            "website": "https://datamasters.it/",
+            "level": "Partners"
+        },
+        {
+            "name": "GrUSP",
+            "website": "https://www.grusp.org/",
+            "level": "Partners"
+        },
+        {
+            "name": "PyRE",
+            "website": "https://pyre.it",
+            "level": "Partners"
+        },
+        {
+            "name": "In Sprint Srl",
+            "website": "https://www.in-sprint.com/",
+            "level": "Partners"
+        },
+        {
+            "name": "Speck&Tech",
+            "website": "https://speckand.tech/",
+            "level": "Partners"
+        },
+        {
+            "name": "Packt",
+            "website": "https://packt.link/pyconitalia2025",
+            "level": "Partners"
+        },
+        {
+            "name": "Fresh Lemonade Gardens",
+            "website": "https://www.freshlemonadegardens.com/",
+            "level": "Partners"
+        },
+        {
+            "name": "Python Milano",
+            "website": "http://milano.python.it",
+            "level": "Partners"
+        }
+    ]
+}
