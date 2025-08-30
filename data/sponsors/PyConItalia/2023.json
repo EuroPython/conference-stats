@@ -1,0 +1,254 @@
+{
+    "year": 2023,
+    "levels": {
+        "Gold": 0,
+        "Silver": 0,
+        "Bronze": 0,
+        "Patron": 0,
+        "Startup": 0,
+        "Diversity": 0,
+        "Partner": 0
+    },
+    "sponsors": [
+        {
+            "name": "Sentry",
+            "website": "https://sentry.io/welcome/",
+            "level": "Gold"
+        },
+        {
+            "name": "Thux Code",
+            "website": "https://thux.it/it/thux-code/",
+            "level": "Silver"
+        },
+        {
+            "name": "Octopus Energy",
+            "website": "https://octopusenergy.it/",
+            "level": "Silver"
+        },
+        {
+            "name": "84codes",
+            "website": "http://www.cloudamqp.com",
+            "level": "Silver"
+        },
+        {
+            "name": "Fiscozen",
+            "website": "https://www.fiscozen.it/",
+            "level": "Silver"
+        },
+        {
+            "name": "Deepset",
+            "website": "https://www.deepset.ai/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Orobix",
+            "website": "https://orobix.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "bit4id",
+            "website": "http://www.bit4id.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Hype",
+            "website": "https://www.hype.it",
+            "level": "Bronze"
+        },
+        {
+            "name": "20tab",
+            "website": "https://www.20tab.com/",
+            "level": "Patron"
+        },
+        {
+            "name": "Paneido",
+            "website": "https://www.paneido.com/",
+            "level": "Patron"
+        },
+        {
+            "name": "Quix",
+            "website": "https://quix.io/",
+            "level": "Patron"
+        },
+        {
+            "name": "Witapp",
+            "website": "https://www.witapp.it/",
+            "level": "Patron"
+        },
+        {
+            "name": "BIP Group",
+            "website": "https://www.bipxtech.com/en/home/",
+            "level": "Patron"
+        },
+        {
+            "name": "Fabio Lamanna",
+            "website": "http://www.fabiolamanna.it/",
+            "level": "Startup"
+        },
+        {
+            "name": "E42",
+            "website": "https://www.elan42.com/",
+            "level": "Startup"
+        },
+        {
+            "name": "EuroPython Society",
+            "website": "https://www.europython-society.org/",
+            "level": "Diversity"
+        },
+        {
+            "name": "Nephila",
+            "website": "https://www.nephila.digital/it/",
+            "level": "Diversity"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Diversity"
+        },
+        {
+            "name": "Develer",
+            "website": "https://www.develer.com",
+            "level": "Partner"
+        },
+        {
+            "name": "Top-IX",
+            "website": "https://www.top-ix.org/it/home/",
+            "level": "Partner"
+        },
+        {
+            "name": "Manning",
+            "website": "https://www.manning.com/",
+            "level": "Partner"
+        },
+        {
+            "name": "Python Biella Group",
+            "website": "https://pythonbiellagroup.it/",
+            "level": "Partner"
+        },
+        {
+            "name": "DataMasters",
+            "website": "https://datamasters.it/",
+            "level": "Partner"
+        },
+        {
+            "name": "GrUSP",
+            "website": "https://www.grusp.org/",
+            "level": "Partner"
+        },
+        {
+            "name": "Speck&Tech",
+            "website": "https://speckand.tech/",
+            "level": "Partner"
+        },
+        {
+            "name": "Python Milano",
+            "website": "http://milano.python.it",
+            "level": "Partner"
+        },
+        {
+            "name": "theRedCode",
+            "website": "https://www.theredcode.it/",
+            "level": "Partner"
+        },
+        {
+            "name": "Schrödinger Hat",
+            "website": "https://www.schrodinger-hat.it/",
+            "level": "Partner"
+        },
+        {
+            "name": "Come to Code",
+            "website": "https://www.cometocode.it/",
+            "level": "Partner"
+        },
+        {
+            "name": "GDG Pisa",
+            "website": "https://gdgpisa.it/",
+            "level": "Partner"
+        },
+        {
+            "name": "WTM Pisa",
+            "website": "https://gdgpisa.it/wtm",
+            "level": "Partner"
+        },
+        {
+            "name": "PointerPodcast",
+            "website": "https://pointerpodcast.it/",
+            "level": "Partner"
+        },
+        {
+            "name": "firenze.dev",
+            "website": "https://firenze.dev/community",
+            "level": "Partner"
+        },
+        {
+            "name": "Mozilla Italia",
+            "website": "https://www.mozillaitalia.org/",
+            "level": "Partner"
+        },
+        {
+            "name": "EA Data Science/ML/AI",
+            "website": "https://forum.effectivealtruism.org/groups/zhBeNLrGug2EvhnfS",
+            "level": "Partner"
+        },
+        {
+            "name": "ENGIM Torino",
+            "website": "http://www.engimtorino.net/",
+            "level": "Partner"
+        },
+        {
+            "name": "She Tech",
+            "website": "https://shetechitaly.org/eventi/",
+            "level": "Partner"
+        },
+        {
+            "name": "WTM Italia",
+            "website": "https://www.facebook.com/WTMItalia",
+            "level": "Partner"
+        },
+        {
+            "name": "Codemotion",
+            "website": "http://codemo.tech/partners",
+            "level": "Partner"
+        },
+        {
+            "name": "pisa.dev",
+            "website": "https://pisa.dev/",
+            "level": "Partner"
+        },
+        {
+            "name": "Women In Voice Italy",
+            "website": "https://womeninvoice.org/wiv-italy/",
+            "level": "Partner"
+        },
+        {
+            "name": "Django Girls Italia",
+            "website": "https://djangogirls.org/pt/bologna/",
+            "level": "Partner"
+        },
+        {
+            "name": "NumFocus",
+            "website": "https://numfocus.org/",
+            "level": "Partner"
+        },
+        {
+            "name": "Apogeo Editore",
+            "website": "https://www.apogeonline.com/",
+            "level": "Partner"
+        },
+        {
+            "name": "Product Management Day",
+            "website": "https://www.productmanagementday.com/",
+            "level": "Partner"
+        },
+        {
+            "name": "XstreamData Lab",
+            "website": "https://www.meetup.com/it-IT/xstream-data/",
+            "level": "Partner"
+        },
+        {
+            "name": "42 Firenze",
+            "website": "https://42firenze.it/",
+            "level": "Partner"
+        }
+    ]
+}
