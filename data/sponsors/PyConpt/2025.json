@@ -1,0 +1,40 @@
+{
+    "year":2025,
+    "levels": {
+        "Silver": 2000,
+        "Bronze": 1000,
+        "Grants": "Unknown"
+    },
+    "sponsors": [
+        {
+            "name": "intellias",
+            "website": "https://intellias.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Opean teams",
+            "website": "https://openteams.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "EuroPython Society (EPS)",
+            "website": "https://www.europython-society.org/",
+            "level": "Grants"
+        },
+        {
+            "name": "Python Software Foundation (PSF)",
+            "website": "https://www.python.org/psf-landing/",
+            "level": "Grants"
+        },
+        {
+            "name": "django",
+            "website": "https://www.djangoproject.com/",
+            "level": "Grants"
+        },
+        {
+            "name": "Universidade Oporto",
+            "website": "https://www.up.pt/portal/en/",
+            "level": "Grants"
+        } 
+    ]
+}
