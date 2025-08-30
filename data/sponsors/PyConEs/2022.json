@@ -1,0 +1,233 @@
+{
+    "year":2022,
+    "levels": {
+        "Keystone": "Unknown",
+        "Diamante": "Unknown",
+        "Platino": "Unknown",
+        "Oro":"Unknown",
+        "Plata": "Unknown",
+        "Colaboran":"Unknown"
+    },
+    "sponsors": [
+         {
+            "name": "Python Software Foundation (PSF)",
+            "website": "https://www.python.org/psf-landing/",
+            "level": "Keystone"
+        },
+        {
+            "name": "EuroPython Society (EPS)",
+            "website": "https://www.europython-society.org/",
+            "level": "Keystone"
+        },
+        {
+            "name": "/bluetab",
+            "website": "https://www.bluetab.net/en/",
+            "level": "Diamante"
+        },
+        {
+            "name": "intelygenz",
+            "website": "https://intelygenz.com/",
+            "level": "Diamante"
+        },
+        {
+            "name": "datadog",
+            "website": "https://www.datadoghq.com/",
+            "level": "Diamante"
+        },
+        {
+            "name": "nazaries",
+            "website": "https://www.nazaries.com/es",
+            "level": "Diamante"
+        },
+        {
+            "name": "civica",
+            "website": "https://civica-soft.com/",
+            "level": "Diamante"
+        },
+        {
+            "name": "apsl",
+            "website": "https://apsl.tech/es/",
+            "level": "Diamante"
+        },
+        {
+            "name": "Travel Perk",
+            "website": "https://www.travelperk.com/es/",
+            "level": "Diamante"
+        },
+        {
+            "name": "Twilio",
+            "website": "https://www.twilio.com/en-us",
+            "level": "Diamante"
+        },
+        {
+            "name": "nucleoo",
+            "website": "https://www.nucleoo.com/es/home-es/",
+            "level": "Platino"
+        },
+        {
+            "name": "trustyou",
+            "website": "https://www.trustyou.com/es/",
+            "level": "Platino"
+        },
+        {
+            "name": "ebury",
+            "website": "https://www.ebury.es/",
+            "level": "Platino"
+        },
+        {
+            "name": "PerkinElmer",
+            "website": "https://www.perkinelmer.com/",
+            "level": "Platino"
+        },
+        {
+            "name": "E-FRONTIERS",
+            "website": "https://e-frontiers.ie/",
+            "level": "Platino"
+        },
+        {
+            "name": "cathedral software",
+            "website": "https://www.cathedralsw.com/",
+            "level": "Platino"
+        },
+        {
+            "name": "Octopus Energy",
+            "website": "https://2022.es.pycon.org/",
+            "level": "Platino"
+        },
+        {
+            "name": "U energia",
+            "website": "https://www.uenergia.es/es/",
+            "level": "Oro"
+        },
+        {
+            "name": "Brite",
+            "website": "https://britepayments.com/",
+            "level": "Oro"
+        },
+        {
+            "name": "4Greek Academy",
+            "website": "https://4geeksacademy.com/es/inicio",
+            "level": "Oro"
+        },
+        {
+            "name": "CELTIBERIAN",
+            "website": "https://www.celtiberian.es/",
+            "level": "Oro"
+        },
+        {
+            "name": "OrbitalADS",
+            "website": "https://www.orbitalads.com/",
+            "level": "Oro"
+        },
+        {
+            "name": "alight",
+            "website": "https://www.alight.com/",
+            "level": "Oro"
+        },
+        {
+            "name": "Kave home",
+            "website": "https://kavehome.com/",
+            "level": "Oro"
+        },
+        {
+            "name": "Back Market",
+            "website": "https://www.backmarket.es/es-es",
+            "level": "Oro"
+        },
+        {
+            "name": "Certinia",
+            "website": "https://certinia.com/",
+            "level": "Oro"
+        },
+        {
+            "name": "Sky dance",
+            "website": "https://skydance.com/",
+            "level": "Oro"
+        },
+        {
+            "name": "Kairos DS",
+            "website": "https://www.kairosds.com/es/index.html",
+            "level": "Oro"
+        },
+        {
+            "name": "PhotoPills",
+            "website": "https://www.photopills.com/es",
+            "level": "Plata"
+        },
+        {
+            "name": "JOOR",
+            "website": "https://es.joor.com/",
+            "level": "Plata"
+        },
+        {
+            "name": "Badger mappings",
+            "website": "https://www.badgermapping.com/",
+            "level": "Plata"
+        },
+        {
+            "name": "Nazaries",
+            "website": "https://www.nazaries.com/es",
+            "level": "Plata"
+        },
+        {
+            "name": "holaluz",
+            "website": "https://www.holaluz.com/",
+            "level": "Plata"
+        },
+        {
+            "name": "CodeSyntax",
+            "website": "https://www.codesyntax.com/eu",
+            "level": "Plata"
+        },
+        {
+            "name": "Alea",
+            "website": "https://www.alea-soluciones.com/",
+            "level": "Plata"
+        },
+        {
+            "name": "Kaleidos",
+            "website": "https://kaleidos.net/",
+            "level": "Plata"
+        },
+        {
+            "name": "blink",
+            "website": "https://blinkeye.com/",
+            "level": "Plata"
+        },
+        {
+            "name": "sngular",
+            "website": "https://www.sngular.com/",
+            "level": "Plata"
+        },
+        {
+            "name": "novatec",
+            "website": "https://www.novatec-gmbh.de/",
+            "level": "Plata"
+        },
+        {
+            "name": "Ayuntamiento de Granada",
+            "website": "https://www.granada.org/",
+            "level": "Colaboran"
+        },
+        {
+            "name": "Facultad de Medicina",
+            "website": "https://medicina.ugr.es/",
+            "level": "Colaboran"
+        },
+        {
+            "name": "Freewear",
+            "website": "https://www.freewear.org/",
+            "level": "Colaboran"
+        },
+        {
+            "name": "coviran",
+            "website": "https://www.coviran.es/",
+            "level": "Colaboran"
+        },
+        {
+            "name": "renfe",
+            "website": "https://www.renfe.com/",
+            "level": "Colaboran"
+        }
+    ]
+}
