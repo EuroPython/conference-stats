@@ -1,40 +1,39 @@
 {
-    "year": 2024,
+    "year": 2025,
     "levels": {
-        "Keystone": 10000,
-        "Gold": 7000,
-        "Silver": 5000,
-        "Exclusive Tech Partner": 6000,
+        "Keystone": 15000,
+        "Gold": 10000,
+        "Silver": 7300,
         "Bronze": 3000,
-        "Patron": 1000,
-        "Startup": 500,
-        "Diversity": 1000,
+        "Patron": 1500,
+        "Startup": 600,
+        "Kinship": 1000,
         "Media Partners": 0
     },
     "sponsors": [
         {
-            "name": "Kraken",
-            "website": "https://kraken.tech/",
+            "name": "Prima",
+            "website": "http://www.helloprima.com",
             "level": "Keystone"
         },
         {
-            "name": "Vedrai",
-            "website": "https://vedrai.com/",
+            "name": "Qube RT",
+            "website": "https://www.qube-rt.com/",
             "level": "Gold"
         },
         {
-            "name": "Pydantic",
-            "website": "https://pydantic.dev/",
+            "name": "NTT DATA",
+            "website": "https://it.nttdata.com/",
             "level": "Gold"
         },
         {
-            "name": "20tab",
-            "website": "https://www.20tab.com/",
-            "level": "Silver"
+            "name": "Zanichelli DATA Office",
+            "website": "https://github.com/ZanichelliEditore/data_office",
+            "level": "Gold"
         },
         {
-            "name": "Fiscozen",
-            "website": "https://www.fiscozen.it/",
+            "name": "Kraken",
+            "website": "https://kraken.tech/",
             "level": "Silver"
         },
         {
@@ -43,9 +42,29 @@
             "level": "Silver"
         },
         {
-            "name": "Sentry",
-            "website": "https://sentry.io/welcome/",
-            "level": "Exclusive Tech Partner"
+            "name": "VARgroup",
+            "website": "https://www.vargroup.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Apify",
+            "website": "https://apify.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "FastAPI",
+            "website": "https://fastapicloud.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Nephila",
+            "website": "https://www.nephila.digital/it/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Fiscozen",
+            "website": "https://www.fiscozen.it/",
+            "level": "Bronze"
         },
         {
             "name": "Bloomberg",
@@ -53,14 +72,24 @@
             "level": "Bronze"
         },
         {
-            "name": "Immobiliare.it",
-            "website": "https://labs.immobiliare.it/",
+            "name": "AppSignal",
+            "website": "https://www.appsignal.com/",
             "level": "Bronze"
         },
         {
-            "name": "JetBrains",
-            "website": "https://www.jetbrains.com/",
+            "name": "Crif",
+            "website": "https://www.crif.com/",
             "level": "Bronze"
+        },
+        {
+            "name": "Tenaris",
+            "website": "https://www.tenaris.com/en",
+            "level": "Bronze"
+        },
+        {
+            "name": "20tab",
+            "website": "https://www.20tab.com/",
+            "level": "Patron"
         },
         {
             "name": "Thux Code",
@@ -68,28 +97,28 @@
             "level": "Patron"
         },
         {
-            "name": "APPBOX",
-            "website": "https://appbox.cloud/",
+            "name": "Barisoft",
+            "website": "https://www.barisoft.it/",
             "level": "Patron"
         },
         {
-            "name": "Dvision Lab",
-            "website": "https://dvisionlab.it/",
+            "name": "Zattoo",
+            "website": "https://zattoo.com/int",
             "level": "Patron"
         },
         {
-            "name": "AppSignal",
-            "website": "https://www.appsignal.com/",
+            "name": "devpunks",
+            "website": "https://www.devpunks.com/",
             "level": "Patron"
         },
         {
-            "name": "Dygma",
-            "website": "https://dygma.com/",
+            "name": "Fondazione CNI",
+            "website": "https://mying.it/",
             "level": "Patron"
         },
         {
-            "name": "subito.it",
-            "website": "https://www.subito.it",
+            "name": "BPER",
+            "website": "https://www.bper.it/",
             "level": "Patron"
         },
         {
@@ -98,39 +127,39 @@
             "level": "Startup"
         },
         {
-            "name": "E42",
-            "website": "https://www.elan42.com/",
+            "name": "Cargoful",
+            "website": "https://cargoful.tech/",
             "level": "Startup"
         },
         {
-            "name": "Barisoft",
-            "website": "https://www.barisoft.it/",
-            "level": "Startup"
-        },
-        {
-            "name": "Smitten",
-            "website": "https://smitten.fun/",
+            "name": "ML Cube",
+            "website": "http://mlcube.com",
             "level": "Startup"
         },
         {
             "name": "EuroPython Society",
             "website": "https://www.europython-society.org/",
-            "level": "Diversity"
-        },
-        {
-            "name": "Nephila",
-            "website": "https://www.nephila.digital/it/",
-            "level": "Diversity"
+            "level": "Kinship"
         },
         {
             "name": "Python Software Foundation",
             "website": "https://www.python.org/psf/",
-            "level": "Diversity"
+            "level": "Kinship"
         },
         {
-            "name": "Seeweb",
-            "website": "https://www.seeweb.it",
-            "level": "Diversity"
+            "name": "Packt",
+            "website": "https://packt.link/pyconitalia2025",
+            "level": "Kinship"
+        },
+        {
+            "name": "Django Software Foundation",
+            "website": "https://www.djangoproject.com/",
+            "level": "Kinship"
+        },
+        {
+            "name": "Regione Emilia Romagna",
+            "website": "https://emiliaromagnaturismo.it/it",
+            "level": "Kinship"
         },
         {
             "name": "Top-IX",
@@ -140,6 +169,11 @@
         {
             "name": "Python Biella Group",
             "website": "https://pythonbiellagroup.it/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "DataMasters",
+            "website": "https://datamasters.it/",
             "level": "Media Partners"
         },
         {
@@ -183,6 +217,11 @@
             "level": "Media Partners"
         },
         {
+            "name": "PointerPodcast",
+            "website": "https://pointerpodcast.it/",
+            "level": "Media Partners"
+        },
+        {
             "name": "firenze.dev",
             "website": "https://firenze.dev/community",
             "level": "Media Partners"
@@ -218,21 +257,6 @@
             "level": "Media Partners"
         },
         {
-            "name": "PyCon Lithuania",
-            "website": "https://pycon.lt/2024",
-            "level": "Media Partners"
-        },
-        {
-            "name": "DjangoCon EU",
-            "website": "https://2024.djangocon.eu/",
-            "level": "Media Partners"
-        },
-        {
-            "name": "PLUG",
-            "website": "https://www.pignolalug.it/",
-            "level": "Media Partners"
-        },
-        {
             "name": "PyBari",
             "website": "https://bari.python.it/",
             "level": "Media Partners"
@@ -253,8 +277,38 @@
             "level": "Media Partners"
         },
         {
-            "name": "Tripsitta",
-            "website": "https://tripsitta.com/",
+            "name": "Python Marche",
+            "website": "https://marche.python.it/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "Python Catania",
+            "website": "https://catania.python.it/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "PugliaTechs",
+            "website": "https://www.pugliatechs.com/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "AIHeroes",
+            "website": "https://aiheroes.it/2025/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "Refresh Academy",
+            "website": "https://refresh-academy.org/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "Designing Success - Community",
+            "website": "https://www.linkedin.com/company/designing-success-community",
+            "level": "Media Partners"
+        },
+        {
+            "name": "PyCampania",
+            "website": "https://www.meetup.com/it-IT/pycampania/",
             "level": "Media Partners"
         }
     ]
