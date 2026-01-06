@@ -1,12 +1,12 @@
 {
     "year":2022,
     "levels": {
-        "Keystone": "Unknown",
-        "Diamante": "Unknown",
-        "Platino": "Unknown",
-        "Oro":"Unknown",
-        "Plata": "Unknown",
-        "Colaboran":"Unknown"
+        "Keystone": "6000",
+        "Diamante": "3500",
+        "Platino": "2000",
+        "Oro":"1000",
+        "Plata": "500",
+        "Colaboran":"0"
     },
     "sponsors": [
          {
