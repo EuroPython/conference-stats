@@ -1,0 +1,239 @@
+{
+    "year": 2025,
+    "levels": {
+        "Keystone": "Unknown",
+        "Diamond": "Unknown",
+        "Platinum": "Unknown",
+        "Gold": "Unknown",
+        "Silver": "Unknown",
+        "Bronze": "Unknown",
+        "Patron": "Unknown",
+    },
+    "sponsors": [
+        {
+            "name": "Merck",
+            "website": "https://2025.pycon.de/sponsors/merck/",
+            "level": "Keystone"
+        },
+        {
+            "name": "Pydantic logfire",
+            "website": "https://2025.pycon.de/sponsors/pydantic_logfire/",
+            "level": "Diamond"
+        },
+        {
+            "name": "QuantCo",
+            "website": "https://2025.pycon.de/sponsors/quantco/",
+            "level": "Platinum"
+        },
+        {
+            "name": "e.on",
+            "website": "https://2025.pycon.de/sponsors/eon/",
+            "level": "Platinum"
+        },
+        {
+            "name": "ZEISS",
+            "website": "https://2025.pycon.de/sponsors/zeiss/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Exasol",
+            "website": "https://2025.pycon.de/sponsors/exasol/",
+            "level": "Platinum"
+        },
+        {
+            "name": "rosenxt",
+            "website": "https://2025.pycon.de/sponsors/rosenxt/",
+            "level": "Platinum"
+        },
+        {
+            "name": "GUROBI OPTIMIZATION",
+            "website": "https://2025.pycon.de/sponsors/gurobi/",
+            "level": "Platinum"
+        },
+        {
+            "name": "JETBRAINS",
+            "website": "https://2025.pycon.de/sponsors/jetbrains/",
+            "level": "Platinum"
+        },
+        {
+            "name": "MOSTLY AI",
+            "website": "https://2025.pycon.de/sponsors/mostlyai/",
+            "level": "Platinum"
+        },
+        {
+            "name": "BlueYonder",
+            "website": "https://2025.pycon.de/sponsors/blueyonder/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Snowflake",
+            "website": "https://2025.pycon.de/sponsors/snowflake/",
+            "level": "Platinum"
+        },
+        {
+            "name": "auth0",
+            "website": "https://2025.pycon.de/sponsors/auth0/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Redis",
+            "website": "https://2025.pycon.de/sponsors/redis/",
+            "level": "Platinum"
+        },
+        {
+            "name": "HOPSWORKS",
+            "website": "https://2025.pycon.de/sponsors/hopsworks/",
+            "level": "Platinum"
+        },
+        {
+            "name": "ROSEN",
+            "website": "https://2025.pycon.de/sponsors/rosen/",
+            "level": "Gold"
+        },
+        {
+            "name": "sovanta",
+            "website": "https://2025.pycon.de/sponsors/sovanta/",
+            "level": "Gold"
+        },
+        {
+            "name": "ExperTeach",
+            "website": "https://2025.pycon.de/sponsors/experteach//",
+            "level": "Gold"
+        },
+        {
+            "name": "KRAKEN",
+            "website": "https://2025.pycon.de/sponsors/kraken/",
+            "level": "Gold"
+        },
+        {
+            "name": "HEIDELBERG",
+            "website": "https://2025.pycon.de/sponsors/heidelberger-druckmaschinen/",
+            "level": "Gold"
+        },
+        {
+            "name": "VONAGE",
+            "website": "https://2025.pycon.de/sponsors/vonage/",
+            "level": "Gold"
+        },
+        {
+            "name": "ALEPH ALPHA",
+            "website": "https://2025.pycon.de/sponsors/aleph-alpha/",
+            "level": "Gold"
+        },
+        {
+            "name": "DataSDR",
+            "website": "https://2025.pycon.de/sponsors/data-santander/",
+            "level": "Gold"
+        },
+        {
+            "name": "DeepL",
+            "website": "https://2025.pycon.de/sponsors/deepl/",
+            "level": "Gold"
+        },
+        {
+            "name": "INOVEX",
+            "website": "https://2025.pycon.de/sponsors/inovex/",
+            "level": "Silver"
+        },
+        {
+            "name": "edih-aics",
+            "website": "https://2025.pycon.de/sponsors/edih-aics/",
+            "level": "Silver"
+        },
+        {
+            "name": "LIDL",
+            "website": "https://2025.pycon.de/sponsors/lidl/",
+            "level": "Silver"
+        },
+        {
+            "name": "Schwaebisch Hall",
+            "website": "https://2025.pycon.de/sponsors/schwaebisch_hall/",
+            "level": "Silver"
+        },
+        {
+            "name": "REWE",
+            "website": "https://2025.pycon.de/sponsors/rewe/",
+            "level": "Silver"
+        },
+        {
+            "name": "Quansight",
+            "website": "https://2025.pycon.de/sponsors/quansight/",
+            "level": "Silver"
+        },
+        {
+            "name": "items",
+            "website": "https://2025.pycon.de/sponsors/items/",
+            "level": "Silver"
+        },
+        {
+            "name": "energy and metero systems",
+            "website": "https://2025.pycon.de/sponsors/energy_meteo/",
+            "level": "Silver"
+        },
+        {
+            "name": "COLOGNE INTELLIGENCE",
+            "website": "https://2025.pycon.de/sponsors/cologne_intelligence/",
+            "level": "Silver"
+        },
+        {
+            "name": "&effect",
+            "website": "https://2025.pycon.de/sponsors/effect_data_solutions/",
+            "level": "Silver"
+        },
+        {
+            "name": "Innoflair",
+            "website": "https://2025.pycon.de/sponsors/innoflair/",
+            "level": "Silver"
+        },
+        {
+            "name": "quattro",
+            "website": "hhttps://2025.pycon.de/sponsors/quattro_research/",
+            "level": "Silver"
+        },
+        {
+            "name": "Beauhurst",
+            "website": "https://2025.pycon.de/sponsors/beauhurst/",
+            "level": "Silver"
+        },
+        {
+            "name": "ABO Energy",
+            "website": "https://2025.pycon.de/sponsors/aboenergy/",
+            "level": "Silver"
+        },
+        {
+            "name": "Sunnic Lighthouse GmbH",
+            "website": "https://2025.pycon.de/sponsors/sunnic-ligthhouse/",
+            "level": "Silver"
+        },
+        {
+            "name": "Tegtmeier Inkubator GmbH",
+            "website": "https://2025.pycon.de/sponsors/tegtmeier-inkubator/",
+            "level": "Silver"
+        },
+        {
+            "name": "Python Softwareverband e.V.",
+            "website": "https://2025.pycon.de/sponsors/pysv/",
+            "level": "Institutional Partners"
+        },
+        {
+            "name": "NUMFOCUS",
+            "website": "https://2025.pycon.de/sponsors/numfocus/",
+            "level": "Institutional Partners"
+        },
+        {
+            "name": "Pioneers HUB",
+            "website": "https://2025.pycon.de/sponsors/pioneershub/",
+            "level": "Institutional Partners"
+        },
+        {
+            "name": "EuroPython Society (EPS)",
+            "website": "https://www.europython-society.org/",
+            "level": "Institutional Partners"
+        },
+        {
+            "name": "Python Software Foundation (PSF)",
+            "website": "https://2025.pycon.de/sponsors/psf/",
+            "level": "Institutional Partners"
+        }
+    ]
+}
