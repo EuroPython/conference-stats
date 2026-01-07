@@ -1,13 +1,13 @@
 {
     "year": 2025,
     "levels": {
-        "Keystone": "Unknown",
-        "Diamond": "Unknown",
-        "Platinum": "Unknown",
-        "Gold": "Unknown",
-        "Silver": "Unknown",
-        "Bronze": "Unknown",
-        "Patron": "Unknown",
+        "Keystone": "29000",
+        "Diamond": "17500",
+        "Platinum": "12500",
+        "Platinum X": "9000",
+        "Gold": "6000",
+        "Silver": "3500",
+        "Institutional Partners": "0"
     },
     "sponsors": [
         {
