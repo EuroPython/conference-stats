@@ -1,0 +1,78 @@
+{% macro search_box(placeholder) -%}
+<div class="relative grow">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="size-4 absolute left-3 top-1/2 -translate-y-1/2 text-gray-400">
+    <path fill-rule="evenodd" d="M9 3.5a5.5 5.5 0 1 0 0 11 5.5 5.5 0 0 0 0-11ZM2 9a7 7 0 1 1 12.452 4.391l3.328 3.329a.75.75 0 1 1-1.06 1.06l-3.329-3.328A7 7 0 0 1 2 9Z" clip-rule="evenodd" />
+  </svg>
+  <input
+    type="text"
+    x-model="search"
+    placeholder="{{ placeholder }}"
+    class="w-full rounded-lg border border-gray-300 bg-white py-2 pl-9 pr-3 text-sm text-black placeholder:text-gray-400 focus:border-yellow-600 focus:outline-none focus:ring-1 focus:ring-yellow-600 dark:border-neutral-700 dark:bg-neutral-800 dark:text-white dark:placeholder:text-neutral-500"
+  />
+</div>
+{%- endmacro %}
+
+{% macro monetary_filter() -%}
+<label class="inline-flex items-center gap-2 text-sm text-gray-600 dark:text-neutral-400 whitespace-nowrap select-none cursor-pointer">
+  <input
+    type="checkbox"
+    x-model="hideNonMonetary"
+    class="rounded border-gray-300 text-yellow-600 focus:ring-yellow-600 dark:border-neutral-600 dark:bg-neutral-800"
+  />
+  Hide non-monetary sponsors
+</label>
+{%- endmacro %}
+
+{% macro select_filter(filter_options, all_label="All types") -%}
+<select
+  x-model="filterValue"
+  class="rounded-lg border border-gray-300 bg-white py-2 pl-3 pr-8 text-sm text-black focus:border-yellow-600 focus:outline-none focus:ring-1 focus:ring-yellow-600 dark:border-neutral-700 dark:bg-neutral-800 dark:text-white"
+>
+  <option value="">{{ all_label }}</option>
+  {% for opt in filter_options %}
+  <option value="{{ opt }}">{{ opt }}</option>
+  {% endfor %}
+</select>
+{%- endmacro %}
+
+{% macro toolbar(placeholder, with_monetary_filter=false, filter_options=none, filter_label="All types") -%}
+<div class="flex flex-col sm:flex-row sm:items-center gap-3 mb-3">
+  {{ search_box(placeholder) }}
+  {% if filter_options %}{{ select_filter(filter_options, filter_label) }}{% endif %}
+  {% if with_monetary_filter %}{{ monetary_filter() }}{% endif %}
+</div>
+{%- endmacro %}
+
+{% macro sort_th(label, key, extra_classes="") -%}
+<th class="border border-gray-300 dark:border-neutral-700 px-5 py-3 select-none cursor-pointer hover:bg-gray-200 dark:hover:bg-neutral-700 transition-colors {{ extra_classes }}" @click="sortBy('{{ key }}')">
+  <span class="inline-flex items-center gap-1">
+    {{ label }}
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="size-3.5 transition-transform"
+      :class="[sortKey === '{{ key }}' ? 'opacity-100' : 'opacity-30', sortKey === '{{ key }}' && !sortAsc ? 'rotate-180' : '']">
+      <path fill-rule="evenodd" d="M10 17a.75.75 0 0 1-.75-.75V5.612L5.29 9.77a.75.75 0 1 1-1.08-1.04l5.25-5.5a.75.75 0 0 1 1.08 0l5.25 5.5a.75.75 0 1 1-1.08 1.04l-3.96-4.158V16.25A.75.75 0 0 1 10 17Z" clip-rule="evenodd" />
+    </svg>
+  </span>
+</th>
+{%- endmacro %}
+
+{% macro pagination() -%}
+<div class="flex items-center justify-between mt-4 text-sm" x-show="pageCount > 1">
+  <button
+    type="button"
+    @click="prevPage()"
+    :disabled="page === 1"
+    class="px-3 py-1.5 rounded-lg bg-gray-200 dark:bg-neutral-800 hover:bg-gray-300 dark:hover:bg-neutral-700 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
+  >
+    Prev
+  </button>
+  <span class="text-gray-600 dark:text-neutral-400" x-text="`Page ${page} of ${pageCount}`"></span>
+  <button
+    type="button"
+    @click="nextPage()"
+    :disabled="page === pageCount"
+    class="px-3 py-1.5 rounded-lg bg-gray-200 dark:bg-neutral-800 hover:bg-gray-300 dark:hover:bg-neutral-700 disabled:opacity-40 disabled:cursor-not-allowed transition-colors"
+  >
+    Next
+  </button>
+</div>
+{%- endmacro %}

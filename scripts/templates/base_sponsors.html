@@ -1,43 +1,73 @@
 {% extends "templates/base.html" %}
+{% import "templates/_macros.html" as m %}
 {% block content %}
-{% set sort_icon = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="size-5 inline"><path fill-rule="evenodd" d="M2.24 6.8a.75.75 0 0 0 1.06-.04l1.95-2.1v8.59a.75.75 0 0 0 1.5 0V4.66l1.95 2.1a.75.75 0 1 0 1.1-1.02l-3.25-3.5a.75.75 0 0 0-1.1 0L2.2 5.74a.75.75 0 0 0 .04 1.06Zm8 6.4a.75.75 0 0 0-.04 1.06l3.25 3.5a.75.75 0 0 0 1.1 0l3.25-3.5a.75.75 0 1 0-1.1-1.02l-1.95 2.1V6.75a.75.75 0 0 0-1.5 0v8.59l-1.95-2.1a.75.75 0 0 0-1.06-.04Z" clip-rule="evenodd" /></svg>' %}
+
   <h2 class="block font-medium text-black dark:text-gray-200 text-xl sm:text-2xl md:text-3xl lg:text-4xl text-center py-5">
     Ranking by amount
   </h2>
-  <table class="border-collapse mx-auto">
-    <tr class="bg-gray-300 dark:bg-gray-800">
-      <th class="border border-gray-600 px-5 py-3">Company {{ sort_icon }}</th>
-      <th class="border border-gray-600 px-5 py-3">Total amount (EUR) {{ sort_icon }}</th>
-    </tr>
-    {% for idx, sponsor in grouped.iterrows() %}
-    {% if sponsor['name'] and ( sponsors['level'] is defined )%}
-     <tr>
-       <td class="border border-gray-600 p-3"><a href="{{ sponsor['website'] }}">{{ sponsor['name'] }}</a></td>
-       <td class="border border-gray-600 p-3 text-right">{{ sponsor['level'] }}</td>
-     </tr>
-    {% endif %}
-    {% endfor %}
-  </table>
+  <script type="application/json" id="sponsors-grouped-data">{{ grouped_json }}</script>
+  <div x-data="dataTable(JSON.parse(document.getElementById('sponsors-grouped-data').textContent), { sortKey: 'total', sortAsc: false, searchKeys: ['name'], perPage: 10, amountKey: 'total' })">
+    {{ m.toolbar("Filter by company...", true) }}
+    <div class="overflow-x-auto rounded-lg border border-gray-300 dark:border-neutral-700">
+      <table class="border-collapse w-full table-fixed">
+        <thead>
+        <tr class="bg-gray-200 dark:bg-neutral-800">
+          {{ m.sort_th("Company", "name", "text-start w-3/4") }}
+          {{ m.sort_th("Total amount (EUR)", "total", "text-end w-1/4") }}
+        </tr>
+        </thead>
+        <tbody>
+        <template x-for="(sponsor, i) in paginated" :key="i">
+          <tr class="odd:bg-white even:bg-gray-50 dark:odd:bg-neutral-900 dark:even:bg-neutral-800/50 hover:bg-yellow-50 dark:hover:bg-neutral-800 transition-colors">
+            <td class="border border-gray-200 dark:border-neutral-700 p-3">
+              <a :href="sponsor.website" target="_blank" rel="noopener" class="text-blue-700 dark:text-yellow-400 hover:underline" x-text="sponsor.name"></a>
+            </td>
+            <td class="border border-gray-200 dark:border-neutral-700 p-3 text-right tabular-nums" x-text="formatAmount(sponsor.total)"></td>
+          </tr>
+        </template>
+        <tr x-show="filtered.length === 0">
+          <td colspan="2" class="border border-gray-200 dark:border-neutral-700 p-6 text-center text-gray-500 dark:text-neutral-400">No sponsors match your search.</td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+    {{ m.pagination() }}
+  </div>
 
   <h2 class="block font-medium text-black dark:text-gray-200 text-xl sm:text-2xl md:text-3xl lg:text-4xl text-center py-5">
     All data
   </h2>
-  <table class="border-collapse mx-auto">
-    <tr class="bg-gray-300 dark:bg-gray-800">
-      <th class="border border-gray-600 px-5 py-3">Year {{ sort_icon }}</th>
-      <th class="border border-gray-600 px-5 py-3">Conference {{ sort_icon }}</th>
-      <th class="border border-gray-600 px-5 py-3">Company {{ sort_icon }}</th>
-      <th class="border border-gray-600 px-5 py-3">Amount (EUR) {{ sort_icon }}</th>
-    </tr>
-    {% for idx, sponsor in sponsors.iterrows() %}
-    {% if sponsor['name'] and ( sponsors['level'] is defined )%}
-     <tr>
-       <td class="border border-gray-600 p-3">{{ sponsor['year'] }}</td>
-       <td class="border border-gray-600 p-3">{{ sponsor['conference'] }}</td>
-       <td class="border border-gray-600 p-3"><a href="{{ sponsor['website'] }}">{{ sponsor['name'] }}</a></td>
-       <td class="border border-gray-600 p-3 text-right">{{ sponsor['level'] }}</td>
-     </tr>
-    {% endif %}
-    {% endfor %}
-  </table>
+  <script type="application/json" id="sponsors-all-data">{{ all_json }}</script>
+  <div x-data="dataTable(JSON.parse(document.getElementById('sponsors-all-data').textContent), { sortKey: 'year', sortAsc: false, searchKeys: ['name', 'conference'], perPage: 15, amountKey: 'amount' })">
+    {{ m.toolbar("Filter by company or conference...", true) }}
+    <div class="overflow-x-auto rounded-lg border border-gray-300 dark:border-neutral-700">
+      <table class="border-collapse w-full table-fixed">
+        <thead>
+        <tr class="bg-gray-200 dark:bg-neutral-800">
+          {{ m.sort_th("Year", "year", "w-25") }}
+          {{ m.sort_th("Conference", "conference", "w-36") }}
+          {{ m.sort_th("Company", "name") }}
+          {{ m.sort_th("Amount (EUR)", "amount", "text-end w-36") }}
+        </tr>
+        </thead>
+        <tbody>
+        <template x-for="(sponsor, i) in paginated" :key="i">
+          <tr class="odd:bg-white even:bg-gray-50 dark:odd:bg-neutral-900 dark:even:bg-neutral-800/50 hover:bg-yellow-50 dark:hover:bg-neutral-800 transition-colors">
+            <td class="border border-gray-200 dark:border-neutral-700 p-3" x-text="sponsor.year"></td>
+            <td class="border border-gray-200 dark:border-neutral-700 p-3" x-text="sponsor.conference"></td>
+            <td class="border border-gray-200 dark:border-neutral-700 p-3">
+              <a :href="sponsor.website" target="_blank" rel="noopener" class="text-blue-700 dark:text-yellow-400 hover:underline" x-text="sponsor.name"></a>
+            </td>
+            <td class="border border-gray-200 dark:border-neutral-700 p-3 text-right tabular-nums" x-text="formatAmount(sponsor.amount)"></td>
+          </tr>
+        </template>
+        <tr x-show="filtered.length === 0">
+          <td colspan="4" class="border border-gray-200 dark:border-neutral-700 p-6 text-center text-gray-500 dark:text-neutral-400">No sponsors match your search.</td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+    {{ m.pagination() }}
+  </div>
+
 {% endblock %}

@@ -1,0 +1,785 @@
+{
+    "year": 2026,
+    "speakers": [
+        {
+            "fullname": "Martin Borus",
+            "type": "Announcements",
+            "title": "Beginner's Orientation"
+        },
+        {
+            "fullname": "Mahe Iram Khan",
+            "type": "Announcements",
+            "title": "Beginner's Orientation"
+        },
+        {
+            "fullname": "Vyron Vasileiadis",
+            "type": "Tutorial",
+            "title": "Learn Quantum Computing with QiliSDK: From Circuits to Pulse-Level Control"
+        },
+        {
+            "fullname": "Christian Leitold",
+            "type": "Talk",
+            "title": "How to blend Python, physics, and art to create (hopefully) pretty pictures"
+        },
+        {
+            "fullname": "Naa Ashiorkor",
+            "type": "Talk",
+            "title": "Community Organisers Summit: Discussion session"
+        },
+        {
+            "fullname": "Kshitijaa Jaglan",
+            "type": "Talk",
+            "title": "Community Organisers Summit: Discussion session"
+        },
+        {
+            "fullname": "Ege Akman",
+            "type": "Talk",
+            "title": "Community Organisers Summit: Discussion session"
+        },
+        {
+            "fullname": "Stefanie Molin",
+            "type": "Tutorial",
+            "title": "Process, Analyze, and Transform Python Code with ASTs"
+        },
+        {
+            "fullname": "Anna Wszeborowska",
+            "type": "Tutorial",
+            "title": "Create your own musical instrument with custom gesture control"
+        },
+        {
+            "fullname": "Marco Grossi",
+            "type": "Talk (long session)",
+            "title": "From one to 1 million packet/second: scaling global Internet monitoring"
+        },
+        {
+            "fullname": "David Rousset",
+            "type": "Sponsored",
+            "title": "When Python Agents Meet 3D: Automating Blender from Natural Language"
+        },
+        {
+            "fullname": "Mateusz Modrzejewski",
+            "type": "Talk",
+            "title": "How Music Generation Actually Works"
+        },
+        {
+            "fullname": "Koudai Aono",
+            "type": "Talk",
+            "title": "Beyond `Optional` in Real-World Projects: Missing, `None`, and Unset"
+        },
+        {
+            "fullname": "Veit Heller",
+            "type": "Talk (long session)",
+            "title": "AI Architecture Katas: Learning by Building Small Models in Plain Python"
+        },
+        {
+            "fullname": "Miguel Ángel Fernández Gutiérrez",
+            "type": "Talk",
+            "title": "Hacking Truth: Python and the Limits of Mathematics"
+        },
+        {
+            "fullname": "Petr Viktorin",
+            "type": "Poster",
+            "title": "Python Syntax Diagram"
+        },
+        {
+            "fullname": "George Margaritis",
+            "type": "Talk",
+            "title": "Community Organisers Summit: Opening and introduction"
+        },
+        {
+            "fullname": "Claudiu Belu",
+            "type": "Talk",
+            "title": "What is this footgun called unittest.mock, and how to avoid misusing it"
+        },
+        {
+            "fullname": "Vladimir Slavov",
+            "type": "Talk (long session)",
+            "title": "How to Talk With Your Legal Department About Open Source"
+        },
+        {
+            "fullname": "Seth Michael Larson",
+            "type": "Talk",
+            "title": "Learning from the not-so-secret Python security \"cabal\""
+        },
+        {
+            "fullname": "Daria Korsakova",
+            "type": "Talk",
+            "title": "Stop firefighting: practical observability for Python APIs, workers & jobs"
+        },
+        {
+            "fullname": "Jan Koprowski",
+            "type": "Talk",
+            "title": "How we write unit test in my team in Openchip"
+        },
+        {
+            "fullname": "Antonio Spadaro",
+            "type": "Talk",
+            "title": "Leverage pytest's Fixture to write focused and highly decoupled tests"
+        },
+        {
+            "fullname": "Will Vincent",
+            "type": "Talk",
+            "title": "Deploying Python Web Apps in 2026"
+        },
+        {
+            "fullname": "Florian Wilhelm",
+            "type": "Talk",
+            "title": "The Problem with None: Sentinel Values and the Semantics of Absence"
+        },
+        {
+            "fullname": "Tomas Roun",
+            "type": "Talk",
+            "title": "Become a Python Core Developer in 3 Easy Steps"
+        },
+        {
+            "fullname": "Alan Velasco",
+            "type": "Talk",
+            "title": "Untangling the Web: Alternative Internet Protocols in Python"
+        },
+        {
+            "fullname": "Jan Smitka",
+            "type": "Talk",
+            "title": "Faster Django ORM queries for everybody"
+        },
+        {
+            "fullname": "Marcelo Trylesinski",
+            "type": "Talk",
+            "title": "What I've Learned Maintaining the MCP Python SDK"
+        },
+        {
+            "fullname": "Hynek Schlawack",
+            "type": "Talk (long session)",
+            "title": "Design Pressure: The Invisible Hand That Shapes Your Code"
+        },
+        {
+            "fullname": "Michał Karzyński",
+            "type": "Talk",
+            "title": "Building a Smart Home Device with MicroPython"
+        },
+        {
+            "fullname": "Wojtek Erbetowski",
+            "type": "Talk",
+            "title": "You Don't Need to Solve It: What Actually Gets You Hired in Tech"
+        },
+        {
+            "fullname": "Sviatoslav Sydorenko (Святослав Сидоренко)",
+            "type": "Poster",
+            "title": "reusable-tox.yml: Five Patterns to Eliminate CI/CD Boilerplate"
+        },
+        {
+            "fullname": "Carlos A Aranibar",
+            "type": "Talk",
+            "title": "Designing and Building Custom Keyboards ⌨️ with Python"
+        },
+        {
+            "fullname": "Tereza Iofciu",
+            "type": "Conference Workshop",
+            "title": "Leading Under Pressure"
+        },
+        {
+            "fullname": "Jan Pipek",
+            "type": "Talk",
+            "title": "Data wrangling in a modern terminal"
+        },
+        {
+            "fullname": "Jonathan Striebel",
+            "type": "Talk",
+            "title": "uvx which-profiler – Which Profiler, When"
+        },
+        {
+            "fullname": "Filip Makraduli",
+            "type": "Talk (long session)",
+            "title": "Self-Hosted Small Models: From OpenAI Lock-In to Open Models"
+        },
+        {
+            "fullname": "Thom Lane",
+            "type": "Sponsored",
+            "title": "Write async. Get sync for free"
+        },
+        {
+            "fullname": "Daniel Vahla",
+            "type": "Talk",
+            "title": "Python and HTTP/3: feel the difference in performance"
+        },
+        {
+            "fullname": "Florian Freitag",
+            "type": "Talk (long session)",
+            "title": "How CPythons Errors keep getting better"
+        },
+        {
+            "fullname": "ELENI TOKMAKTSI",
+            "type": "Talk",
+            "title": "From Pixels to Insights: Python for Earth Observation"
+        },
+        {
+            "fullname": "Sergi Porta",
+            "type": "Sponsored",
+            "title": "Surviving LLM Traffic Spikes: Routing, Rate Limits, and Failover in Python"
+        },
+        {
+            "fullname": "Nathan Goldbaum",
+            "type": "Talk",
+            "title": "What every Python developer should know about the CPython ABI"
+        },
+        {
+            "fullname": "Mario García",
+            "type": "Talk (long session)",
+            "title": "Localization Made Easy: A Pythonic Approach to Global Applications"
+        },
+        {
+            "fullname": "Jan Musílek",
+            "type": "Talk",
+            "title": "Breaking changes – not great, not terrible"
+        },
+        {
+            "fullname": "Antonio Cuni",
+            "type": "Talk (long session)",
+            "title": "SPy: high-level Python, low-level performance, no overhead"
+        },
+        {
+            "fullname": "Evan Kohilas",
+            "type": "Talk",
+            "title": "Args: Amazing or Approaching?"
+        },
+        {
+            "fullname": "Julien Lenormand",
+            "type": "Tutorial",
+            "title": "Getting out of the testing hell"
+        },
+        {
+            "fullname": "GAFFIOT Jonathan",
+            "type": "Tutorial",
+            "title": "Getting out of the testing hell"
+        },
+        {
+            "fullname": "Fridtjof Stoldt",
+            "type": "Talk",
+            "title": "Immutability: Fast and Safe sharing of Data across Subinterpreters"
+        },
+        {
+            "fullname": "Tobias Wrigstad",
+            "type": "Talk",
+            "title": "Immutability: Fast and Safe sharing of Data across Subinterpreters"
+        },
+        {
+            "fullname": "Paul Everitt",
+            "type": "Keynote",
+            "title": "Was, Is, Will Be: Python History, Software Engineering, And AI Our Way"
+        },
+        {
+            "fullname": "Olha Poliuliakh",
+            "type": "Poster",
+            "title": "Why Coding Agents Fail at ML (and How to Fix It)"
+        },
+        {
+            "fullname": "Ivana Kellyer",
+            "type": "Talk",
+            "title": "How to Maintain 60 Integrations and Not Go Bananas"
+        },
+        {
+            "fullname": "Marc-André Lemburg",
+            "type": "Talk",
+            "title": "DuckLake - Take Python and DuckDB for a swim in your data lake"
+        },
+        {
+            "fullname": "Vladyslav Fedoriuk",
+            "type": "Talk",
+            "title": "Powering Up Your Types with Annotated"
+        },
+        {
+            "fullname": "Laura Summers",
+            "type": "Talk",
+            "title": "The Human-in-the-Loop is Tired"
+        },
+        {
+            "fullname": "Jacob Coffee",
+            "type": "Talk",
+            "title": "Supercharging Litestar: Extensibility Through Plugins"
+        },
+        {
+            "fullname": "David Vaz",
+            "type": "Talk",
+            "title": "I Am a Sucker for Conventions. Why Django’s Defaults Work, Until They Don’t"
+        },
+        {
+            "fullname": "Abhik Sarkar",
+            "type": "Talk",
+            "title": "An Introduction to Writing Fast GPU Code in Python"
+        },
+        {
+            "fullname": "Michael Seifert",
+            "type": "Tutorial",
+            "title": "Code organization for non-engineers"
+        },
+        {
+            "fullname": "Bryce Adelstein Lelbach",
+            "type": "Talk",
+            "title": "GPU Programming in Pure Python"
+        },
+        {
+            "fullname": "Imogen Wright",
+            "type": "Keynote",
+            "title": "How Complex Systems Taught Me To Fail"
+        },
+        {
+            "fullname": "Cristián Maureira-Fredes",
+            "type": "Tutorial",
+            "title": "Understand and expand Python: a hands-on experience on Python internals"
+        },
+        {
+            "fullname": "Savannah Ostrowski",
+            "type": "Talk",
+            "title": "The coolest feature in Python 3.14: sys.remote_exec()"
+        },
+        {
+            "fullname": "William Woodruff",
+            "type": "Keynote",
+            "title": "Securing Python for the next decade"
+        },
+        {
+            "fullname": "Ken Jin",
+            "type": "Talk",
+            "title": "Inside Python 3.15's JIT Optimizer"
+        },
+        {
+            "fullname": "Johannes Kolbe",
+            "type": "Talk (long session)",
+            "title": "Robot Holmes and the Silenced Witness: A Noir Guide to Real-Time Voice AI"
+        },
+        {
+            "fullname": "Yury Selivanov",
+            "type": "Sponsored",
+            "title": "import ai: building agents can be simple"
+        },
+        {
+            "fullname": "Michael Sullivan",
+            "type": "Sponsored",
+            "title": "import ai: building agents can be simple"
+        },
+        {
+            "fullname": "Farhaan Bukhsh",
+            "type": "Talk",
+            "title": "Python Games in the Browser: Teaching with WebAssembly"
+        },
+        {
+            "fullname": "Kuldeep Pisda",
+            "type": "Poster",
+            "title": "Django TDD Patterns: A Visual Field Guide"
+        },
+        {
+            "fullname": "Olusola Akinsulere",
+            "type": "Talk",
+            "title": "Zero to Pipeline: When Data Connectors Just Work"
+        },
+        {
+            "fullname": "Georgi Ker",
+            "type": "Talk",
+            "title": "The Experience Is the Community"
+        },
+        {
+            "fullname": "Nikita Karamov",
+            "type": "Talk (long session)",
+            "title": "Should you trust Trusted Publishing?"
+        },
+        {
+            "fullname": "Reuven M. Lerner",
+            "type": "Tutorial",
+            "title": "Let's write some decorators!"
+        },
+        {
+            "fullname": "Sebastian Burzyński",
+            "type": "Talk",
+            "title": "The hidden cost of vibe coding"
+        },
+        {
+            "fullname": "Malcolm Smith",
+            "type": "Talk",
+            "title": "Supporting Android and iOS in your Python package"
+        },
+        {
+            "fullname": "Vinícius Gubiani Ferreira",
+            "type": "Tutorial",
+            "title": "Load testing 1-on-1: discovering the limits of your system"
+        },
+        {
+            "fullname": "Sylwia Budzynska",
+            "type": "Panel",
+            "title": "Security and Ethics in the Age of Generative AI"
+        },
+        {
+            "fullname": "Maria Lowas-Rzechonek",
+            "type": "Panel",
+            "title": "Security and Ethics in the Age of Generative AI"
+        },
+        {
+            "fullname": "Mike Fiedler",
+            "type": "Panel",
+            "title": "Security and Ethics in the Age of Generative AI"
+        },
+        {
+            "fullname": "Seth Michael Larson",
+            "type": "Panel",
+            "title": "Security and Ethics in the Age of Generative AI"
+        },
+        {
+            "fullname": "Julien Lenormand",
+            "type": "Panel",
+            "title": "Security and Ethics in the Age of Generative AI"
+        },
+        {
+            "fullname": "Maria Jose Molina-Contreras",
+            "type": "Panel",
+            "title": "Security and Ethics in the Age of Generative AI"
+        },
+        {
+            "fullname": "Freya Bruhin",
+            "type": "Talk",
+            "title": "Property based testing with Hypothesis"
+        },
+        {
+            "fullname": "Sangarshanan",
+            "type": "Tutorial",
+            "title": "Build a Synthesizer with Python"
+        },
+        {
+            "fullname": "Mika Allert",
+            "type": "Talk",
+            "title": "Exploring Python Inspect: Enriching Stack Traces and Testing the Untestable"
+        },
+        {
+            "fullname": "Jon Nordby",
+            "type": "Tutorial",
+            "title": "Developing IoT sensors with MicroPython"
+        },
+        {
+            "fullname": "Damian Wysocki",
+            "type": "Talk",
+            "title": "From Ticket Taker to Problem Solver: Discovery for Senior Thinking"
+        },
+        {
+            "fullname": "Katie Bickford",
+            "type": "Talk",
+            "title": "Why doing difficult things is good for you and good for your team"
+        },
+        {
+            "fullname": "Mike Fiedler",
+            "type": "Talk",
+            "title": "Anatomy of a Phishing Campaign"
+        },
+        {
+            "fullname": "Maria Lowas-Rzechonek",
+            "type": "Talk",
+            "title": "How to tackle complex authorization logic (and don't go crazy)"
+        },
+        {
+            "fullname": "Dawn Wages",
+            "type": "Talk",
+            "title": "How many spoons does your environment cost: Broken demos & human element"
+        },
+        {
+            "fullname": "Marlene Mhangami",
+            "type": "Keynote",
+            "title": "The Pursuit Of Purity (The Right Way To Do AI)"
+        },
+        {
+            "fullname": "Alejandro Cabello Jiménez",
+            "type": "Talk",
+            "title": "Python on Serverless: Strategies for Peak Performance"
+        },
+        {
+            "fullname": "Aleksander",
+            "type": "Talk",
+            "title": "Python in the Service of Justice: Modern Analysis Tools in Forensics"
+        },
+        {
+            "fullname": "Amelia Bartosiak",
+            "type": "Talk",
+            "title": "Python in the Service of Justice: Modern Analysis Tools in Forensics"
+        },
+        {
+            "fullname": "Leah Wasser",
+            "type": "Keynote",
+            "title": "How to Run 160 KM: Building Resilience When Things Feel Hard"
+        },
+        {
+            "fullname": "Rodrigo Girão Serrão",
+            "type": "Poster",
+            "title": "A tour of the module `itertools`"
+        },
+        {
+            "fullname": "Jukka Lehtosalo",
+            "type": "Talk",
+            "title": "Speeding Up Python with Free Threading and Mypyc"
+        },
+        {
+            "fullname": "Dominic Hollis",
+            "type": "Talk",
+            "title": "The Self-Healing Web: Designing Resilient, Typo-Proof URLs"
+        },
+        {
+            "fullname": "Hood Chatham",
+            "type": "Talk",
+            "title": "Python Everywhere: The State of Python on WebAssembly"
+        },
+        {
+            "fullname": "Gyeongjae Choi",
+            "type": "Talk",
+            "title": "Python Everywhere: The State of Python on WebAssembly"
+        },
+        {
+            "fullname": "Ivan Markeev",
+            "type": "Talk (long session)",
+            "title": "Scaling Python Systems by Designing Team-Aware Architecture"
+        },
+        {
+            "fullname": "Dan Jones",
+            "type": "Sponsored",
+            "title": "AI Slop to AI Gold: Building Codebases That Last"
+        },
+        {
+            "fullname": "Ariel Ortiz",
+            "type": "Tutorial",
+            "title": "Crafting Your Own Compiler: From Python Logic to High-Speed WebAssembly"
+        },
+        {
+            "fullname": "Diego Russo",
+            "type": "Sponsored",
+            "title": "Python on Windows on Arm: Ecosystem Enablement Update"
+        },
+        {
+            "fullname": "Gleb Khmyznikov",
+            "type": "Sponsored",
+            "title": "Python on Windows on Arm: Ecosystem Enablement Update"
+        },
+        {
+            "fullname": "Larry Hastings",
+            "type": "Talk",
+            "title": "Conquer multithreaded Python with Blanket"
+        },
+        {
+            "fullname": "Pablo Galindo Salgado",
+            "type": "Keynote",
+            "title": "Core.py recording with Guido van Rossum"
+        },
+        {
+            "fullname": "Łukasz Langa",
+            "type": "Keynote",
+            "title": "Core.py recording with Guido van Rossum"
+        },
+        {
+            "fullname": "Guido van Rossum",
+            "type": "Keynote",
+            "title": "Core.py recording with Guido van Rossum"
+        },
+        {
+            "fullname": "Matthias Kirschner",
+            "type": "Talk",
+            "title": "A vision for software freedom in 2048"
+        },
+        {
+            "fullname": "Mike Müller",
+            "type": "Tutorial",
+            "title": "Fast Python Development with uv"
+        },
+        {
+            "fullname": "Piotr Rybak",
+            "type": "Talk",
+            "title": "Is Object Detection Dead? A Case for Recognizing LEGO Bricks"
+        },
+        {
+            "fullname": "Pablo Galindo Salgado",
+            "type": "Talk",
+            "title": "Lazy imports and the art of interpreter procrastination"
+        },
+        {
+            "fullname": "Noah Kim",
+            "type": "Talk",
+            "title": "Lazy imports and the art of interpreter procrastination"
+        },
+        {
+            "fullname": "DEBORAH E DANJUMA",
+            "type": "Talk",
+            "title": "Flying in Formation - with Python Threading and ROS2 Parallelism"
+        },
+        {
+            "fullname": "Jannis Leidel",
+            "type": "Summit",
+            "title": "Packaging Summit"
+        },
+        {
+            "fullname": "Mateusz Sokół",
+            "type": "Talk",
+            "title": "Building your DSL compiler in Python"
+        },
+        {
+            "fullname": "Nacho Llorca",
+            "type": "Talk",
+            "title": "Fast and Furious: 26’s Tooling Stack for a Streamlined Developer Experience"
+        },
+        {
+            "fullname": "Thom Lane",
+            "type": "Poster",
+            "title": "Write async. Get sync for free."
+        },
+        {
+            "fullname": "Grzegorz Bokota",
+            "type": "Talk",
+            "title": "Plugins in python - how it is done"
+        },
+        {
+            "fullname": "Abhimanyu Singh Shekhawat",
+            "type": "Tutorial",
+            "title": "Deconstructing the tenets of Planet Scale Systems with Python"
+        },
+        {
+            "fullname": "Deb Nicholson",
+            "type": "Talk",
+            "title": "International Open Source – Your Best Choice in Interesting Times"
+        },
+        {
+            "fullname": "Felipe Arruda Pontes",
+            "type": "Talk",
+            "title": "How Python is Democratising Agritech for Farmers Across Europe"
+        },
+        {
+            "fullname": "Mohamed Elmaghraby",
+            "type": "Talk",
+            "title": "Refactor, Optimize, and Test: Crafting Cleaner Python Code"
+        },
+        {
+            "fullname": "Kamil Kulig",
+            "type": "Tutorial",
+            "title": "gRPC for Beginners"
+        },
+        {
+            "fullname": "Adam Gorgoń",
+            "type": "Tutorial",
+            "title": "gRPC for Beginners"
+        },
+        {
+            "fullname": "John Robert",
+            "type": "Talk",
+            "title": "Hunting the Invisible: Indirect Prompt Injection in Python Pipelines"
+        },
+        {
+            "fullname": "Grzegorz Kocjan",
+            "type": "Talk",
+            "title": "The hardest test suite I ever built - a pytest case study"
+        },
+        {
+            "fullname": "Sebastian Buczyński",
+            "type": "Talk (long session)",
+            "title": "Navigating waters of background jobs and queues in Python as of 2026"
+        },
+        {
+            "fullname": "Francesco Lucantoni",
+            "type": "Talk",
+            "title": "Everything you always wanted to know about pandas*"
+        },
+        {
+            "fullname": "Jarosław Śmietanka",
+            "type": "Talk (long session)",
+            "title": "The Hidden Cost of Complexity: Reducing Cognitive Load in Python"
+        },
+        {
+            "fullname": "Domagoj Marić",
+            "type": "Talk",
+            "title": "Friendly Borders: Graph algorithms reveal Eurovision voting patterns"
+        },
+        {
+            "fullname": "Giovanni Barillari",
+            "type": "Talk",
+            "title": "Rethinking AsyncIO from scratch for free-threaded Python"
+        },
+        {
+            "fullname": "Vlad-Stefan Harbuz",
+            "type": "Talk",
+            "title": "Binary Dependencies: Identifying the Hidden Packages We All Depend On"
+        },
+        {
+            "fullname": "Lysandros Nikolaou",
+            "type": "Talk",
+            "title": "Python Dicts: Past, Present, and Free-Threaded Future"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Summit",
+            "title": "Rust Summit at EuroPython"
+        },
+        {
+            "fullname": "Diego Russo",
+            "type": "Talk",
+            "title": "Update on the CPython JIT: What to expect in 3.15"
+        },
+        {
+            "fullname": "Manivannan Selvaraj",
+            "type": "Talk",
+            "title": "From Code Hero to Team Leader: Learning to Let Go"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Talk",
+            "title": "Rust for High Performance Computing (HPC) in Python"
+        },
+        {
+            "fullname": "Rodrigo Girão Serrão",
+            "type": "Tutorial",
+            "title": "Cooking with asyncio: an introduction to asynchronous programming"
+        },
+        {
+            "fullname": "Karen Jex",
+            "type": "Talk",
+            "title": "How much do you really need to know about Databases?"
+        },
+        {
+            "fullname": "Anwesha Das",
+            "type": "Talk",
+            "title": "Demystifying CRA for the community"
+        },
+        {
+            "fullname": "Thomas Wouters",
+            "type": "Talk (long session)",
+            "title": "Free-threaded Python: past, present and future"
+        },
+        {
+            "fullname": "Maciej Sobczak",
+            "type": "Talk",
+            "title": "Django’s Magic, FastAPI’s Reality: Test Isolation at Scale"
+        },
+        {
+            "fullname": "Alenka Frim",
+            "type": "Talk",
+            "title": "Stop Guessing, Start Understanding: How Arrow and Pandas Exchange Data"
+        },
+        {
+            "fullname": "Raúl Cumplido Domínguez",
+            "type": "Talk",
+            "title": "Stop Guessing, Start Understanding: How Arrow and Pandas Exchange Data"
+        },
+        {
+            "fullname": "Sviatoslav Sydorenko (Святослав Сидоренко)",
+            "type": "Talk",
+            "title": "Defending Open Source from \"AI\" Slop: A Maintainer's Practical Guide"
+        },
+        {
+            "fullname": "Mai Giménez",
+            "type": "Tutorial",
+            "title": "Let it rip a diffusion tutorial"
+        },
+        {
+            "fullname": "Julien Courtès",
+            "type": "Talk",
+            "title": "Designing Performant APIs with Litestar"
+        },
+        {
+            "fullname": "Cody Fincher",
+            "type": "Talk",
+            "title": "Designing Performant APIs with Litestar"
+        },
+        {
+            "fullname": "Sylwia Budzynska",
+            "type": "Tutorial",
+            "title": "Introduction to security research. Find a CVE with CodeQL."
+        }
+    ]
+}
