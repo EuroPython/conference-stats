@@ -1,0 +1,84 @@
+{% extends "templates/base.html" %}
+{% block content %}
+
+  <div class="max-w-3xl mx-auto">
+
+    <div class="flex flex-col sm:flex-row justify-center gap-4 mb-10">
+      <a href="sponsors.html" class="inline-flex items-center justify-center gap-2 rounded-lg bg-yellow-600 hover:bg-yellow-700 dark:bg-yellow-500 dark:hover:bg-yellow-400 text-white dark:text-neutral-900 font-medium px-6 py-3 transition-colors">
+        View Sponsors →
+      </a>
+      <a href="speakers.html" class="inline-flex items-center justify-center gap-2 rounded-lg border border-yellow-600 text-yellow-700 hover:bg-yellow-50 dark:border-yellow-400 dark:text-yellow-400 dark:hover:bg-neutral-800 font-medium px-6 py-3 transition-colors">
+        View Speakers →
+      </a>
+    </div>
+
+    <div class="space-y-4 text-black dark:text-white/80 leading-relaxed">
+      <p>
+        The goal of this project is to gather the public conference information from the many
+        Python events we have in Europe, so new events can have a good understanding of who to
+        contact for future sponsorship possibilities, and speakers can see past speaking
+        opportunities.
+      </p>
+      <p>
+        The data also highlights the companies and organizations helping the most in Python
+        conferences, similarly to the most active speakers.
+      </p>
+
+      <h2 class="block font-medium text-black dark:text-gray-200 text-xl sm:text-2xl pt-6">
+        How to contribute
+      </h2>
+      <p>
+        For each missing conference, find the information by visiting official websites,
+        archives, and past event pages. For sponsors, document the sponsorship tiers and costs
+        for that year and list every sponsor with their name, website, and level. For speakers,
+        list full name, URL (only if provided by the speaker), proposal type, title, and level.
+      </p>
+      <p>
+        Not enough time to gather everything yourself? Open an issue with a URL for the
+        conference and any sponsorship or speaker details you have, so someone else can pick it
+        up.
+      </p>
+      <p>
+        <a href="{{ repo_url }}" target="_blank" rel="noopener" class="text-blue-700 dark:text-yellow-400 hover:underline">
+          Read the full contribution guide and open an issue or pull request on GitHub →
+        </a>
+      </p>
+
+      <h2 class="block font-medium text-black dark:text-gray-200 text-xl sm:text-2xl pt-6">
+        Included Conferences
+      </h2>
+      <p>
+        Automatically generated from the data currently available in the repository. A cross
+        means that data hasn't been added for that conference/year yet — contributions welcome!
+      </p>
+      <div class="overflow-x-auto rounded-lg border border-gray-300 dark:border-neutral-700">
+        <table class="border-collapse w-full">
+          <thead>
+          <tr class="bg-gray-200 dark:bg-neutral-800">
+            <th class="border border-gray-300 dark:border-neutral-700 px-5 py-3 text-start">Conference</th>
+            <th class="border border-gray-300 dark:border-neutral-700 px-5 py-3 text-start w-28">Year</th>
+            <th class="border border-gray-300 dark:border-neutral-700 px-5 py-3 text-center w-28">Sponsors</th>
+            <th class="border border-gray-300 dark:border-neutral-700 px-5 py-3 text-center w-28">Speakers</th>
+          </tr>
+          </thead>
+          <tbody>
+          {% for c in conferences %}
+          <tr class="odd:bg-white even:bg-gray-50 dark:odd:bg-neutral-900 dark:even:bg-neutral-800/50">
+            <td class="border border-gray-200 dark:border-neutral-700 p-3">{{ c.conference }}</td>
+            <td class="border border-gray-200 dark:border-neutral-700 p-3">{{ c.year }}</td>
+            <td class="border border-gray-200 dark:border-neutral-700 p-3 text-center">
+              {% if c.has_sponsors %}<span class="text-green-600 dark:text-green-400">✓</span>{% else %}<span class="text-gray-400 dark:text-neutral-600">✗</span>{% endif %}
+            </td>
+            <td class="border border-gray-200 dark:border-neutral-700 p-3 text-center">
+              {% if c.has_speakers %}<span class="text-green-600 dark:text-green-400">✓</span>{% else %}<span class="text-gray-400 dark:text-neutral-600">✗</span>{% endif %}
+            </td>
+          </tr>
+          {% endfor %}
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+  </div>
+
+{% endblock %}

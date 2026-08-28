@@ -76,6 +76,20 @@ def normalize_type(raw_type):
     return canonical
 
 
+# Data directories are named per-conference, but casing has drifted between the
+# sponsors/ and speakers/ trees for the same event (e.g. "pyladiescon" vs
+# "PyLadiesCon"). Map every raw folder name we've seen onto one canonical
+# display name so the "Included Conferences" overview merges them into a
+# single row instead of listing the same conference twice.
+CONFERENCE_ALIASES = {
+    "pyladiescon": "PyLadiesCon",
+}
+
+
+def normalize_conference(raw_name):
+    return CONFERENCE_ALIASES.get(raw_name.lower(), raw_name)
+
+
 def parse_amount(value):
     """Sponsorship levels are sometimes recorded as numeric strings (e.g. "29000")
     or as non-monetary labels (e.g. "Unknown", "custom"); only the former convert."""
@@ -146,6 +160,24 @@ def build_speakers_context():
     }
 
 
+def collect_conferences():
+    """List every (conference, year) found in data/, flagging whether each has
+    sponsors data, speakers data, or both, for the homepage overview table."""
+    entries = {}
+    for kind, root in (("sponsors", DATA / "sponsors"), ("speakers", DATA / "speakers")):
+        for datafile in root.glob("*/*.json"):
+            name = normalize_conference(datafile.parents[0].stem)
+            year = int(datafile.stem)
+            flags = entries.setdefault((name, year), {"has_sponsors": False, "has_speakers": False})
+            flags[f"has_{kind}"] = True
+
+    conferences = [
+        {"conference": name, "year": year, **flags} for (name, year), flags in entries.items()
+    ]
+    conferences.sort(key=lambda c: (c["conference"], c["year"]))
+    return conferences
+
+
 def render(template_name, out_name, context):
     template = environment.get_template(str(Path("templates") / template_name))
     out = DEST / out_name
@@ -153,11 +185,17 @@ def render(template_name, out_name, context):
         f.write(template.render(context))
 
 
-sponsors_context = build_sponsors_context()
+def build_index_context():
+    return {
+        "title": "Welcome",
+        "description": "Historical sponsor and speaker data from European Python conferences",
+        "active": "home",
+        "repo_url": "https://github.com/europython/conference-stats",
+        "conferences": collect_conferences(),
+    }
 
-render("base_sponsors.html", "sponsors.html", sponsors_context)
+
+render("base_sponsors.html", "sponsors.html", build_sponsors_context())
 render("base_speakers.html", "speakers.html", build_speakers_context())
 # GitHub Pages has no directory listing/auto-index, so `/` 404s without this.
-# Sponsors is the de-facto home page (the navbar logo links there), so serve
-# the same content at the root instead of introducing a separate landing page.
-render("base_sponsors.html", "index.html", sponsors_context)
+render("base_index.html", "index.html", build_index_context())
