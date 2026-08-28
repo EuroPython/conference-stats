@@ -153,5 +153,11 @@ def render(template_name, out_name, context):
         f.write(template.render(context))
 
 
-render("base_sponsors.html", "sponsors.html", build_sponsors_context())
+sponsors_context = build_sponsors_context()
+
+render("base_sponsors.html", "sponsors.html", sponsors_context)
 render("base_speakers.html", "speakers.html", build_speakers_context())
+# GitHub Pages has no directory listing/auto-index, so `/` 404s without this.
+# Sponsors is the de-facto home page (the navbar logo links there), so serve
+# the same content at the root instead of introducing a separate landing page.
+render("base_sponsors.html", "index.html", sponsors_context)
