@@ -1,5 +1,5 @@
 {
-    "year": 2025,
+    "year": 2023,
     "speakers": [
         {
             "fullname": "Chang She",
@@ -44,7 +44,7 @@
         {
             "fullname": "Valerio Maggio",
             "type": "Talk",
-            "title": "Hitchhickers Guide to D&D Ì†ΩÌ∞â"
+            "title": "Hitchhickers Guide to D&D"
         },
         {
             "fullname": "Pranjal Biyani",
@@ -804,7 +804,7 @@
         {
             "fullname": "Rodrigo Gir√£o Serr√£o",
             "type": "Poster",
-            "title": "You DON'T know comprehensions Ì†æÌ¥∑"
+            "title": "You DON'T know comprehensions"
         },
         {
             "fullname": "Rodrigo Gir√£o Serr√£o",
@@ -860,16 +860,6 @@
             "fullname": "Eli Holderness",
             "type": "Talk",
             "title": "A Brief History of Data Storage"
-        },
-        {
-            "fullname": "Petr Viktorin",
-            "type": "Free Workshop",
-            "title": "Beginners' Day - PyLadies Snake Workshop"
-        },
-        {
-            "fullname": "Mia Bajiƒá",
-            "type": "Free Workshop",
-            "title": "Beginners' Day - PyLadies Snake Workshop"
         },
         {
             "fullname": "Joanna Bryson",

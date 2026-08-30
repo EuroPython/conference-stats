@@ -11,6 +11,18 @@ most in Python conferences, similarly to the most active speakers.
 > **Have an idea?** If you believe more data can be added, or new insights can
 > be extracted, please open an Issue!
 
+> [!NOTE]
+> **Disclaimer on sponsorship amounts.** The sponsorship amounts shown throughout
+> this repository are based on publicly available information, such as tier
+> prices listed on conference websites and sponsor prospectuses, and should be
+> read as estimates rather than the exact amount paid by each company. Some
+> sponsors negotiated their deals individually and ended up paying more or less
+> than the listed price for their tier, while others contributed in-kind
+> services or received discounts and were placed under the closest matching
+> sponsorship category for consistency. Early-bird discounts offered by some
+> events also mean that a sponsor listed under a given tier may have paid less
+> than the amount associated with it. Please treat all figures as approximate.
+
 # List of Conferences
 
 * EuroPython: 2021, 2022, 2023, 2024, 2025

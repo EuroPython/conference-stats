@@ -1,0 +1,144 @@
+{
+    "year": 2025,
+    "levels": {
+        "Diamond": 30000,
+        "Platinum": 18000,
+        "Gold": 9500,
+        "Silver": 7000,
+        "Bronze": 2000,
+        "Patron": 1000,
+        "Startup": 0
+    },
+    "sponsors": [
+        {
+            "name": "Manychat",
+            "website": "https://ep2026.europython.eu/sponsor/manychat",
+            "level": "Platinum"
+        },
+        {
+            "name": "Microsoft",
+            "website": "https://ep2026.europython.eu/sponsor/microsoft",
+            "level": "Platinum"
+        },
+        {
+            "name": "Vercel",
+            "website": "https://ep2026.europython.eu/sponsor/vercel",
+            "level": "Platinum"
+        },
+        {
+            "name": "ActiveCampaign",
+            "website": "https://ep2026.europython.eu/sponsors#sponsor-activecampaign",
+            "level": "Gold"
+        },
+        {
+            "name": "Apify",
+            "website": "https://ep2026.europython.eu/sponsors#sponsor-apify",
+            "level": "Gold"
+        },
+        {
+            "name": "ARM",
+            "website": "https://ep2026.europython.eu/sponsor/arm",
+            "level": "Gold"
+        },
+        {
+            "name": "Back Market",
+            "website": "https://ep2026.europython.eu/sponsors#sponsor-backmarket",
+            "level": "Gold"
+        },
+        {
+            "name": "BCGX",
+            "website": "https://ep2026.europython.eu/sponsors#sponsor-bcgx",
+            "level": "Gold"
+        },
+        {
+            "name": "Bloomberg",
+            "website": "https://ep2026.europython.eu/sponsors#sponsor-bloomberg",
+            "level": "Gold"
+        },
+        {
+            "name": "Google Cloud",
+            "website": "https://ep2026.europython.eu/sponsors#sponsor-google-cloud",
+            "level": "Gold"
+        },
+        {
+            "name": "HRT",
+            "website": "https://ep2026.europython.eu/sponsors#sponsor-hrt",
+            "level": "Gold"
+        },
+        {
+            "name": "Jetbrains",
+            "website": "https://ep2026.europython.eu/sponsors#sponsor-jetbrains",
+            "level": "Gold"
+        },
+        {
+            "name": "Modal",
+            "website": "https://ep2026.europython.eu/sponsors#sponsor-modal",
+            "level": "Gold"
+        },
+        {
+            "name": "Numberly",
+            "website": "https://ep2026.europython.eu/sponsors#sponsor-numberly",
+            "level": "Gold"
+        },
+        {
+            "name": "Python Institute",
+            "website": "https://ep2026.europython.eu/sponsors#sponsor-openedg-python-institute",
+            "level": "Gold"
+        },
+        {
+            "name": "Optiver",
+            "website": "https://ep2026.europython.eu/sponsors#sponsor-optiver",
+            "level": "Gold"
+        },
+        {
+            "name": "Revolut",
+            "website": "https://ep2026.europython.eu/sponsors#sponsor-revolut",
+            "level": "Gold"
+        },
+        {
+            "name": "Anaconda",
+            "website": "https://ep2026.europython.eu/sponsors#sponsor-anaconda",
+            "level": "Silver"
+        },
+        {
+            "name": "G-Research",
+            "website": "https://ep2026.europython.eu/sponsors#sponsor-g-research",
+            "level": "Silver"
+        },
+        {
+            "name": "Pretix",
+            "website": "https://ep2026.europython.eu/sponsors#sponsor-pretix",
+            "level": "Silver"
+        },
+        {
+            "name": "Zyte",
+            "website": "https://ep2026.europython.eu/sponsors#sponsor-zyte",
+            "level": "Silver"
+        },
+        {
+            "name": "Waracle",
+            "website": "https://ep2026.europython.eu/sponsors#sponsor-waracle",
+            "level": "Bronze"
+        },
+        {
+            "name": "SerpApi",
+            "website": "https://ep2026.europython.eu/sponsors#sponsor-serpapi",
+            "level": "Patron"
+        },
+        {
+            "name": "1Password",
+            "website": "https://ep2026.europython.eu/sponsors#sponsor-1password",
+            "level": "Supporters"
+        },
+        {
+            "name": "Evolabel",
+            "website": "https://ep2026.europython.eu/sponsors#sponsor-evolabel",
+            "level": "Supporters"
+        },
+        {
+            "name": "Pretalx",
+            "website": "https://ep2026.europython.eu/sponsors#sponsor-pretalx",
+            "level": "Supporters"
+        }
+    ]
+}

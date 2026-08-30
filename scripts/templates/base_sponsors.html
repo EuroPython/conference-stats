@@ -1,0 +1,86 @@
+{% extends "templates/base.html" %}
+{% import "templates/_macros.html" as m %}
+{% block content %}
+
+  <div class="rounded-lg border border-yellow-300 bg-yellow-50 text-sm text-yellow-900 p-4 mb-6 dark:border-yellow-700 dark:bg-yellow-950/30 dark:text-yellow-200">
+    <p>
+      <span class="font-medium">A note on these numbers:</span> the amounts shown here are based on
+      publicly available information, such as tier prices listed on conference websites and sponsor
+      prospectuses, and should be read as estimates rather than the exact amount paid by each
+      company. Some sponsors negotiated their deals individually and ended up paying more or less
+      than the listed price for their tier, while others contributed in-kind services or received
+      discounts and were placed under the closest matching sponsorship category for consistency.
+      Early-bird discounts offered by some events also mean that a sponsor listed under a given tier
+      may have paid less than the amount associated with it. Please treat all figures as approximate.
+    </p>
+  </div>
+
+  <h2 class="block font-medium text-black dark:text-gray-200 text-xl sm:text-2xl md:text-3xl lg:text-4xl text-center py-5">
+    Ranking by amount
+  </h2>
+  <script type="application/json" id="sponsors-grouped-data">{{ grouped_json }}</script>
+  <div x-data="dataTable(JSON.parse(document.getElementById('sponsors-grouped-data').textContent), { sortKey: 'total', sortAsc: false, searchKeys: ['name'], perPage: 10, amountKey: 'total' })">
+    {{ m.toolbar("Filter by company...", true) }}
+    <div class="overflow-x-auto rounded-lg border border-gray-300 dark:border-neutral-700">
+      <table class="border-collapse w-full table-fixed">
+        <thead>
+        <tr class="bg-gray-200 dark:bg-neutral-800">
+          {{ m.sort_th("Company", "name", "text-start w-3/4") }}
+          {{ m.sort_th("Total amount (EUR)", "total", "text-end w-1/4") }}
+        </tr>
+        </thead>
+        <tbody>
+        <template x-for="(sponsor, i) in paginated" :key="i">
+          <tr class="odd:bg-white even:bg-gray-50 dark:odd:bg-neutral-900 dark:even:bg-neutral-800/50 hover:bg-yellow-50 dark:hover:bg-neutral-800 transition-colors">
+            <td class="border border-gray-200 dark:border-neutral-700 p-3">
+              <a :href="sponsor.website" target="_blank" rel="noopener" class="text-brand hover:text-brand-active hover:underline" x-text="sponsor.name"></a>
+            </td>
+            <td class="border border-gray-200 dark:border-neutral-700 p-3 text-right tabular-nums" x-text="formatAmount(sponsor.total)"></td>
+          </tr>
+        </template>
+        <tr x-show="filtered.length === 0">
+          <td colspan="2" class="border border-gray-200 dark:border-neutral-700 p-6 text-center text-gray-500 dark:text-neutral-400">No sponsors match your search.</td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+    {{ m.pagination() }}
+  </div>
+
+  <h2 class="block font-medium text-black dark:text-gray-200 text-xl sm:text-2xl md:text-3xl lg:text-4xl text-center py-5">
+    All data
+  </h2>
+  <script type="application/json" id="sponsors-all-data">{{ all_json }}</script>
+  <div x-data="dataTable(JSON.parse(document.getElementById('sponsors-all-data').textContent), { sortKey: 'year', sortAsc: false, searchKeys: ['name', 'conference'], perPage: 15, amountKey: 'amount' })">
+    {{ m.toolbar("Filter by company or conference...", true) }}
+    <div class="overflow-x-auto rounded-lg border border-gray-300 dark:border-neutral-700">
+      <table class="border-collapse w-full table-fixed">
+        <thead>
+        <tr class="bg-gray-200 dark:bg-neutral-800">
+          {{ m.sort_th("Year", "year", "w-25") }}
+          {{ m.sort_th("Conference", "conference", "w-36") }}
+          {{ m.sort_th("Company", "name") }}
+          {{ m.sort_th("Amount (EUR)", "amount", "text-end w-36") }}
+        </tr>
+        </thead>
+        <tbody>
+        <template x-for="(sponsor, i) in paginated" :key="i">
+          <tr class="odd:bg-white even:bg-gray-50 dark:odd:bg-neutral-900 dark:even:bg-neutral-800/50 hover:bg-yellow-50 dark:hover:bg-neutral-800 transition-colors">
+            <td class="border border-gray-200 dark:border-neutral-700 p-3" x-text="sponsor.year"></td>
+            <td class="border border-gray-200 dark:border-neutral-700 p-3" x-text="sponsor.conference"></td>
+            <td class="border border-gray-200 dark:border-neutral-700 p-3">
+              <a :href="sponsor.website" target="_blank" rel="noopener" class="text-brand hover:text-brand-active hover:underline" x-text="sponsor.name"></a>
+            </td>
+            <td class="border border-gray-200 dark:border-neutral-700 p-3 text-right tabular-nums" x-text="formatAmount(sponsor.amount)"></td>
+          </tr>
+        </template>
+        <tr x-show="filtered.length === 0">
+          <td colspan="4" class="border border-gray-200 dark:border-neutral-700 p-6 text-center text-gray-500 dark:text-neutral-400">No sponsors match your search.</td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+    {{ m.pagination() }}
+  </div>
+
+{% endblock %}

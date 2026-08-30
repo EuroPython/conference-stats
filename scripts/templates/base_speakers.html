@@ -1,0 +1,48 @@
+{% extends "templates/base.html" %}
+{% import "templates/_macros.html" as m %}
+{% block content %}
+
+  <h2 class="block font-medium text-black dark:text-gray-200 text-xl sm:text-2xl md:text-3xl lg:text-4xl text-center py-5">
+    All speakers
+  </h2>
+  <script type="application/json" id="speakers-data">{{ speakers_json }}</script>
+  <div x-data="dataTable(JSON.parse(document.getElementById('speakers-data').textContent), { sortKey: 'year', sortAsc: false, searchKeys: ['fullname', 'conference', 'title'], perPage: 15, filterKey: 'type' })">
+    {{ m.toolbar("Filter by name, conference or title...", false, speaker_types) }}
+    <div class="overflow-x-auto rounded-lg border border-gray-300 dark:border-neutral-700">
+      <table class="border-collapse w-full table-fixed">
+        <thead>
+        <tr class="bg-gray-200 dark:bg-neutral-800">
+          {{ m.sort_th("Year", "year", "w-20") }}
+          {{ m.sort_th("Conference", "conference", "w-32") }}
+          {{ m.sort_th("Speaker", "fullname", "w-48") }}
+          {{ m.sort_th("Type", "type", "w-40") }}
+          {{ m.sort_th("Title", "title") }}
+        </tr>
+        </thead>
+        <tbody>
+        <template x-for="(speaker, i) in paginated" :key="i">
+          <tr class="odd:bg-white even:bg-gray-50 dark:odd:bg-neutral-900 dark:even:bg-neutral-800/50 hover:bg-yellow-50 dark:hover:bg-neutral-800 transition-colors">
+            <td class="border border-gray-200 dark:border-neutral-700 p-3" x-text="speaker.year"></td>
+            <td class="border border-gray-200 dark:border-neutral-700 p-3" x-text="speaker.conference"></td>
+            <td class="border border-gray-200 dark:border-neutral-700 p-3">
+              <template x-if="speaker.url">
+                <a :href="speaker.url" target="_blank" rel="noopener" class="text-brand hover:text-brand-active hover:underline" x-text="speaker.fullname"></a>
+              </template>
+              <template x-if="!speaker.url">
+                <span x-text="speaker.fullname"></span>
+              </template>
+            </td>
+            <td class="border border-gray-200 dark:border-neutral-700 p-3" x-text="speaker.type"></td>
+            <td class="border border-gray-200 dark:border-neutral-700 p-3" x-text="speaker.title"></td>
+          </tr>
+        </template>
+        <tr x-show="filtered.length === 0">
+          <td colspan="5" class="border border-gray-200 dark:border-neutral-700 p-6 text-center text-gray-500 dark:text-neutral-400">No speakers match your search.</td>
+        </tr>
+        </tbody>
+      </table>
+    </div>
+    {{ m.pagination() }}
+  </div>
+
+{% endblock %}

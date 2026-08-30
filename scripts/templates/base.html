@@ -1,0 +1,223 @@
+<!doctype html>
+<html class="">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ConferenceStats{% if title %} · {{ title }}{% endif %}</title>
+    <!-- EuroPython Society brand fonts: Fira Sans (body) + Libre Baskerville (headings) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;500;700&family=Libre+Baskerville:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <style type="text/tailwindcss">
+      /* Class based dark mode */
+      @variant dark (&:where(.dark, .dark *));
+
+      /* EuroPython Society brand: primary accent color (used for links/URLs)
+         and font pairing, matching https://www.europython-society.org/ */
+      @theme {
+        --color-brand: #D95736;
+        --color-brand-active: #BF4526;
+      }
+
+      body {
+        font-family: 'Fira Sans', ui-sans-serif, system-ui, sans-serif;
+      }
+
+      h1, h2 {
+        font-family: 'Libre Baskerville', Georgia, serif;
+      }
+    </style>
+    <script>
+    if (localStorage.getItem('dark-mode') === 'true' || (!('dark-mode' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        document.querySelector('html').classList.add('dark');
+    } else {
+        document.querySelector('html').classList.remove('dark');
+    }
+    </script>
+    <!-- Reusable Alpine.js component: search + sort + pagination for a table of records -->
+    <script>
+    function formatAmount(value) {
+      if (value === null || value === undefined || Number.isNaN(value)) return '–';
+      return value.toLocaleString('en-US', { minimumFractionDigits: 0 });
+    }
+    function dataTable(rows, options) {
+      options = options || {};
+      return {
+        rows: rows,
+        search: '',
+        sortKey: options.sortKey || null,
+        sortAsc: options.sortAsc !== undefined ? options.sortAsc : true,
+        searchKeys: options.searchKeys || [],
+        perPage: options.perPage || 10,
+        page: 1,
+        // When set, rows are considered "non-monetary" (and hidden by default)
+        // if this field isn't a positive number — covers 0, null/NaN and any
+        // other non-numeric placeholder (e.g. "-", "Unknown").
+        amountKey: options.amountKey || null,
+        hideNonMonetary: options.hideNonMonetary !== undefined ? options.hideNonMonetary : true,
+        isMonetary(row) {
+          const value = row[this.amountKey];
+          return typeof value === 'number' && !Number.isNaN(value) && value > 0;
+        },
+        // Generic exact-match dropdown filter (e.g. filtering speakers by type).
+        // filterValue === '' means "All".
+        filterKey: options.filterKey || null,
+        filterValue: '',
+        init() {
+          this.$watch('search', () => { this.page = 1; });
+          this.$watch('hideNonMonetary', () => { this.page = 1; });
+          this.$watch('filterValue', () => { this.page = 1; });
+        },
+        sortBy(key) {
+          if (this.sortKey === key) {
+            this.sortAsc = !this.sortAsc;
+          } else {
+            this.sortKey = key;
+            this.sortAsc = true;
+          }
+          this.page = 1;
+        },
+        get filtered() {
+          const term = this.search.trim().toLowerCase();
+          let result = this.rows;
+          if (this.amountKey && this.hideNonMonetary) {
+            result = result.filter((row) => this.isMonetary(row));
+          }
+          if (this.filterKey && this.filterValue) {
+            result = result.filter((row) => row[this.filterKey] === this.filterValue);
+          }
+          if (term) {
+            result = result.filter((row) =>
+              this.searchKeys.some((key) => String(row[key] ?? '').toLowerCase().includes(term))
+            );
+          }
+          if (this.sortKey) {
+            const key = this.sortKey;
+            const dir = this.sortAsc ? 1 : -1;
+            result = [...result].sort((a, b) => {
+              const va = a[key];
+              const vb = b[key];
+              if (typeof va === 'number' && typeof vb === 'number') return (va - vb) * dir;
+              return String(va).localeCompare(String(vb)) * dir;
+            });
+          }
+          return result;
+        },
+        get pageCount() {
+          return Math.max(1, Math.ceil(this.filtered.length / this.perPage));
+        },
+        get paginated() {
+          const start = (this.page - 1) * this.perPage;
+          return this.filtered.slice(start, start + this.perPage);
+        },
+        prevPage() {
+          if (this.page > 1) this.page--;
+        },
+        nextPage() {
+          if (this.page < this.pageCount) this.page++;
+        },
+      };
+    }
+    </script>
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.14/dist/cdn.min.js"></script>
+  </head>
+  <body class="bg-white dark:bg-neutral-900">
+    <!-- navbar -->
+    <header class="sticky top-0 inset-x-0 flex flex-wrap md:justify-start md:flex-nowrap z-50 w-full text-sm">
+      <nav x-data="{ mobileMenuOpen: false }" class="mt-4 relative max-w-6xl w-full bg-white/80 backdrop-blur border border-gray-200 rounded-[14px] mx-2 px-5 flex flex-wrap md:flex-nowrap items-center justify-between p-1 ps-4 md:py-0 sm:mx-auto dark:bg-neutral-900/80 dark:border-neutral-700 shadow-sm">
+        <a href="index.html" class="flex items-center gap-2 text-black dark:text-white text-xl">
+          <img src="img/eps-logo.png" alt="EuroPython Society logo" class="size-8 rounded-full" />
+          Conference<span class="text-brand">Stats</span>
+        </a>
+
+        <div class="flex items-center md:order-last">
+          <!-- Light/Dark toggler -->
+          <div class="flex flex-col justify-center ml-3">
+              <input type="checkbox" id="light-switch" class="light-switch sr-only" />
+              <label class="relative cursor-pointer p-2" for="light-switch">
+                  <svg class="dark:hidden" width="16" height="16" xmlns="http://www.w3.org/2000/svg">
+                      <path class="fill-slate-300" d="M7 0h2v2H7zM12.88 1.637l1.414 1.415-1.415 1.413-1.413-1.414zM14 7h2v2h-2zM12.95 14.433l-1.414-1.413 1.413-1.415 1.415 1.414zM7 14h2v2H7zM2.98 14.364l-1.413-1.415 1.414-1.414 1.414 1.415zM0 7h2v2H0zM3.05 1.706 4.463 3.12 3.05 4.535 1.636 3.12z" />
+                      <path class="fill-slate-400" d="M8 4C5.8 4 4 5.8 4 8s1.8 4 4 4 4-1.8 4-4-1.8-4-4-4Z" />
+                  </svg>
+                  <svg class="hidden dark:block" width="16" height="16" xmlns="http://www.w3.org/2000/svg">
+                      <path class="fill-slate-400" d="M6.2 1C3.2 1.8 1 4.6 1 7.9 1 11.8 4.2 15 8.1 15c3.3 0 6-2.2 6.9-5.2C9.7 11.2 4.8 6.3 6.2 1Z" />
+                      <path class="fill-slate-500" d="M12.5 5a.625.625 0 0 1-.625-.625 1.252 1.252 0 0 0-1.25-1.25.625.625 0 1 1 0-1.25 1.252 1.252 0 0 0 1.25-1.25.625.625 0 1 1 1.25 0c.001.69.56 1.249 1.25 1.25a.625.625 0 1 1 0 1.25c-.69.001-1.249.56-1.25 1.25A.625.625 0 0 1 12.5 5Z" />
+                  </svg>
+                  <span class="sr-only">Switch to light / dark version</span>
+              </label>
+          </div>
+
+          <!-- Mobile menu toggle -->
+          <button
+            type="button"
+            @click="mobileMenuOpen = !mobileMenuOpen"
+            class="md:hidden ml-1 p-2 text-gray-500 hover:text-gray-800 dark:text-neutral-400 dark:hover:text-neutral-200 focus:outline-hidden"
+            :aria-expanded="mobileMenuOpen"
+            aria-controls="navbar-links"
+            aria-label="Toggle navigation"
+          >
+            <svg x-show="!mobileMenuOpen" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <line x1="3" y1="6" x2="21" y2="6" />
+              <line x1="3" y1="12" x2="21" y2="12" />
+              <line x1="3" y1="18" x2="21" y2="18" />
+            </svg>
+            <svg x-show="mobileMenuOpen" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <line x1="18" y1="6" x2="6" y2="18" />
+              <line x1="6" y1="6" x2="18" y2="18" />
+            </svg>
+          </button>
+        </div>
+
+        <div id="navbar-links" :class="mobileMenuOpen ? 'block' : 'hidden'" class="overflow-hidden transition-all duration-300 basis-full grow md:block order-last md:order-none">
+          <div class="flex flex-col md:flex-row md:items-center md:justify-end gap-2 md:gap-3 mt-3 md:mt-0 py-2 md:py-0 md:ps-7">
+            <a class="py-0.5 md:py-3 px-4 md:px-1 border-s-2 md:border-s-0 md:border-b-2 {% if active == 'sponsors' %}border-yellow-600 font-medium text-gray-800 dark:border-yellow-400 dark:text-neutral-200{% else %}border-transparent text-gray-500 hover:text-gray-800 dark:text-neutral-400 dark:hover:text-neutral-200{% endif %} focus:outline-hidden transition-colors" href="sponsors.html" {% if active == 'sponsors' %}aria-current="page"{% endif %}>Sponsors</a>
+            <a class="py-0.5 md:py-3 px-4 md:px-1 border-s-2 md:border-s-0 md:border-b-2 {% if active == 'speakers' %}border-yellow-600 font-medium text-gray-800 dark:border-yellow-400 dark:text-neutral-200{% else %}border-transparent text-gray-500 hover:text-gray-800 dark:text-neutral-400 dark:hover:text-neutral-200{% endif %} focus:outline-hidden transition-colors" href="speakers.html" {% if active == 'speakers' %}aria-current="page"{% endif %}>Speakers</a>
+          </div>
+        </div>
+
+      </nav>
+    </header>
+    <!-- end navbar -->
+
+    <div>
+      <div class="max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8 pt-10 pb-16 sm:pt-12">
+        <div class="max-w-2xl text-center mx-auto mb-8 sm:mb-10">
+          <h1 class="block font-medium text-black dark:text-gray-200 text-2xl sm:text-3xl md:text-4xl">
+            {{ title }}
+          </h1>
+          <p class="mt-2 text-base sm:text-lg text-black dark:text-white/70">{{ description }}</p>
+        </div>
+
+        <div class="max-w-6xl mx-auto text-black dark:text-white">
+        {% block content %}
+        {% endblock %}
+        </div>
+
+      </div>
+    </div>
+
+  </body>
+<!-- Light/Dark mode -->
+<script>
+const lightSwitch = document.getElementById('light-switch');
+if (localStorage.getItem('dark-mode') === 'true') {
+  lightSwitch.checked = true;
+} else {
+  lightSwitch.checked = false;
+}
+
+lightSwitch.addEventListener('change', function() {
+  if (this.checked) {
+    document.documentElement.classList.add('dark');
+    localStorage.setItem('dark-mode', true);
+  } else {
+    document.documentElement.classList.remove('dark');
+    localStorage.setItem('dark-mode', false);
+  }
+});
+</script>
+</html>
