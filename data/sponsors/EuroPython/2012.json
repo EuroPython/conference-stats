@@ -1,0 +1,147 @@
+{
+    "year": 2012,
+    "levels": {
+        "Recruiting": 0,
+        "Sponsor talk": 0,
+        "Product visibility": 0,
+        "Startup": 0,
+        "Brading": 0
+    },
+    "sponsors": [
+        {
+            "name": "Google",
+            "website":  "https://Google.com",
+            "level": "Unknown"
+        },
+        {
+            "name": "Spotify",
+            "website": "https://open.spotify.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "MongoDB",
+            "website": "https://www.mongodb.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Bitbucket",
+            "website": "https://bitbucket.org/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Python Academy",
+            "website": "https://www.python-academy.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Red Hat",
+            "website": "https://www.redhat.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Pytools",
+            "website": "https://pytools.codeplex.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "link",
+            "website": "http://linkgroup.it/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Demonware",
+            "website": "https://www.demonware.net/",
+            "level": "Unknown"
+        },
+        {
+            "name": "develer",
+            "website": "https://www.develer.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "enthought",
+            "website": "https://www.enthought.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "gymglish",
+            "website": "https://www.gymglish.com/intl/en/",
+            "level": "Unknown"
+        },
+        {
+            "name": "ivija",
+            "website": "https://ivija.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "nexedi",
+            "website": "https://www.nexedi.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "aws",
+            "website": "https://aws.amazon.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "register.it",
+            "website": "http://we.register.it/",
+            "level": "Unknown"
+        },
+         {
+            "name": "ceccini",
+            "website": "https://www.cecchi.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Github",
+            "website": "http://github.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Open ERP community",
+            "website": "Unknown",
+            "level": "Unknown"
+        },
+        {
+            "name": "Spielo",
+            "website": "https://www.spielo.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Statpro",
+            "website": "http://www.statpro.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Unbit",
+            "website": "https://github.com/unbit",
+            "level": "Unknown"
+        },
+        {
+            "name": "Scraper wiki",
+            "website": "https://scraperwiki.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Scraper wiki",
+            "website": "https://scraperwiki.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "nana bianca",
+            "website": "https://www.nanabianca.it/",
+            "level": "Unknown"
+        },
+        {
+            "name": "transifex",
+            "website": "https://www.transifex.net/",
+            "level": "Unknown"
+        },
+        {
+            "name": "SSL Matrix",
+            "website": "https://www.sslmatrix.com/",
+            "level": "Unknown"
+        }
+    ]
+}
