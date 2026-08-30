@@ -4,10 +4,32 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>ConferenceStats{% if title %} · {{ title }}{% endif %}</title>
+    <!-- EuroPython Society brand fonts: Fira Sans (body) + Libre Baskerville (headings) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;500;700&family=Libre+Baskerville:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     <style type="text/tailwindcss">
       /* Class based dark mode */
       @variant dark (&:where(.dark, .dark *));
+
+      /* EuroPython Society brand: primary accent color (used for links/URLs)
+         and font pairing, matching https://www.europython-society.org/ */
+      @theme {
+        --color-brand: #D95736;
+        --color-brand-active: #BF4526;
+      }
+
+      body {
+        font-family: 'Fira Sans', ui-sans-serif, system-ui, sans-serif;
+      }
+
+      h1, h2 {
+        font-family: 'Libre Baskerville', Georgia, serif;
+      }
     </style>
     <script>
     if (localStorage.getItem('dark-mode') === 'true' || (!('dark-mode' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
@@ -107,8 +129,9 @@
     <!-- navbar -->
     <header class="sticky top-0 inset-x-0 flex flex-wrap md:justify-start md:flex-nowrap z-50 w-full text-sm">
       <nav x-data="{ mobileMenuOpen: false }" class="mt-4 relative max-w-6xl w-full bg-white/80 backdrop-blur border border-gray-200 rounded-[14px] mx-2 px-5 flex flex-wrap md:flex-nowrap items-center justify-between p-1 ps-4 md:py-0 sm:mx-auto dark:bg-neutral-900/80 dark:border-neutral-700 shadow-sm">
-        <a href="index.html" class="text-black dark:text-white text-xl">
-          Conference<span class="text-yellow-600 dark:text-yellow-400">Stats</span>
+        <a href="index.html" class="flex items-center gap-2 text-black dark:text-white text-xl">
+          <img src="img/eps-logo.png" alt="EuroPython Society logo" class="size-8 rounded-full" />
+          Conference<span class="text-brand">Stats</span>
         </a>
 
         <div class="flex items-center md:order-last">

@@ -26,7 +26,7 @@
             <td class="border border-gray-200 dark:border-neutral-700 p-3" x-text="speaker.conference"></td>
             <td class="border border-gray-200 dark:border-neutral-700 p-3">
               <template x-if="speaker.url">
-                <a :href="speaker.url" target="_blank" rel="noopener" class="text-blue-700 dark:text-yellow-400 hover:underline" x-text="speaker.fullname"></a>
+                <a :href="speaker.url" target="_blank" rel="noopener" class="text-brand hover:text-brand-active hover:underline" x-text="speaker.fullname"></a>
               </template>
               <template x-if="!speaker.url">
                 <span x-text="speaker.fullname"></span>
