@@ -1,0 +1,195 @@
+{
+    "year": 2016,
+    "levels": {
+        "Keystone": 30000,
+        "Diamond": 20000,
+        "Platinium": 10000,
+        "Gold": 5000,
+        "Silver": 3500,
+        "Bronze": 2000,
+        "Patron": 1000
+    },
+    "sponsors": [
+        {
+            "name": "Python Software Foundation (PSF)",
+            "website": "https://www.python.org/psf-landing/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Bilbao",
+            "website": "http://www.bilbao.net/",
+            "level": "Unknown"
+        },
+        {
+            "name": "BBVA",
+            "website": "https://www.bbva.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Hired",
+            "website": "https://www.lhh.com/us/en/hired/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Intel",
+            "website": "https://www.intel.de/content/www/de/de/homepage.html",
+            "level": "Unknown"
+        },
+        {
+            "name": "Microsoft",
+            "website": "https://developer.microsoft.com/en-us/python/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Euskal Herriko Unibersitatea",
+            "website": "https://www.ehu.eus/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Udemy",
+            "website": "https://www.udemy.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Winton",
+            "website": "https://www.winton.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Jet Brains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Blue yonder",
+            "website": "http://www.blue-yonder.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Bynder",
+            "website": "https://www.bynder.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Criteo",
+            "website": "https://www.criteo.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Demonware",
+            "website": "https://www.demonware.net/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Mark and Spenser",
+            "website": "https://www.marksandspencer.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Pusher",
+            "website": "https://pusher.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Red Hat",
+            "website": "https://www.redhat.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "stxnext",
+            "website": "https://www.stxnext.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Travel Perk",
+            "website": "https://www.stxnext.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Hotjar",
+            "website": "https://www.hotjar.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Numberly",
+            "website": "https://numberly.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Godaddy",
+            "website": "https://www.godaddy.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Flying Circus",
+            "website": "https://flyingcircus.io/en/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Skyscanner",
+            "website": "https://www.skyscanner.net/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Trustyou",
+            "website": "https://www.trustyou.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Facebook",
+            "website": "https://www.facebook.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Python Academy",
+            "website": "https://www.python-academy.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "OLX",
+            "website": "https://www.olxgroup.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Code Syntax",
+            "website": "https://www.codesyntax.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "django cms",
+            "website": "https://www.django-cms.org/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Fanduel",
+            "website": "https://www.fanduel.careers/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Ikergune",
+            "website": "https://www.ikergune.com/en",
+            "level": "Unknown"
+        },
+        {
+            "name": "RiverBank computing",
+            "website": "https://www.riverbankcomputing.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "O'REILLY",
+            "website": "https://www.oreilly.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Spyhce",
+            "website": "https://www.spyhce.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Plone",
+            "website": "https://plone.org/",
+            "level": "Unknown"
+        }
+        
+    ]
+}
