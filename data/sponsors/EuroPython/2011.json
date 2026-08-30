@@ -1,0 +1,133 @@
+{
+    "year": 2011,
+    "levels": {
+        "Recruiting": 0,
+        "Sponsor talk": 0,
+        "Product visibility": 0,
+        "Startup": 0,
+        "Brading": 0
+    },
+    "sponsors": [
+        {
+            "name": "Google",
+            "website":  "https://Google.com",
+            "level": "Unknown"
+        },
+        {
+            "name": "Spotify",
+            "website": "https://open.spotify.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "hp",
+            "website": "https://www.hp.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Amazon",
+            "website": "https://amazon.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Red Hat",
+            "website": "https://www.redhat.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "rackspace",
+            "website": "https://www.rackspace.com/",
+            "level": "Unknown"
+        }, 
+        {
+            "name": "Python Academy",
+            "website": "https://www.python-academy.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "enquos",
+            "website": "http://enquos.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Github",
+            "website": "http://github.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Jet Brains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Unknown"
+        },
+         {
+            "name": "Python Anywhere",
+            "website": "https://www.pythonanywhere.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Demonware",
+            "website": "https://www.demonware.net/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Divio",
+            "website": "https://www.divio.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "web republic",
+            "website": "https://www.webrepublic.com/en/",
+            "level": "Unknown"
+        },
+        {
+            "name": "MongoDB",
+            "website": "https://www.mongodb.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "develer",
+            "website": "https://www.develer.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "elastic search",
+            "website": "http://www.elasticsearch.com/",
+            "level": "Unknown"
+        },
+         {
+            "name": "nana bianca",
+            "website": "https://www.nanabianca.it/",
+            "level": "Unknown"
+        },
+        {
+            "name": "HEROKU",
+            "website": "https://www.heroku.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Link group",
+            "website": "http://linkgroup.it/",
+            "level": "Unknown"
+        },
+        {
+            "name": "O'REILLY",
+            "website": "https://www.oreilly.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "mist.io",
+            "website": "hhttps://mist.io/",
+            "level": "Unknown"
+        },
+        {
+            "name": "SSL Matrix",
+            "website": "https://www.sslmatrix.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Linux Porfessional institute",
+            "website": "http://www.lpi-italia.org/",
+            "level": "Unknown"
+        }
+        
+    ]
+}
