@@ -16,7 +16,7 @@ most in Python conferences, similarly to the most active speakers.
 * EuroPython: 2021, 2022, 2023, 2024, 2025
 * PyLadiesCon: 2023, 2024, 2025*
 * PyCon Spain: 2023
-* PyCon Italy:
+* PyCon Italy: 2022, 2023, 2024, 2025
 * PyCon Greece:
 
 # How to contribute?
