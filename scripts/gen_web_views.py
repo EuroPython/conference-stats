@@ -141,6 +141,8 @@ def normalize_conference(raw_name):
 FX_TO_EUR = {
     "EUR": 1.0,
     "CZK": 0.040,
+    "PLN": 0.23,
+    "SEK": 0.088,
 }
 
 

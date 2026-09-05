@@ -1,0 +1,42 @@
+{
+    "year": 2025,
+    "currency": "SEK",
+    "levels": {
+        "Gold": 50000,
+        "Silver": 25000,
+        "Bronze": 10000,
+        "Patron": 5000
+    },
+    "sponsors": [
+        {
+            "name": "Hatchet",
+            "website": "https://www.hatchet.run/",
+            "level": "Gold"
+        },
+        {
+            "name": "84codes (LavinMQ)",
+            "website": "https://www.cloudamqp.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "EuroPython Society",
+            "website": "www.europython-society.org/",
+            "level": "Gold"
+        },
+        {
+            "name": "Elastic",
+            "website": "https://www.elastic.co/",
+            "level": "Silver"
+        },
+        {
+            "name": "Modal",
+            "website": "https://ep2026.europython.eu/sponsors#sponsor-modal",
+            "level": "Silver"
+        },
+        {
+            "name": "Packt Publishing",
+            "website": "https://www.packtpub.com/",
+            "level": "Patron"
+        }
+    ]
+}

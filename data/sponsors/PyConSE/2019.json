@@ -1,0 +1,47 @@
+{
+    "year": 2019,
+    "currency": "SEK",
+    "levels": {
+        "Main sponsor": 300000,
+        "Gold": 120000,
+        "Silver": 60000,
+        "Bronze": 30000
+    },
+    "sponsors": [
+        {
+            "name": "H&M Group",
+            "website": "https://hmgroup.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Gold"
+        },
+        {
+            "name": "Funnel",
+            "website": "https://funnel.io/",
+            "level": "Gold"
+        },
+        {
+            "name": "46elks",
+            "website": "https://46elks.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Manning",
+            "website": "https://www.manning.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Aigents",
+            "website": "",
+            "level": "Bronze"
+        },
+        {
+            "name": "Datafloq",
+            "website": "https://datafloq.com/",
+            "level": "Bronze"
+        }
+    ]
+}

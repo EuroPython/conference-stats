@@ -1,0 +1,67 @@
+{
+    "year": 2023,
+    "currency": "SEK",
+    "levels": {
+        "Gold": 65000,
+        "Silver": 45000,
+        "Bronze": 25000,
+        "Patron": 15000
+    },
+    "sponsors": [
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Gold"
+        },
+        {
+            "name": "Temporal.io",
+            "website": "https://temporal.io/",
+            "level": "Silver"
+        },
+        {
+            "name": "Hopsworks.AI",
+            "website": "https://www.hopsworks.ai/",
+            "level": "Silver"
+        },
+        {
+            "name": "EuroPython Society",
+            "website": "www.europython-society.org/",
+            "level": "Bronze"
+        },
+        {
+            "name": "SDNit",
+            "website": "https://sdnit.se/",
+            "level": "Patron"
+        },
+        {
+            "name": "Nexer",
+            "website": "https://nexergroup.com/",
+            "level": "Patron"
+        },
+        {
+            "name": "Favoptic",
+            "website": "https://www.favoptic.com/",
+            "level": "Patron"
+        },
+        {
+            "name": "Sticker Mule",
+            "website": "https://www.stickermule.com/",
+            "level": "Patron"
+        },
+        {
+            "name": "PyData Stockholm",
+            "website": "",
+            "level": "Patron"
+        },
+        {
+            "name": "46elks",
+            "website": "https://46elks.com/",
+            "level": "Patron"
+        },
+        {
+            "name": "Metallapan",
+            "website": "",
+            "level": "Patron"
+        }
+    ]
+}

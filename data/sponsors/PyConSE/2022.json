@@ -1,0 +1,47 @@
+{
+    "year": 2022,
+    "currency": "SEK",
+    "levels": {
+        "Gold": 50000,
+        "Silver": 0,
+        "Bronze": 0,
+        "Patron": 10000
+    },
+    "sponsors": [
+        {
+            "name": "Svenska Kraftnät",
+            "website": "https://www.svk.se/",
+            "level": "Gold"
+        },
+        {
+            "name": "Anocca",
+            "website": "https://anocca.ai/",
+            "level": "Gold"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Gold"
+        },
+        {
+            "name": "46elks",
+            "website": "https://46elks.com/",
+            "level": "Patron"
+        },
+        {
+            "name": "Nexer",
+            "website": "https://nexergroup.com/",
+            "level": "Patron"
+        },
+        {
+            "name": "Sticker Mule",
+            "website": "https://www.stickermule.com/",
+            "level": "Patron"
+        },
+        {
+            "name": "Manning",
+            "website": "https://www.manning.com/",
+            "level": "Patron"
+        }
+    ]
+}
