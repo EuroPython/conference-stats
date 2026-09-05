@@ -1,0 +1,38 @@
+{
+    "year": 2024,
+    "levels": {
+        "Bronze": 1000,
+        "Silver": 2000,
+        "Gold": 3000,
+        "Platinum": 4000,
+        "Diamond": 6000,
+        "Grants": 0
+    },
+    "sponsors": [
+        {
+            "name": "Pydantic",
+            "website": "https://pydantic.dev/",
+            "level": "Diamond"
+        },
+        {
+            "name": "Zencoder",
+            "website": "https://zencoder.ai/",
+            "level": "Platinum"
+        },
+        {
+            "name": "EuroPython Society",
+            "website": "https://europython-society.org/",
+            "level": "Grants"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Grants"
+        },
+        {
+            "name": "Django Software Foundation",
+            "website": "https://www.djangoproject.com/foundation/",
+            "level": "Grants"
+        }
+    ]
+}

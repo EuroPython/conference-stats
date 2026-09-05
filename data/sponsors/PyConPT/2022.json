@@ -1,0 +1,33 @@
+{
+    "year": 2022,
+    "levels": {
+        "Bronze": 1000,
+        "Silver": 2000,
+        "Gold": 3000,
+        "Platinum": 4000,
+        "Diamond": 6000,
+        "Grants": 0
+    },
+    "sponsors": [
+        {
+            "name": "Issuu",
+            "website": "https://issuu.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Vonage",
+            "website": "https://developer.vonage.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Grants"
+        },
+        {
+            "name": "EuroPython Society",
+            "website": "https://europython-society.org/",
+            "level": "Grants"
+        }
+    ]
+}

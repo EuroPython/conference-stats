@@ -1,0 +1,33 @@
+{
+    "year": 2023,
+    "levels": {
+        "Bronze": 1000,
+        "Silver": 2000,
+        "Gold": 3000,
+        "Platinum": 4000,
+        "Diamond": 6000,
+        "Grants": 0
+    },
+    "sponsors": [
+        {
+            "name": "Loggi",
+            "website": "https://www.loggi.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "EuroPython Society",
+            "website": "https://europython-society.org/",
+            "level": "Grants"
+        },
+        {
+            "name": "Django Software Foundation",
+            "website": "https://www.djangoproject.com/foundation/",
+            "level": "Grants"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Grants"
+        }
+    ]
+}
