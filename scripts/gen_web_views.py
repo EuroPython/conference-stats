@@ -48,21 +48,62 @@ def read_json(path):
 TYPE_ALIASES = {
     "talk": "Talk",
     "talk (long session)": "Talk",
+    "talk (long)": "Talk",
+    "talk (15 mins + q&a)": "Talk",
+    "talk (25 mins + q&a)": "Talk",
+    "talk (30min + 5min q&a)": "Talk",
+    "talk (30min + 5min questions & answers)": "Talk",
+    "talk (35min + 5min questions & answers)": "Talk",
+    "charla": "Talk",
+    "guest talk": "Talk",
+    "invited talk": "Talk",
+    "lightning talks": "Talk",
+    "lightning talk session": "Talk",
+    "main stage event": "Talk",
+    "lecture room event": "Talk",
+    "maintainer track": "Talk",
+    "maintainer track long": "Talk",
     "sponsored": "Sponsored",
     "sponsored talk": "Sponsored",
+    "sponsored talk (long)": "Sponsored",
+    "sponsored talk (keystone)": "Sponsored",
+    "sponsor (diamond)": "Sponsored",
     "tutorial": "Workshop",
+    "tutorial (1,5 hours)": "Workshop",
     "conference workshop": "Workshop",
     "special workshop": "Workshop",
     "free workshop": "Workshop",
+    "workshop": "Workshop",
+    "workshop (long)": "Workshop",
+    "workshop (short)": "Workshop",
+    "workshop (90min)": "Workshop",
+    "workshop (90min + 10min presentation/final discussion)": "Workshop",
+    "kids workshop": "Workshop",
+    "young coders event": "Workshop",
+    "classroom event": "Workshop",
+    "interactive workshop or collaborative session": "Workshop",
     "panel": "Panel",
     "panel [in-person & remote]": "Panel",
+    "panels": "Panel",
+    "round table event": "Panel",
     "keynote": "Keynote",
     "poster": "Poster",
+    "poster session": "Poster",
     "summit": "Summit",
     "mentored sprints": "Mentored Sprints",
     "documentary and q&a": "Documentary and Q&A",
     "announcements": "Announcements",
     "open space": "Open Space",
+    "other": "Other",
+    "something else": "Other",
+    # One-off session formats specific to a single conference/year that don't
+    # cleanly match any of the canonical categories above; left as-is rather
+    # than forced into a bad fit.
+    "assambly": "Assambly",
+    "freestyle": "Freestyle",
+    "freestyle template": "Freestyle Template",
+    "talk template": "Talk Template",
+    "organization": "Organization",
 }
 
 
@@ -90,21 +131,42 @@ def normalize_conference(raw_name):
     return CONFERENCE_ALIASES.get(raw_name.lower(), raw_name)
 
 
-def parse_amount(value):
+# Sponsorship amounts are recorded in whatever currency the conference itself
+# published (see the optional "currency" field on each sponsors/*.json file;
+# it defaults to EUR when absent, which covers the vast majority of files).
+# These are static, approximate rates - not looked up live - so that
+# regenerating the site later doesn't change historical totals depending on
+# the exchange rate of the day. Good enough given the amounts themselves are
+# already estimates (see the disclaimer on the sponsors page).
+FX_TO_EUR = {
+    "EUR": 1.0,
+    "CZK": 0.040,
+}
+
+
+def parse_amount(value, currency="EUR"):
     """Sponsorship levels are sometimes recorded as numeric strings (e.g. "29000")
-    or as non-monetary labels (e.g. "Unknown", "custom"); only the former convert."""
+    or as non-monetary labels (e.g. "Unknown", "custom"); only the former convert.
+    Non-EUR amounts are converted to EUR using a static approximate rate so
+    they can be meaningfully compared/summed across conferences."""
     try:
-        return float(value)
+        amount = float(value)
     except (TypeError, ValueError):
         return np.nan
+    rate = FX_TO_EUR.get(currency)
+    if rate is None:
+        print(f"[WARN] Unknown currency {currency!r}, treating amount as EUR", file=sys.stderr)
+        rate = 1.0
+    return amount * rate
 
 
 def build_sponsors_context():
     dfs = []
     for datafile in sorted((DATA / "sponsors").glob("**/*.json")):
         data = read_json(datafile)
+        currency = data.get("currency", "EUR")
         df = pd.DataFrame(data["sponsors"])
-        df["amount"] = df["level"].apply(lambda x: parse_amount(data["levels"].get(x, np.nan)))
+        df["amount"] = df["level"].apply(lambda x: parse_amount(data["levels"].get(x, np.nan), currency))
         df["conference"] = datafile.parents[0].stem
         df["year"] = int(datafile.stem)
         dfs.append(df)
@@ -160,21 +222,34 @@ def build_speakers_context():
     }
 
 
+def format_years(years):
+    """Render a sorted list of years as a plain comma-separated list, e.g.
+    [2017,2018,2019,2022] -> "2017, 2018, 2019, 2022"."""
+    return ", ".join(str(year) for year in years)
+
+
 def collect_conferences():
-    """List every (conference, year) found in data/, flagging whether each has
-    sponsors data, speakers data, or both, for the homepage overview table."""
-    entries = {}
-    for kind, root in (("sponsors", DATA / "sponsors"), ("speakers", DATA / "speakers")):
+    """List every conference found in data/, with the years we have sponsors
+    and/or speakers data for, one row per conference for the homepage overview."""
+    sponsor_years = {}
+    speaker_years = {}
+    for years_by_conference, root in (
+        (sponsor_years, DATA / "sponsors"),
+        (speaker_years, DATA / "speakers"),
+    ):
         for datafile in root.glob("*/*.json"):
             name = normalize_conference(datafile.parents[0].stem)
-            year = int(datafile.stem)
-            flags = entries.setdefault((name, year), {"has_sponsors": False, "has_speakers": False})
-            flags[f"has_{kind}"] = True
+            years_by_conference.setdefault(name, set()).add(int(datafile.stem))
 
+    names = sorted(set(sponsor_years) | set(speaker_years))
     conferences = [
-        {"conference": name, "year": year, **flags} for (name, year), flags in entries.items()
+        {
+            "conference": name,
+            "sponsor_years": format_years(sorted(sponsor_years.get(name, []))),
+            "speaker_years": format_years(sorted(speaker_years.get(name, []))),
+        }
+        for name in names
     ]
-    conferences.sort(key=lambda c: (c["conference"], c["year"]))
     return conferences
 
 
