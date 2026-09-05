@@ -1,0 +1,21 @@
+{
+    "year": 2024,
+    "levels": {
+        "Gold": 4000,
+        "Silver": 2000,
+        "Bronze": 1000,
+        "Grants": 0
+    },
+    "sponsors": [
+        {
+            "name": "Sopra Steria",
+            "website": "https://www.soprasteria.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "EuroPython Society",
+            "website": "www.europython-society.org/",
+            "level": "Grants"
+        }
+    ]
+}

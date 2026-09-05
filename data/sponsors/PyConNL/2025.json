@@ -1,0 +1,40 @@
+{
+    "year": 2025,
+    "levels": {
+        "Gold": 4000,
+        "Silver": 2500,
+        "Bronze": 1000
+    },
+    "sponsors": [
+        {
+            "name": "Sopra Steria",
+            "website": "https://www.soprasteria.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Vakgroep Software Ontwikkeling (VSO)",
+            "website": "",
+            "level": "Silver"
+        },
+        {
+            "name": "Qstars IT",
+            "website": "https://www.qstars.nl/",
+            "level": "Silver"
+        },
+        {
+            "name": "Red Hat",
+            "website": "https://www.redhat.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Four Digits",
+            "website": "https://www.fourdigits.nl/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Channable",
+            "website": "https://www.channable.com/",
+            "level": "Bronze"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "year": 2026,
+    "levels": {
+        "Platinum": 9000,
+        "Gold": 5500,
+        "Silver": 3000,
+        "Bronze": 1500,
+        "Grants": 0
+    },
+    "sponsors": [
+        {
+            "name": "Sopra Steria",
+            "website": "https://www.soprasteria.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "SendCloud",
+            "website": "https://www.sendcloud.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "QStars",
+            "website": "https://www.qstars.nl/",
+            "level": "Gold"
+        },
+        {
+            "name": "Channable",
+            "website": "https://www.channable.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "EuroPython Society",
+            "website": "www.europython-society.org/",
+            "level": "Grants"
+        }
+    ]
+}
