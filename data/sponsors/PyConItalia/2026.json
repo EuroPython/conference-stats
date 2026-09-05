@@ -1,0 +1,235 @@
+{
+    "year": 2026,
+    "levels": {
+        "Keystone": 17000,
+        "Gold": 10000,
+        "Silver": 7000,
+        "Bronze": 3000,
+        "Patron": 2000,
+        "Startup": 600,
+        "Kinship": 1000,
+        "Media Partners": 0
+    },
+    "sponsors": [
+        {
+            "name": "Generali",
+            "website": "http://www.gogenerali.com",
+            "level": "Gold"
+        },
+        {
+            "name": "Cassandra",
+            "website": "https://cassandra.app/",
+            "level": "Gold"
+        },
+        {
+            "name": "Nephila",
+            "website": "https://www.nephila.digital/it/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Kraken",
+            "website": "https://kraken.tech/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Bloomberg",
+            "website": "https://www.bloomberg.com/company/values/tech-at-bloomberg/python/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Sopra Steria",
+            "website": "https://www.soprasteria.it/",
+            "level": "Bronze"
+        },
+        {
+            "name": "PyTech",
+            "website": "https://www.pytech.it/",
+            "level": "Patron"
+        },
+        {
+            "name": "Fabio Lamanna",
+            "website": "http://www.fabiolamanna.it/",
+            "level": "Startup"
+        },
+        {
+            "name": "Pydantic",
+            "website": "https://pydantic.dev/",
+            "level": "Startup"
+        },
+        {
+            "name": "Dvision Lab",
+            "website": "https://dvisionlab.it/",
+            "level": "Startup"
+        },
+        {
+            "name": "Cargoful",
+            "website": "https://cargoful.tech/",
+            "level": "Startup"
+        },
+        {
+            "name": "Paradigma",
+            "website": "https://paradigma.me/",
+            "level": "Startup"
+        },
+        {
+            "name": "Hitoo",
+            "website": "https://hitoo.io/",
+            "level": "Startup"
+        },
+        {
+            "name": "EuroPython Society",
+            "website": "https://www.europython-society.org/",
+            "level": "Kinship"
+        },
+        {
+            "name": "AppSignal",
+            "website": "https://www.appsignal.com/",
+            "level": "Kinship"
+        },
+        {
+            "name": "JetBrains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Kinship"
+        },
+        {
+            "name": "Django Software Foundation",
+            "website": "https://www.djangoproject.com/",
+            "level": "Kinship"
+        },
+        {
+            "name": "Regione Emilia Romagna",
+            "website": "https://emiliaromagnaturismo.it/it",
+            "level": "Kinship"
+        },
+        {
+            "name": "Link IT Europe",
+            "website": "https://linkeurope.it/",
+            "level": "Kinship"
+        },
+        {
+            "name": "Strawberry",
+            "website": "https://shop.strawberry.rocks/",
+            "level": "Kinship"
+        },
+        {
+            "name": "Logitech",
+            "website": "https://www.logitech.com/it-it",
+            "level": "Kinship"
+        },
+        {
+            "name": "Python Biella Group",
+            "website": "https://pythonbiellagroup.it/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "PyRE",
+            "website": "https://pyre.it",
+            "level": "Media Partners"
+        },
+        {
+            "name": "Python Milano",
+            "website": "http://milano.python.it",
+            "level": "Media Partners"
+        },
+        {
+            "name": "theRedCode",
+            "website": "https://www.theredcode.it/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "Schrödinger Hat",
+            "website": "https://schroedinger-hat.org/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "Come to Code",
+            "website": "https://www.cometocode.it/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "PointerPodcast",
+            "website": "https://pointerpodcast.it/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "She Tech",
+            "website": "https://shetechitaly.org/eventi/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "pisa.dev",
+            "website": "https://pisa.dev/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "Django Girls Italia",
+            "website": "https://djangogirls.org/pt/bologna/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "PyBari",
+            "website": "https://bari.python.it/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "Python Pescara",
+            "website": "https://pescara.python.it/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "PyRoma",
+            "website": "https://t.me/pyroma",
+            "level": "Media Partners"
+        },
+        {
+            "name": "Python Torino",
+            "website": "https://torino.python.it/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "Python Marche",
+            "website": "https://marche.python.it/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "Python Catania",
+            "website": "https://catania.python.it/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "PyCampania",
+            "website": "https://www.meetup.com/it-IT/pycampania/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "PyData Roma Capitale",
+            "website": "https://www.meetup.com/it-it/pydata-roma-capitale/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "PyData Venice",
+            "website": "https://venice.pydata.org/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "PyVenice",
+            "website": "https://venice.python.it/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "Matera Tech",
+            "website": "https://materatech.it",
+            "level": "Media Partners"
+        },
+        {
+            "name": "PyZena",
+            "website": "https://www.linkedin.com/company/pyzena/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "Py4AI",
+            "website": "https://www.py4ai.com/",
+            "level": "Media Partners"
+        }
+    ]
+}
