@@ -1,0 +1,50 @@
+{
+    "year": 2024,
+    "levels": {
+        "Diamond": 7500,
+        "Platinum": 4500,
+        "Gold": 2500,
+        "Silver": 1000,
+        "Volunteers": 2000,
+        "Bar & Entertainment": 2500,
+        "Lanyards": 1200,
+        "Workshop": 500
+    },
+    "sponsors": [
+        {
+            "name": "Bank of America",
+            "website": "https://careers.bankofamerica.com/en-us/",
+            "level": "Diamond"
+        },
+        {
+            "name": "FRS Recruitment",
+            "website": "https://www.frsrecruitment.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Carelon",
+            "website": "https://www.carelon.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "EdgeTier",
+            "website": "https://www.edgetier.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Fáilte Ireland",
+            "website": "https://www.failteireland.ie/",
+            "level": "Gold"
+        },
+        {
+            "name": "DevITJobs",
+            "website": "https://devitjobs.ie/",
+            "level": "Silver"
+        },
+        {
+            "name": "Demonware",
+            "website": "https://www.demonware.net/",
+            "level": "Silver"
+        }
+    ]
+}

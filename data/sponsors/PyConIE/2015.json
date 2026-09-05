@@ -1,0 +1,99 @@
+{
+    "year": 2015,
+    "levels": {
+        "Diamond": 5000,
+        "Platinum": 2500,
+        "Gold": 1000,
+        "Silver": 500,
+        "Bar and Entertainment": 2000,
+        "Lanyards": 500,
+        "Workshop": 500
+    },
+    "sponsors": [
+        {
+            "name": "Newrelic",
+            "website": "https://newrelic.com/",
+            "level": "Diamond"
+        },
+        {
+            "name": "Brightwater",
+            "website": "https://www.brightwater.ie/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Page Fair",
+            "website": "https://pagefair.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "JetBrains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Udemy",
+            "website": "https://about.udemy.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Intercom",
+            "website": "https://www.intercom.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Tito",
+            "website": "https://ti.to/",
+            "level": "Gold"
+        },
+        {
+            "name": "CareerZoo",
+            "website": "https://careerzoo.ie/",
+            "level": "Gold"
+        },
+        {
+            "name": "Stripe",
+            "website": "https://stripe.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Bank of America",
+            "website": "https://careers.bankofamerica.com/en-us/",
+            "level": "Gold"
+        },
+        {
+            "name": "Zalando",
+            "website": "https:/zalando.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "RTÉ Digital",
+            "website": "https://www.rte.ie/",
+            "level": "Silver"
+        },
+        {
+            "name": "Wingware ",
+            "website": "https://wingware.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Swrve",
+            "website": "https://www.swrve.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Symantec",
+            "website": "https://www.broadcom.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "ScrapingHub",
+            "website": "https://www.zyte.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Django CMS",
+            "website": "https://www.django-cms.org/",
+            "level": "Silver"
+        }
+    ]
+}

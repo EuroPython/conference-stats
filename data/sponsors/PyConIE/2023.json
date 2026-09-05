@@ -1,0 +1,51 @@
+{
+    "year": 2023,
+    "levels": {
+        "Diamond": 7500,
+        "Platinum": 4500,
+        "Gold": 2500,
+        "Silver": 1000,
+        "Accessibility": 2850,
+        "Volunteers": 2000,
+        "Bar & Entertainment": 2500,
+        "Lanyards": 1250,
+        "Workshop": 500
+    },
+    "sponsors": [
+        {
+            "name": "Bank of America",
+            "website": "https://careers.bankofamerica.com/en-us/",
+            "level": "Diamond"
+        },
+        {
+            "name": "Fáilte Ireland",
+            "website": "https://www.failteireland.ie/",
+            "level": "Platinum"
+        },
+        {
+            "name": "FRS Recruitment",
+            "website": "https://www.frsrecruitment.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Demonware",
+            "website": "https://www.demonware.net/",
+            "level": "Gold"
+        },
+        {
+            "name": "DevITJobs",
+            "website": "https://devitjobs.ie/",
+            "level": "Silver"
+        },
+        {
+            "name": "Renaissance Re",
+            "website": "https://www.renre.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "EuroPython Society",
+            "website": "www.europython-society.org/",
+            "level": "Accessibility"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "year": 2022,
+    "levels": {
+        "Diamond": 7500,
+        "Platinum": 4500,
+        "Gold": 2500,
+        "Silver": 1000,
+        "Accessibility": 2850,
+        "Volunteers": 2000,
+        "Bar & Entertainment": 2500,
+        "Lanyards": 1250,
+        "Workshop": 500
+    },
+    "sponsors": [
+        {
+            "name": "Bank of America",
+            "website": "https://careers.bankofamerica.com/en-us/",
+            "level": "Diamond"
+        },
+        {
+            "name": "Brightwater",
+            "website": "https://www.brightwater.ie/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Renaissance Re",
+            "website": "https://www.renre.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Jumping Rivers",
+            "website": "https://www.jumpingrivers.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "MongoDB",
+            "website": "https://www.mongodb.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "EuroPython Society",
+            "website": "www.europython-society.org/",
+            "level": "Community"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Community"
+        },
+        {
+            "name": "DevITJobs",
+            "website": "https://devitjobs.ie/",
+            "level": "Community"
+        }
+    ]
+}

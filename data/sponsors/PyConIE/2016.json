@@ -1,0 +1,89 @@
+{
+    "year": 2016,
+    "levels": {
+        "Diamond": 5000,
+        "Platinum": 3000,
+        "Gold": 1500,
+        "Silver": 750,
+        "Bar and Entertainment": 2000,
+        "Lanyards": 500,
+        "Workshop": 500
+    },
+    "sponsors": [
+        {
+            "name": "Scurri",
+            "website": "https://www.scurri.com/",
+            "level": "Diamond"
+        },
+        {
+            "name": "Brightwater",
+            "website": "https://www.brightwater.ie/",
+            "level": "Platinum"
+        },
+        {
+            "name": "RapidRatings",
+            "website": "https://www.rapidratings.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Ammeon",
+            "website": "https://www.ammeon.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Hosted Graphite",
+            "website": "https://www.hostedgraphite.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Python Academy",
+            "website": "https://www.python-academy.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Unravel",
+            "website": "https://www.unraveldata.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Zalando",
+            "website": "https:/zalando.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Bank of America",
+            "website": "https://careers.bankofamerica.com/en-us/",
+            "level": "Gold"
+        },
+        {
+            "name": "Wingware ",
+            "website": "https://wingware.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Logentries",
+            "website": "https://www.rapid7.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "O'Reilly",
+            "website": "www.oreilly.com",
+            "level": "Silver"
+        },
+        {
+            "name": "Nexmo",
+            "website": "https://www.vonage.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "WP Engine",
+            "website": "https://wpengine.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "PSF Support"
+        }
+    ]
+}

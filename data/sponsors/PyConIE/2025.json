@@ -1,0 +1,53 @@
+{
+    "year": 2025,
+    "levels": {
+        "Diamond": 11000,
+        "Platinum": 7500,
+        "Gold": 5000,
+        "Silver": 2500,
+        "Bar & Entertainment": 5000,
+        "Lanyards": 1200
+    },
+    "sponsors": [
+        {
+            "name": "Bank of America",
+            "website": "https://careers.bankofamerica.com/en-us/",
+            "level": "Diamond"
+        },
+        {
+            "name": "IBM ContextForge",
+            "website": "https://www.ibm.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Fáilte Ireland",
+            "website": "https://www.failteireland.ie/",
+            "level": "Gold"
+        },
+        {
+            "name": "EuroPython Society",
+            "website": "www.europython-society.org/",
+            "level": "Gold"
+        },
+        {
+            "name": "DevITJobs",
+            "website": "https://devitjobs.ie/",
+            "level": "Silver"
+        },
+        {
+            "name": "Renaissance Re",
+            "website": "https://www.renre.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "EdgeTier",
+            "website": "https://www.edgetier.com/",
+            "level": "Bar & Entertainment"
+        },
+        {
+            "name": "Jentic",
+            "website": "https://jentic.com/",
+            "level": "Lanyards"
+        }
+    ]
+}

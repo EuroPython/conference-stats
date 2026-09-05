@@ -1,0 +1,74 @@
+{
+    "year": 2019,
+    "levels": {
+        "Diamond": 6500,
+        "Platinum": 4000,
+        "Gold": 2000,
+        "Silver": 850,
+        "Accessibility": 2500,
+        "Bar & Entertainment": 2000,
+        "Lanyards": 1250
+    },
+    "sponsors": [
+        {
+            "name": "Telnyx",
+            "website": "https://telnyx.com/",
+            "level": "Diamond"
+        },
+        {
+            "name": "Demonware",
+            "website": "https://www.demonware.net/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Brightwater",
+            "website": "https://www.brightwater.ie/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Tenable",
+            "website": "https://www.tenable.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Bank of America",
+            "website": "https://careers.bankofamerica.com/en-us/",
+            "level": "Gold"
+        },
+        {
+            "name": "Microsoft",
+            "website": "https://developer.microsoft.com/en-us/python/",
+            "level": "Gold"
+        },
+        {
+            "name": "Bloomberg Polarlake",
+            "website": "https://www.bloomberg.com/professional/product/enterprise-data-management/",
+            "level": "Silver"
+        },
+        {
+            "name": "O'Reilly",
+            "website": "www.oreilly.com",
+            "level": "Silver"
+        },
+        {
+            "name": "Renaissance Re",
+            "website": "https://www.renre.com/",
+            "level": "Accessibility"
+        },
+        {
+            "name": "RapidRatings",
+            "website": "https://www.rapidratings.com/",
+            "level": "Bar & Entertainment"
+        },
+        {
+            "name": "Telnyx",
+            "website": "https://telnyx.com/",
+            "level": "Lanyards"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Supporters"
+        }
+    ]
+}
