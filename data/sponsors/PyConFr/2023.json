@@ -1,0 +1,102 @@
+{
+    "year": 2023,
+    "levels": {
+        "Coeur": 0,
+        "Bronze": 500,
+        "Silver": 1000,
+        "Gold": 2000,
+        "Platine": 0
+    },
+    "sponsors": [
+        {
+            "name": "Université de Bordeaux",
+            "website": "https://www.u-bordeaux.fr/",
+            "level": "Platine"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Platine"
+        },
+        {
+            "name": "Taipy",
+            "website": "www.taipy.io",
+            "level": "Gold"
+        },
+        {
+            "name": "GitGuardian",
+            "website": "https://www.gitguardian.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Alma",
+            "website": "https://almapay.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Clever Cloud",
+            "website": "https://www.clever-cloud.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Entr'ouvert",
+            "website": "https://www.entrouvert.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Makina Corpus",
+            "website": "https://makina-corpus.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "CGWire",
+            "website": "https://cg-wire.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Michelin",
+            "website": "https://www.michelin.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Alkivi",
+            "website": "https://alkivi.fr/",
+            "level": "Bronze"
+        },
+        {
+            "name": "MyBeezBox",
+            "website": "",
+            "level": "Bronze"
+        },
+        {
+            "name": "Emencia",
+            "website": "https://www.emencia.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Yaal Coop",
+            "website": "https://www.yaal.coop/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Mergify",
+            "website": "https://mergify.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Camptocamp",
+            "website": "https://camptocamp.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Mozilla",
+            "website": "",
+            "level": "Bronze"
+        },
+        {
+            "name": "Gandi",
+            "website": "https://www.gandi.net/",
+            "level": "Bronze"
+        }
+    ]
+}

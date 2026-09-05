@@ -1,0 +1,102 @@
+{
+    "year": 2024,
+    "levels": {
+        "Coeur": 0,
+        "Bronze": 500,
+        "Silver": 1000,
+        "Gold": 2000,
+        "Platine": 0
+    },
+    "sponsors": [
+        {
+            "name": "Université de Strasbourg",
+            "website": "https://www.unistra.fr/",
+            "level": "Platine"
+        },
+        {
+            "name": "EuroPython Society",
+            "website": "www.europython-society.org/",
+            "level": "Platine"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Platine"
+        },
+        {
+            "name": "Kraken",
+            "website": "https://kraken.tech/",
+            "level": "Gold"
+        },
+        {
+            "name": "Scalingo",
+            "website": "https://scalingo.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Alma",
+            "website": "https://almapay.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Entr'ouvert",
+            "website": "https://www.entrouvert.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Makina Corpus",
+            "website": "https://makina-corpus.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Gandi",
+            "website": "https://www.gandi.net/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Camptocamp",
+            "website": "https://camptocamp.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Tempo Consulting",
+            "website": "https://www.tempo-consulting.fr/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Yaal Coop",
+            "website": "https://www.yaal.coop/",
+            "level": "Bronze"
+        },
+        {
+            "name": "pass Culture",
+            "website": "https://pass.culture.fr/",
+            "level": "Bronze"
+        },
+        {
+            "name": "API Society",
+            "website": "",
+            "level": "Bronze"
+        },
+        {
+            "name": "Django Software Foundation",
+            "website": "https://www.djangoproject.com/foundation/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Julien Lenormand",
+            "website": "",
+            "level": "Bronze"
+        },
+        {
+            "name": "PauLLA",
+            "website": "",
+            "level": "Coeur"
+        },
+        {
+            "name": "Women Techmakers",
+            "website": "https://developers.google.com/womentechmakers",
+            "level": "Coeur"
+        }
+    ]
+}

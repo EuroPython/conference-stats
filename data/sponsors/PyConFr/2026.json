@@ -1,0 +1,36 @@
+{
+    "year": 2026,
+    "levels": {
+        "Coeur": 0,
+        "Bronze": 500,
+        "Silver": 1000,
+        "Gold": 2000
+    },
+    "sponsors": [
+        {
+            "name": "ESTIA",
+            "website": "https://www.estia.fr/",
+            "level": "Platine"
+        },
+        {
+            "name": "Mergify",
+            "website": "https://mergify.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Yaal Coop",
+            "website": "https://www.yaal.coop/",
+            "level": "Bronze"
+        },
+        {
+            "name": "WeasyPrint",
+            "website": "https://weasyprint.org/",
+            "level": "Coeur"
+        },
+        {
+            "name": "Annabelle Nicvert",
+            "website": "",
+            "level": "Partenaires"
+        }
+    ]
+}

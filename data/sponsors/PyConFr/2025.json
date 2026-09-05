@@ -1,0 +1,112 @@
+{
+    "year": 2025,
+    "levels": {
+        "Coeur": 0,
+        "Bronze": 500,
+        "Silver": 1000,
+        "Gold": 2000,
+        "Platine": 0
+    },
+    "sponsors": [
+        {
+            "name": "Campus René Cassin",
+            "website": "",
+            "level": "Platine"
+        },
+        {
+            "name": "IPI",
+            "website": "https://www.ipi.fr/",
+            "level": "Platine"
+        },
+        {
+            "name": "EPSI",
+            "website": "https://www.epsi.fr/",
+            "level": "Platine"
+        },
+        {
+            "name": "EuroPython Society",
+            "website": "www.europython-society.org/",
+            "level": "Platine"
+        },
+        {
+            "name": "April",
+            "website": "https://www.april.org/",
+            "level": "Gold"
+        },
+        {
+            "name": "Elastic",
+            "website": "https://www.elastic.co/",
+            "level": "Gold"
+        },
+        {
+            "name": "Kraken",
+            "website": "https://kraken.tech/",
+            "level": "Gold"
+        },
+        {
+            "name": "Scalingo",
+            "website": "https://scalingo.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Navicat",
+            "website": "https://www.navicat.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Solidaires Informatique",
+            "website": "",
+            "level": "Gold"
+        },
+        {
+            "name": "Entr'ouvert",
+            "website": "https://www.entrouvert.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Kobalt",
+            "website": "https://www.kobalt.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Alma",
+            "website": "https://almapay.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Botify",
+            "website": "https://www.botify.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Yaal Coop",
+            "website": "https://www.yaal.coop/",
+            "level": "Bronze"
+        },
+        {
+            "name": "itarverne",
+            "website": "",
+            "level": "Bronze"
+        },
+        {
+            "name": "majerti",
+            "website": "https://majerti.fr/",
+            "level": "Bronze"
+        },
+        {
+            "name": "WeasyPrint",
+            "website": "https://weasyprint.org/",
+            "level": "Coeur"
+        },
+        {
+            "name": "nilleb",
+            "website": "",
+            "level": "Coeur"
+        },
+        {
+            "name": "API Society",
+            "website": "",
+            "level": "Coeur"
+        }
+    ]
+}

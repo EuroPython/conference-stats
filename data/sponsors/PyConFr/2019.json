@@ -1,0 +1,118 @@
+{
+    "year": 2019,
+    "levels": {
+        "Coeur": 0,
+        "Bronze": 500,
+        "Argent": 1000,
+        "Or": 2000,
+        "Platine (Transcription/Boissons)": 4000,
+        "Platine (Video)": 6000
+    },
+    "sponsors": [
+        {
+            "name": "Université de Bordeaux",
+            "website": "https://www.u-bordeaux.fr/",
+            "level": "Platine (Video)"
+        },
+        {
+            "name": "Google Cloud",
+            "website": "https://cloud.google.com/",
+            "level": "Platine (Video)"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Platine (Video)"
+        },
+        {
+            "name": "EuroPython Society",
+            "website": "www.europython-society.org/",
+            "level": "Platine (Video)"
+        },
+        {
+            "name": "Clever Cloud",
+            "website": "https://www.clever-cloud.com/",
+            "level": "Or"
+        },
+        {
+            "name": "JetBrains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Or"
+        },
+        {
+            "name": "Back Market",
+            "website": "https://www.backmarket.es/es-es",
+            "level": "Or"
+        },
+        {
+            "name": "Logilab",
+            "website": "https://www.logilab.fr/",
+            "level": "Argent"
+        },
+        {
+            "name": "Entr'ouvert",
+            "website": "https://www.entrouvert.com/",
+            "level": "Argent"
+        },
+        {
+            "name": "PeopleDoc",
+            "website": "https://www.ultimatesoftware.com/",
+            "level": "Argent"
+        },
+        {
+            "name": "Makina Corpus",
+            "website": "https://makina-corpus.com/",
+            "level": "Argent"
+        },
+        {
+            "name": "Oslandia",
+            "website": "https://oslandia.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Gandi",
+            "website": "https://www.gandi.net/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Anybox",
+            "website": "https://anybox.fr/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Wifirst",
+            "website": "https://www.wifirst.fr/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Tempo Consulting",
+            "website": "https://www.tempo-consulting.fr/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Algoo",
+            "website": "https://algoo.fr/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Bearstech",
+            "website": "https://bearstech.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Mergify",
+            "website": "https://mergify.com/",
+            "level": "Coeur"
+        },
+        {
+            "name": "OctopusMind",
+            "website": "",
+            "level": "Coeur"
+        },
+        {
+            "name": "Alves-Info",
+            "website": "",
+            "level": "Coeur"
+        }
+    ]
+}
