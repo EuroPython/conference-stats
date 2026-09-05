@@ -1,0 +1,77 @@
+{
+    "year": 2017,
+    "levels": {
+        "Diamant": 12500,
+        "Platin": 8000,
+        "Gold": 4000,
+        "Silber": 2000,
+        "Community": 0
+    },
+    "sponsors": [
+        {
+            "name": "Daimler",
+            "website": "https://www.daimler.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "SAP",
+            "website": "https://www.sap.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "billiger.de",
+            "website": "https://www.billiger.de/",
+            "level": "Gold"
+        },
+        {
+            "name": "Rosen",
+            "website": "https://www.rosen-group.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "JetBrains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "yelp.de",
+            "website": "https://www.yelp.de/",
+            "level": "Gold"
+        },
+        {
+            "name": "ypsilon.net",
+            "website": "https://ypsilon.net/",
+            "level": "Silber"
+        },
+        {
+            "name": "Blue Yonder",
+            "website": "https://www.blueyonder.com/",
+            "level": "Community"
+        },
+        {
+            "name": "Königsweg",
+            "website": "https://koenigsweg.com/",
+            "level": "Community"
+        },
+        {
+            "name": "Python Academy",
+            "website": "https://www.python-academy.com/",
+            "level": "Community"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Community"
+        },
+        {
+            "name": "EuroPython",
+            "website": "https://www.europython-society.org/",
+            "level": "Community"
+        },
+        {
+            "name": "Karlsruhe",
+            "website": "https://www.karlsruhe.de/",
+            "level": "Community"
+        }
+    ]
+}

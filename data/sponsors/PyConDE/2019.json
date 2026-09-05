@@ -1,0 +1,166 @@
+{
+    "year": 2019,
+    "levels": {
+        "Diamond": 15000,
+        "Platinum": 9000,
+        "Gold": 6000,
+        "Silver": 2500
+    },
+    "sponsors": [
+        {
+            "name": "Anaconda",
+            "website": "https://ep2026.europython.eu/sponsors#sponsor-anaconda",
+            "level": "Diamond"
+        },
+        {
+            "name": "Microsoft",
+            "website": "https://developer.microsoft.com/en-us/python/",
+            "level": "Diamond"
+        },
+        {
+            "name": "Deloitte",
+            "website": "",
+            "level": "Platinum"
+        },
+        {
+            "name": "JetBrains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "OLX Group",
+            "website": "https://www.olxgroup.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Yelp",
+            "website": "https://www.yelp.de/",
+            "level": "Gold"
+        },
+        {
+            "name": "Idealo",
+            "website": "https://www.idealo.de/",
+            "level": "Gold"
+        },
+        {
+            "name": "Rosen",
+            "website": "https://www.rosen-group.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Shopify",
+            "website": "https://www.shopify.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Zalando",
+            "website": "https:/zalando.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "FREE NOW",
+            "website": "https://free-now.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Königsweg",
+            "website": "https://koenigsweg.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "infarm",
+            "website": "https://infarm.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Python Academy",
+            "website": "https://www.python-academy.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "StackFuel",
+            "website": "https://stackfuel.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "BlueYonder",
+            "website": "https://2025.pycon.de/sponsors/blueyonder/",
+            "level": "Gold"
+        },
+        {
+            "name": "eBay Tech Berlin",
+            "website": "https://www.ebayinc.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Flying Circus",
+            "website": "https://flyingcircus.io/",
+            "level": "Gold"
+        },
+        {
+            "name": "Pivigo",
+            "website": "https://www.pivigo.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "IBM",
+            "website": "https://research.ibm.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Solute",
+            "website": "https://www.solute.de/",
+            "level": "Silver"
+        },
+        {
+            "name": "The Qt Company",
+            "website": "https://www.qt.io/",
+            "level": "Silver"
+        },
+        {
+            "name": "Novatec Consulting",
+            "website": "https://www.novatec-gmbh.de/",
+            "level": "Silver"
+        },
+        {
+            "name": "Pluralsight",
+            "website": "",
+            "level": "Silver"
+        },
+        {
+            "name": "AXA Germany",
+            "website": "https://www.axa.de/",
+            "level": "Silver"
+        },
+        {
+            "name": "Ada",
+            "website": "https://ada.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Comtravo",
+            "website": "https://www.comtravo.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Delivery Hero",
+            "website": "https://www.deliveryhero.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "EuroPython Society",
+            "website": "www.europython-society.org/",
+            "level": "Financial Aid"
+        },
+        {
+            "name": "PyLadies Berlin",
+            "website": "",
+            "level": "Financial Aid"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Financial Aid"
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "year": 2023,
+    "levels": {
+        "Keystone": 25000,
+        "Diamond": 15000,
+        "Platinum": 11000,
+        "Platinum X": 8000,
+        "Gold": 5000,
+        "Silver": 2750,
+        "Diversity": 500
+    },
+    "sponsors": [
+        {
+            "name": "Anaconda",
+            "website": "https://ep2026.europython.eu/sponsors#sponsor-anaconda",
+            "level": "Keystone"
+        },
+        {
+            "name": "Delivery Hero",
+            "website": "https://www.deliveryhero.com/",
+            "level": "Diamond"
+        },
+        {
+            "name": "Solute",
+            "website": "https://www.solute.de/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Adyen",
+            "website": "https://www.adyen.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "InvestSuite",
+            "website": "https://investsuite.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "BlueYonder",
+            "website": "https://2025.pycon.de/sponsors/blueyonder/",
+            "level": "Platinum"
+        },
+        {
+            "name": "eBay Kleinanzeigen",
+            "website": "https://www.kleinanzeigen.de/",
+            "level": "Platinum"
+        },
+        {
+            "name": "JetBrains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Flix",
+            "website": "https://global.flixbus.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "GoDataDriven",
+            "website": "https://godatadriven.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Königsweg",
+            "website": "https://koenigsweg.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Rosen",
+            "website": "https://www.rosen-group.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "QuantCo",
+            "website": "https://2025.pycon.de/sponsors/quantco/",
+            "level": "Gold"
+        },
+        {
+            "name": "DB Systel",
+            "website": "https://www.dbsystel.de/",
+            "level": "Gold"
+        },
+        {
+            "name": "Coiled",
+            "website": "https://www.coiled.io/",
+            "level": "Gold"
+        },
+        {
+            "name": "CodeChem",
+            "website": "https://codechem.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Microsoft",
+            "website": "https://developer.microsoft.com/en-us/python/",
+            "level": "Gold"
+        },
+        {
+            "name": "Aiven",
+            "website": "https://aiven.io/",
+            "level": "Gold"
+        },
+        {
+            "name": "merantix Labs",
+            "website": "https://www.merantix-momentum.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Zeiss",
+            "website": "https://www.zeiss.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Energy & Meteo Systems",
+            "website": "www.energymeteo.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "German Edge Cloud",
+            "website": "https://www.gec.io/",
+            "level": "Silver"
+        },
+        {
+            "name": "Quansight",
+            "website": "https://quansight.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Ntropy",
+            "website": "https://www.ntropy.com/",
+            "level": "Silver"
+        }
+    ]
+}

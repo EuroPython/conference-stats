@@ -1,0 +1,97 @@
+{
+    "year": 2018,
+    "levels": {
+        "Diamant": 12500,
+        "Platin": 8000,
+        "Gold": 4000,
+        "Silber": 2000,
+        "Community": 0
+    },
+    "sponsors": [
+        {
+            "name": "Daimler",
+            "website": "https://www.daimler.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Yelp",
+            "website": "https://www.yelp.de/",
+            "level": "Gold"
+        },
+        {
+            "name": "Rosen",
+            "website": "https://www.rosen-group.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "SAS",
+            "website": "https://www.sas.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Solute",
+            "website": "https://www.solute.de/",
+            "level": "Gold"
+        },
+        {
+            "name": "SAP",
+            "website": "https://www.sap.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "PTV Group",
+            "website": "https://www.ptvgroup.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "JetBrains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Silber"
+        },
+        {
+            "name": "Diamond",
+            "website": "",
+            "level": "Silber"
+        },
+        {
+            "name": "Odoo",
+            "website": "https://www.odoo.com/",
+            "level": "Silber"
+        },
+        {
+            "name": "HMS Analytical Software",
+            "website": "https://www.hms.de/",
+            "level": "Silber"
+        },
+        {
+            "name": "Blue Yonder",
+            "website": "https://www.blueyonder.com/",
+            "level": "Community"
+        },
+        {
+            "name": "Königsweg",
+            "website": "https://koenigsweg.com/",
+            "level": "Community"
+        },
+        {
+            "name": "Python Academy",
+            "website": "https://www.python-academy.com/",
+            "level": "Community"
+        },
+        {
+            "name": "Karlsruhe",
+            "website": "https://www.karlsruhe.de/",
+            "level": "Community"
+        },
+        {
+            "name": "EuroPython Society",
+            "website": "www.europython-society.org/",
+            "level": "Community"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Community"
+        }
+    ]
+}

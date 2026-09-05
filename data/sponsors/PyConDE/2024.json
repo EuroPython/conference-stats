@@ -1,0 +1,225 @@
+{
+    "year": 2024,
+    "levels": {
+        "Keystone": 29000,
+        "Diamond": 17500,
+        "Platinum": 12500,
+        "Gold": 6000,
+        "Silver": 3500,
+        "Diversity": 500,
+        "Community Partners": 0,
+        "Institutional": 0
+    },
+    "sponsors": [
+        {
+            "name": "Kleinanzeigen and mobile.de",
+            "website": "https://www.kleinanzeigen.de/",
+            "level": "Diamond"
+        },
+        {
+            "name": "QuantCo",
+            "website": "https://quantco.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "alcemy GmbH",
+            "website": "https://alcemy.tech/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Rosenxt Group",
+            "website": "https://www.rosenxt.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Gurobi Optimization",
+            "website": "https://www.gurobi.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Hopsworks",
+            "website": "https://www.hopsworks.ai/",
+            "level": "Platinum"
+        },
+        {
+            "name": "The Mobility House",
+            "website": "https://www.mobilityhouse.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "ZEISS",
+            "website": "https://www.zeiss.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Haystack (by deepset)",
+            "website": "https://haystack.deepset.ai/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Intel",
+            "website": "https://www.intel.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Streamlit",
+            "website": "https://streamlit.io/",
+            "level": "Gold"
+        },
+        {
+            "name": "Rosen",
+            "website": "https://www.rosen-group.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "DB Systel GmbH",
+            "website": "https://www.dbsystel.de/",
+            "level": "Gold"
+        },
+        {
+            "name": "Coiled",
+            "website": "https://www.coiled.io/",
+            "level": "Gold"
+        },
+        {
+            "name": "Blue Yonder",
+            "website": "https://www.blueyonder.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "energy & meteo systems GmbH",
+            "website": "https://www.energymeteo.de/",
+            "level": "Gold"
+        },
+        {
+            "name": "Toolbox Datenkompetenz",
+            "website": "",
+            "level": "Gold"
+        },
+        {
+            "name": "Kraken",
+            "website": "https://www.kraken.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Alexander Thamm GmbH",
+            "website": "https://www.alexanderthamm.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "inovex",
+            "website": "https://www.inovex.de/",
+            "level": "Silver"
+        },
+        {
+            "name": "riscLOG Solution GmbH",
+            "website": "",
+            "level": "Silver"
+        },
+        {
+            "name": "dmTECH GmbH",
+            "website": "https://www.dmtech.de/",
+            "level": "Silver"
+        },
+        {
+            "name": "Protix",
+            "website": "https://www.protix.eu/",
+            "level": "Silver"
+        },
+        {
+            "name": "E.On Energidistribution",
+            "website": "https://www.eon.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Grover",
+            "website": "https://www.grover.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Sunnic Lighthouse GmbH",
+            "website": "",
+            "level": "Silver"
+        },
+        {
+            "name": "GetYourGuide",
+            "website": "https://www.getyourguide.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Tegtmeier Inkubator GmbH",
+            "website": "",
+            "level": "Silver"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf-landing/",
+            "level": "Diversity"
+        },
+        {
+            "name": "EuroPython Society (EPS)",
+            "website": "https://www.europython-society.org/",
+            "level": "Diversity"
+        },
+        {
+            "name": "Django Software Foundation",
+            "website": "https://www.djangoproject.com/foundation/",
+            "level": "Diversity"
+        },
+        {
+            "name": "PyData Berlin",
+            "website": "",
+            "level": "Community Partners"
+        },
+        {
+            "name": "PyData Südwest",
+            "website": "",
+            "level": "Community Partners"
+        },
+        {
+            "name": "PyLadies",
+            "website": "",
+            "level": "Community Partners"
+        },
+        {
+            "name": "PyLadies Berlin",
+            "website": "",
+            "level": "Community Partners"
+        },
+        {
+            "name": "PyLadies Munich",
+            "website": "",
+            "level": "Community Partners"
+        },
+        {
+            "name": "PyLadies Hamburg",
+            "website": "",
+            "level": "Community Partners"
+        },
+        {
+            "name": "PyLadies Südwest",
+            "website": "",
+            "level": "Community Partners"
+        },
+        {
+            "name": "CodeCrafters",
+            "website": "https://codecrafters.io/",
+            "level": "Community Partners"
+        },
+        {
+            "name": "Python Softwareverband e.V.",
+            "website": "https://www.python-verband.org/",
+            "level": "Institutional"
+        },
+        {
+            "name": "NumFOCUS",
+            "website": "https://numfocus.org/",
+            "level": "Institutional"
+        },
+        {
+            "name": "Pioneers Hub",
+            "website": "",
+            "level": "Institutional"
+        }
+    ]
+}

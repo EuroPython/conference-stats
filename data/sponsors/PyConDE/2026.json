@@ -1,0 +1,213 @@
+{
+    "year": 2026,
+    "levels": {
+        "Sponsor": 0
+    },
+    "sponsors": [
+        {
+            "name": "Merck",
+            "website": "https://2025.pycon.de/sponsors/merck/",
+            "level": "Keystone"
+        },
+        {
+            "name": "QuantCo",
+            "website": "https://2025.pycon.de/sponsors/quantco/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Rosenxt",
+            "website": "https://www.rosenxt.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Tower",
+            "website": "https://tower.dev/",
+            "level": "Platinum"
+        },
+        {
+            "name": "GAMS",
+            "website": "https://www.gams.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Mobility House",
+            "website": "https://www.mobilityhouse.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Gurobi Optimization",
+            "website": "https://www.gurobi.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Meta",
+            "website": "https://about.meta.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Snowflake",
+            "website": "https://2025.pycon.de/sponsors/snowflake/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Prior Labs",
+            "website": "https://priorlabs.ai/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Rosen",
+            "website": "https://www.rosen-group.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "DeepL",
+            "website": "https://2025.pycon.de/sponsors/deepl/",
+            "level": "Gold"
+        },
+        {
+            "name": "Anaconda",
+            "website": "https://ep2026.europython.eu/sponsors#sponsor-anaconda",
+            "level": "Gold"
+        },
+        {
+            "name": "Steadforce",
+            "website": "https://www.steadforce.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Lidl Stiftung & Co. KG",
+            "website": "https://www.lidl.de/",
+            "level": "Silver"
+        },
+        {
+            "name": "dmTECH",
+            "website": "https://www.dmtech.de/",
+            "level": "Silver"
+        },
+        {
+            "name": "inovex",
+            "website": "https://www.inovex.de/",
+            "level": "Silver"
+        },
+        {
+            "name": "Raiffeisenlandesbank Oberösterreich",
+            "website": "https://www.rlbooe.at/",
+            "level": "Silver"
+        },
+        {
+            "name": "Bausparkasse Schwäbisch Hall AG",
+            "website": "https://www.schwaebisch-hall.de/",
+            "level": "Silver"
+        },
+        {
+            "name": "Lufthansa Technik AG",
+            "website": "https://www.lufthansa-technik.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Spryfox",
+            "website": "",
+            "level": "Silver"
+        },
+        {
+            "name": "NDT Global",
+            "website": "https://www.ndt-global.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Nesto Software",
+            "website": "",
+            "level": "Silver"
+        },
+        {
+            "name": "exocad",
+            "website": "https://exocad.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "envelio",
+            "website": "https://envelio.de/",
+            "level": "Silver"
+        },
+        {
+            "name": "Cologne Intelligence",
+            "website": "https://www.cologne-intelligence.de/",
+            "level": "Silver"
+        },
+        {
+            "name": "Mnemonic AS",
+            "website": "https://www.mnemonic.no/",
+            "level": "Silver"
+        },
+        {
+            "name": "Pretix",
+            "website": "https://pretix.eu/",
+            "level": "Silver"
+        },
+        {
+            "name": "Vattenfall",
+            "website": "https://www.vattenfall.de/",
+            "level": "Silver"
+        },
+        {
+            "name": "REWE Group",
+            "website": "https://www.rewe-group.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Renumics",
+            "website": "https://renumics.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Sunnic Lighthouse",
+            "website": "",
+            "level": "Silver"
+        },
+        {
+            "name": "Python Academy",
+            "website": "https://www.python-academy.com/",
+            "level": "Community"
+        },
+        {
+            "name": "Bruhin Software",
+            "website": "",
+            "level": "Community"
+        },
+        {
+            "name": "bremer-media",
+            "website": "",
+            "level": "Community"
+        },
+        {
+            "name": "Academis",
+            "website": "https://www.academis.de/",
+            "level": "Community"
+        },
+        {
+            "name": "Tereza Iofciu",
+            "website": "",
+            "level": "Community"
+        },
+        {
+            "name": "Python Softwareverband e.V.",
+            "website": "https://2025.pycon.de/sponsors/pysv/",
+            "level": "Institutional"
+        },
+        {
+            "name": "NumFOCUS",
+            "website": "https://numfocus.org/",
+            "level": "Institutional"
+        },
+        {
+            "name": "Pioneers Hub",
+            "website": "",
+            "level": "Institutional"
+        },
+        {
+            "name": "EuroPython Society (EPS)",
+            "website": "https://www.europython-society.org/",
+            "level": "Diversity"
+        }
+    ]
+}
