@@ -1,0 +1,24 @@
+{
+    "year": 2023,
+    "levels": {
+        "Diamond": 39000,
+        "Platinum": 19500,
+        "Gold": 13000,
+        "Silver": 7500,
+        "Bronze": 3500,
+        "Graphite": 0
+    },
+    "sponsors": [
+        {
+            "name": "Helion",
+            "website": "https://helion.pl/",
+            "level": "Graphite"
+        },
+        {
+            "name": "Slido",
+            "website": "https://www.slido.com/",
+            "level": "Graphite"
+        }
+    ],
+    "currency": "PLN"
+}

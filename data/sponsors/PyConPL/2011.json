@@ -1,0 +1,33 @@
+{
+    "year": 2011,
+    "levels": {
+        "Platinum": 2700,
+        "Gold": 1500,
+        "Silver": 750,
+        "Bronze": 350,
+        "Graphite": 0
+    },
+    "currency": "PLN",
+    "sponsors": [
+        {
+            "name": "Microsoft",
+            "website": "https://developer.microsoft.com/en-us/python/",
+            "level": "Gold"
+        },
+        {
+            "name": "STX Next",
+            "website": "https://www.stxnext.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "MegiTeam",
+            "website": "http://www.megiteam.pl/",
+            "level": "Bronze"
+        },
+        {
+            "name": "IT Kontrakt",
+            "website": "https://itkontrakt.pl/",
+            "level": "Sponsor"
+        }
+    ]
+}

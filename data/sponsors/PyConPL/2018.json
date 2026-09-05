@@ -1,0 +1,53 @@
+{
+    "year": 2018,
+    "levels": {
+        "Platinum": 16000,
+        "Gold": 9850,
+        "Silver": 5200,
+        "Bronze": 2000,
+        "Graphite": 0
+    },
+    "sponsors": [
+        {
+            "name": "Symphony Solutions",
+            "website": "https://symphony-solutions.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Payability",
+            "website": "https://www.payability.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "JetBrains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Merixstudio",
+            "website": "https://merixstudio.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Sonova",
+            "website": "https://www.sonova.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "CodiLime",
+            "website": "https://codilime.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Manning Publications",
+            "website": "https://www.manning.com/",
+            "level": "Graphite"
+        },
+        {
+            "name": "Slido",
+            "website": "https://www.slido.com/",
+            "level": "Graphite"
+        }
+    ],
+    "currency": "PLN"
+}

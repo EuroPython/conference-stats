@@ -1,0 +1,48 @@
+{
+    "year": 2022,
+    "currency": "PLN",
+    "levels": {
+        "Platinum": 15000,
+        "Gold": 10000,
+        "Silver": 6000,
+        "Bronze": 2750,
+        "Graphite": 0
+    },
+    "sponsors": [
+        {
+            "name": "Amsterdam Standard",
+            "website": "https://www.amsterdamstandard.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "FLYR",
+            "website": "https://www.flyr.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Infermedica",
+            "website": "https://infermedica.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Revolut",
+            "website": "https://www.revolut.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Scalo",
+            "website": "https://scalac.io/",
+            "level": "Silver"
+        },
+        {
+            "name": "Sirocco Mobile",
+            "website": "",
+            "level": "Bronze"
+        },
+        {
+            "name": "Slido",
+            "website": "https://www.slido.com/",
+            "level": "Graphite"
+        }
+    ]
+}

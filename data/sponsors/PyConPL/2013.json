@@ -1,0 +1,43 @@
+{
+    "year": 2013,
+    "levels": {
+        "Platinum": 3000,
+        "Gold": 1600,
+        "Silver": 800,
+        "Bronze": 375,
+        "Graphite": 0
+    },
+    "currency": "PLN",
+    "sponsors": [
+        {
+            "name": "Mirantis",
+            "website": "https://www.mirantis.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Microsoft",
+            "website": "http://www.microsoft.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Compendium",
+            "website": "http://www.compendium.pl/",
+            "level": "Silver"
+        },
+        {
+            "name": "STXNext",
+            "website": "http://www.stxnext.pl/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Github",
+            "website": "https://github.com/",
+            "level": "Graphite"
+        },
+        {
+            "name": "GetBase",
+            "website": "https://getbase.com/",
+            "level": "Graphite"
+        }
+    ]
+}

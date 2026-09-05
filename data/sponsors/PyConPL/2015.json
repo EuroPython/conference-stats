@@ -1,0 +1,112 @@
+{
+    "year": 2015,
+    "currency": "PLN",
+    "levels": {
+        "Gold": 9000,
+        "Silver": 4500,
+        "Bronze": 1750,
+        "Graphite": 0
+    },
+    "sponsors": [
+        {
+            "name": "Daftcode",
+            "website": "https://daftcode.pl/",
+            "level": "Gold"
+        },
+        {
+            "name": "Dreamlab",
+            "website": "https://www.dreamlab.pl/",
+            "level": "Gold"
+        },
+        {
+            "name": "Mirantis",
+            "website": "https://www.mirantis.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Samsung",
+            "website": "https://rd.samsung.pl/",
+            "level": "Gold"
+        },
+        {
+            "name": "Microsoft",
+            "website": "https://www.microsoft.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "ITM",
+            "website": "https://www.itm.biz.pl/",
+            "level": "Gold"
+        },
+        {
+            "name": "Amazon",
+            "website": "https://www.amazon.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "STX Next",
+            "website": "https://www.stxnext.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Compendium",
+            "website": "https://compendium.pl/",
+            "level": "Silver"
+        },
+        {
+            "name": "CodiLime",
+            "website": "https://codilime.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Wheel Systems",
+            "website": "https://www.wheelsystems.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "ScrapingHub",
+            "website": "https://www.zyte.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Code Cult",
+            "website": "http://codecult.co/",
+            "level": "Silver"
+        },
+        {
+            "name": "WebInterpret",
+            "website": "https://www.webinterpret.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Grand Parade",
+            "website": "https://www.grandparade.co.uk/",
+            "level": "Bronze"
+        },
+        {
+            "name": "JetBrains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Sages",
+            "website": "https://www.sages.com.pl/",
+            "level": "Graphite"
+        },
+        {
+            "name": "Helion",
+            "website": "https://helion.pl/",
+            "level": "Graphite"
+        },
+        {
+            "name": "Techland",
+            "website": "https://techland.pl/",
+            "level": "Graphite"
+        },
+        {
+            "name": "Graki",
+            "website": "https://graki.pl/",
+            "level": "Graphite"
+        }
+    ]
+}

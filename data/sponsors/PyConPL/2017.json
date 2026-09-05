@@ -1,0 +1,73 @@
+{
+    "year": 2017,
+    "levels": {
+        "Platinum": 16000,
+        "Gold": 9700,
+        "Silver": 5100,
+        "Bronze": 2000,
+        "Graphite": 0
+    },
+    "sponsors": [
+        {
+            "name": "Dreamlab",
+            "website": "https://dreamlab.pl/",
+            "level": "Gold"
+        },
+        {
+            "name": "Daftcode",
+            "website": "https://daftcode.pl/",
+            "level": "Gold"
+        },
+        {
+            "name": "Compendium",
+            "website": "https://compendium.pl/",
+            "level": "Silver"
+        },
+        {
+            "name": "STX Next",
+            "website": "https://www.stxnext.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "MAX IV",
+            "website": "https://www.maxiv.lu.se/",
+            "level": "Silver"
+        },
+        {
+            "name": "Acaisoft",
+            "website": "https://acaisoft.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "JetBrains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "XCaliber",
+            "website": "",
+            "level": "Bronze"
+        },
+        {
+            "name": "Code Institute",
+            "website": "https://codeinstitute.net/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Sunscrapers",
+            "website": "https://sunscrapers.com/",
+            "level": "Graphite"
+        },
+        {
+            "name": "Strefa Kursów",
+            "website": "",
+            "level": "Graphite"
+        },
+        {
+            "name": "Slido",
+            "website": "https://www.slido.com/",
+            "level": "Graphite"
+        }
+    ],
+    "currency": "PLN"
+}

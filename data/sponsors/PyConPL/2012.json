@@ -1,0 +1,68 @@
+{
+    "year": 2012,
+    "levels": {
+        "Platinum": 2700,
+        "Gold": 1500,
+        "Silver": 750,
+        "Bronze": 350,
+        "Graphite": 0
+    },
+    "currency": "PLN",
+    "sponsors": [
+        {
+            "name": "Python Academy",
+            "website": "https://www.python-academy.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Microsoft",
+            "website": "https://developer.microsoft.com/en-us/python/",
+            "level": "Silver"
+        },
+        {
+            "name": "Onet",
+            "website": "https://www.onet.pl/",
+            "level": "Silver"
+        },
+        {
+            "name": "Allegro Group",
+            "website": "https://allegro.tech/",
+            "level": "Silver"
+        },
+        {
+            "name": "STX Next",
+            "website": "https://www.stxnext.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "MegiTeam",
+            "website": "http://www.megiteam.pl/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Wingware",
+            "website": "https://wingware.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "GitHub",
+            "website": "https://github.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "IT Kontrakt",
+            "website": "https://itkontrakt.pl/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Enthought",
+            "website": "https://www.enthought.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "coders MILL",
+            "website": "https://www.coders-mill.com/",
+            "level": "Bronze"
+        }
+    ]
+}

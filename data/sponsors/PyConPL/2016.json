@@ -1,0 +1,82 @@
+{
+    "year": 2016,
+    "currency": "PLN",
+    "levels": {
+        "Gold": 9500,
+        "Silver": 5000,
+        "Bronze": 2000,
+        "Graphite": 0
+    },
+    "sponsors": [
+        {
+            "name": "Dreamlab",
+            "website": "https://www.dreamlab.pl/",
+            "level": "Gold"
+        },
+        {
+            "name": "Samsung",
+            "website": "https://www.samsung.com/pl/",
+            "level": "Gold"
+        },
+        {
+            "name": "JP Morgan",
+            "website": "https://www.jpmorgan.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "CodiLime",
+            "website": "https://codilime.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "STX Next",
+            "website": "https://www.stxnext.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Compendium",
+            "website": "https://compendium.pl/",
+            "level": "Silver"
+        },
+        {
+            "name": "XCaliber",
+            "website": "https://xcaliber.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Rockwell Automation",
+            "website": "https://www.rockwellautomation.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "CodersLab",
+            "website": "https://coderslab.pl/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Grand Parade",
+            "website": "https://www.grandparade.co.uk/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Helion",
+            "website": "https://helion.pl/",
+            "level": "Graphite"
+        },
+        {
+            "name": "IT PWN",
+            "website": "https://it.pwn.pl/",
+            "level": "Graphite"
+        },
+        {
+            "name": "JetBrains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Graphite"
+        },
+        {
+            "name": "O'Reilly",
+            "website": "https://www.oreilly.com/",
+            "level": "Graphite"
+        }
+    ]
+}

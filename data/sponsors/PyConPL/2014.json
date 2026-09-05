@@ -1,0 +1,143 @@
+{
+    "year": 2014,
+    "levels": {
+        "Platinum": 3500,
+        "Gold": 2000,
+        "Silver": 1000,
+        "Bronze": 400,
+        "Graphite": 0
+    },
+    "currency": "PLN",
+    "sponsors": [
+        {
+            "name": "Webinterpret",
+            "website": "https://www.webinterpret.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Mirantis",
+            "website": "https://www.mirantis.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Intel",
+            "website": "https://www.intel.com/content/www/us/en/developer/overview.html",
+            "level": "Gold"
+        },
+        {
+            "name": "Applause",
+            "website": "https://www.applause.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Daftcode",
+            "website": "https://daftcode.pl/",
+            "level": "Gold"
+        },
+        {
+            "name": "Wirtualna Polska",
+            "website": "https://www.wp.pl/",
+            "level": "Gold"
+        },
+        {
+            "name": "Microsoft",
+            "website": "https://developer.microsoft.com/en-us/python/",
+            "level": "Gold"
+        },
+        {
+            "name": "STX Next",
+            "website": "https://www.stxnext.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Red Hat",
+            "website": "https://www.redhat.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Compendium",
+            "website": "http://www.compendium.pl/",
+            "level": "Silver"
+        },
+        {
+            "name": "Transporeon",
+            "website": "https://www.transporeon.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Samsung",
+            "website": "https://www.samsung.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Codility",
+            "website": "https://www.codility.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "SMT Software",
+            "website": "https://smtsoftware.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Baselab",
+            "website": "http://py.getbase.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Nokia",
+            "website": "https://www.nokia.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "O'Reilly",
+            "website": "www.oreilly.com",
+            "level": "Bronze"
+        },
+        {
+            "name": "Hurra",
+            "website": "http://www.hurra.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "RhodeCode",
+            "website": "https://rhodecode.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Egnyte",
+            "website": "https://www.egnyte.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Raspberry Pi",
+            "website": "http://www.raspberrypi.org/about/",
+            "level": "Graphite"
+        },
+        {
+            "name": "Helion",
+            "website": "https://helion.pl/",
+            "level": "Graphite"
+        },
+        {
+            "name": "Packt",
+            "website": "www.packtpub.com",
+            "level": "Graphite"
+        },
+        {
+            "name": "Two Scoops Press",
+            "website": "http://twoscoopspress.org/",
+            "level": "Graphite"
+        },
+        {
+            "name": "Techland",
+            "website": "https://techland.pl/",
+            "level": "Graphite"
+        },
+        {
+            "name": "Kinetise",
+            "website": "https://kinetise.com/",
+            "level": "Graphite"
+        }
+    ]
+}
