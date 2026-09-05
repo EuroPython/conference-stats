@@ -1,0 +1,35 @@
+{
+    "year": 2015,
+    "levels": {
+        "Platinum": 3000,
+        "Gold": 1500,
+        "Silver": 750
+    },
+    "sponsors": [
+        {
+            "name": "Red Hat",
+            "website": "https://www.redhat.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Platinum"
+        },
+        {
+            "name": "PyCharm/JetBrains",
+            "website": "https://www.jetbrains.com/pycharm/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Imper",
+            "website": "https://imper.io/",
+            "level": "Silver"
+        },
+        {
+            "name": "Skypicker",
+            "website": "https://www.kiwi.com/",
+            "level": "Silver"
+        }
+    ]
+}

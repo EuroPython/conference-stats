@@ -1,0 +1,57 @@
+{
+    "year": 2018,
+    "currency": "CZK",
+    "levels": {
+        "Platinum": 160000,
+        "Gold": 80000,
+        "Silver": 40000,
+        "Bronze": 20000
+    },
+    "sponsors": [
+        {
+            "name": "LMC",
+            "website": "https://www.lmc.eu/",
+            "level": "Gold"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Gold"
+        },
+        {
+            "name": "Red Hat",
+            "website": "https://www.redhat.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Elastic",
+            "website": "https://www.elastic.co/",
+            "level": "Silver"
+        },
+        {
+            "name": "Microsoft",
+            "website": "https://developer.microsoft.com/en-us/python/",
+            "level": "Silver"
+        },
+        {
+            "name": "MSD IT",
+            "website": "https://www.msd.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Slush Pool",
+            "website": "https://braiins.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Vistaprint",
+            "website": "https://www.vistaprint.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Imper",
+            "website": "https://imper.io/",
+            "level": "Bronze"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "year": 2019,
+    "currency": "CZK",
+    "levels": {
+        "Platinum": 160000,
+        "Gold": 80000,
+        "Silver": 40000,
+        "Bronze": 20000
+    },
+    "sponsors": [
+        {
+            "name": "Red Hat",
+            "website": "https://www.redhat.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Seznam.cz",
+            "website": "https://www.seznam.cz/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Gold"
+        },
+        {
+            "name": "JetBrains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "kiwi.com",
+            "website": "https://www.kiwi.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "LMC",
+            "website": "https://www.lmc.eu/",
+            "level": "Silver"
+        },
+        {
+            "name": "Microsoft",
+            "website": "https://developer.microsoft.com/en-us/python/",
+            "level": "Silver"
+        },
+        {
+            "name": "OLC Systems",
+            "website": "https://www.olc.cz/",
+            "level": "Silver"
+        },
+        {
+            "name": "CoreSkill",
+            "website": "",
+            "level": "Bronze"
+        },
+        {
+            "name": "Imper",
+            "website": "https://imper.io/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Lynt",
+            "website": "https://lynt.cz/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Oracle",
+            "website": "https://www.oracle.com/",
+            "level": "Bronze"
+        }
+    ]
+}

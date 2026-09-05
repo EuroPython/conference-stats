@@ -1,0 +1,82 @@
+{
+    "year": 2023,
+    "currency": "CZK",
+    "levels": {
+        "Bronze": 25000,
+        "Silver": 50000,
+        "Gold": 100000,
+        "Platinum": 200000
+    },
+    "sponsors": [
+        {
+            "name": "EuroPython Society",
+            "website": "www.europython-society.org/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Ataccama",
+            "website": "https://jobs.ataccama.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Imper",
+            "website": "https://imper.io/",
+            "level": "Silver"
+        },
+        {
+            "name": "Leadhub",
+            "website": "https://www.leadhub.io/",
+            "level": "Silver"
+        },
+        {
+            "name": "LMC",
+            "website": "https://www.lmc.eu/",
+            "level": "Silver"
+        },
+        {
+            "name": "Lynt",
+            "website": "https://lynt.cz/",
+            "level": "Silver"
+        },
+        {
+            "name": "OLC Systems",
+            "website": "https://www.olc.cz/",
+            "level": "Silver"
+        },
+        {
+            "name": "Prusa Research",
+            "website": "https://www.prusa3d.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Pure Storage",
+            "website": "https://www.purestorage.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Red Hat",
+            "website": "https://www.redhat.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Rossum",
+            "website": "https://rossum.ai/",
+            "level": "Silver"
+        },
+        {
+            "name": "Sentry",
+            "website": "https://sentry.io/welcome",
+            "level": "Silver"
+        },
+        {
+            "name": "Kiwi.com",
+            "website": "https://jobs.kiwi.com/about-us/",
+            "level": "Bronze"
+        }
+    ]
+}
