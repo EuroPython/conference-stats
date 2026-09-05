@@ -1,0 +1,73 @@
+{
+    "year": 2023,
+    "levels": {
+        "Diamond": 12000,
+        "Platinum": 3000,
+        "Maintainers": 2000,
+        "Gold": 2000,
+        "Silver": 1200,
+        "Bronze": 750
+    },
+    "sponsors": [
+        {
+            "name": "Blue Yonder",
+            "website": "https://www.blueyonder.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "ZEISS",
+            "website": "https://2025.pycon.de/sponsors/zeiss/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Python Software Foundation (PSF)",
+            "website": "https://www.python.org/psf-landing/",
+            "level": "Financial Aid"
+        },
+        {
+            "name": "NumFOCUS",
+            "website": "https://numfocus.org/",
+            "level": "Financial Aid"
+        },
+        {
+            "name": "EuroPython Society (EPS)",
+            "website": "https://www.europython-society.org/",
+            "level": "Financial Aid"
+        },
+        {
+            "name": "Dataiku",
+            "website": "https://www.dataiku.com/",
+            "level": "Maintainers"
+        },
+        {
+            "name": "JetBrains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Software Sponsor"
+        },
+        {
+            "name": "Roche",
+            "website": "https://www.roche.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Forschungszentrum Jülich",
+            "website": "https://www.fz-juelich.de/",
+            "level": "Bronze"
+        },
+        {
+            "name": "University of Basel",
+            "website": "https://www.unibas.ch/",
+            "level": "Institutional"
+        },
+        {
+            "name": "Python Software Verband",
+            "website": "https://www.python-verband.org/",
+            "level": "Institutional"
+        },
+        {
+            "name": "Python Academy",
+            "website": "https://www.python-academy.com/",
+            "level": "Institutional"
+        }
+    ]
+}

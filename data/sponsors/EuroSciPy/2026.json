@@ -1,0 +1,58 @@
+{
+    "year": 2026,
+    "levels": {
+        "Diamond": 12000,
+        "Platinum": 3000,
+        "Maintainers": 2000,
+        "Gold": 2000,
+        "Silver": 1200,
+        "Bronze": 750
+    },
+    "sponsors": [
+        {
+            "name": "napari",
+            "website": "https://napari.org/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Quansight",
+            "website": "https://quansight.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Ansys",
+            "website": "https://www.ansys.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "engicloud.ai",
+            "website": "https://engicloud.ai/",
+            "level": "Bronze"
+        },
+        {
+            "name": "appliedAI Institute for Europe",
+            "website": "https://www.appliedai.de/",
+            "level": "Community Partners"
+        },
+        {
+            "name": "EuroPython Society",
+            "website": "www.europython-society.org/",
+            "level": "Financial Aid"
+        },
+        {
+            "name": "Python Software Verband e.V.",
+            "website": "https://www.python-verband.org/",
+            "level": "Institutional"
+        },
+        {
+            "name": "Python Academy",
+            "website": "https://www.python-academy.com/",
+            "level": "Institutional"
+        },
+        {
+            "name": "Pioneers Hub gGmbH",
+            "website": "",
+            "level": "Institutional"
+        }
+    ]
+}

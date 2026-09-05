@@ -1,0 +1,58 @@
+{
+    "year": 2024,
+    "levels": {
+        "Diamond": 12000,
+        "Platinum": 3000,
+        "Maintainers": 2000,
+        "Gold": 2000,
+        "Silver": 1200,
+        "Bronze": 750
+    },
+    "sponsors": [
+        {
+            "name": "Probabl",
+            "website": "https://probabl.ai/",
+            "level": "Gold"
+        },
+        {
+            "name": "prefix.dev",
+            "website": "https://prefix.dev/",
+            "level": "Maintainers"
+        },
+        {
+            "name": "Forschungszentrum Jülich",
+            "website": "https://www.fz-juelich.de/",
+            "level": "Bronze"
+        },
+        {
+            "name": "OpenEDG Python Institute",
+            "website": "https://pythoninstitute.org/",
+            "level": "Institutional"
+        },
+        {
+            "name": "Python Software Verband e.V.",
+            "website": "https://www.python-verband.org/",
+            "level": "Institutional"
+        },
+        {
+            "name": "Python Academy",
+            "website": "https://www.python-academy.com/",
+            "level": "Institutional"
+        },
+        {
+            "name": "Python Software Foundation (PSF)",
+            "website": "https://www.python.org/psf-landing/",
+            "level": "Financial Aid"
+        },
+        {
+            "name": "NumFOCUS",
+            "website": "https://numfocus.org/",
+            "level": "Financial Aid"
+        },
+        {
+            "name": "EuroPython Society (EPS)",
+            "website": "https://www.europython-society.org/",
+            "level": "Financial Aid"
+        }
+    ]
+}

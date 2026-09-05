@@ -1,0 +1,68 @@
+{
+    "year": 2022,
+    "levels": {
+        "Diamond": 12000,
+        "Platinum": 3000,
+        "Maintainers": 2000,
+        "Gold": 2000,
+        "Silver": 1200,
+        "Bronze": 750
+    },
+    "sponsors": [
+        {
+            "name": "QuantStack",
+            "website": "https://quantstack.net/",
+            "level": "Diamond"
+        },
+        {
+            "name": "Blue Yonder",
+            "website": "https://www.blueyonder.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "ZEISS",
+            "website": "https://2025.pycon.de/sponsors/zeiss/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Disney Research|Studios",
+            "website": "https://la.disneyresearch.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Roche",
+            "website": "https://www.roche.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "EuroPython Society (EPS)",
+            "website": "https://www.europython-society.org/",
+            "level": "Financial Aid"
+        },
+        {
+            "name": "Python Software Foundation (PSF)",
+            "website": "https://www.python.org/psf-landing/",
+            "level": "Financial Aid"
+        },
+        {
+            "name": "University of Basel",
+            "website": "https://www.unibas.ch/",
+            "level": "Institutional"
+        },
+        {
+            "name": "Python Software Verband",
+            "website": "https://www.python-verband.org/",
+            "level": "Institutional"
+        },
+        {
+            "name": "Python Academy",
+            "website": "https://www.python-academy.com/",
+            "level": "Institutional"
+        },
+        {
+            "name": "Packt",
+            "website": "www.packtpub.com",
+            "level": "Media Partner"
+        }
+    ]
+}

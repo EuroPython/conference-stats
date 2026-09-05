@@ -1,0 +1,58 @@
+{
+    "year": 2025,
+    "levels": {
+        "Diamond": 12000,
+        "Platinum": 3000,
+        "Maintainers": 2000,
+        "Gold": 2000,
+        "Silver": 1200,
+        "Bronze": 750
+    },
+    "sponsors": [
+        {
+            "name": "Anaconda Inc.",
+            "website": "https://www.anaconda.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "MDPI",
+            "website": "https://www.mdpi.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Forschungszentrum Jülich (FZJ)",
+            "website": "https://www.fz-juelich.de/",
+            "level": "Bronze"
+        },
+        {
+            "name": "appliedAI",
+            "website": "https://www.appliedai.de/",
+            "level": "Community Partners"
+        },
+        {
+            "name": "Python Software Foundation (PSF)",
+            "website": "https://www.python.org/psf-landing/",
+            "level": "Financial Aid"
+        },
+        {
+            "name": "EuroPython Society (EPS)",
+            "website": "https://www.europython-society.org/",
+            "level": "Financial Aid"
+        },
+        {
+            "name": "Python Software Verband e.V.",
+            "website": "https://www.python-verband.org/",
+            "level": "Institutional"
+        },
+        {
+            "name": "Python Academy",
+            "website": "https://www.python-academy.com/",
+            "level": "Institutional"
+        },
+        {
+            "name": "Pioneers Hub gGmbH",
+            "website": "",
+            "level": "Institutional"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "year": 2019,
+    "levels": {
+        "Diamond": 12000,
+        "Platinum": 3000,
+        "Maintainers": 2000,
+        "Gold": 2000,
+        "Silver": 1200,
+        "Bronze": 750
+    },
+    "sponsors": [
+        {
+            "name": "Grupo de Inteligencia Computacional",
+            "website": "https://www.ehu.eus/ccwintco/",
+            "level": "Institutional"
+        },
+        {
+            "name": "University of the Basque Country",
+            "website": "https://www.ehu.eus/",
+            "level": "Institutional"
+        },
+        {
+            "name": "Intrepid Control Systems",
+            "website": "https://intrepidcs.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Intel",
+            "website": "https://www.intel.com/content/www/us/en/developer/overview.html",
+            "level": "Gold"
+        },
+        {
+            "name": "TensorFlow",
+            "website": "https://www.tensorflow.org/",
+            "level": "Gold"
+        },
+        {
+            "name": "Enthought",
+            "website": "https://www.enthought.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Python Academy",
+            "website": "https://www.python-academy.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Microsoft",
+            "website": "https://developer.microsoft.com/en-us/python/",
+            "level": "Bronze"
+        },
+        {
+            "name": "NumFOCUS",
+            "website": "https://numfocus.org/",
+            "level": "Financial Aid"
+        },
+        {
+            "name": "Python Software Foundation (PSF)",
+            "website": "https://www.python.org/psf-landing/",
+            "level": "Financial Aid"
+        },
+        {
+            "name": "EuroPython Society (EPS)",
+            "website": "https://www.europython-society.org/",
+            "level": "Financial Aid"
+        },
+        {
+            "name": "O'Reilly",
+            "website": "www.oreilly.com",
+            "level": "Community"
+        },
+        {
+            "name": "Sticker Mule",
+            "website": "https://www.stickermule.com/",
+            "level": "Community"
+        },
+        {
+            "name": "JetBrains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Community"
+        }
+    ]
+}
