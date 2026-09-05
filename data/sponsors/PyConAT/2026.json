@@ -1,0 +1,47 @@
+{
+    "year": 2026,
+    "levels": {
+        "Diamond": 5000,
+        "Gold": 3500,
+        "Silver": 2000,
+        "Bronze": 1000,
+        "Iron": 200
+    },
+    "sponsors": [
+        {
+            "name": "EuroPython Society",
+            "website": "https://europython-society.org/",
+            "level": "Silver"
+        },
+        {
+            "name": "Bitpanda",
+            "website": "https://www.bitpanda.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Python Software Verband e.V.",
+            "website": "https://www.python-verband.org/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Sentry",
+            "website": "https://sentry.io/welcome",
+            "level": "Bronze"
+        },
+        {
+            "name": "Zyte",
+            "website": "https://ep2026.europython.eu/sponsors#sponsor-zyte",
+            "level": "Bronze"
+        },
+        {
+            "name": "JetBrains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Iron"
+        },
+        {
+            "name": "Siisurit",
+            "website": "https://siisurit.com/",
+            "level": "Iron"
+        }
+    ]
+}

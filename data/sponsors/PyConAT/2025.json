@@ -1,0 +1,28 @@
+{
+    "year": 2025,
+    "levels": {
+        "Red": 5000,
+        "Orange": 3500,
+        "Yellow": 2000,
+        "Green": 1000,
+        "Blue": 500,
+        "Indigo": 300
+    },
+    "sponsors": [
+        {
+            "name": "Sentry",
+            "website": "https://sentry.io/welcome",
+            "level": "Orange"
+        },
+        {
+            "name": "AWS",
+            "website": "https://aws.amazon.com/",
+            "level": "Green"
+        },
+        {
+            "name": "Bitpanda",
+            "website": "https://www.bitpanda.com/",
+            "level": "Green"
+        }
+    ]
+}
