@@ -1,14 +1,14 @@
 {
     "year": 2022,
     "levels": {
-        "Keystone": 0,
-        "Gold": 0,
-        "Silver": 0,
-        "Bronze": 0,
-        "Patron": 0,
-        "Diversity": 0,
-        "Startup": 0,
-        "Partners": 0
+        "Keystone": 10000,
+        "Gold": 7000,
+        "Silver": 4500,
+        "Bronze": 3000,
+        "Patron": 1000,
+        "Startup": 500,
+        "Diversity": 1000,
+        "Media Partners": 0
     },
     "sponsors": [
         {
