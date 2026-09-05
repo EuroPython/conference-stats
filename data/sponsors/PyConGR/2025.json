@@ -1,7 +1,7 @@
 {
-    "year":2025,
+    "year": 2025,
     "levels": {
-        "Platinium": 7500,
+        "Platinum": 7000,
         "Gold": 4500,
         "Silver": 1500,
         "Cortegada": 1000,
@@ -9,14 +9,14 @@
     },
     "sponsors": [
         {
-            "name": "yodeck",
+            "name": "Yodeck",
             "website": "https://www.yodeck.com/",
-            "level": "Platinium"
+            "level": "Platinum"
         },
         {
-            "name": "elastic search",
-            "website": "http://www.elasticsearch.com/",
-            "level": "Platinium"
+            "name": "Elastic",
+            "website": "https://www.elastic.co/",
+            "level": "Platinum"
         },
         {
             "name": "eshare",
@@ -48,7 +48,7 @@
             "website": "https://www.bloomberg.com/company/values/tech-at-bloomberg/python/",
             "level": "Silver"
         },
-         {
+        {
             "name": "Quansight",
             "website": "https://quansight.com/",
             "level": "Silver"
@@ -59,8 +59,8 @@
             "level": "Silver"
         },
         {
-            "name": "instacar",
-            "website": "hhttps://www.instacar.gr/en",
+            "name": "InstaCar",
+            "website": "https://www.instacar.gr/",
             "level": "Silver"
         },
         {
@@ -93,7 +93,7 @@
             "website": "https://www.europython-society.org/",
             "level": "Community"
         },
-         {
+        {
             "name": "Django",
             "website": "https://www.djangoproject.com/",
             "level": "Community"
