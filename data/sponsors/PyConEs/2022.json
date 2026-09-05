@@ -1,12 +1,12 @@
 {
     "year":2022,
     "levels": {
-        "Keystone": "6000",
-        "Diamante": "3500",
-        "Platino": "2000",
-        "Oro":"1000",
-        "Plata": "500",
-        "Colaboran":"0"
+        "Keystone": 6000,
+        "Diamante": 3500,
+        "Platino": 2000,
+        "Oro": 1000,
+        "Plata": 500,
+        "Colaboran": 0
     },
     "sponsors": [
          {

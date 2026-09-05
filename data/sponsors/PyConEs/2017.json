@@ -1,0 +1,162 @@
+{
+    "year": 2017,
+    "levels": {
+        "Plata": 500,
+        "Oro": 1000,
+        "Platino": 2000,
+        "Diamante": 3000,
+        "Colaboradores": 0
+    },
+    "sponsors": [
+        {
+            "name": "Skyscanner",
+            "website": "https://www.skyscanner.net/",
+            "level": "Diamante"
+        },
+        {
+            "name": "Intelygenz",
+            "website": "https://www.intelygenz.com/",
+            "level": "Diamante"
+        },
+        {
+            "name": "Bloomberg",
+            "website": "https://www.bloomberg.com/europe",
+            "level": "Diamante"
+        },
+        {
+            "name": "RavenPack",
+            "website": "https://www.ravenpack.com/",
+            "level": "Diamante"
+        },
+        {
+            "name": "Orange",
+            "website": "https://www.orange.com/",
+            "level": "Diamante"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Diamante"
+        },
+        {
+            "name": "Kaleidos",
+            "website": "https://kaleidos.net/",
+            "level": "Platino"
+        },
+        {
+            "name": "A3SEC",
+            "website": "https://www.a3sec.com/",
+            "level": "Platino"
+        },
+        {
+            "name": "OpenShine",
+            "website": "https://www.openshine.com/",
+            "level": "Platino"
+        },
+        {
+            "name": "OnTruck",
+            "website": "https://www.ontruck.com/",
+            "level": "Platino"
+        },
+        {
+            "name": "Grup el Gas",
+            "website": "",
+            "level": "Oro"
+        },
+        {
+            "name": "Codethink",
+            "website": "https://www.codethink.co.uk/",
+            "level": "Oro"
+        },
+        {
+            "name": "Kernel Analytics",
+            "website": "",
+            "level": "Oro"
+        },
+        {
+            "name": "OpenSistemas",
+            "website": "https://www.opensistemas.com/",
+            "level": "Oro"
+        },
+        {
+            "name": "APSL",
+            "website": "https://www.apsl.net/",
+            "level": "Oro"
+        },
+        {
+            "name": "Ticketea",
+            "website": "",
+            "level": "Oro"
+        },
+        {
+            "name": "Ebury",
+            "website": "https://www.ebury.es/",
+            "level": "Oro"
+        },
+        {
+            "name": "Paradigma",
+            "website": "https://www.paradigmadigital.com/",
+            "level": "Oro"
+        },
+        {
+            "name": "e-Frontiers",
+            "website": "https://e-frontiers.ie/",
+            "level": "Oro"
+        },
+        {
+            "name": "Tecnilógica",
+            "website": "https://www.tecnilogica.com/",
+            "level": "Plata"
+        },
+        {
+            "name": "Gisce",
+            "website": "https://gisce.net/es/",
+            "level": "Plata"
+        },
+        {
+            "name": "CodeSyntax",
+            "website": "https://www.codesyntax.com/eu",
+            "level": "Plata"
+        },
+        {
+            "name": "Bitergia",
+            "website": "https://bitergia.com/",
+            "level": "Plata"
+        },
+        {
+            "name": "Piksel",
+            "website": "https://piksel.com/",
+            "level": "Plata"
+        },
+        {
+            "name": "EPCC",
+            "website": "https://www.epcc.ed.ac.uk/",
+            "level": "Colaboradores"
+        },
+        {
+            "name": "Universidad de Extremadura",
+            "website": "https://www.unex.es/",
+            "level": "Colaboradores"
+        },
+        {
+            "name": "Diputación de Cáceres",
+            "website": "https://www.dip-caceres.es/",
+            "level": "Colaboradores"
+        },
+        {
+            "name": "JetBrains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Colaboradores"
+        },
+        {
+            "name": "O'Reilly",
+            "website": "https://www.oreilly.com/",
+            "level": "Colaboradores"
+        },
+        {
+            "name": "Fundecyt-PCTEX",
+            "website": "https://www.fundecyt-pctex.es/",
+            "level": "Colaboradores"
+        }
+    ]
+}

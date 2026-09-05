@@ -1,0 +1,91 @@
+{
+    "year": 2016,
+    "levels": {
+        "Plata": 500,
+        "Oro": 1000,
+        "Platino": 2000,
+        "Diamante": 3000
+    },
+    "sponsors": [
+        {
+            "name": "Google",
+            "website": "https://google.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "CodeSyntax",
+            "website": "https://www.codesyntax.com/eu",
+            "level": "Sponsor"
+        },
+        {
+            "name": "ALEA",
+            "website": "https://www.alea-soluciones.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Kernel Analytics",
+            "website": "",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Ticketea",
+            "website": "",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "JetBrains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "GISCE",
+            "website": "https://www.gisce.net/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "OpenSistemas",
+            "website": "https://www.opensistemas.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "BlaBlaCar",
+            "website": "https://www.blablacar.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "a3sec",
+            "website": "https://www.a3sec.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "APSL",
+            "website": "https://www.apsl.net/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "El Gas",
+            "website": "",
+            "level": "Sponsor"
+        },
+        {
+            "name": "HackLab Almería",
+            "website": "",
+            "level": "Sponsor"
+        },
+        {
+            "name": "NFQ Solutions",
+            "website": "https://www.nfq.es/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Rework",
+            "website": "",
+            "level": "Sponsor"
+        }
+    ]
+}

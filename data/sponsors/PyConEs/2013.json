@@ -1,0 +1,61 @@
+{
+    "year": 2013,
+    "levels": {
+        "Plata": 500,
+        "Oro": 1000,
+        "Platino": 2000,
+        "Diamante": 3000
+    },
+    "sponsors": [
+        {
+            "name": "AleaSoluciones",
+            "website": "https://www.alea-soluciones.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "APSL",
+            "website": "https://www.apsl.net/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Continuum Analytics",
+            "website": "https://www.anaconda.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "e-Frontiers",
+            "website": "https://e-frontiers.ie/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Gisce",
+            "website": "https://gisce.net/es/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Kaleidos",
+            "website": "https://kaleidos.net/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Paradigma",
+            "website": "https://www.paradigmadigital.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Ticketea",
+            "website": "",
+            "level": "Sponsor"
+        },
+        {
+            "name": "QDQmedia",
+            "website": "",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Telefónica I+D",
+            "website": "https://www.telefonica.com/",
+            "level": "Sponsor"
+        }
+    ]
+}

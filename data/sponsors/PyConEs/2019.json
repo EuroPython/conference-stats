@@ -1,0 +1,240 @@
+{
+    "year": 2019,
+    "levels": {
+        "Plata": 500,
+        "Oro": 1000,
+        "Platino": 2000,
+        "Diamante": 3500,
+        "Keystone": 6000,
+        "Patrocinio Especial": 0,
+        "Organizadores": 0,
+        "Colaboran": 0
+    },
+    "sponsors": [
+        {
+            "name": "Microsoft",
+            "website": "https://www.microsoft.com/",
+            "level": "Keystone"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf-landing/",
+            "level": "Diamante"
+        },
+        {
+            "name": "Eventbrite",
+            "website": "https://www.eventbrite.com/",
+            "level": "Diamante"
+        },
+        {
+            "name": "Ilion",
+            "website": "",
+            "level": "Diamante"
+        },
+        {
+            "name": "Kaleidos",
+            "website": "https://kaleidos.net/",
+            "level": "Platino"
+        },
+        {
+            "name": "Orange",
+            "website": "https://www.orange.com/",
+            "level": "Platino"
+        },
+        {
+            "name": "TrustYou",
+            "website": "https://www.trustyou.com/",
+            "level": "Platino"
+        },
+        {
+            "name": "TravelPerk",
+            "website": "https://www.travelperk.com/",
+            "level": "Platino"
+        },
+        {
+            "name": "Ravenpack",
+            "website": "https://www.ravenpack.com/",
+            "level": "Platino"
+        },
+        {
+            "name": "Intelygenz",
+            "website": "https://www.intelygenz.com/",
+            "level": "Platino"
+        },
+        {
+            "name": "APSL",
+            "website": "https://www.apsl.net/",
+            "level": "Oro"
+        },
+        {
+            "name": "Nucoro",
+            "website": "https://www.nucoro.com/",
+            "level": "Oro"
+        },
+        {
+            "name": "Deloitte",
+            "website": "https://www.deloitte.com/",
+            "level": "Oro"
+        },
+        {
+            "name": "Bloomberg",
+            "website": "https://www.bloomberg.com/europe",
+            "level": "Oro"
+        },
+        {
+            "name": "OpenSistemas",
+            "website": "https://www.opensistemas.com/",
+            "level": "Oro"
+        },
+        {
+            "name": "Paradigma",
+            "website": "https://www.paradigmadigital.com/",
+            "level": "Oro"
+        },
+        {
+            "name": "Kiwi",
+            "website": "https://www.kiwi.com/",
+            "level": "Oro"
+        },
+        {
+            "name": "Uenergia",
+            "website": "",
+            "level": "Oro"
+        },
+        {
+            "name": "Alea",
+            "website": "https://www.alea-soluciones.com/",
+            "level": "Oro"
+        },
+        {
+            "name": "Zooplus",
+            "website": "https://www.zooplus.com/",
+            "level": "Oro"
+        },
+        {
+            "name": "Cecotec",
+            "website": "https://www.cecotec.es/",
+            "level": "Oro"
+        },
+        {
+            "name": "Ontruck",
+            "website": "https://www.ontruck.com/",
+            "level": "Oro"
+        },
+        {
+            "name": "a3sec",
+            "website": "https://www.a3sec.com/",
+            "level": "Oro"
+        },
+        {
+            "name": "e-Frontiers",
+            "website": "https://e-frontiers.ie/",
+            "level": "Oro"
+        },
+        {
+            "name": "Mckinsey and Company",
+            "website": "https://www.mckinsey.com/",
+            "level": "Oro"
+        },
+        {
+            "name": "OrbitalAds",
+            "website": "",
+            "level": "Oro"
+        },
+        {
+            "name": "Code Syntax",
+            "website": "https://www.codesyntax.com/",
+            "level": "Plata"
+        },
+        {
+            "name": "Athento",
+            "website": "https://www.athento.com/",
+            "level": "Plata"
+        },
+        {
+            "name": "Vissum",
+            "website": "https://www.vissum.com/",
+            "level": "Plata"
+        },
+        {
+            "name": "GISCE",
+            "website": "https://www.gisce.net/",
+            "level": "Plata"
+        },
+        {
+            "name": "Sewan",
+            "website": "https://www.sewan.fr/",
+            "level": "Plata"
+        },
+        {
+            "name": "Idealista",
+            "website": "https://www.idealista.com/",
+            "level": "Plata"
+        },
+        {
+            "name": "Stickermule",
+            "website": "https://www.stickermule.com/",
+            "level": "Patrocinio Especial"
+        },
+        {
+            "name": "FreeWear",
+            "website": "",
+            "level": "Patrocinio Especial"
+        },
+        {
+            "name": "Adnaloy",
+            "website": "",
+            "level": "Patrocinio Especial"
+        },
+        {
+            "name": "O'Reilly",
+            "website": "https://www.oreilly.com/",
+            "level": "Patrocinio Especial"
+        },
+        {
+            "name": "JetBrains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Patrocinio Especial"
+        },
+        {
+            "name": "Bookshelf",
+            "website": "",
+            "level": "Patrocinio Especial"
+        },
+        {
+            "name": "Muspell",
+            "website": "",
+            "level": "Patrocinio Especial"
+        },
+        {
+            "name": "EuroPython Society (EPS)",
+            "website": "https://www.europython-society.org/",
+            "level": "Organizadores"
+        },
+        {
+            "name": "Python España",
+            "website": "",
+            "level": "Organizadores"
+        },
+        {
+            "name": "Python Alicante",
+            "website": "",
+            "level": "Organizadores"
+        },
+        {
+            "name": "Universidad de Alicante",
+            "website": "https://www.ua.es/",
+            "level": "Colaboran"
+        },
+        {
+            "name": "DeepsUA",
+            "website": "",
+            "level": "Colaboran"
+        },
+        {
+            "name": "IUII",
+            "website": "",
+            "level": "Colaboran"
+        }
+    ]
+}

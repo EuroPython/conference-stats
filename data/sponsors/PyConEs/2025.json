@@ -1,0 +1,87 @@
+{
+    "year": 2025,
+    "levels": {
+        "Pan de Oro": 6000,
+        "Plata Fina": 4500,
+        "Cielo de Farolillos": 3200,
+        "Incienso": 1000,
+        "Comunidad Patrocinadora": 0
+    },
+    "sponsors": [
+        {
+            "name": "Kiwi",
+            "website": "https://www.kiwi.com/",
+            "level": "Pan de Oro"
+        },
+        {
+            "name": "Raiola Network",
+            "website": "https://raiolanetworks.es/",
+            "level": "Pan de Oro"
+        },
+        {
+            "name": "Nagarro",
+            "website": "https://www.nagarro.com/en/",
+            "level": "Pan de Oro"
+        },
+        {
+            "name": "Freepik",
+            "website": "https://www.freepik.com/",
+            "level": "Pan de Oro"
+        },
+        {
+            "name": "Fever",
+            "website": "https://feverup.com/es",
+            "level": "Plata Fina"
+        },
+        {
+            "name": "Kraken Technologies",
+            "website": "https://www.kraken.tech/",
+            "level": "Plata Fina"
+        },
+        {
+            "name": "Moeve",
+            "website": "https://moeve.com/",
+            "level": "Plata Fina"
+        },
+        {
+            "name": "eFrontiers",
+            "website": "https://e-frontiers.ie/",
+            "level": "Cielo de Farolillos"
+        },
+        {
+            "name": "JoinUp",
+            "website": "https://www.joinup.cloud/",
+            "level": "Incienso"
+        },
+        {
+            "name": "Codurance",
+            "website": "https://codurance.com/",
+            "level": "Incienso"
+        },
+        {
+            "name": "Gisce",
+            "website": "https://gisce.net/es/",
+            "level": "Incienso"
+        },
+        {
+            "name": "Bloomberg",
+            "website": "https://www.bloomberg.com/europe",
+            "level": "Incienso"
+        },
+        {
+            "name": "NIQ",
+            "website": "https://nielseniq.com/",
+            "level": "Incienso"
+        },
+        {
+            "name": "EuroPython Society",
+            "website": "www.europython-society.org/",
+            "level": "Comunidad Patrocinadora"
+        },
+        {
+            "name": "Grupo Billingham",
+            "website": "https://www.billinghamgroup.com/",
+            "level": "Comunidad Patrocinadora"
+        }
+    ]
+}

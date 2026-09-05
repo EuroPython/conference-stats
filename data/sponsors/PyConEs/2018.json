@@ -1,0 +1,152 @@
+{
+    "year": 2018,
+    "levels": {
+        "Plata": 500,
+        "Oro": 1000,
+        "Platino": 2000,
+        "Diamante": 3000,
+        "Keystone": 6000
+    },
+    "sponsors": [
+        {
+            "name": "a3sec",
+            "website": "https://www.a3sec.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Adimian",
+            "website": "https://www.adimian.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "APSL",
+            "website": "https://www.apsl.net/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Athento",
+            "website": "https://www.athento.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Autentia",
+            "website": "https://www.autentia.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Bloomberg",
+            "website": "https://www.bloomberg.com/europe",
+            "level": "Sponsor"
+        },
+        {
+            "name": "CodeSyntax",
+            "website": "https://www.codesyntax.com/eu",
+            "level": "Sponsor"
+        },
+        {
+            "name": "e-Frontiers",
+            "website": "https://e-frontiers.ie/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Eventbrite",
+            "website": "https://www.eventbrite.es/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Fever",
+            "website": "https://feverup.com/es",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Fisotec",
+            "website": "",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Gisce",
+            "website": "https://gisce.net/es/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Grup el Gas",
+            "website": "",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Idealista",
+            "website": "https://www.idealista.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Intelygenz",
+            "website": "https://www.intelygenz.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Invisible Bits",
+            "website": "",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Kaleidos",
+            "website": "https://kaleidos.net/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Kernel Analytics",
+            "website": "",
+            "level": "Sponsor"
+        },
+        {
+            "name": "KSchool",
+            "website": "https://kschool.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "OpenSistemas",
+            "website": "https://www.opensistemas.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "OpenShine",
+            "website": "https://www.openshine.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Orange",
+            "website": "https://www.orange.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Paradigma",
+            "website": "https://www.paradigmadigital.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Python Academy",
+            "website": "https://www.python-academy.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "RavenPack",
+            "website": "https://www.ravenpack.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Tecnoempleo",
+            "website": "https://www.tecnoempleo.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "TrustYou",
+            "website": "https://www.trustyou.com/",
+            "level": "Sponsor"
+        }
+    ]
+}

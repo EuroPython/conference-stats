@@ -1,9 +1,9 @@
 {
     "year": 2021,
     "levels": {
-        "Oro":"500",
-        "Plata": "250",
-        "Bronce":"100"
+        "Oro": 500,
+        "Plata": 250,
+        "Bronce": 100
     },
     "sponsors": [
         {

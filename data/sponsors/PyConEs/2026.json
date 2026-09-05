@@ -1,0 +1,67 @@
+{
+    "year": 2026,
+    "levels": {
+        "Bronze": 1000,
+        "Silver": 3000,
+        "Gold": 6000,
+        "Platinum": 8000,
+        "Principal": 0
+    },
+    "sponsors": [
+        {
+            "name": "Perk",
+            "website": "",
+            "level": "Principal"
+        },
+        {
+            "name": "Nagarro",
+            "website": "https://www.nagarro.com/en/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Abacum",
+            "website": "https://www.abacum.io/",
+            "level": "Gold"
+        },
+        {
+            "name": "Fever",
+            "website": "https://feverup.com/es",
+            "level": "Gold"
+        },
+        {
+            "name": "Rover",
+            "website": "https://www.rover.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Veriff",
+            "website": "https://www.veriff.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Preply",
+            "website": "https://preply.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Quansight",
+            "website": "https://quansight.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "GISCE",
+            "website": "https://www.gisce.net/",
+            "level": "Bronze"
+        },
+        {
+            "name": "JetBrains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "EuroPython Society",
+            "website": "www.europython-society.org/",
+            "level": "Community"
+        }
+    ]
+}
