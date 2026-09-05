@@ -1,0 +1,73 @@
+{
+    "year": 2026,
+    "levels": {
+        "Platinum": 8000,
+        "Gold": 5000,
+        "Silver": 3000,
+        "Bronze": 1500,
+        "Patron": 1000,
+        "Community": 0
+    },
+    "sponsors": [
+        {
+            "name": "Elastic",
+            "website": "https://www.elastic.co/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Kiefer",
+            "website": "",
+            "level": "Platinum"
+        },
+        {
+            "name": "Yodeck",
+            "website": "https://www.yodeck.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Plum",
+            "website": "https://withplum.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Apify",
+            "website": "https://ep2026.europython.eu/sponsors#sponsor-apify",
+            "level": "Gold"
+        },
+        {
+            "name": "UpHellas",
+            "website": "https://www.uphellas.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Dialectica",
+            "website": "https://www.dialectica.io/",
+            "level": "Silver"
+        },
+        {
+            "name": "InstaCar",
+            "website": "https://www.instacar.gr/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Quansight",
+            "website": "https://quansight.com/",
+            "level": "Patron"
+        },
+        {
+            "name": "JetBrains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Patron"
+        },
+        {
+            "name": "EuroPython Society",
+            "website": "https://europython-society.org/",
+            "level": "Community"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Community"
+        }
+    ]
+}
