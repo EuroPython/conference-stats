@@ -1,0 +1,235 @@
+{
+    "year": 2026,
+    "speakers": [
+        {
+            "fullname": "Esther Fernández Carbayo",
+            "type": "Poster",
+            "title": "From tokens to meaning: the hidden linguistics behind AI"
+        },
+        {
+            "fullname": "Alexandros Drymonitis",
+            "type": "Talk",
+            "title": "Resurrecting Pyo - Bringing Python's DSP toolkit back to life"
+        },
+        {
+            "fullname": "Kader Miyanyedi",
+            "type": "Talk",
+            "title": "Cache Me If You Can:  Unlocking Python's Built-in Caching"
+        },
+        {
+            "fullname": "Nina Siaminou",
+            "type": "Talk",
+            "title": "The AI Landscape Is Moving Too Fast, And That's Okay"
+        },
+        {
+            "fullname": "Aris Nivorlis",
+            "type": "Talk",
+            "title": "Building a Data Platform for Remote Field Sensors in Python"
+        },
+        {
+            "fullname": "Stefanie Molin",
+            "type": "Tutorial",
+            "title": "Introduction to Data Analysis Using Pandas"
+        },
+        {
+            "fullname": "Saurav Jain",
+            "type": "Tutorial",
+            "title": "Build, deploy, monetize: the future of the AI-powered developer economy"
+        },
+        {
+            "fullname": "Matyáš Cimbulka",
+            "type": "Tutorial",
+            "title": "Build, deploy, monetize: the future of the AI-powered developer economy"
+        },
+        {
+            "fullname": "Grigoris Maravelias",
+            "type": "Talk",
+            "title": "Teaching Statistics and Machine Learning: Lessons from the AstroStat Academy"
+        },
+        {
+            "fullname": "Grigoris Maravelias",
+            "type": "Tutorial",
+            "title": "From Data to Insights - A Hands-On Introduction to Machine Learning and Clustering with Python"
+        },
+        {
+            "fullname": "Menelaos Kotoglou",
+            "type": "Talk",
+            "title": "LLM or Regex? Choosing Tools for Text Problems in Python"
+        },
+        {
+            "fullname": "Lais Carvalho",
+            "type": "Talk",
+            "title": "Python and Freedom and Bias"
+        },
+        {
+            "fullname": "Graham Lyons",
+            "type": "Talk",
+            "title": "The 3 Best Features of FastAPI"
+        },
+        {
+            "fullname": "Daksh P. Jain",
+            "type": "Talk",
+            "title": "The Hidden Python Behind Every Typeface: Engineering Variable Fonts"
+        },
+        {
+            "fullname": "Riccardo Magliocchetti",
+            "type": "Talk",
+            "title": "Less painful Open Source code contributions"
+        },
+        {
+            "fullname": "Georgios Kalaitzis",
+            "type": "Talk",
+            "title": "What Does Cooking Teach Us About Architecture?"
+        },
+        {
+            "fullname": "Sho Tanaka",
+            "type": "Talk",
+            "title": "How to evaluate AI Agent to be robust Intelligence"
+        },
+        {
+            "fullname": "Vyron Vasileiadis",
+            "type": "Tutorial",
+            "title": "Learn Quantum Computing with QiliSDK"
+        },
+        {
+            "fullname": "Stefanie Molin",
+            "type": "Talk",
+            "title": "Data Morph: A Cautionary Tale of Summary Statistics"
+        },
+        {
+            "fullname": "Iason Krommydas",
+            "type": "Talk",
+            "title": "What's Inside a NumPy Array? A Learning Journey into C Extensions"
+        },
+        {
+            "fullname": "James Donahue",
+            "type": "Talk",
+            "title": "WTF Is a Data Model, Anyway?"
+        },
+        {
+            "fullname": "Petros Savvakis",
+            "type": "Talk",
+            "title": "From Prompt to Proof: Building Auditable and Compliant AI Systems in Python"
+        },
+        {
+            "fullname": "Naomi Freeman",
+            "type": "Talk",
+            "title": "Bias Isn’t a Bug: Auditing AI Systems with Python"
+        },
+        {
+            "fullname": "Olga Matoula",
+            "type": "Talk",
+            "title": "Inside uv’s dependency resolver"
+        },
+        {
+            "fullname": "Gertrude Abagale",
+            "type": "Talk",
+            "title": "Building a Thriving Ecosystem: The Role of Communities in Growth and Inclusion"
+        },
+        {
+            "fullname": "Vassiliki Dalakiari",
+            "type": "Poster",
+            "title": "The Hidden Representational Dangers of Proprietary Embedding Models"
+        },
+        {
+            "fullname": "Katerina Xagorari",
+            "type": "Poster",
+            "title": "The Hidden Representational Dangers of Proprietary Embedding Models"
+        },
+        {
+            "fullname": "Panos Alexopoulos",
+            "type": "Tutorial",
+            "title": "Evaluating RAG Systems: From Metrics to Decisions"
+        },
+        {
+            "fullname": "Alexandros Liapatis",
+            "type": "Talk",
+            "title": "LLMs: from 0 to 0.1"
+        },
+        {
+            "fullname": "Nikos Fotiou",
+            "type": "Talk",
+            "title": "Sponsored talk by Elastic - Sophia Means Wisdom: A Multi-Tenant AI Engineering Assistant Using Elasticsearch as RAG"
+        },
+        {
+            "fullname": "Lysandros Nikolaou",
+            "type": "Talk",
+            "title": "Python Dicts: Past, Present, and Free-Threaded Future"
+        },
+        {
+            "fullname": "Priscila Gutierres",
+            "type": "Talk",
+            "title": "The Maintenance Gap: Bridging Upstream Python and Downstream on Linux"
+        },
+        {
+            "fullname": "KIROUANE AYOUB",
+            "type": "Tutorial",
+            "title": "Sponsored workshop by Kiefer Tech - Teaching a Small Model to Speak Greek: Fine-Tuning an SLM for Conversational Greek"
+        },
+        {
+            "fullname": "Anubhav Sanyal",
+            "type": "Talk",
+            "title": "From YAML to Adventure: Gamifying Kubernetes Through a Retro Python Game"
+        },
+        {
+            "fullname": "Seungwoo Schin",
+            "type": "Poster",
+            "title": "Agentic Hypergraph Search for Ontology-Grounded Medical Reasoning"
+        },
+        {
+            "fullname": "George Poulis",
+            "type": "Talk",
+            "title": "Replacing Manual Document Reviews with Python, OCR, and LLMs"
+        },
+        {
+            "fullname": "Alexandra Athanasakou",
+            "type": "Poster",
+            "title": "Stop Watching, Start Building: The Power of Project-Based Learning in Python"
+        },
+        {
+            "fullname": "Ανδρέας Στασινάκης",
+            "type": "Poster",
+            "title": "Stop Watching, Start Building: The Power of Project-Based Learning in Python"
+        },
+        {
+            "fullname": "Sangarshanan",
+            "type": "Talk",
+            "title": "Making Music from Math with Python"
+        },
+        {
+            "fullname": "Eyitayo Alimi",
+            "type": "Poster",
+            "title": "CyberSentinel Py: Lightweight AI Threat Detection with FastAPI"
+        },
+        {
+            "fullname": "Efstratios Marinos",
+            "type": "Talk",
+            "title": "What Building Self-Attention from Scratch Taught Me About My Own Code"
+        },
+        {
+            "fullname": "Vasileios Giotsas",
+            "type": "Talk",
+            "title": "Python on the Edge: Serverless WASM with Pyodide"
+        },
+        {
+            "fullname": "George Fourtounis",
+            "type": "Talk",
+            "title": "Reusable data tooling at GRNET: From scanning to registries"
+        },
+        {
+            "fullname": "Giorgos Korfiatis",
+            "type": "Talk",
+            "title": "Reusable data tooling at GRNET: From scanning to registries"
+        },
+        {
+            "fullname": "Carmine Somma",
+            "type": "Poster",
+            "title": "An Agentic RAG Assistant for EU Climate Policy"
+        },
+        {
+            "fullname": "Jasper Castell",
+            "type": "Talk",
+            "title": "Built for Reality. Not Linkedin - How Little LLM Can You Get Away With?"
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "year": 2025,
+    "speakers": [
+        {
+            "fullname": "Panagiotis Skias",
+            "type": "Talk",
+            "title": "From First Contribution to Core Community Member: A journey through Python Docs Gr"
+        },
+        {
+            "fullname": "Alexandra Athanasakou",
+            "type": "Talk",
+            "title": "From Data to Pathways: Personalizing Learning Experiences"
+        },
+        {
+            "fullname": "Petros Savvakis",
+            "type": "Tutorial",
+            "title": "Building Production‑Ready AI Agents with FastAPI, Pydantic‑AI & MCP"
+        },
+        {
+            "fullname": "Pinelopi Theotoki",
+            "type": "Talk",
+            "title": "Forecasting Avocado Ripeness: When less is more in a prediction model"
+        },
+        {
+            "fullname": "George Chalikiopoulos",
+            "type": "Talk",
+            "title": "Bring Your Ideas to Prototype (Vibe) Coding for Dummies"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Tutorial",
+            "title": "Deploy your Machine Learning model with Fast API"
+        },
+        {
+            "fullname": "Jan Bielecki",
+            "type": "Talk",
+            "title": "Consistent importing"
+        },
+        {
+            "fullname": "Efe Öge",
+            "type": "Talk",
+            "title": "Multilingual Django Applications with a sprinkle of AI"
+        },
+        {
+            "fullname": "Christos Aridas",
+            "type": "Talk",
+            "title": "Make your data science workflows reproducible"
+        },
+        {
+            "fullname": "Vasileios Giotsas",
+            "type": "Talk",
+            "title": "Measuring the Internet with Python"
+        },
+        {
+            "fullname": "Iason Krommydas",
+            "type": "Tutorial (1,5 hours)",
+            "title": "Thinking in Arrays: An Introduction to Array-Oriented Programming"
+        },
+        {
+            "fullname": "Georgios Kalaitzis",
+            "type": "Talk",
+            "title": "To mock or not to mock? Choosing a mocking strategy for your unit tests"
+        },
+        {
+            "fullname": "Christos Georgiou",
+            "type": "Sponsored talk",
+            "title": "manage.py migraine"
+        },
+        {
+            "fullname": "Antonis Kalipetis",
+            "type": "Talk",
+            "title": "Sync or async? Feel the magic of coroutines and the event loop in Django"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Workshop",
+            "title": "Humble Data"
+        },
+        {
+            "fullname": "Lais Carvalho",
+            "type": "Workshop",
+            "title": "Humble Data"
+        },
+        {
+            "fullname": "Konstantinos Papadopoulos",
+            "type": "Talk",
+            "title": "Turbocharge your Python test suite today! 🚀"
+        },
+        {
+            "fullname": "Antonis Markoulis",
+            "type": "Talk",
+            "title": "How I Learned to Stop Worrying and Love Raw Events: Event Sourcing & CQRS with FastAPI and Celery."
+        },
+        {
+            "fullname": "Kader Miyanyedi",
+            "type": "Talk",
+            "title": "Off the Beaten Path: Exploring Unusual Roads to Django Performance"
+        },
+        {
+            "fullname": "Thanasis Politis",
+            "type": "Talk",
+            "title": "AI Cloud Management: Integrating the AWS Python SDK with Anthropic's Model Context Protocol"
+        },
+        {
+            "fullname": "Cristián Maureira-Fredes",
+            "type": "Talk",
+            "title": "The Art of extending Python with other languages"
+        },
+        {
+            "fullname": "Priya Pahwa",
+            "type": "Talk",
+            "title": "Culture Eats Strategy for Breakfast: Why Psychological Safety Matters in Open Source"
+        },
+        {
+            "fullname": "Anastasis Georgoulas",
+            "type": "Tutorial",
+            "title": "One file to rule them all: Packaging and best practices with pyproject.toml"
+        },
+        {
+            "fullname": "Aastha",
+            "type": "Talk",
+            "title": "Why Your Async Code Might Be Slower — and How to Fix It"
+        },
+        {
+            "fullname": "Christos Markou",
+            "type": "Talk",
+            "title": "Python + OpenTelemetry = ❤️ | Where Python meets observability and open standards"
+        },
+        {
+            "fullname": "Orestis Ousoultzoglou",
+            "type": "Tutorial",
+            "title": "Python + Julia = <3"
+        },
+        {
+            "fullname": "Panagiotis Georgakopoulos",
+            "type": "Tutorial",
+            "title": "Python + Julia = <3"
+        },
+        {
+            "fullname": "Anushka Narula",
+            "type": "Talk",
+            "title": "AI Accessibility: How to Keep Your Users From Rage-Quitting"
+        },
+        {
+            "fullname": "Donatas Rasiukevičius",
+            "type": "Talk",
+            "title": "Do Repeat Yourself"
+        },
+        {
+            "fullname": "Valeria Jankowskaja",
+            "type": "Talk",
+            "title": "AI-gent 007: Build your own Cloud Architect in 30 Min"
+        },
+        {
+            "fullname": "Florents Tselai",
+            "type": "Talk",
+            "title": "Developing Database Extensions with Python: Real-World Examples in SQLite, DuckDB, and PostgreSQL"
+        },
+        {
+            "fullname": "Christos Georgoulis",
+            "type": "Talk",
+            "title": "ETL Beyond Spark"
+        },
+        {
+            "fullname": "Lais Carvalho",
+            "type": "Keynote",
+            "title": "Keynote - Laís Carvalho - The Open Source of Self"
+        },
+        {
+            "fullname": "Nikos Angouras",
+            "type": "Talk",
+            "title": "How Python Evolves: The Role of Python Enhancement Proposals (PEPs)"
+        },
+        {
+            "fullname": "Lilinoe Harbottle",
+            "type": "Talk",
+            "title": "Lung Biopsy: Python's Cut Above the Rest (Minus the Actual Cut)"
+        },
+        {
+            "fullname": "Panagiotis Moustafellos",
+            "type": "Sponsored talk",
+            "title": "Sponsored talk by Elastic - Query like a Pro: ES|QL meets Apache Arrow and Pandas"
+        },
+        {
+            "fullname": "Samiul Huque",
+            "type": "Talk",
+            "title": "You Came to a Python Conference. Now, Go Do a PR Review!"
+        },
+        {
+            "fullname": "Michael Loukeris",
+            "type": "Talk",
+            "title": "Deploying Smart Agents with LangChain"
+        },
+        {
+            "fullname": "Sohan Maheshwar",
+            "type": "Talk",
+            "title": "Securing RAG Pipelines with Fine Grained Authorization"
+        },
+        {
+            "fullname": "Lysandros Nikolaou",
+            "type": "Talk",
+            "title": "Uncovering the magic of implementing a new Python syntax feature"
+        },
+        {
+            "fullname": "Daniel Szoke",
+            "type": "Talk",
+            "title": "Why you, as a Python developer, should learn Rust"
+        },
+        {
+            "fullname": "Stavros Niafas",
+            "type": "Talk",
+            "title": "Hot-Swapping MLflow Models: A Pythonic Approach on AWS Lambda"
+        }
+    ]
+}
