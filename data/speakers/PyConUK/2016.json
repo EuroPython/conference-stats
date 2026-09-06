@@ -1,0 +1,545 @@
+{
+    "year": 2016,
+    "speakers": [
+        {
+            "fullname": "Cory Benfield",
+            "type": "Talk",
+            "title": "If Only Everything Was Radioactive: Randomness and Computing"
+        },
+        {
+            "fullname": "Sagar Chand Agarwal",
+            "type": "Talk",
+            "title": "Django vs Flask vs Pyramid. Which to chose?"
+        },
+        {
+            "fullname": "Ana Paula Carvalho",
+            "type": "Talk",
+            "title": "1001 ways of Python"
+        },
+        {
+            "fullname": "Russel Winder",
+            "type": "Talk",
+            "title": "A RaspberryPi super computer in a briefcase"
+        },
+        {
+            "fullname": "Kirk Northrop",
+            "type": "Talk",
+            "title": "Micro Python, the Internet of Things and the £3 device"
+        },
+        {
+            "fullname": "Dr Andrew Robinson",
+            "type": "Talk",
+            "title": "Python Cat Flaps - creating smart devices with Python"
+        },
+        {
+            "fullname": "Nicholas Tollervey",
+            "type": "Talk",
+            "title": "Python in Education"
+        },
+        {
+            "fullname": "Daniele Marco Procida",
+            "type": "Talk",
+            "title": "10 years, 7 deployments and a lesson"
+        },
+        {
+            "fullname": "Andraz Hribernik",
+            "type": "Talk",
+            "title": "Natural Language Processing in 10 Lines of Code"
+        },
+        {
+            "fullname": "Kerstin Kollmann",
+            "type": "Talk",
+            "title": "Taking the robot out of Mr. Robot or: Why tech sucks & how you can help to make it better"
+        },
+        {
+            "fullname": "Emma Gordon",
+            "type": "Talk",
+            "title": "A P45 from C-3PO?"
+        },
+        {
+            "fullname": "Stephen Simmons",
+            "type": "Talk",
+            "title": "\"Where am I? What am I doing here?\" -- Motion detection and sensor fusion on wearables and Micro:Bit with Python"
+        },
+        {
+            "fullname": "Brandon Rhodes",
+            "type": "Keynote",
+            "title": "Python and the Glories of the UNIX Tradition"
+        },
+        {
+            "fullname": "Rik Cross",
+            "type": "Workshop",
+            "title": "Intro to Python"
+        },
+        {
+            "fullname": "Tracy Gardner",
+            "type": "Workshop",
+            "title": "Intro to Python"
+        },
+        {
+            "fullname": "Dave Ames",
+            "type": "Workshop",
+            "title": "Intro to PGZero: Making Graphical Games Using Python"
+        },
+        {
+            "fullname": "Kevin Keenoy",
+            "type": "Talk",
+            "title": "Transforming the government's Digital Marketplace from portal to platform"
+        },
+        {
+            "fullname": "Becky Lewis",
+            "type": "Talk",
+            "title": "Distributed systems from scratch: lessons learned the hard way!"
+        },
+        {
+            "fullname": "Sway Grantham",
+            "type": "Workshop",
+            "title": "From Scratch to Python"
+        },
+        {
+            "fullname": "Tom Christie",
+            "type": "Talk",
+            "title": "Django REST framework: Schemas, Hypermedia & Client libraries."
+        },
+        {
+            "fullname": "Gusztav Belteki",
+            "type": "Talk",
+            "title": "Python in Medicine: ventilator data"
+        },
+        {
+            "fullname": "Sarah Zaman",
+            "type": "Talk",
+            "title": "Hacking Minecraft for complete novices"
+        },
+        {
+            "fullname": "Dave Ames",
+            "type": "Talk",
+            "title": "Hacking Minecraft for complete novices"
+        },
+        {
+            "fullname": "Martin O'Hanlon",
+            "type": "Workshop",
+            "title": "Modules Functions & Classes"
+        },
+        {
+            "fullname": "Iacopo Spalletti",
+            "type": "Talk",
+            "title": "django CMS in the real time web: how to mix CMS, websockets, REST for a fully real time experience"
+        },
+        {
+            "fullname": "Nicola Iarocci",
+            "type": "Talk",
+            "title": "Cerberus - Data Validation for Humans"
+        },
+        {
+            "fullname": "Nicholas Tollervey",
+            "type": "Workshop",
+            "title": "Getting started with MicroPython on the Micro:bit"
+        },
+        {
+            "fullname": "Jenny Wong",
+            "type": "Talk",
+            "title": "Lessons learned from PHP"
+        },
+        {
+            "fullname": "John Chandler",
+            "type": "Talk",
+            "title": "Neurodiversity in Technology"
+        },
+        {
+            "fullname": "Maciej Dziergwa",
+            "type": "Talk",
+            "title": "5 mistakes you will make building a Python Software House"
+        },
+        {
+            "fullname": "Chloe Parkes",
+            "type": "Talk",
+            "title": "Chat bots: What is AI?"
+        },
+        {
+            "fullname": "Eva Gonzalez",
+            "type": "Talk",
+            "title": "Life as the Sourcerer's Apprentice"
+        },
+        {
+            "fullname": "Marc Tamlyn",
+            "type": "Talk",
+            "title": "Tech interviews that don't suck"
+        },
+        {
+            "fullname": "Stephanos Papanikolopoulos",
+            "type": "Talk",
+            "title": "Timezones: A tale of (more than) two cities"
+        },
+        {
+            "fullname": "Helen Sherwood-Taylor",
+            "type": "Talk",
+            "title": "Taking control of your Bluetooth devices"
+        },
+        {
+            "fullname": "Kath Morton-Smith",
+            "type": "Talk",
+            "title": "Creative learning and computational thinking across the curriculum"
+        },
+        {
+            "fullname": "Rae Knowler",
+            "type": "Talk",
+            "title": "Python, Locales and Writing Systems"
+        },
+        {
+            "fullname": "Daniel Pope",
+            "type": "Talk",
+            "title": "Scripting across hosts with Chopsticks"
+        },
+        {
+            "fullname": "Gail Ollis",
+            "type": "Keynote",
+            "title": "Folklore and fantasy in the information age"
+        },
+        {
+            "fullname": "Busra Koken",
+            "type": "Talk",
+            "title": "I love being Pythonic, you?"
+        },
+        {
+            "fullname": "Amit Kumar",
+            "type": "Talk",
+            "title": "Introducing MetaClasses"
+        },
+        {
+            "fullname": "Thomas Edwards",
+            "type": "Talk",
+            "title": "A data processing toolbox for agile scientific research"
+        },
+        {
+            "fullname": "Ronan Lamy",
+            "type": "Talk",
+            "title": "The state of PyPy"
+        },
+        {
+            "fullname": "Katharine Jarmul",
+            "type": "Talk",
+            "title": "How to Automate your Data Cleanup with Python"
+        },
+        {
+            "fullname": "Peter Goldsborough",
+            "type": "Talk",
+            "title": "An Introduction to Deep Learning with TensorFlow"
+        },
+        {
+            "fullname": "Tom Stordy-Allison",
+            "type": "Talk",
+            "title": "Declarative user interfaces in Python using ENAML"
+        },
+        {
+            "fullname": "Russel Winder",
+            "type": "Talk",
+            "title": "Fast Python? Don't Bother!"
+        },
+        {
+            "fullname": "Matthew Behrens",
+            "type": "Talk",
+            "title": "Building a Python Cake: Testing The Layers of Your Application"
+        },
+        {
+            "fullname": "Thomas Campbell",
+            "type": "Talk",
+            "title": "Using Python for National Cipher Challenge"
+        },
+        {
+            "fullname": "Charlie Clark",
+            "type": "Talk",
+            "title": "The Art of Doing Nothing – Using profiling to speed up your code"
+        },
+        {
+            "fullname": "Nick Radcliffe",
+            "type": "Talk",
+            "title": "Test-Driven Data Analysis"
+        },
+        {
+            "fullname": "Jessica Upani",
+            "type": "Talk",
+            "title": "High School Pythonistas: What PYNAM did next."
+        },
+        {
+            "fullname": "Vitor Baptista",
+            "type": "Talk",
+            "title": "Python Library Development"
+        },
+        {
+            "fullname": "Ian Ozsvald",
+            "type": "Talk",
+            "title": "Using Machine Learning to solve a classification problem with scikit-learn - a practical walkthrough"
+        },
+        {
+            "fullname": "César Cardenas Desales",
+            "type": "Talk",
+            "title": "So you \"want\" to maintain a Python legacy code base?"
+        },
+        {
+            "fullname": "Stewart Adcock",
+            "type": "Talk",
+            "title": "The CSD Python API – Helping the world's structural chemists innovate"
+        },
+        {
+            "fullname": "Aaron Bassett",
+            "type": "Talk",
+            "title": "Avoiding the \"left-pad\" problem: How to secure your pip install process"
+        },
+        {
+            "fullname": "Robin Wilson",
+            "type": "Talk",
+            "title": "recipy: completely effortless provenance for Python"
+        },
+        {
+            "fullname": "Cat Lamin",
+            "type": "Talk",
+            "title": "Why do kids need to code and how can we help?"
+        },
+        {
+            "fullname": "Manoj Pandey",
+            "type": "Talk",
+            "title": "An Introduction to web scraping using Python"
+        },
+        {
+            "fullname": "Barry Scott",
+            "type": "Talk",
+            "title": "My journey from wxPython to PyQt"
+        },
+        {
+            "fullname": "Laura Dixon",
+            "type": "Talk",
+            "title": "Developing CS education - how can you help"
+        },
+        {
+            "fullname": "Andrea Grandi",
+            "type": "Talk",
+            "title": "Getting started with requests HTTP library"
+        },
+        {
+            "fullname": "Julie MacDonell",
+            "type": "Talk",
+            "title": "The Breakup: Monolith to Microservices"
+        },
+        {
+            "fullname": "Bashar Al-Abdulhadi",
+            "type": "Keynote",
+            "title": "An Arabish lesson: Introducing Django to the foreign world"
+        },
+        {
+            "fullname": "Paul Walsh",
+            "type": "Talk",
+            "title": "Open Data projects with Python"
+        },
+        {
+            "fullname": "Leonardo Giordani",
+            "type": "Talk",
+            "title": "Dive Into Object-oriented Python"
+        },
+        {
+            "fullname": "Emmanuelle Delescolle",
+            "type": "Talk",
+            "title": "Behind the scenes: writing tutorials"
+        },
+        {
+            "fullname": "Tatiana Al-Chueyr Martins",
+            "type": "Talk",
+            "title": "Some challenges in automatic English text correction"
+        },
+        {
+            "fullname": "Tim Vivian-Griffiths",
+            "type": "Talk",
+            "title": "Assessing performance of Support Vector Machine kernels to detect interactions in genotyped data"
+        },
+        {
+            "fullname": "Ben Nuttall",
+            "type": "Talk",
+            "title": "Developing a Zero boilerplate library for Raspberry Pi GPIO"
+        },
+        {
+            "fullname": "Dave Jones",
+            "type": "Talk",
+            "title": "Developing a Zero boilerplate library for Raspberry Pi GPIO"
+        },
+        {
+            "fullname": "Colin Newell",
+            "type": "Talk",
+            "title": "An adventure in exploitation with Python"
+        },
+        {
+            "fullname": "Sarah Mount",
+            "type": "Talk",
+            "title": "Simulating a CPU with Python or: surprising programs you might have thought were better written in C"
+        },
+        {
+            "fullname": "Geoff French",
+            "type": "Talk",
+            "title": "An introduction to deep learning"
+        },
+        {
+            "fullname": "Andrew Mulholland",
+            "type": "Talk",
+            "title": "PiNet - A project that was never intended to be..."
+        },
+        {
+            "fullname": "Tessa Alexander",
+            "type": "Talk",
+            "title": "Creating a reproducible more secure python application"
+        },
+        {
+            "fullname": "William Dudley",
+            "type": "Talk",
+            "title": "Attempting to Win at Blackjack"
+        },
+        {
+            "fullname": "Yulia Zozulya",
+            "type": "Talk",
+            "title": "From QA to UX - Learning how to accommodate developers"
+        },
+        {
+            "fullname": "Cory Benfield",
+            "type": "Talk",
+            "title": "Why /dev/random is a horrible idea and other problems you didn't know you had yet"
+        },
+        {
+            "fullname": "David R. MacIver",
+            "type": "Talk",
+            "title": "Easy solutions to hard problems"
+        },
+        {
+            "fullname": "Angela Santin",
+            "type": "Talk",
+            "title": "Introducing type hints - challenges and lessons"
+        },
+        {
+            "fullname": "Alex Chan",
+            "type": "Talk",
+            "title": "An introduction to property-based testing and Hypothesis"
+        },
+        {
+            "fullname": "Geraint Palmer",
+            "type": "Talk",
+            "title": "Queueing and Python: pip install ciw"
+        },
+        {
+            "fullname": "Adam Obeng",
+            "type": "Talk",
+            "title": "Python for Scientists (feat. Software Carpentry)"
+        },
+        {
+            "fullname": "Katharine Jarmul",
+            "type": "Talk",
+            "title": "Data Wrangling with Python"
+        },
+        {
+            "fullname": "Samathy Barratt",
+            "type": "Talk",
+            "title": "Type checking - Whose responsibility is it?"
+        },
+        {
+            "fullname": "Raniere Gaia Costa da Silva",
+            "type": "Talk",
+            "title": "Lessons learned from organizing SciPy Latin America 2016"
+        },
+        {
+            "fullname": "Timothy John Weaving",
+            "type": "Talk",
+            "title": "Euler's Key to Cryptography"
+        },
+        {
+            "fullname": "Daniel F Moisset",
+            "type": "Talk",
+            "title": "Python and static types: Let's use mypy!"
+        },
+        {
+            "fullname": "James Cooke",
+            "type": "Talk",
+            "title": "Cleaner unit testing with the Arrange Act Assert pattern"
+        },
+        {
+            "fullname": "Nikoleta Evdokia Glynatsi",
+            "type": "Talk",
+            "title": "Prisoners, Cooperation and Spatial Structure"
+        },
+        {
+            "fullname": "Ed Singleton",
+            "type": "Talk",
+            "title": "Form Follows Functions"
+        },
+        {
+            "fullname": "Floris Bruynooghe",
+            "type": "Talk",
+            "title": "Build your Microservices with ZeroMQ"
+        },
+        {
+            "fullname": "Zara Siddique",
+            "type": "Talk",
+            "title": "Addition: well, that escalated quickly!"
+        },
+        {
+            "fullname": "Gail Ollis",
+            "type": "Talk",
+            "title": "Users are not the only people"
+        },
+        {
+            "fullname": "Owen Campbell",
+            "type": "Talk",
+            "title": "Ancient Greek Philosophy, Medieval Mental Models and 21st Century Technology"
+        },
+        {
+            "fullname": "Jim Hague",
+            "type": "Talk",
+            "title": "Rewriting without rewriting - porting an ATC radar display to Python/Qt without starting from scratch"
+        },
+        {
+            "fullname": "Sartaj Singh",
+            "type": "Talk",
+            "title": "Symbolic Computation with Python using SymPy"
+        },
+        {
+            "fullname": "Iacopo Spalletti",
+            "type": "Workshop",
+            "title": "django CMS application - A comprehensive approach"
+        },
+        {
+            "fullname": "Kristian Glass",
+            "type": "Workshop",
+            "title": "Getting started with AWS Elastic Beanstalk"
+        },
+        {
+            "fullname": "David R. MacIver",
+            "type": "Workshop",
+            "title": "Property-based testing with Hypothesis"
+        },
+        {
+            "fullname": "Marco Bonzanini",
+            "type": "Workshop",
+            "title": "Natural Language Processing with Python"
+        },
+        {
+            "fullname": "Marc Tamlyn",
+            "type": "Workshop",
+            "title": "Introduction to Graphene and Relay"
+        },
+        {
+            "fullname": "Pavlo Andriychenko",
+            "type": "Workshop",
+            "title": "One-click deployment of Jupyter notebooks as web apps and other cool Jovian tricks"
+        },
+        {
+            "fullname": "Emmanuelle Delescolle",
+            "type": "Workshop",
+            "title": "Building a single page application with Django and EmberJS"
+        },
+        {
+            "fullname": "Russel Winder",
+            "type": "Workshop",
+            "title": "Multi-language approaches to high performance computing with Python"
+        },
+        {
+            "fullname": "David Charles",
+            "type": "Workshop",
+            "title": "Hands on Kubernetes management with Python using Kube"
+        }
+    ]
+}

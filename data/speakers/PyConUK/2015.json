@@ -1,0 +1,385 @@
+{
+    "year": 2015,
+    "speakers": [
+        {
+            "fullname": "Larry Hastings",
+            "type": "Talk",
+            "title": "Python's Infamous GIL"
+        },
+        {
+            "fullname": "Louis Taylor",
+            "type": "Talk",
+            "title": "A deep dive into python import hooks"
+        },
+        {
+            "fullname": "Rachel Willmer",
+            "type": "Talk",
+            "title": "Real-Time Data + Django = Fun,Growth + Profit"
+        },
+        {
+            "fullname": "Daniele Procida",
+            "type": "Keynote",
+            "title": "All I really want is power"
+        },
+        {
+            "fullname": "Claudiu Popa",
+            "type": "Talk",
+            "title": "Analyzing Python with Pylint"
+        },
+        {
+            "fullname": "Dan Clark",
+            "type": "Talk",
+            "title": "Choosing a web framework for Python 3 and asyncio"
+        },
+        {
+            "fullname": "Peter Inglesby",
+            "type": "Workshop",
+            "title": "Django Security Workshop"
+        },
+        {
+            "fullname": "Colin Moore-Hill",
+            "type": "Talk",
+            "title": "Deploy a flask application in a single step"
+        },
+        {
+            "fullname": "Francisco Fernández Castaño",
+            "type": "Talk",
+            "title": "Understanding PyPy"
+        },
+        {
+            "fullname": "Owen Campbell",
+            "type": "Talk",
+            "title": "Leadership of Technical Teams"
+        },
+        {
+            "fullname": "Chris Dent",
+            "type": "Talk",
+            "title": "Gabbi - Declarative HTTP Testing"
+        },
+        {
+            "fullname": "Ronan Lamy",
+            "type": "Talk",
+            "title": "PyPy for mediocre programmers"
+        },
+        {
+            "fullname": "Jørn Lomax",
+            "type": "Talk",
+            "title": "Making code py2/3 compatible using python-future"
+        },
+        {
+            "fullname": "Russel Winder",
+            "type": "Talk",
+            "title": "Making Python Computations Fast"
+        },
+        {
+            "fullname": "Ed Singleton",
+            "type": "Talk",
+            "title": "Templating - Past, Present and Future"
+        },
+        {
+            "fullname": "Marek Mroz",
+            "type": "Talk",
+            "title": "Instrument Your Python App with Metric Collection"
+        },
+        {
+            "fullname": "Kristian Glass",
+            "type": "Talk",
+            "title": "Document all the things"
+        },
+        {
+            "fullname": "Safe Hammad",
+            "type": "Talk",
+            "title": "Python for mobile games on iOS and Android"
+        },
+        {
+            "fullname": "Fiona Burrows",
+            "type": "Talk",
+            "title": "Python for mobile games on iOS and Android"
+        },
+        {
+            "fullname": "Heeren Sharma",
+            "type": "Talk",
+            "title": "Resilient data pipelines using Docker-Compose"
+        },
+        {
+            "fullname": "Ben Nuttall",
+            "type": "Talk",
+            "title": "Python Projects on the Raspberry Pi"
+        },
+        {
+            "fullname": "James Broadhead",
+            "type": "Talk",
+            "title": "Testing and Async - a journey"
+        },
+        {
+            "fullname": "Yolanda Robla Mota",
+            "type": "Talk",
+            "title": "Accelerate and scale your tests with nodepool"
+        },
+        {
+            "fullname": "Frans Rosén",
+            "type": "Talk",
+            "title": "Using logical flaws to steal and modify business critical data"
+        },
+        {
+            "fullname": "Stefan Popa",
+            "type": "Talk",
+            "title": "Enabling the Optimisation of Python"
+        },
+        {
+            "fullname": "Ciprian Miclaus",
+            "type": "Talk",
+            "title": "Trade management in Python - a story of throughput"
+        },
+        {
+            "fullname": "Zeth Green",
+            "type": "Talk",
+            "title": "JSON and the daughters of Pelias"
+        },
+        {
+            "fullname": "Emmanuelle Delescolle",
+            "type": "Talk",
+            "title": "Building SAAs with django and polla"
+        },
+        {
+            "fullname": "Paul Ross",
+            "type": "Workshop",
+            "title": "Fifty Shades of Disaster - Human Error and Complex Systems"
+        },
+        {
+            "fullname": "Sarah Mount",
+            "type": "Talk",
+            "title": "Forming a PyCon UK research community"
+        },
+        {
+            "fullname": "Helen Sherwood-Taylor",
+            "type": "Talk",
+            "title": "Managing mocks - the how why and when of mocking in Python"
+        },
+        {
+            "fullname": "Katie Barr",
+            "type": "Talk",
+            "title": "Template matching - howto"
+        },
+        {
+            "fullname": "Graham Markall",
+            "type": "Workshop",
+            "title": "Accelerating Scientific Code with Numba"
+        },
+        {
+            "fullname": "Michael Sparks",
+            "type": "Talk",
+            "title": "5 impossible things before breakfast"
+        },
+        {
+            "fullname": "Claire Gowler",
+            "type": "Talk",
+            "title": "Asking About Gender - the Whats, Whys and Hows"
+        },
+        {
+            "fullname": "David R. MacIver",
+            "type": "Talk",
+            "title": "Finding more bugs with less work"
+        },
+        {
+            "fullname": "Gemma Hentsch",
+            "type": "Talk",
+            "title": "Why I have an unhealthy love of tests, and why you shouldn't be scared about writing them"
+        },
+        {
+            "fullname": "Martin Jones",
+            "type": "Workshop",
+            "title": "Getting started with testing scientific programs part 1"
+        },
+        {
+            "fullname": "John Chandler",
+            "type": "Talk",
+            "title": "Taming a Legacy Codebase with (Micro)services"
+        },
+        {
+            "fullname": "Edd Barrett",
+            "type": "Talk",
+            "title": "Language Composition with RPython"
+        },
+        {
+            "fullname": "Juan Riaza",
+            "type": "Workshop",
+            "title": "Scrapy Workshop Part 1"
+        },
+        {
+            "fullname": "Gary Martin",
+            "type": "Talk",
+            "title": "Title To Be Determined; A tale of graphs and Markov chains"
+        },
+        {
+            "fullname": "Floris Bruynooghe",
+            "type": "Talk",
+            "title": "Shipping your application using Conda"
+        },
+        {
+            "fullname": "Tim Golden",
+            "type": "Talk",
+            "title": "Teaching youngsters to code with pgzero on Raspberry Pi"
+        },
+        {
+            "fullname": "Hamish Downer",
+            "type": "Talk",
+            "title": "OOD Rules"
+        },
+        {
+            "fullname": "Juan Riaza",
+            "type": "Workshop",
+            "title": "Scrapy Workshop Part 2"
+        },
+        {
+            "fullname": "Martin Jones",
+            "type": "Workshop",
+            "title": "Getting started with testing scientific programs part 2"
+        },
+        {
+            "fullname": "Tomek Paczkowski",
+            "type": "Talk",
+            "title": "Dispelling py.test magic"
+        },
+        {
+            "fullname": "Jonathan Fine",
+            "type": "Talk",
+            "title": "Chromebooks in education - the next five years"
+        },
+        {
+            "fullname": "Daniele Procida",
+            "type": "Talk",
+            "title": "Python adventures in Namibia"
+        },
+        {
+            "fullname": "Konstantin Benz",
+            "type": "Talk",
+            "title": "The Fabric that holds the cloud together"
+        },
+        {
+            "fullname": "Cory Benfield",
+            "type": "Talk",
+            "title": "Simplicity Is A Feature"
+        },
+        {
+            "fullname": "Stephane Wirtel",
+            "type": "Talk",
+            "title": "Python and PostgreSQL a Wonderful Wedding"
+        },
+        {
+            "fullname": "Norberto Leite",
+            "type": "Workshop",
+            "title": "Building Async MicroServices"
+        },
+        {
+            "fullname": "Vince Knight",
+            "type": "Talk",
+            "title": "Tit for Tat, Evolution, Game Theory and the Python Axelrod Library"
+        },
+        {
+            "fullname": "Paul Ross",
+            "type": "Talk",
+            "title": "Here be Dragons - Writing Safe C Extensions"
+        },
+        {
+            "fullname": "Babak Khataee",
+            "type": "Talk",
+            "title": "Python powered Nukes"
+        },
+        {
+            "fullname": "Dan Milburn",
+            "type": "Talk",
+            "title": "Python powered Nukes"
+        },
+        {
+            "fullname": "Ian Ozsvald",
+            "type": "Talk",
+            "title": "Ship Data Science Products!"
+        },
+        {
+            "fullname": "Harry Percival",
+            "type": "Talk",
+            "title": "How (not) to argue - a recipe for more productive tech conversations"
+        },
+        {
+            "fullname": "Iacopo Spalletti",
+            "type": "Talk",
+            "title": "Testing applications for django CMS"
+        },
+        {
+            "fullname": "George Lestaris",
+            "type": "Talk",
+            "title": "iCE: Interactive cloud experimentation"
+        },
+        {
+            "fullname": "Alex Willmer",
+            "type": "Talk",
+            "title": "FIDO - The dog ate my password"
+        },
+        {
+            "fullname": "Daniel Pope",
+            "type": "Talk",
+            "title": "The Ladder to Python 3"
+        },
+        {
+            "fullname": "Tomas James",
+            "type": "Talk",
+            "title": "Power: Python in Astronomy"
+        },
+        {
+            "fullname": "Girish Kumar",
+            "type": "Talk",
+            "title": "Pythons and Earthquakes"
+        },
+        {
+            "fullname": "Robert Smallshire",
+            "type": "Workshop",
+            "title": "Event-Sourced Domain Models in Python"
+        },
+        {
+            "fullname": "Eleonore Mayola",
+            "type": "Talk",
+            "title": "Getting meaning from scientific articles"
+        },
+        {
+            "fullname": "Tom Viner",
+            "type": "Talk",
+            "title": "Testing with two failure seeking missiles"
+        },
+        {
+            "fullname": "Konark Modi",
+            "type": "Talk",
+            "title": "Getting schemas around semi-structured data using Avro"
+        },
+        {
+            "fullname": "Alys Brett",
+            "type": "Talk",
+            "title": "Simple web services for scientific data"
+        },
+        {
+            "fullname": "Kyran Dale",
+            "type": "Talk",
+            "title": "Data Visualisation with Python and Javascript - crafting a data-visualisation for the web"
+        },
+        {
+            "fullname": "Norberto Leite",
+            "type": "Talk",
+            "title": "Analyse Yourselves"
+        },
+        {
+            "fullname": "Van Lindberg",
+            "type": "Keynote",
+            "title": "PSF Chair"
+        },
+        {
+            "fullname": "Simon Sheridan",
+            "type": "Keynote",
+            "title": "Landing on a comet: From planning to reality"
+        },
+        {
+            "fullname": "Naomi Ceder",
+            "type": "Keynote",
+            "title": "Confessions of a True Impostor (A Survival Guide)"
+        }
+    ]
+}

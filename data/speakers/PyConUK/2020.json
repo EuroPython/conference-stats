@@ -1,0 +1,45 @@
+{
+    "year": 2020,
+    "speakers": [
+        {
+            "fullname": "Leona So",
+            "type": "Workshop",
+            "title": "Young Coders Workshop"
+        },
+        {
+            "fullname": "Leona So",
+            "type": "Workshop",
+            "title": "DjangoGirls Workshop"
+        },
+        {
+            "fullname": "Leona So",
+            "type": "Workshop",
+            "title": "Teachers Workshop"
+        },
+        {
+            "fullname": "Kristian Glass",
+            "type": "Panel",
+            "title": "Ask Us Anything"
+        },
+        {
+            "fullname": "Leona So",
+            "type": "Workshop",
+            "title": "Young Coders Workshop"
+        },
+        {
+            "fullname": "Leona So",
+            "type": "Talk",
+            "title": "Young Coders Show and Tell"
+        },
+        {
+            "fullname": "Owen Campbell",
+            "type": "Panel",
+            "title": "UKPA AGM"
+        },
+        {
+            "fullname": "Ann Barr",
+            "type": "Panel",
+            "title": "Jobs Fair"
+        }
+    ]
+}

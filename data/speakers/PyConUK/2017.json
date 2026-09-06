@@ -1,0 +1,645 @@
+{
+    "year": 2017,
+    "speakers": [
+        {
+            "fullname": "Adam Dangoor",
+            "type": "Talk",
+            "title": "Verified fakes of web services by example"
+        },
+        {
+            "fullname": "Alan Christie",
+            "type": "Talk",
+            "title": "Building a real-time audio sampling app on the PyBoard"
+        },
+        {
+            "fullname": "Alex Chan",
+            "type": "Talk",
+            "title": "Using privilege to improve inclusion"
+        },
+        {
+            "fullname": "Alex Chan",
+            "type": "Workshop",
+            "title": "A plumber's guide to Git"
+        },
+        {
+            "fullname": "Alexander Hendorf",
+            "type": "Talk",
+            "title": "Efficient Data Mangling with Pandas Indexes"
+        },
+        {
+            "fullname": "Alice Harpole",
+            "type": "Talk",
+            "title": "Building a python frontend for HPC codes"
+        },
+        {
+            "fullname": "Allyn Hunt",
+            "type": "Talk",
+            "title": "Creating a Python Web-App for Destiny the Game"
+        },
+        {
+            "fullname": "Anand Chitipothu",
+            "type": "Talk",
+            "title": "Managing Machine Learning Models in Production"
+        },
+        {
+            "fullname": "Anand Chitipothu",
+            "type": "Workshop",
+            "title": "Machine Learning as a Service"
+        },
+        {
+            "fullname": "Andrew Crozier",
+            "type": "Talk",
+            "title": "Recipes for Productionising Data Science APIs"
+        },
+        {
+            "fullname": "Andrew Stretton",
+            "type": "Talk",
+            "title": "Frictionless Data, Frictionless Development"
+        },
+        {
+            "fullname": "Andrew Wray",
+            "type": "Talk",
+            "title": "Migrating Python Web Applications to Python 3"
+        },
+        {
+            "fullname": "Ben Nuttall",
+            "type": "Talk",
+            "title": "piwheels: a faster Python package repository for RaspberryPi"
+        },
+        {
+            "fullname": "Benjamin Misell",
+            "type": "Talk",
+            "title": "Tales of C, the 6502 and the BBC (with added python)"
+        },
+        {
+            "fullname": "Bonnie Appleton",
+            "type": "Workshop",
+            "title": "Micro:bit - How To Run A Workshop with micro:bit"
+        },
+        {
+            "fullname": "Camilla Montonen",
+            "type": "Talk",
+            "title": "P0150n3d SVMs and Other M4ch1n3 Learning 3xpl0175"
+        },
+        {
+            "fullname": "Carles Pina i Estany",
+            "type": "Talk",
+            "title": "Circumnavigating the Antarctic with Python and Django"
+        },
+        {
+            "fullname": "Carlos Pereira Atencio",
+            "type": "Workshop",
+            "title": "micro:bit - Accessories, modules and micro:bit, best practice, (avoiding copy/paste)"
+        },
+        {
+            "fullname": "Carol Willing",
+            "type": "Panel",
+            "title": "The Ethics and Politics of Programming"
+        },
+        {
+            "fullname": "Cat Lamin",
+            "type": "Talk",
+            "title": "You don't have to be mad to work here... but it helps"
+        },
+        {
+            "fullname": "Celia Cintas",
+            "type": "Talk",
+            "title": "Introduction to Deep Learning with Python: The force awakens"
+        },
+        {
+            "fullname": "Chad",
+            "type": "Talk",
+            "title": "Trapped By The Trappings"
+        },
+        {
+            "fullname": "Chris Musselle",
+            "type": "Talk",
+            "title": "Automate your Boilerplate"
+        },
+        {
+            "fullname": "Chris Withers",
+            "type": "Talk",
+            "title": "Making all the boring things go away"
+        },
+        {
+            "fullname": "Christian Heimes",
+            "type": "Talk",
+            "title": "Everyday security issues and how to avoid them"
+        },
+        {
+            "fullname": "Christopher Lozinski",
+            "type": "Talk",
+            "title": "The ZODB Ecosystem"
+        },
+        {
+            "fullname": "Claus",
+            "type": "Talk",
+            "title": "Implementing Custom Containers"
+        },
+        {
+            "fullname": "Claus",
+            "type": "Workshop",
+            "title": "Testing in Scientific / Engineering Applications"
+        },
+        {
+            "fullname": "Corinne Sherman",
+            "type": "Talk",
+            "title": "Using Python in Schools - Students' Point of View"
+        },
+        {
+            "fullname": "Dan Palmer",
+            "type": "Talk",
+            "title": "Scaling Django Codebases"
+        },
+        {
+            "fullname": "Daniel Beck",
+            "type": "Talk",
+            "title": "DeprecationWarning: documenting your software’s last days"
+        },
+        {
+            "fullname": "Daniel Pope",
+            "type": "Panel",
+            "title": "Python in Education"
+        },
+        {
+            "fullname": "Daniel Pope",
+            "type": "Talk",
+            "title": "Writing file objects with CFFI"
+        },
+        {
+            "fullname": "Daniele Procida",
+            "type": "Talk",
+            "title": "When free is too expensive"
+        },
+        {
+            "fullname": "David Ames",
+            "type": "Workshop",
+            "title": "First Steps in Using Python with Big Data for Teachers"
+        },
+        {
+            "fullname": "David Jones",
+            "type": "Talk",
+            "title": "What I learned building Forth in 64-bit Intel assembly"
+        },
+        {
+            "fullname": "David R. MacIver",
+            "type": "Keynote",
+            "title": "Shaping the World"
+        },
+        {
+            "fullname": "David Seddon",
+            "type": "Talk",
+            "title": "Handling Database Concurrency With Django"
+        },
+        {
+            "fullname": "David Sim",
+            "type": "Talk",
+            "title": "MyPy: The Good, The Bad and The Ugly"
+        },
+        {
+            "fullname": "David Whale",
+            "type": "Talk",
+            "title": "Bitio"
+        },
+        {
+            "fullname": "Declan Valters",
+            "type": "Talk",
+            "title": "Cylc: the Python workflow engine for cycling systems"
+        },
+        {
+            "fullname": "Duncan Macleod",
+            "type": "Talk",
+            "title": "Detecting gravitational waves with python"
+        },
+        {
+            "fullname": "Ed Sharp",
+            "type": "Talk",
+            "title": "Good Patterns Don’t Come Naturally"
+        },
+        {
+            "fullname": "Edward Gomez",
+            "type": "Talk",
+            "title": "Rise of the robots and world domination"
+        },
+        {
+            "fullname": "Emma Delescolle",
+            "type": "Talk",
+            "title": "I think I wrote a Rapid Web-Application Development tool"
+        },
+        {
+            "fullname": "Fei Shi",
+            "type": "Talk",
+            "title": "Extending Jupyter Notebook"
+        },
+        {
+            "fullname": "Frank Kelly",
+            "type": "Workshop",
+            "title": "Alzheimer's Disease challenge hackathon"
+        },
+        {
+            "fullname": "Geraint Palmer",
+            "type": "Talk",
+            "title": "Python for Conducting Operational Research in Healthcare"
+        },
+        {
+            "fullname": "Hannah Hazi",
+            "type": "Talk",
+            "title": "Python as a Second Language"
+        },
+        {
+            "fullname": "Harry Percival",
+            "type": "Workshop",
+            "title": "Intermediate TDD workshop: outside-in, mocking & isolation"
+        },
+        {
+            "fullname": "Hauglustaine",
+            "type": "Workshop",
+            "title": "Intro to Distributed Application Performance Monitoring"
+        },
+        {
+            "fullname": "Ian Ozsvald",
+            "type": "Talk",
+            "title": "Machine learning libraries you'd wish you'd known about"
+        },
+        {
+            "fullname": "James Campbell",
+            "type": "Talk",
+            "title": "from __future__ import profit"
+        },
+        {
+            "fullname": "James Skillen",
+            "type": "Talk",
+            "title": "Declarative Business Process Management and Async Generators"
+        },
+        {
+            "fullname": "Jan Chwiejczak",
+            "type": "Talk",
+            "title": "The art of testing in Python"
+        },
+        {
+            "fullname": "Jan Chwiejczak",
+            "type": "Workshop",
+            "title": "Toying with Python ByteCode - Hands-on session"
+        },
+        {
+            "fullname": "Jez Halford",
+            "type": "Talk",
+            "title": "Software's Seven Deadly Wastes"
+        },
+        {
+            "fullname": "Jonathan Fernandes",
+            "type": "Workshop",
+            "title": "An introduction to Convolutional Neural Networks"
+        },
+        {
+            "fullname": "Jonathan Fine",
+            "type": "Talk",
+            "title": "Combinatorics, graphs, and complexity"
+        },
+        {
+            "fullname": "Jonny Austin",
+            "type": "Workshop",
+            "title": "micro:bit - How (not!) to build a micro:bit, what we learned working on a large collaborative project"
+        },
+        {
+            "fullname": "Jorge Alvarez-Jarreta",
+            "type": "Talk",
+            "title": "Pythonic molecular evolution"
+        },
+        {
+            "fullname": "Josh Lowe",
+            "type": "Talk",
+            "title": "EduBlocks - Making the transition to Python easier!"
+        },
+        {
+            "fullname": "Julie MacDonell",
+            "type": "Talk",
+            "title": "Coding with Compassion"
+        },
+        {
+            "fullname": "Karim Chine",
+            "type": "Workshop",
+            "title": "RosettaHUB: Data Science Education in the cloud"
+        },
+        {
+            "fullname": "Kirk Northrop",
+            "type": "Talk",
+            "title": "Choo Choo! All aboard the Data Train!"
+        },
+        {
+            "fullname": "Kushal Das",
+            "type": "Keynote",
+            "title": "Communities and education: exploring together"
+        },
+        {
+            "fullname": "Anwesha Das",
+            "type": "Keynote",
+            "title": "Communities and education: exploring together"
+        },
+        {
+            "fullname": "Leonardo Giordani",
+            "type": "Talk",
+            "title": "Abstract Base Classes"
+        },
+        {
+            "fullname": "Leonardo Giordani",
+            "type": "Workshop",
+            "title": "Dive into Object-oriented Python"
+        },
+        {
+            "fullname": "Leonardo Giordani",
+            "type": "Workshop",
+            "title": "TDD in Python with pytest"
+        },
+        {
+            "fullname": "Lorna Mitchell",
+            "type": "Talk",
+            "title": "Fun With Serverless Applications"
+        },
+        {
+            "fullname": "Lorna Mitchell",
+            "type": "Talk",
+            "title": "PostgreSQL: Beyond the Basics"
+        },
+        {
+            "fullname": "Lukasz Kakol",
+            "type": "Talk",
+            "title": "Pythonic code vs. performance"
+        },
+        {
+            "fullname": "Luke Spademan",
+            "type": "Talk",
+            "title": "Lessons from combining micro:bits raspberry pis and tensorflow"
+        },
+        {
+            "fullname": "Mac Chapman",
+            "type": "Talk",
+            "title": "How We Grew From One Team to Two"
+        },
+        {
+            "fullname": "Marco Bonzanini",
+            "type": "Talk",
+            "title": "Understanding Natural Language with Word Vectors"
+        },
+        {
+            "fullname": "Marcus Donnelly",
+            "type": "Talk",
+            "title": "Visualising environmental data with Python and Bokeh"
+        },
+        {
+            "fullname": "Marek Mansell",
+            "type": "Talk",
+            "title": "Why Should High School Students Teach High School Teachers"
+        },
+        {
+            "fullname": "Mario Corchero",
+            "type": "Talk",
+            "title": "The log lines that saved vacation"
+        },
+        {
+            "fullname": "Mark Shannon",
+            "type": "Talk",
+            "title": "Finding bugs for free: The magic of code analysis."
+        },
+        {
+            "fullname": "Mark Smith",
+            "type": "Talk",
+            "title": "Protecting Your Users From Change: Pythonic Refactoring"
+        },
+        {
+            "fullname": "Markus Holtermann",
+            "type": "Talk",
+            "title": "Thoughts About Normal and Abnormal Data"
+        },
+        {
+            "fullname": "Martin Chorley",
+            "type": "Talk",
+            "title": "What Python Can Teach us about Beer"
+        },
+        {
+            "fullname": "Martin Packman",
+            "type": "Talk",
+            "title": "Breezy, a platform for experiments in version control"
+        },
+        {
+            "fullname": "Meg Ray",
+            "type": "Talk",
+            "title": "Accessible Python Instruction"
+        },
+        {
+            "fullname": "Michael Skelly",
+            "type": "Talk",
+            "title": "from __future__ import Truth"
+        },
+        {
+            "fullname": "Michel Wermelinger",
+            "type": "Talk",
+            "title": "Learn to Code for Data Analysis"
+        },
+        {
+            "fullname": "Mikey Ariel",
+            "type": "Talk",
+            "title": "Docs or it didn't happen!"
+        },
+        {
+            "fullname": "Moritz Eissenhauer",
+            "type": "Talk",
+            "title": "Tackling Complexity with Constraint Programming"
+        },
+        {
+            "fullname": "Nicholas Tollervey",
+            "type": "Talk",
+            "title": "Code With Mu"
+        },
+        {
+            "fullname": "Nikoleta E. Glynatsi",
+            "type": "Talk",
+            "title": "A trip to earth science with python as a companion"
+        },
+        {
+            "fullname": "Owen Campbell",
+            "type": "Talk",
+            "title": "God is Real"
+        },
+        {
+            "fullname": "Parul Sethi",
+            "type": "Talk",
+            "title": "Visualizing Topic Models"
+        },
+        {
+            "fullname": "Parul Sethi",
+            "type": "Workshop",
+            "title": "Topic Modelling with Gensim"
+        },
+        {
+            "fullname": "Pascal Bugnion",
+            "type": "Talk",
+            "title": "Add GUIs to your data pipelines with Jupyter widgets"
+        },
+        {
+            "fullname": "Patrick Arminio",
+            "type": "Talk",
+            "title": "Django and GraphQL"
+        },
+        {
+            "fullname": "Paul Jones",
+            "type": "Talk",
+            "title": "Functional Python"
+        },
+        {
+            "fullname": "Paul Ross",
+            "type": "Talk",
+            "title": "Blame and the Fallacy of Root Cause Analysis"
+        },
+        {
+            "fullname": "Paulo Eduardo Sampaio",
+            "type": "Talk",
+            "title": "Deep learning applications: training a multi-task classifier"
+        },
+        {
+            "fullname": "Phil Jones",
+            "type": "Talk",
+            "title": "Building Quart from Flask and Asyncio"
+        },
+        {
+            "fullname": "Rae Knowler",
+            "type": "Keynote",
+            "title": "Unsafe at Any Speed"
+        },
+        {
+            "fullname": "Raoul-Gabriel Urma",
+            "type": "Talk",
+            "title": "Making Sense of Big Data File Formats: Avro and Parquet"
+        },
+        {
+            "fullname": "Rick Ansell",
+            "type": "Talk",
+            "title": "The Modular Mission Planner"
+        },
+        {
+            "fullname": "Rolo Mawlabaux",
+            "type": "Talk",
+            "title": "The Robot Composer - Writing Music With Machine Learning"
+        },
+        {
+            "fullname": "Russel Winder",
+            "type": "Talk",
+            "title": "On Big Computation and Python"
+        },
+        {
+            "fullname": "Ryan Kirkbride",
+            "type": "Talk",
+            "title": "Programming Music for Performance: Live coding with FoxDot"
+        },
+        {
+            "fullname": "Ryan Kirkbride",
+            "type": "Workshop",
+            "title": "Programming Music for Performance Workshop"
+        },
+        {
+            "fullname": "Samathy Barratt",
+            "type": "Panel",
+            "title": "Developer Career Progression"
+        },
+        {
+            "fullname": "Samuel Muñoz Hidalgo",
+            "type": "Workshop",
+            "title": "An eye tracking system. From zero to... what eye learned."
+        },
+        {
+            "fullname": "Sarah Townson",
+            "type": "Workshop",
+            "title": "Micro:bits and MicroPython in Schools & Clubs"
+        },
+        {
+            "fullname": "Sasha Romijn",
+            "type": "Talk",
+            "title": "The Code of Conduct is here for you"
+        },
+        {
+            "fullname": "Scott Stevenson",
+            "type": "Talk",
+            "title": "Jupyter notebooks and collaboration"
+        },
+        {
+            "fullname": "Sebastian Pölsterl",
+            "type": "Talk",
+            "title": "Introduction to Survival Analysis with scikit-survival"
+        },
+        {
+            "fullname": "Simon Davy",
+            "type": "Talk",
+            "title": "Single Malt WSGI"
+        },
+        {
+            "fullname": "Solveiga Vivian-Griffiths",
+            "type": "Talk",
+            "title": "Intelligent approach to decision-making models"
+        },
+        {
+            "fullname": "Stephen Simmons",
+            "type": "Workshop",
+            "title": "Pandas from the Inside / Big Pandas"
+        },
+        {
+            "fullname": "Steve Holden",
+            "type": "Talk",
+            "title": "The History of PyCon"
+        },
+        {
+            "fullname": "Thomas Guest",
+            "type": "Talk",
+            "title": "Lazy Sequences working hard"
+        },
+        {
+            "fullname": "Tim Golden",
+            "type": "Talk",
+            "title": "NetworkZero: network support for clubs, classes & dojos"
+        },
+        {
+            "fullname": "Tom Crick",
+            "type": "Keynote",
+            "title": "It's not the coding curriculum!"
+        },
+        {
+            "fullname": "Tony Ibbs",
+            "type": "Talk",
+            "title": "A brief history of markup languages"
+        },
+        {
+            "fullname": "Tony Ibbs",
+            "type": "Workshop",
+            "title": "An amble through the history of Python"
+        },
+        {
+            "fullname": "VanL",
+            "type": "Talk",
+            "title": "Untangling Data Ownership"
+        },
+        {
+            "fullname": "Vincent Knight",
+            "type": "Talk",
+            "title": "Polygons, hill climbing, metallurgy and why you are here"
+        },
+        {
+            "fullname": "Víctor Zabalza",
+            "type": "Talk",
+            "title": "Automated data exploration"
+        },
+        {
+            "fullname": "Zara Siddique",
+            "type": "Talk",
+            "title": "How close can I get Amazon’s Alexa to Black Mirror’s Cookie"
+        },
+        {
+            "fullname": "chrismedrela",
+            "type": "Workshop",
+            "title": "Crash Course on Testing and Mocking in Python"
+        },
+        {
+            "fullname": "Prabhant Singh",
+            "type": "Talk",
+            "title": "Attacks on Machine Learning"
+        }
+    ]
+}

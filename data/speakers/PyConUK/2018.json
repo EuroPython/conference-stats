@@ -1,0 +1,465 @@
+{
+    "year": 2018,
+    "speakers": [
+        {
+            "fullname": "Tatiana Al-Chueyr",
+            "type": "Talk",
+            "title": "A journey from HTTP to gRPC"
+        },
+        {
+            "fullname": "Tom Easterbrook",
+            "type": "Talk",
+            "title": "A Rising Tide Lifts All Ships"
+        },
+        {
+            "fullname": "Ed Singleton",
+            "type": "Talk",
+            "title": "GraphQL in Python"
+        },
+        {
+            "fullname": "David Howlett",
+            "type": "Talk",
+            "title": "Chess programs in python"
+        },
+        {
+            "fullname": "Henry Morris",
+            "type": "Talk",
+            "title": "How we built a LCD train announcement board on a RaspberryPi"
+        },
+        {
+            "fullname": "Dale Potter",
+            "type": "Talk",
+            "title": "How we built a LCD train announcement board on a RaspberryPi"
+        },
+        {
+            "fullname": "Alex Chan",
+            "type": "Keynote",
+            "title": "Building trust in a world of suspicious minds"
+        },
+        {
+            "fullname": "Wes Mason",
+            "type": "Talk",
+            "title": "Ops for Humans"
+        },
+        {
+            "fullname": "Martin O'Hanlon",
+            "type": "Talk",
+            "title": "APIzero - coding doesn't have to be difficult"
+        },
+        {
+            "fullname": "Laura Sach",
+            "type": "Talk",
+            "title": "APIzero - coding doesn't have to be difficult"
+        },
+        {
+            "fullname": "Noelle Aly",
+            "type": "Talk",
+            "title": "MyNormal: Accessible Instruments Project"
+        },
+        {
+            "fullname": "Hannah Bruce",
+            "type": "Talk",
+            "title": "MyNormal: Accessible Instruments Project"
+        },
+        {
+            "fullname": "Jody Carter",
+            "type": "Talk",
+            "title": "Setting up a camera trap for nature with the Raspberry Pi"
+        },
+        {
+            "fullname": "Daniel Quinn",
+            "type": "Talk",
+            "title": "Aletheia"
+        },
+        {
+            "fullname": "Mac Chapman",
+            "type": "Talk",
+            "title": "Make Your Code Really Boring"
+        },
+        {
+            "fullname": "Cat Lamin",
+            "type": "Talk",
+            "title": "Stereotypes, role models and learning to code"
+        },
+        {
+            "fullname": "Alon Nir",
+            "type": "Talk",
+            "title": "Getting an Edge with Network Analysis with Python"
+        },
+        {
+            "fullname": "Ian Ozsvald",
+            "type": "Talk",
+            "title": "On the Diagramatic Diagnosis of Data"
+        },
+        {
+            "fullname": "Paul Brown",
+            "type": "Talk",
+            "title": "Is it Shakespeare?"
+        },
+        {
+            "fullname": "Katie Jones",
+            "type": "Talk",
+            "title": "Is it Shakespeare?"
+        },
+        {
+            "fullname": "Olivia Wilson",
+            "type": "Talk",
+            "title": "Python at Ordnance Survey"
+        },
+        {
+            "fullname": "Frederike Jaeger",
+            "type": "Talk",
+            "title": "Data science APIs for everyone created by magic"
+        },
+        {
+            "fullname": "Margriet Groenendijk",
+            "type": "Talk",
+            "title": "Navigating the Magical Data Visualisation Forest"
+        },
+        {
+            "fullname": "Lorna Brightmore",
+            "type": "Talk",
+            "title": "Making great tasting dog food with Python"
+        },
+        {
+            "fullname": "Rachel Rui Wong",
+            "type": "Talk",
+            "title": "I Make Fashion Tech and Human Organs for My Mental Health"
+        },
+        {
+            "fullname": "John Bywater",
+            "type": "Talk",
+            "title": "Events: Software, Process and Reality"
+        },
+        {
+            "fullname": "Evan Morikawa",
+            "type": "Talk",
+            "title": "Making Sense of Flask APIs A Billion Requests at a Time"
+        },
+        {
+            "fullname": "Lilian Nandi",
+            "type": "Talk",
+            "title": "Secret Arts of Teaching Coding to the Next Generation"
+        },
+        {
+            "fullname": "Nadin Tamer",
+            "type": "Talk",
+            "title": "Peer Learning in CS Education: A Students' Perspective"
+        },
+        {
+            "fullname": "Emre Otay",
+            "type": "Talk",
+            "title": "Peer Learning in CS Education: A Students' Perspective"
+        },
+        {
+            "fullname": "Can Ersöz",
+            "type": "Talk",
+            "title": "Peer Learning in CS Education: A Students' Perspective"
+        },
+        {
+            "fullname": "Sedat Yalçın",
+            "type": "Talk",
+            "title": "Peer Learning in CS Education: A Students' Perspective"
+        },
+        {
+            "fullname": "Claire Wicher",
+            "type": "Talk",
+            "title": "Enriching the Computer Science Curriculum"
+        },
+        {
+            "fullname": "Spencer Organ",
+            "type": "Talk",
+            "title": "Python in school: Not Just for Computer Science Lessons?"
+        },
+        {
+            "fullname": "Andrew McCluskey",
+            "type": "Talk",
+            "title": "Introducing programming to undergraduate chemists"
+        },
+        {
+            "fullname": "Melanie Shimano",
+            "type": "Talk",
+            "title": "How can Students Engage & Improve Communities with Python?"
+        },
+        {
+            "fullname": "Zahire Beatty",
+            "type": "Talk",
+            "title": "How can Students Engage & Improve Communities with Python?"
+        },
+        {
+            "fullname": "Tim Moore",
+            "type": "Talk",
+            "title": "How can Students Engage & Improve Communities with Python?"
+        },
+        {
+            "fullname": "Sarah Townson",
+            "type": "Talk",
+            "title": "Future Engineers"
+        },
+        {
+            "fullname": "Joshua Lowe",
+            "type": "Talk",
+            "title": "EduBlocks - Making the transition to Python easier!"
+        },
+        {
+            "fullname": "Sue Sentance",
+            "type": "Keynote",
+            "title": "Programming in school: what's in a teacher's toolkit?"
+        },
+        {
+            "fullname": "Hannah Sewell",
+            "type": "Talk",
+            "title": "Building a Twitter Bot"
+        },
+        {
+            "fullname": "Alex Chan",
+            "type": "Talk",
+            "title": "Assume Worst Intent"
+        },
+        {
+            "fullname": "Dani Papamaximou",
+            "type": "Talk",
+            "title": "Surface Wave Propagation Analysis"
+        },
+        {
+            "fullname": "Gaius Mulley",
+            "type": "Talk",
+            "title": "PGE a Physics Game Engine for Pygame"
+        },
+        {
+            "fullname": "Anand Chitipothu",
+            "type": "Talk",
+            "title": "Machine Learning as a Service"
+        },
+        {
+            "fullname": "Ronan Lamy",
+            "type": "Talk",
+            "title": "A song of compatibility and performance"
+        },
+        {
+            "fullname": "Alex Willmer",
+            "type": "Talk",
+            "title": "Rehabilitating Pickle"
+        },
+        {
+            "fullname": "David Sim",
+            "type": "Talk",
+            "title": "Make Testing Easier by Writing Better Code"
+        },
+        {
+            "fullname": "Halide Bey",
+            "type": "Talk",
+            "title": "Categorizing Tweets using Machine Learning"
+        },
+        {
+            "fullname": "Mark Smith",
+            "type": "Talk",
+            "title": "How To Publish A Package On PyPI"
+        },
+        {
+            "fullname": "Doug Sillars",
+            "type": "Talk",
+            "title": "Fast and Beautiful: Modern Image Delivery Techniques"
+        },
+        {
+            "fullname": "Q Misell",
+            "type": "Talk",
+            "title": "Running (a subset) of python on the BBC Micro"
+        },
+        {
+            "fullname": "Luke Spademan",
+            "type": "Talk",
+            "title": "Devops with Django Docker and Gitlab"
+        },
+        {
+            "fullname": "Sean Sabbage",
+            "type": "Talk",
+            "title": "Coming to a shared understanding"
+        },
+        {
+            "fullname": "Hannah Hazi",
+            "type": "Talk",
+            "title": "The Knowledge In The Code"
+        },
+        {
+            "fullname": "Nick Murdoch",
+            "type": "Talk",
+            "title": "A Cython Walkthrough"
+        },
+        {
+            "fullname": "Stewart Adcock",
+            "type": "Talk",
+            "title": "The story of a 52 year-old database"
+        },
+        {
+            "fullname": "Becky Lewis",
+            "type": "Talk",
+            "title": "Introduction to Terraform"
+        },
+        {
+            "fullname": "Oliver Crask",
+            "type": "Talk",
+            "title": "Particulater - Air quality monitoring for everyone"
+        },
+        {
+            "fullname": "Robin Wilson",
+            "type": "Talk",
+            "title": "XArray: the power of pandas for multidimensional arrays"
+        },
+        {
+            "fullname": "Thomas Guest",
+            "type": "Talk",
+            "title": "TIMTOWTDI"
+        },
+        {
+            "fullname": "Michal Grochmal",
+            "type": "Talk",
+            "title": "Anomaly Detection"
+        },
+        {
+            "fullname": "Andrew Crozier",
+            "type": "Talk",
+            "title": "Big Data: Using Spark from Python and Jupyter"
+        },
+        {
+            "fullname": "Łukasz Kąkol",
+            "type": "Talk",
+            "title": "Brace yourself, Python 2 is retiring"
+        },
+        {
+            "fullname": "Loek van Gent",
+            "type": "Keynote",
+            "title": "Goes it a little good?"
+        },
+        {
+            "fullname": "Paul Bell",
+            "type": "Talk",
+            "title": "Low Cost GNSS Tide & Sea Level Measurements - LoCTIPS"
+        },
+        {
+            "fullname": "Les Pounder",
+            "type": "Talk",
+            "title": "From Faker to Maker"
+        },
+        {
+            "fullname": "Gail Ollis",
+            "type": "Talk",
+            "title": "Cyber security needs cyber neurodiversity"
+        },
+        {
+            "fullname": "Thomas Beards",
+            "type": "Talk",
+            "title": "Cyber security needs cyber neurodiversity"
+        },
+        {
+            "fullname": "Gail Ollis",
+            "type": "Talk",
+            "title": "Dealing with Fake News"
+        },
+        {
+            "fullname": "Luna Chen",
+            "type": "Talk",
+            "title": "Introspection and Reflection in Python"
+        },
+        {
+            "fullname": "Emma Delescolle",
+            "type": "Talk",
+            "title": "Introduction to python running on different hardware types"
+        },
+        {
+            "fullname": "Martijn Pieters",
+            "type": "Talk",
+            "title": "How not to make a mockery of it"
+        },
+        {
+            "fullname": "Sunaina Pai",
+            "type": "Talk",
+            "title": "Trending on Hacker News and GitHub with 120 lines of Python"
+        },
+        {
+            "fullname": "Leila Verhaegen",
+            "type": "Talk",
+            "title": "We made a clock with Python"
+        },
+        {
+            "fullname": "Emma Delescolle",
+            "type": "Talk",
+            "title": "We made a clock with Python"
+        },
+        {
+            "fullname": "Nikoleta E. Glynatsi",
+            "type": "Keynote",
+            "title": "How does a smile make a difference?"
+        },
+        {
+            "fullname": "Hannah Higgins",
+            "type": "Talk",
+            "title": "Machine Learning: Better than Traditional Techniques?"
+        },
+        {
+            "fullname": "Ben Nuttall",
+            "type": "Talk",
+            "title": "Programming paradigms for physical computing and IoT"
+        },
+        {
+            "fullname": "Mathieu Dähne",
+            "type": "Talk",
+            "title": "Django at Admiral"
+        },
+        {
+            "fullname": "Rhys Howells",
+            "type": "Talk",
+            "title": "Django at Admiral"
+        },
+        {
+            "fullname": "Kristian Glass",
+            "type": "Talk",
+            "title": "How to screw up hiring"
+        },
+        {
+            "fullname": "Tony Ibbs",
+            "type": "Talk",
+            "title": "Redis: persistent collections as a service (and for fun)"
+        },
+        {
+            "fullname": "Becky Smith",
+            "type": "Talk",
+            "title": "Python 2 is dead! Drag your old code into the modern age"
+        },
+        {
+            "fullname": "Emma Gordon",
+            "type": "Talk",
+            "title": "Introduction to Neural Networks"
+        },
+        {
+            "fullname": "Susan Shindler",
+            "type": "Talk",
+            "title": "Coding as a second career"
+        },
+        {
+            "fullname": "Peter Inglesby",
+            "type": "Talk",
+            "title": "Bot tournament wrap-up and show-and-tell"
+        },
+        {
+            "fullname": "Zara Siddique",
+            "type": "Talk",
+            "title": "News + Networks: How the media is influencing you"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Talk",
+            "title": "Time Series Analysis with Seasonal Data"
+        },
+        {
+            "fullname": "Qasim Khalil",
+            "type": "Talk",
+            "title": "Taking down production with simple database migrations"
+        },
+        {
+            "fullname": "Ngazetungue Muheue",
+            "type": "Talk",
+            "title": "What Python means in Namibia"
+        }
+    ]
+}
