@@ -1,0 +1,53 @@
+{
+    "year": 2016,
+    "levels": {
+        "Sponsor": 0
+    },
+    "sponsors": [
+        {
+            "name": "FAU",
+            "website": "https://www.fau.eu/",
+            "level": "Institutional"
+        },
+        {
+            "name": "ZiMT",
+            "website": "",
+            "level": "Institutional"
+        },
+        {
+            "name": "Python Software Verband",
+            "website": "https://www.python-verband.org/",
+            "level": "Institutional"
+        },
+        {
+            "name": "Criteo",
+            "website": "https://www.criteo.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Enthought",
+            "website": "https://www.enthought.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "JetBrains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Blue Yonder",
+            "website": "https://www.blueyonder.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Python Academy",
+            "website": "https://www.python-academy.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "O'Reilly",
+            "website": "www.oreilly.com",
+            "level": "Media"
+        }
+    ]
+}

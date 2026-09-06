@@ -1,0 +1,38 @@
+{
+    "year": 2017,
+    "levels": {
+        "Sponsor": 0
+    },
+    "sponsors": [
+        {
+            "name": "FAU Erlangen-Nürnberg",
+            "website": "https://www.fau.eu/",
+            "level": "Institutional"
+        },
+        {
+            "name": "Python Software Verband",
+            "website": "https://www.python-verband.org/",
+            "level": "Institutional"
+        },
+        {
+            "name": "Python Academy",
+            "website": "https://www.python-academy.com/",
+            "level": "Institutional"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Gold"
+        },
+        {
+            "name": "Enthought",
+            "website": "https://www.enthought.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "NumFOCUS",
+            "website": "https://numfocus.org/",
+            "level": "Grant"
+        }
+    ]
+}
