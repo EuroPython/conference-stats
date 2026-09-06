@@ -1,0 +1,350 @@
+{
+    "year": 2025,
+    "speakers": [
+        {
+            "fullname": "Ada Böhm",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Breaking the Constraints of Linear Notebook Environments"
+        },
+        {
+            "fullname": "Jacob Tomlinson",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "EffVer: Versioning code by the effort required to upgrade"
+        },
+        {
+            "fullname": "Jost Migenda",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Python Profiling and Optimisation—A Training Course for Researchers"
+        },
+        {
+            "fullname": "Guillaume Lemaitre",
+            "type": "Tutorial",
+            "title": "Skrub: machine learning for dataframes"
+        },
+        {
+            "fullname": "Jérôme Dockès",
+            "type": "Tutorial",
+            "title": "Skrub: machine learning for dataframes"
+        },
+        {
+            "fullname": "Riccardo Cappuzzo",
+            "type": "Tutorial",
+            "title": "Skrub: machine learning for dataframes"
+        },
+        {
+            "fullname": "Adam Staniszewski",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "How To Accelerate Molecular Insights - Efficient Distance Calculations In Python"
+        },
+        {
+            "fullname": "Samarth Bachkheti",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Python for subsea engineering: A case study on seabed object detection using AI/ML"
+        },
+        {
+            "fullname": "Sebastian Berg",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Understanding Dispatching Approaches in the Scientific Python Ecosystem"
+        },
+        {
+            "fullname": "Aditi Juneja",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Understanding Dispatching Approaches in the Scientific Python Ecosystem"
+        },
+        {
+            "fullname": "Guillaume Lemaitre",
+            "type": "Tutorial",
+            "title": "Predictive modeling for imbalanced classification using scikit-learn"
+        },
+        {
+            "fullname": "Olivier Grisel",
+            "type": "Tutorial",
+            "title": "Predictive modeling for imbalanced classification using scikit-learn"
+        },
+        {
+            "fullname": "Anna Lührs",
+            "type": "Keynote",
+            "title": "Women in HPC – Breaking Barriers and Shaping the Future"
+        },
+        {
+            "fullname": "Jacob Tomlinson",
+            "type": "Tutorial",
+            "title": "GPU Python for the Real World: Practical GPU-Accelerated Python with RAPIDS"
+        },
+        {
+            "fullname": "Przemek",
+            "type": "Tutorial",
+            "title": "How to become a software detective and perform security research"
+        },
+        {
+            "fullname": "Piotr Ludynia",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Efficient and accurate models for peptide function prediction"
+        },
+        {
+            "fullname": "Anatoly Volkov",
+            "type": "Tutorial",
+            "title": "Using Cython and C++ kernels to speed up Python libraries"
+        },
+        {
+            "fullname": "David Cortes",
+            "type": "Tutorial",
+            "title": "Using Cython and C++ kernels to speed up Python libraries"
+        },
+        {
+            "fullname": "Frank Sauerburger",
+            "type": "Tutorial",
+            "title": "Annotating the dynamic: Type Annotation for DataFrames"
+        },
+        {
+            "fullname": "Tim Head",
+            "type": "Maintainer track",
+            "title": "Array API and library dispatching"
+        },
+        {
+            "fullname": "Sebastian Berg",
+            "type": "Maintainer track",
+            "title": "Array API and library dispatching"
+        },
+        {
+            "fullname": "Francesco Bonazzi",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Enhancing SymPy Algorithms with MatchPy's Efficient Pattern Matching"
+        },
+        {
+            "fullname": "Manuel Jürgensen",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Python Framework for Large-Scale Radar Data Generation and Visualization"
+        },
+        {
+            "fullname": "Francesc Alted",
+            "type": "Tutorial",
+            "title": "Compress, Compute, and Conquer: Python-Blosc2 for Efficient Data Analysis"
+        },
+        {
+            "fullname": "Luke Shaw",
+            "type": "Tutorial",
+            "title": "Compress, Compute, and Conquer: Python-Blosc2 for Efficient Data Analysis"
+        },
+        {
+            "fullname": "Oliver Zeigemann",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Routing Strategies for Heterogeneous GenAI Systems: Lessons from Real-World Practice"
+        },
+        {
+            "fullname": "Davide De Marchi",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Voilà Meta-Dashboards for Streamlined Geospatial Data Visualization"
+        },
+        {
+            "fullname": "Stefanie Molin",
+            "type": "Tutorial",
+            "title": "Beyond the Basics: Data Visualization in Python"
+        },
+        {
+            "fullname": "Ole Bialas",
+            "type": "Tutorial",
+            "title": "Managing Scientific Data and Workflows with DataLad"
+        },
+        {
+            "fullname": "Michał Szczepanik",
+            "type": "Tutorial",
+            "title": "Managing Scientific Data and Workflows with DataLad"
+        },
+        {
+            "fullname": "Igor Tatarnikov",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "The BrainGlobe initiative - image analysis in a common coordinate space."
+        },
+        {
+            "fullname": "Mridul Seth",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Units next to your Data: Arrays with Scipp"
+        },
+        {
+            "fullname": "Jan Boelts (Teusen)",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Pyro Meets SBI: Unlocking Hierarchical Bayesian Inference for Complex Simulators"
+        },
+        {
+            "fullname": "Juan Luis Cano Rodríguez",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Accelerate your scientific Python code with Rust"
+        },
+        {
+            "fullname": "Justyna Szydłowska-Samsel",
+            "type": "Tutorial",
+            "title": "Introduction to Scikit-learn"
+        },
+        {
+            "fullname": "Loïc Estève",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "PyPI in the face: running jokes that PyPI download stats can play on you"
+        },
+        {
+            "fullname": "Jesse Grabowski",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Recent Developments in Pytensor, the Successor Package to Theano"
+        },
+        {
+            "fullname": "Ricardo Vieira",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Recent Developments in Pytensor, the Successor Package to Theano"
+        },
+        {
+            "fullname": "Jakob Zahn",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "ELVA - Local-First Real-Time Collaboration Apps in Your Terminal"
+        },
+        {
+            "fullname": "Tiziano Zito",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "ELVA - Local-First Real-Time Collaboration Apps in Your Terminal"
+        },
+        {
+            "fullname": "Anuradha Kar, PhD",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Automated Chess Analysis: Real-Time Move Detection and Game Narration Using Computer Vision and Large Language Models"
+        },
+        {
+            "fullname": "Anuradha KAR",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Automated Chess Analysis: Real-Time Move Detection and Game Narration Using Computer Vision and Large Language Models"
+        },
+        {
+            "fullname": "Likhita Yerra",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Automated Chess Analysis: Real-Time Move Detection and Game Narration Using Computer Vision and Large Language Models"
+        },
+        {
+            "fullname": "Jan Boelts (Teusen)",
+            "type": "Tutorial",
+            "title": "Beyond Likelihoods: Bayesian Parameter Inference for Black-Box Simulators with sbi"
+        },
+        {
+            "fullname": "Maternus Herold",
+            "type": "Tutorial",
+            "title": "Beyond Likelihoods: Bayesian Parameter Inference for Black-Box Simulators with sbi"
+        },
+        {
+            "fullname": "Lucas Colley",
+            "type": "Maintainer track",
+            "title": "Standardised Quantity/Unit APIs discussion"
+        },
+        {
+            "fullname": "Janos Gabler",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Let's rewrite optimagic from scratch in half an hour and see what we can learn"
+        },
+        {
+            "fullname": "Grzegorz Bokota",
+            "type": "Tutorial",
+            "title": "Use napari for easier interactive extraction of knowledge from images and other spatial data"
+        },
+        {
+            "fullname": "Lorenzo",
+            "type": "Tutorial",
+            "title": "Use napari for easier interactive extraction of knowledge from images and other spatial data"
+        },
+        {
+            "fullname": "Anuradha Kar, PhD",
+            "type": "Tutorial",
+            "title": "Guardians of Science: A Python Tutorial on a RAG-Powered Compliance Plug-In and Ethical AI tools"
+        },
+        {
+            "fullname": "Anuradha KAR",
+            "type": "Tutorial",
+            "title": "Guardians of Science: A Python Tutorial on a RAG-Powered Compliance Plug-In and Ethical AI tools"
+        },
+        {
+            "fullname": "Likhita Yerra",
+            "type": "Tutorial",
+            "title": "Guardians of Science: A Python Tutorial on a RAG-Powered Compliance Plug-In and Ethical AI tools"
+        },
+        {
+            "fullname": "Kai Striega",
+            "type": "Maintainer track long",
+            "title": "Maintaining People, Not Just Projects: Attracting and Retaining Talent in FOSS"
+        },
+        {
+            "fullname": "Franciszek Job",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Efficient processing pipelines for large scale molecular datasets in Python"
+        },
+        {
+            "fullname": "Revathy Venugopal",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Industrial-Level Documentation for Scientific Projects"
+        },
+        {
+            "fullname": "Universitat Rovira i Virgili (Pedro Garcia Lopez)",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Processing Cloud-optimized data in Python (Dataplug)"
+        },
+        {
+            "fullname": "Daniel Alejandro Coll Tejeda",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Processing Cloud-optimized data in Python (Dataplug)"
+        },
+        {
+            "fullname": "Jakub Adamczyk",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Machine learning for ecotoxicology and bee pesticide toxicity prediction"
+        },
+        {
+            "fullname": "Jon Nordby",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Sensor data processing on microcontrollers with MicroPython"
+        },
+        {
+            "fullname": "Francesc Alted",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Python-Blosc2: Compress Better, Compute Bigger!"
+        },
+        {
+            "fullname": "Luke Shaw",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Python-Blosc2: Compress Better, Compute Bigger!"
+        },
+        {
+            "fullname": "Mike Müller",
+            "type": "Tutorial",
+            "title": "Introduction to Python and JupyterLab"
+        },
+        {
+            "fullname": "Umut Nefta Kanilmaz",
+            "type": "Tutorial",
+            "title": "Introduction to NumPy and DataFrames"
+        },
+        {
+            "fullname": "Dawn Wages",
+            "type": "Keynote",
+            "title": "The Fellowship of the Stack: Scientific Discovery in Python"
+        },
+        {
+            "fullname": "Agnieszka Żaba",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Can Your Research Notebook Survive a Code Update? On maintaining Reproducibility with Continuous Integration"
+        },
+        {
+            "fullname": "Lucas Colley",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "A Hitchhiker's Guide to the Array API Standard Ecosystem"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Tutorial",
+            "title": "Deploy your Machine Learning model with Fast API"
+        },
+        {
+            "fullname": "Florian Wilhelm",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Solving Hard Optimization Problems with Pyomo and HiGHS: A Practical Introduction"
+        },
+        {
+            "fullname": "Michał Wroński",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Numba-MPI & PyMPDATA: JIT-compilation and multi-threading for high performance computing in Python"
+        }
+    ]
+}

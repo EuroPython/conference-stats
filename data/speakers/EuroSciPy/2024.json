@@ -1,0 +1,395 @@
+{
+    "year": 2024,
+    "speakers": [
+        {
+            "fullname": "Grzegorz Bokota",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "napari: multi-dimensional image visualization, annotation, and analysis in Python"
+        },
+        {
+            "fullname": "Wouter-Michiel Vierdag",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "napari: multi-dimensional image visualization, annotation, and analysis in Python"
+        },
+        {
+            "fullname": "Naman Gera",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "LPython: Novel, Fast, Retargetable Python Compiler"
+        },
+        {
+            "fullname": "Kushal Kolar",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "fastplotlib: A high-level library for ultra fast visualization of large datasets using modern graphics APIs"
+        },
+        {
+            "fullname": "Caitlin Lewis",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "fastplotlib: A high-level library for ultra fast visualization of large datasets using modern graphics APIs"
+        },
+        {
+            "fullname": "Marco Gorelli",
+            "type": "Tutorial",
+            "title": "Combining Python and Rust to create Polars Plugins"
+        },
+        {
+            "fullname": "Jan Boelts (Teusen)",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Simulated data is all you need: Bayesian parameter inference for scientific simulators with SBI"
+        },
+        {
+            "fullname": "Jacob Tomlinson",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Accelerating Python on HPC with Dask"
+        },
+        {
+            "fullname": "Tim Head",
+            "type": "Tutorial",
+            "title": "Using the Array API to write code that runs with Numpy, Cupy and PyTorch"
+        },
+        {
+            "fullname": "Sebastian Berg",
+            "type": "Tutorial",
+            "title": "Using the Array API to write code that runs with Numpy, Cupy and PyTorch"
+        },
+        {
+            "fullname": "Guillaume Lemaitre",
+            "type": "Maintainer track",
+            "title": "Dispatching, Backend Selection, and Compatibility APIs"
+        },
+        {
+            "fullname": "Joris Van den Bossche",
+            "type": "Maintainer track",
+            "title": "Dispatching, Backend Selection, and Compatibility APIs"
+        },
+        {
+            "fullname": "Tim Head",
+            "type": "Maintainer track",
+            "title": "Dispatching, Backend Selection, and Compatibility APIs"
+        },
+        {
+            "fullname": "Erik Welch",
+            "type": "Maintainer track",
+            "title": "Dispatching, Backend Selection, and Compatibility APIs"
+        },
+        {
+            "fullname": "Marco Gorelli",
+            "type": "Maintainer track",
+            "title": "Dispatching, Backend Selection, and Compatibility APIs"
+        },
+        {
+            "fullname": "Sebastian Berg",
+            "type": "Maintainer track",
+            "title": "Dispatching, Backend Selection, and Compatibility APIs"
+        },
+        {
+            "fullname": "Aditi Juneja",
+            "type": "Maintainer track",
+            "title": "Dispatching, Backend Selection, and Compatibility APIs"
+        },
+        {
+            "fullname": "Stéfan van der Walt",
+            "type": "Maintainer track",
+            "title": "Dispatching, Backend Selection, and Compatibility APIs"
+        },
+        {
+            "fullname": "Frank Sauerburger",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "From data analysis in Jupyter Notebooks to production applications: AI infrastructure at reasonable scale"
+        },
+        {
+            "fullname": "Umut Nefta Kanilmaz",
+            "type": "Tutorial",
+            "title": "Introduction to matplotlib for Data Visualization with Python"
+        },
+        {
+            "fullname": "Mridul Seth",
+            "type": "Tutorial",
+            "title": "Multi-dimensional arrays with Scipp"
+        },
+        {
+            "fullname": "Wolf Vollprecht",
+            "type": "Keynote",
+            "title": "Just contribute?!"
+        },
+        {
+            "fullname": "Mike Müller",
+            "type": "Tutorial",
+            "title": "Decorators - A Deep Dive"
+        },
+        {
+            "fullname": "Marianne Corvellec",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "The joys and pains of reproducing research: An experiment in bioimaging data analysis"
+        },
+        {
+            "fullname": "Alexander Goscinski",
+            "type": "Tutorial",
+            "title": "Building robust workflows with strong provenance"
+        },
+        {
+            "fullname": "Julian Geiger",
+            "type": "Tutorial",
+            "title": "Building robust workflows with strong provenance"
+        },
+        {
+            "fullname": "Ali Khosravi",
+            "type": "Tutorial",
+            "title": "Building robust workflows with strong provenance"
+        },
+        {
+            "fullname": "Lucas Colley",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "The Array API Standard in SciPy"
+        },
+        {
+            "fullname": "Claudio Giorgio Giancaterino",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Data augmentation with Scikit-LLM"
+        },
+        {
+            "fullname": "Sebastian Berg",
+            "type": "Maintainer track",
+            "title": "NumPy's new DType API and 2.0 transition"
+        },
+        {
+            "fullname": "Janos Gabler",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "From stringly typed to strongly typed: Insights from re-designing a library to get the most out of type hints"
+        },
+        {
+            "fullname": "Franz Kiraly",
+            "type": "Tutorial",
+            "title": "sktime - python toolbox for time series – introduction and new features 2024: foundation models, deep learning backends, probabilistic models, hierarchical demand forecasting, marketplace features"
+        },
+        {
+            "fullname": "Felipe Angelim",
+            "type": "Tutorial",
+            "title": "sktime - python toolbox for time series – introduction and new features 2024: foundation models, deep learning backends, probabilistic models, hierarchical demand forecasting, marketplace features"
+        },
+        {
+            "fullname": "Muhammad Armaghan Shakir",
+            "type": "Tutorial",
+            "title": "sktime - python toolbox for time series – introduction and new features 2024: foundation models, deep learning backends, probabilistic models, hierarchical demand forecasting, marketplace features"
+        },
+        {
+            "fullname": "Benedikt Heidrich",
+            "type": "Tutorial",
+            "title": "sktime - python toolbox for time series – introduction and new features 2024: foundation models, deep learning backends, probabilistic models, hierarchical demand forecasting, marketplace features"
+        },
+        {
+            "fullname": "Loïc Estève",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Free-threaded (aka nogil) CPython in the Scientific Python ecosystem : status and road ahead"
+        },
+        {
+            "fullname": "Mike Müller",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "The Parallel Universe in Python - A Time Travel to Python 3.13 and beyond"
+        },
+        {
+            "fullname": "Almar Klein",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "wgpu and pygfx: next-generation graphics for Python"
+        },
+        {
+            "fullname": "Reimar Bauer",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "The Mission Support System and its use in planning an aircraft campaign"
+        },
+        {
+            "fullname": "Daniele Raimondi",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "A Qdrant and Specter2 framework for tracking resubmissions of rejected manuscripts in academia"
+        },
+        {
+            "fullname": "Marnik Bercx",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Reproducible workflows with AiiDA - The power and challenges of full data provenance"
+        },
+        {
+            "fullname": "Xing Wang",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Reproducible workflows with AiiDA - The power and challenges of full data provenance"
+        },
+        {
+            "fullname": "Ines Montani",
+            "type": "Keynote",
+            "title": "10 Years of Open Source: Navigating the Next AI Revolution"
+        },
+        {
+            "fullname": "Thomas Fraunholz",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "A Comparative Study of Open Source Computer Vision Models for Application on Small Data: The Case of CFRP Tape Laying"
+        },
+        {
+            "fullname": "Tim Köhler",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "A Comparative Study of Open Source Computer Vision Models for Application on Small Data: The Case of CFRP Tape Laying"
+        },
+        {
+            "fullname": "Wolf Vollprecht",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Building optimized packages for conda-forge and PyPI"
+        },
+        {
+            "fullname": "Bas Zalmstra",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Building optimized packages for conda-forge and PyPI"
+        },
+        {
+            "fullname": "Ralf Gommers",
+            "type": "Maintainer track",
+            "title": "[CHANGE OF PROGRAM] Informal discussions about switching build backends"
+        },
+        {
+            "fullname": "Guillaume Lemaitre",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Skrub: prepping tables for machine learning"
+        },
+        {
+            "fullname": "Vincent Maladiere",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Skrub: prepping tables for machine learning"
+        },
+        {
+            "fullname": "Jérôme Dockès",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Skrub: prepping tables for machine learning"
+        },
+        {
+            "fullname": "Geir Arne Hjelle",
+            "type": "Tutorial",
+            "title": "Introduction to Polars: Fast and Readable Data Analysis"
+        },
+        {
+            "fullname": "Janos Gabler",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Optimagic: Can we unify Python's numerical optimization ecosystem?"
+        },
+        {
+            "fullname": "Claudio Giorgio Giancaterino",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Conformal Prediction with MAPIE: A Journey into Reliable Uncertainty Quantification"
+        },
+        {
+            "fullname": "Katharine Jarmul",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Federated Learning: Where we are and where we need to be"
+        },
+        {
+            "fullname": "Erik Welch",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Understanding NetworkX's API Dispatching with a parallel backend"
+        },
+        {
+            "fullname": "Aditi Juneja",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Understanding NetworkX's API Dispatching with a parallel backend"
+        },
+        {
+            "fullname": "Almar Klein",
+            "type": "Maintainer track",
+            "title": "OpenGL is dying, let's talk about WebGPU"
+        },
+        {
+            "fullname": "Ilya Komarov",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Enhancing Bayesian Optimization with Ensemble Models for Categorical Domains"
+        },
+        {
+            "fullname": "Jarrod Millman",
+            "type": "Maintainer track",
+            "title": "Scientific Python"
+        },
+        {
+            "fullname": "Stéfan van der Walt",
+            "type": "Maintainer track",
+            "title": "Scientific Python"
+        },
+        {
+            "fullname": "Emergency Self-Constuct",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Regularizing Python using Structured Control Flow"
+        },
+        {
+            "fullname": "Sarah Diot-Girard",
+            "type": "Tutorial",
+            "title": "Introduction to NumPy"
+        },
+        {
+            "fullname": "Sebastian Berg",
+            "type": "Tutorial",
+            "title": "A Hitchhiker's Guide to Contributing to Open Source"
+        },
+        {
+            "fullname": "Nikoleta E. Glynatsi",
+            "type": "Tutorial",
+            "title": "A Hitchhiker's Guide to Contributing to Open Source"
+        },
+        {
+            "fullname": "Alexander Fischer",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Mostly Harmless Fixed Effects Regression in Python with PyFixest"
+        },
+        {
+            "fullname": "Guillaume Lemaitre",
+            "type": "Tutorial",
+            "title": "Probabilistic classification and cost-sensitive learning with scikit-learn"
+        },
+        {
+            "fullname": "Olivier Grisel",
+            "type": "Tutorial",
+            "title": "Probabilistic classification and cost-sensitive learning with scikit-learn"
+        },
+        {
+            "fullname": "Alexandre Strube",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Helmholtz Blablador and the LLM models' ecosystem"
+        },
+        {
+            "fullname": "Justyna Szydłowska-Samsel",
+            "type": "Tutorial",
+            "title": "Introduction to Machine Learning with scikit-learn and Pandas"
+        },
+        {
+            "fullname": "Paweł Żal",
+            "type": "Tutorial",
+            "title": "What is the magic of magic methods in the Python language?"
+        },
+        {
+            "fullname": "Franz Kiraly",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "forecasting foundation models: evaluation and integration with sktime – challenges and outcomes"
+        },
+        {
+            "fullname": "Benedikt Heidrich",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "forecasting foundation models: evaluation and integration with sktime – challenges and outcomes"
+        },
+        {
+            "fullname": "Jakub B. Jagiełło",
+            "type": "Tutorial",
+            "title": "Using Wikipedia as a language corpus for NLP"
+        },
+        {
+            "fullname": "Mojdeh Rastgoo",
+            "type": "Tutorial",
+            "title": "Introduction to Python"
+        },
+        {
+            "fullname": "Deleted User",
+            "type": "Tutorial",
+            "title": "Image analysis in Python with scikit-image"
+        },
+        {
+            "fullname": "Marianne Corvellec",
+            "type": "Tutorial",
+            "title": "Image analysis in Python with scikit-image"
+        },
+        {
+            "fullname": "Stéfan van der Walt",
+            "type": "Tutorial",
+            "title": "Image analysis in Python with scikit-image"
+        }
+    ]
+}

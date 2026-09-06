@@ -1,0 +1,400 @@
+{
+    "year": 2023,
+    "speakers": [
+        {
+            "fullname": "Ezi Ozoani",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Model Documentation: The Keystone towards Inclusivity and Accessibility"
+        },
+        {
+            "fullname": "Duarte O.Carmo",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Exploring Geospatial data for Machine Learning using Google Earth Engine: An introduction"
+        },
+        {
+            "fullname": "Nicolas Rougier",
+            "type": "Maintainer track",
+            "title": "The Graphic Server Protocol, a joint effort to facilitate the interoperability of Python scientific visualization libraries"
+        },
+        {
+            "fullname": "Valerio Maggio",
+            "type": "Tutorial",
+            "title": "PPML: Machine Learning on data you cannot see"
+        },
+        {
+            "fullname": "Julien Jerphanion",
+            "type": "Maintainer track",
+            "title": "Sparse Data in the Scientific Python Ecosystem: Current Needs, Recent Work, and Future Improvements"
+        },
+        {
+            "fullname": "Nikita Churikov",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Build Drug Discovery web applications with PyScript, Ketcher and rdkit"
+        },
+        {
+            "fullname": "Marc Garcia",
+            "type": "Tutorial",
+            "title": "Developing pandas extensions in Rust"
+        },
+        {
+            "fullname": "Wolf Vollprecht",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Python versioning in a changing world"
+        },
+        {
+            "fullname": "Tim Hoffmann",
+            "type": "Tutorial",
+            "title": "Introduction to matplotlib for visualization in Python"
+        },
+        {
+            "fullname": "Stefanie Sabine Senger",
+            "type": "Tutorial",
+            "title": "Introduction to scikit-learn"
+        },
+        {
+            "fullname": "Adrin Jalali",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Let’s exploit pickle, and `skops` to the rescue!"
+        },
+        {
+            "fullname": "Gil Forsyth",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Ibis: Because SQL is everywhere but you don't want to use it"
+        },
+        {
+            "fullname": "Phillip Cloud",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Ibis: Because SQL is everywhere but you don't want to use it"
+        },
+        {
+            "fullname": "Joris Van den Bossche",
+            "type": "Maintainer track long",
+            "title": "Interoperability in the Scientific Python Ecosystem"
+        },
+        {
+            "fullname": "Tim Head",
+            "type": "Maintainer track long",
+            "title": "Interoperability in the Scientific Python Ecosystem"
+        },
+        {
+            "fullname": "Olivier Grisel",
+            "type": "Maintainer track long",
+            "title": "Interoperability in the Scientific Python Ecosystem"
+        },
+        {
+            "fullname": "Franck Charras",
+            "type": "Maintainer track long",
+            "title": "Interoperability in the Scientific Python Ecosystem"
+        },
+        {
+            "fullname": "Mridul Seth",
+            "type": "Maintainer track long",
+            "title": "Interoperability in the Scientific Python Ecosystem"
+        },
+        {
+            "fullname": "Sebastian Berg",
+            "type": "Maintainer track long",
+            "title": "Interoperability in the Scientific Python Ecosystem"
+        },
+        {
+            "fullname": "Maarten Breddels",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Solara: A Pure Python, React-style Framework for Scaling Your Data Apps"
+        },
+        {
+            "fullname": "Geir Arne Hjelle",
+            "type": "Tutorial",
+            "title": "Introduction to NumPy"
+        },
+        {
+            "fullname": "Steve Purves",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "MyST & Thebe: Community-driven tools for awesome open science communication with Jupyter[lite] backed computation"
+        },
+        {
+            "fullname": "Rowan Cockett",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "MyST & Thebe: Community-driven tools for awesome open science communication with Jupyter[lite] backed computation"
+        },
+        {
+            "fullname": "Michele \"Ubik\" De Simoni",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "(in)Complete introduction to AI Safety"
+        },
+        {
+            "fullname": "Tim Hoffmann",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Accelerating your Python code - a systematic overview"
+        },
+        {
+            "fullname": "Guillaume Lemaitre",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Get the best from your scikit-learn classifier: trusted probabilties and optimal binary decision"
+        },
+        {
+            "fullname": "Gil Forsyth",
+            "type": "Tutorial",
+            "title": "Ibis: A fast, flexible, and portable tool for data analytics."
+        },
+        {
+            "fullname": "Phillip Cloud",
+            "type": "Tutorial",
+            "title": "Ibis: A fast, flexible, and portable tool for data analytics."
+        },
+        {
+            "fullname": "Mike Müller",
+            "type": "Tutorial",
+            "title": "Getting started with JupyterLab"
+        },
+        {
+            "fullname": "Arkadiusz Trawiński",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Incidents management using Hawkes processes and other Tech AIOps projects in ING"
+        },
+        {
+            "fullname": "Joost Göbbels",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Incidents management using Hawkes processes and other Tech AIOps projects in ING"
+        },
+        {
+            "fullname": "Jacob Tomlinson",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Deploying multi-GPU workloads on Kubernetes in Python"
+        },
+        {
+            "fullname": "Janos Gabler",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Estimagic: A library that enables scientists and engineers to solve challenging numerical optimization problems"
+        },
+        {
+            "fullname": "Arturo Amor",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Content-based recommendation-system for the examples in sphinx-gallery"
+        },
+        {
+            "fullname": "Jonathan Striebel",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "From Implementation to Ecosystem: The Journey of Zarr"
+        },
+        {
+            "fullname": "Piotr Płoński",
+            "type": "Tutorial",
+            "title": "From Complex Scientific Notebook to User-Friendly Web Application"
+        },
+        {
+            "fullname": "Aleksandra Plonska",
+            "type": "Tutorial",
+            "title": "From Complex Scientific Notebook to User-Friendly Web Application"
+        },
+        {
+            "fullname": "Marco Gorelli",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "DataFrame-agnostic code: are we there yet?"
+        },
+        {
+            "fullname": "Olga Lyashevska",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Where is the flock? The use of graph neural networks for bird identification with meteorological radar."
+        },
+        {
+            "fullname": "Abel Soares Siqueira",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Where is the flock? The use of graph neural networks for bird identification with meteorological radar."
+        },
+        {
+            "fullname": "Milton Gomez",
+            "type": "Tutorial",
+            "title": "Introduction to Python for scientific programming"
+        },
+        {
+            "fullname": "Stefanie Molin",
+            "type": "Tutorial",
+            "title": "Introduction to Data Analysis Using Pandas"
+        },
+        {
+            "fullname": "Loïc Estève",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "My foray from Scientific Python into the Pyodide / WebAssembly universe"
+        },
+        {
+            "fullname": "Tim Mensinger",
+            "type": "Tutorial",
+            "title": "Introduction to numerical optimization"
+        },
+        {
+            "fullname": "Janos Gabler",
+            "type": "Tutorial",
+            "title": "Introduction to numerical optimization"
+        },
+        {
+            "fullname": "Tobias Raabe",
+            "type": "Tutorial",
+            "title": "Introduction to numerical optimization"
+        },
+        {
+            "fullname": "Fabian Hoppe",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "The Helmholtz Analytics Toolkit (Heat) and its role in the landscape of massively-parallel scientific Python"
+        },
+        {
+            "fullname": "Vadim Nelidov",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Anomaly Detection in Time Series: Techniques, Tools and Tricks"
+        },
+        {
+            "fullname": "Hyukjin Kwon",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Scaling pandas to any size with PySpark"
+        },
+        {
+            "fullname": "Allan Folting",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Scaling pandas to any size with PySpark"
+        },
+        {
+            "fullname": "Alexander Fabisch",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Transformations in Three Dimensions"
+        },
+        {
+            "fullname": "Artem Kislovskiy",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Why I Follow CI/CD Principles When Writing Code: Building Robust and Reproducible Applications"
+        },
+        {
+            "fullname": "Mongi BEN GAID",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Chalk’it: an open-source framework for rapid web applications"
+        },
+        {
+            "fullname": "Guillaume Lemaitre",
+            "type": "Tutorial",
+            "title": "Image processing with scikit-image"
+        },
+        {
+            "fullname": "Joan Massich",
+            "type": "Tutorial",
+            "title": "Image processing with scikit-image"
+        },
+        {
+            "fullname": "Olivier Grisel",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Exploring GPU-powered backends for scikit-learn"
+        },
+        {
+            "fullname": "Franck Charras",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Exploring GPU-powered backends for scikit-learn"
+        },
+        {
+            "fullname": "Ritchie Vink",
+            "type": "Keynote",
+            "title": "Keynote on polars"
+        },
+        {
+            "fullname": "Giada Pistilli",
+            "type": "Keynote",
+            "title": "Integrating Ethics in ML: From Philosophical Foundations to Practical Implementations"
+        },
+        {
+            "fullname": "Olivier Grisel",
+            "type": "Tutorial",
+            "title": "Predictive survival analysis with scikit-learn, scikit-survival and lifelines"
+        },
+        {
+            "fullname": "Vincent Maladiere",
+            "type": "Tutorial",
+            "title": "Predictive survival analysis with scikit-learn, scikit-survival and lifelines"
+        },
+        {
+            "fullname": "Sebastian Berg",
+            "type": "Maintainer track",
+            "title": "What-not to expect from NumPy 2.0"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Tutorial",
+            "title": "Generating Data Frames for your test - using Pandas stratgies in Hypothesis"
+        },
+        {
+            "fullname": "Szymon Woźniak",
+            "type": "Tutorial",
+            "title": "Introduction to Geospatial Machine Learning with SRAI"
+        },
+        {
+            "fullname": "Piotr Szymański",
+            "type": "Tutorial",
+            "title": "Introduction to Geospatial Machine Learning with SRAI"
+        },
+        {
+            "fullname": "Piotr Gramacki",
+            "type": "Tutorial",
+            "title": "Introduction to Geospatial Machine Learning with SRAI"
+        },
+        {
+            "fullname": "Kamil Raczycki",
+            "type": "Tutorial",
+            "title": "Introduction to Geospatial Machine Learning with SRAI"
+        },
+        {
+            "fullname": "Kacper Leśniara",
+            "type": "Tutorial",
+            "title": "Introduction to Geospatial Machine Learning with SRAI"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Maintainer track long",
+            "title": "Contributor, Developer and Volunteer Experience: Navigating Challenges Beyond Code"
+        },
+        {
+            "fullname": "Maren Westermann",
+            "type": "Maintainer track long",
+            "title": "Contributor, Developer and Volunteer Experience: Navigating Challenges Beyond Code"
+        },
+        {
+            "fullname": "Stefania Delprete",
+            "type": "Maintainer track long",
+            "title": "Contributor, Developer and Volunteer Experience: Navigating Challenges Beyond Code"
+        },
+        {
+            "fullname": "Giada Pistilli",
+            "type": "Maintainer track long",
+            "title": "Contributor, Developer and Volunteer Experience: Navigating Challenges Beyond Code"
+        },
+        {
+            "fullname": "Dr. Milos Cuculovic",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "GPT generated text detection: problems and solution in the scientific publishing"
+        },
+        {
+            "fullname": "Andrea Guzzo",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "GPT generated text detection: problems and solution in the scientific publishing"
+        },
+        {
+            "fullname": "Joris Van den Bossche",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Pandas 2.0 and beyond"
+        },
+        {
+            "fullname": "Richard Shadrach",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Pandas 2.0 and beyond"
+        },
+        {
+            "fullname": "Kai Striega",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Timing and Benchmarking Scientific Python"
+        },
+        {
+            "fullname": "Maren Westermann",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Building divserve open source communities - learnings from PyLadies Berlin’s monthly open source hack nights"
+        },
+        {
+            "fullname": "Mridul Seth",
+            "type": "Tutorial",
+            "title": "Network Analysis Made Simple (and fast!)"
+        }
+    ]
+}

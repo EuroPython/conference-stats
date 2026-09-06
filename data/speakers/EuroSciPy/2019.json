@@ -1,0 +1,465 @@
+{
+    "year": 2019,
+    "speakers": [
+        {
+            "fullname": "Paige Bailey",
+            "type": "Talk (long)",
+            "title": "Deep Learning without a PhD"
+        },
+        {
+            "fullname": "Dr. Tania Allard",
+            "type": "Tutorial",
+            "title": "Building data pipelines in Python: Airflow vs scripts soup"
+        },
+        {
+            "fullname": "Yaman Güçlü",
+            "type": "Talk",
+            "title": "PSYDAC: a parallel finite element solver with automatic code generation"
+        },
+        {
+            "fullname": "Martin Bauer",
+            "type": "Talk",
+            "title": "pystencils: Speeding up stencil computations on CPUs and GPUs"
+        },
+        {
+            "fullname": "Francesco Pierfederici",
+            "type": "Talk (long)",
+            "title": "Driving a 30m Radio Telescope with Python"
+        },
+        {
+            "fullname": "Peter Andreas Entschev",
+            "type": "Talk (long)",
+            "title": "Distributed GPU Computing with Dask"
+        },
+        {
+            "fullname": "Josh Gordon",
+            "type": "Tutorial",
+            "title": "Hands-on TensorFlow 2.0"
+        },
+        {
+            "fullname": "Francesc Alted",
+            "type": "Talk (long)",
+            "title": "Caterva: A Compressed And Multidimensional Container For Big Data"
+        },
+        {
+            "fullname": "Javier Conejero",
+            "type": "Tutorial",
+            "title": "Parallelizing Python applications with PyCOMPSs"
+        },
+        {
+            "fullname": "Abel Carreras",
+            "type": "Poster",
+            "title": "PhonoLAMMPS: Phonopy with LAMMPS made easy"
+        },
+        {
+            "fullname": "Mike Müller",
+            "type": "Poster",
+            "title": "From Modeler to Programmer"
+        },
+        {
+            "fullname": "Dr. Rebecca Bilbro",
+            "type": "Talk (long)",
+            "title": "Visual Diagnostics at Scale"
+        },
+        {
+            "fullname": "Alexandre de Siqueira",
+            "type": "Tutorial",
+            "title": "3D image processing with scikit-image"
+        },
+        {
+            "fullname": "Guillaume Lemaitre",
+            "type": "Talk",
+            "title": "The Rapid Analytics and Model Prototyping (RAMP) framework: tools for collaborative data science challenges"
+        },
+        {
+            "fullname": "Joris Van den Bossche",
+            "type": "Talk",
+            "title": "The Rapid Analytics and Model Prototyping (RAMP) framework: tools for collaborative data science challenges"
+        },
+        {
+            "fullname": "Emergency Self-Constuct",
+            "type": "Talk (long)",
+            "title": "Understanding Numba"
+        },
+        {
+            "fullname": "Pierre Glaser",
+            "type": "Talk (long)",
+            "title": "Recent advances in python parallel computing"
+        },
+        {
+            "fullname": "Francesco Bonazzi",
+            "type": "Talk (long)",
+            "title": "Matrix calculus with SymPy"
+        },
+        {
+            "fullname": "Olav Vahtras",
+            "type": "Talk (long)",
+            "title": "VeloxChem: Python meets quantum chemistry and HPC"
+        },
+        {
+            "fullname": "Marta Kowalska",
+            "type": "Poster",
+            "title": "kESI - a kernel-based method for reconstruction of sources of brain electric activity in realistic brain geometries"
+        },
+        {
+            "fullname": "Jakub M. Dzik",
+            "type": "Poster",
+            "title": "kESI - a kernel-based method for reconstruction of sources of brain electric activity in realistic brain geometries"
+        },
+        {
+            "fullname": "Marc Garcia",
+            "type": "Tutorial",
+            "title": "Introduction to pandas"
+        },
+        {
+            "fullname": "Sara Issaoun",
+            "type": "Keynote",
+            "title": "In the Shadow of the Black Hole"
+        },
+        {
+            "fullname": "Devin Petersohn",
+            "type": "Talk",
+            "title": "Modin: Scaling the Capabilities of the Data Scientist, not the machine"
+        },
+        {
+            "fullname": "Devin Petersohn",
+            "type": "Talk",
+            "title": "Modin: Scaling the Capabilities of the Data Scientist, not the machine"
+        },
+        {
+            "fullname": "Olivier Grisel",
+            "type": "Talk (long)",
+            "title": "Histogram-based Gradient Boosting in scikit-learn 0.21"
+        },
+        {
+            "fullname": "Samuel FARRENS",
+            "type": "Keynote",
+            "title": "From Galaxies to Brains! - Image processing with Python"
+        },
+        {
+            "fullname": "Antònia Tugores",
+            "type": "Talk (long)",
+            "title": "Tracking migration flows with geolocated Twitter data"
+        },
+        {
+            "fullname": "Jeremy Tuloup",
+            "type": "Talk",
+            "title": "Debugging in JupyterLab"
+        },
+        {
+            "fullname": "Jakub M. Dzik",
+            "type": "Poster",
+            "title": "Really reproducible behavioural paper"
+        },
+        {
+            "fullname": "Marta Kowalska",
+            "type": "Tutorial",
+            "title": "kCSD - a Python package for reconstruction of brain activity"
+        },
+        {
+            "fullname": "Jakub M. Dzik",
+            "type": "Tutorial",
+            "title": "kCSD - a Python package for reconstruction of brain activity"
+        },
+        {
+            "fullname": "Sebastian M. Ernst",
+            "type": "Talk",
+            "title": "Enhancing & re-designing the QGIS user interface – a deep dive"
+        },
+        {
+            "fullname": "Simon Cross",
+            "type": "Tutorial",
+            "title": "Performing Quantum Measurements in QuTiP"
+        },
+        {
+            "fullname": "Mikołaj Rybiński",
+            "type": "Talk",
+            "title": "High Voltage Lab Common Code Basis library: a uniform user-friendly object-oriented API for a high voltage engineering research."
+        },
+        {
+            "fullname": "Nathan Shammah",
+            "type": "Talk (long)",
+            "title": "QuTiP: the quantum toolbox in Python as an ecosystem for quantum physics exploration and quantum information science"
+        },
+        {
+            "fullname": "Alexander Pitchford",
+            "type": "Talk (long)",
+            "title": "QuTiP: the quantum toolbox in Python as an ecosystem for quantum physics exploration and quantum information science"
+        },
+        {
+            "fullname": "Guilherme Jenovencio",
+            "type": "Talk",
+            "title": "PyFETI - An easy and massively Dual Domain Decomposition Solver for Python"
+        },
+        {
+            "fullname": "Valerio Maggio",
+            "type": "Tutorial",
+            "title": "Never get in a battle of bits without ammunition"
+        },
+        {
+            "fullname": "Joris Van den Bossche",
+            "type": "Talk (long)",
+            "title": "Apache Arrow: a cross-language development platform for in-memory data"
+        },
+        {
+            "fullname": "Emergency Self-Constuct",
+            "type": "Tutorial",
+            "title": "Create CUDA kernels from Python using Numba and CuPy."
+        },
+        {
+            "fullname": "yoann audouin",
+            "type": "Talk",
+            "title": "TelApy a Python module to compute free surface flows and sediments transport in geosciences"
+        },
+        {
+            "fullname": "Joan Massich",
+            "type": "Poster",
+            "title": "MNE-Python, a toolkit for neurophysiological data"
+        },
+        {
+            "fullname": "Tim Hoffmann",
+            "type": "Tutorial",
+            "title": "Effectively using matplotlib"
+        },
+        {
+            "fullname": "Jérémie du Boisberranger",
+            "type": "Tutorial",
+            "title": "Speed up your python code"
+        },
+        {
+            "fullname": "Matti Picus",
+            "type": "Tutorial",
+            "title": "CFFI, Ctypes, Cython, Cppyy: how to run C code from Python"
+        },
+        {
+            "fullname": "Nick Radcliffe",
+            "type": "Talk (long)",
+            "title": "Constrained Data Synthesis"
+        },
+        {
+            "fullname": "Didier VEZINET",
+            "type": "Talk (long)",
+            "title": "ToFu - an open-source python/cython library for synthetic tomography diagnostics on Tokamaks"
+        },
+        {
+            "fullname": "Laura Mendoza",
+            "type": "Talk (long)",
+            "title": "ToFu - an open-source python/cython library for synthetic tomography diagnostics on Tokamaks"
+        },
+        {
+            "fullname": "Pierre Augier",
+            "type": "Talk",
+            "title": "Make your Python code fly at transonic speeds!"
+        },
+        {
+            "fullname": "David Liu",
+            "type": "Keynote",
+            "title": "HPC and Python: Intel’s work in enabling the scientific computing community"
+        },
+        {
+            "fullname": "Roman Yurchak",
+            "type": "Talk",
+            "title": "vtext: fast text processing in Python using Rust"
+        },
+        {
+            "fullname": "Michele \"Ubik\" De Simoni",
+            "type": "Tutorial",
+            "title": "Deep Diving into GANs: From Theory to Production with TensorFlow 2.0"
+        },
+        {
+            "fullname": "Paolo Galeone",
+            "type": "Tutorial",
+            "title": "Deep Diving into GANs: From Theory to Production with TensorFlow 2.0"
+        },
+        {
+            "fullname": "Federico Di Mattia",
+            "type": "Tutorial",
+            "title": "Deep Diving into GANs: From Theory to Production with TensorFlow 2.0"
+        },
+        {
+            "fullname": "Emanuele Ghelfi",
+            "type": "Tutorial",
+            "title": "Deep Diving into GANs: From Theory to Production with TensorFlow 2.0"
+        },
+        {
+            "fullname": "Oliver Zeigermann",
+            "type": "Talk (long)",
+            "title": "The Magic of Neural Embeddings with TensorFlow 2"
+        },
+        {
+            "fullname": "Mike Müller",
+            "type": "Tutorial",
+            "title": "Getting Started with JupyterLab"
+        },
+        {
+            "fullname": "Sylvain Corlay",
+            "type": "Talk (long)",
+            "title": "Data sciences in a polyglot world with xtensor and xframe"
+        },
+        {
+            "fullname": "Wolf Vollprecht",
+            "type": "Talk (long)",
+            "title": "Data sciences in a polyglot world with xtensor and xframe"
+        },
+        {
+            "fullname": "Nicholas Del Grosso",
+            "type": "Talk (long)",
+            "title": "Scientific DevOps:  Designing Reproducible Data Analysis Pipelines with Containerized Workflow Managers"
+        },
+        {
+            "fullname": "Matti Picus",
+            "type": "Talk (long)",
+            "title": "Inside NumPy: preparing for the next decade"
+        },
+        {
+            "fullname": "Giovanni De Gasperis",
+            "type": "Tutorial",
+            "title": "A Tour of the Data Visualization Ecosystem of Python"
+        },
+        {
+            "fullname": "Alejandro Saucedo",
+            "type": "Talk (long)",
+            "title": "A practical guide towards algorithmic bias and explainability in machine learning"
+        },
+        {
+            "fullname": "Marco Bertini",
+            "type": "Talk (long)",
+            "title": "High quality video experience using deep neural networks"
+        },
+        {
+            "fullname": "Tiberio Uricchio",
+            "type": "Talk (long)",
+            "title": "High quality video experience using deep neural networks"
+        },
+        {
+            "fullname": "Samuel FARRENS",
+            "type": "Tutorial",
+            "title": "Astronomical Image Processing"
+        },
+        {
+            "fullname": "Javier Álvarez",
+            "type": "Talk",
+            "title": "High performance machine learning with dislib"
+        },
+        {
+            "fullname": "Zac Hatfield-Dodds",
+            "type": "Talk (long)",
+            "title": "Sufficiently Advanced Testing with Hypothesis"
+        },
+        {
+            "fullname": "Chandrasekhar Ramakrishnan",
+            "type": "Tutorial",
+            "title": "Reproducible Data Science in Python"
+        },
+        {
+            "fullname": "Rok Roškar",
+            "type": "Tutorial",
+            "title": "Reproducible Data Science in Python"
+        },
+        {
+            "fullname": "Andrii Gakhov",
+            "type": "Talk (long)",
+            "title": "Exceeding Classical: Probabilistic Data Structures in Data Intensive Applications"
+        },
+        {
+            "fullname": "Lena Oden",
+            "type": "Talk",
+            "title": "Lessons learned from comparing Numba-CUDA and C-CUDA"
+        },
+        {
+            "fullname": "Ronan Lamy",
+            "type": "Talk (long)",
+            "title": "PyPy meets SciPy"
+        },
+        {
+            "fullname": "Maarten Breddels",
+            "type": "Talk (long)",
+            "title": "Dashboarding with Jupyter notebooks, voila and widgets"
+        },
+        {
+            "fullname": "Martin Renou",
+            "type": "Talk (long)",
+            "title": "Dashboarding with Jupyter notebooks, voila and widgets"
+        },
+        {
+            "fullname": "Ricardo Manhães Savii",
+            "type": "Talk",
+            "title": "Deep Learning for Understanding Human Multi-modal Behavior"
+        },
+        {
+            "fullname": "Matti Eskelinen",
+            "type": "Talk",
+            "title": "How to process hyperspectral data from a prototype imager using Python"
+        },
+        {
+            "fullname": "Juan Luis Cano Rodríguez",
+            "type": "Talk",
+            "title": "Can we make Python fast without sacrificing readability? numba for Astrodynamics"
+        },
+        {
+            "fullname": "Nicolas Cellier",
+            "type": "Poster",
+            "title": "scikit-fdiff, a new tool for PDE solving"
+        },
+        {
+            "fullname": "Gert-Ludwig Ingold",
+            "type": "Tutorial",
+            "title": "Introduction to SciPy"
+        },
+        {
+            "fullname": "Alexander CS Hendorf",
+            "type": "Talk",
+            "title": "Best Coding Practices in Jupyterlab"
+        },
+        {
+            "fullname": "Guillaume Lemaitre",
+            "type": "Tutorial",
+            "title": "Introduction to scikit-learn: from model fitting to model interpretation"
+        },
+        {
+            "fullname": "Olivier Grisel",
+            "type": "Tutorial",
+            "title": "Introduction to scikit-learn: from model fitting to model interpretation"
+        },
+        {
+            "fullname": "Darya Chyzhyk",
+            "type": "Talk",
+            "title": "Controlling a confounding effect in predictive analysis."
+        },
+        {
+            "fullname": "Sarah Diot-Girard",
+            "type": "Talk (long)",
+            "title": "What about tests in Machine Learning projects?"
+        },
+        {
+            "fullname": "Uwe Schmitt",
+            "type": "Talk (long)",
+            "title": "emzed: a Python based framework for analysis of mass-spectrometry data"
+        },
+        {
+            "fullname": "Joris Van den Bossche",
+            "type": "Tutorial",
+            "title": "Introduction to geospatial data analysis with GeoPandas and the PyData stack"
+        },
+        {
+            "fullname": "Jovan Veljanoski",
+            "type": "Talk (long)",
+            "title": "Modern Data Science: A new approach to DataFrames and pipelines"
+        },
+        {
+            "fullname": "Maarten Breddels",
+            "type": "Talk (long)",
+            "title": "Modern Data Science: A new approach to DataFrames and pipelines"
+        },
+        {
+            "fullname": "Miren Urteaga Aldalur",
+            "type": "Talk (long)",
+            "title": "How a voice assistant works"
+        },
+        {
+            "fullname": "Zac Hatfield-Dodds",
+            "type": "Tutorial",
+            "title": "Sufficiently Advanced Testing with Hypothesis"
+        }
+    ]
+}

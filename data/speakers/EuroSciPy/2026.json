@@ -1,0 +1,330 @@
+{
+    "year": 2026,
+    "speakers": [
+        {
+            "fullname": "Thomas Wouters",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Unravelling the mystery of free threading for scientific computing"
+        },
+        {
+            "fullname": "Ashwin Mohanan",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Teaching scientific programming in the age of agentic coding"
+        },
+        {
+            "fullname": "Emille Ishida",
+            "type": "Keynote",
+            "title": "From theory to practice: how Python enabled modern astronomical data analysis"
+        },
+        {
+            "fullname": "Vasu Sharma",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "The Illusion of Compliance: Auditing LLM-as-a-Judge Systems"
+        },
+        {
+            "fullname": "Grzegorz Bokota",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "From Code to app, how to ship your tool to your non programming collaborators"
+        },
+        {
+            "fullname": "Sylwester Arabas",
+            "type": "Tutorial",
+            "title": "Gluing SciPy, Numba, and Pint to Bridge High Performance with Maintainability"
+        },
+        {
+            "fullname": "Kamil Kania",
+            "type": "Tutorial",
+            "title": "Gluing SciPy, Numba, and Pint to Bridge High Performance with Maintainability"
+        },
+        {
+            "fullname": "Florian Aymanns",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "splinebox: pure-python toolkit for splines"
+        },
+        {
+            "fullname": "Ishita jain",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "PyCabinet: A Python Toolbox for End-to-End Transcriptomics and Omics Analysis"
+        },
+        {
+            "fullname": "Shubham Sharma",
+            "type": "Tutorial",
+            "title": "Microwave Image Processing: Exploring realms of Earth through spaceborne Radars using Python"
+        },
+        {
+            "fullname": "Aris Nivorlis",
+            "type": "Tutorial",
+            "title": "Version Everything: From Chaos to Order in Reproducible Python Projects"
+        },
+        {
+            "fullname": "Ruslan Korniichuk",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "USB-C Moment for AI: Building MCP Servers with FastMCP and Python"
+        },
+        {
+            "fullname": "Łukasz Langa",
+            "type": "Keynote",
+            "title": "What Is Your Simulation Doing Right Now?"
+        },
+        {
+            "fullname": "Maximilian Meyer-Mölleringhof",
+            "type": "Tutorial",
+            "title": "Quantum Physics Simulations using QuTiP"
+        },
+        {
+            "fullname": "Alexander Pitchford",
+            "type": "Tutorial",
+            "title": "Quantum Physics Simulations using QuTiP"
+        },
+        {
+            "fullname": "Mateusz Sokół",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "PyData/Sparse & Finch: extending sparse computing in the Python ecosystem"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Rust for High Performance Computing (HPC) in Python"
+        },
+        {
+            "fullname": "Guillaume Lemaitre",
+            "type": "Tutorial",
+            "title": "Deal with imbalanced classification using scikit-learn"
+        },
+        {
+            "fullname": "Anne Beyer",
+            "type": "Tutorial",
+            "title": "Deal with imbalanced classification using scikit-learn"
+        },
+        {
+            "fullname": "Pierre Raybaut",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Automatic Reconstruction of X-ray Scenes with Python and DataLab"
+        },
+        {
+            "fullname": "Marc Rabec le Gloahec",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Automatic Reconstruction of X-ray Scenes with Python and DataLab"
+        },
+        {
+            "fullname": "Ed Chalstrey",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "PyGambit & DrawTree: Python tools for game theory."
+        },
+        {
+            "fullname": "Tim Monko",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "(Re)-connecting foundational libraries with their communities: Successes, failures, and surprises in building the napari plugin sustainability initiative"
+        },
+        {
+            "fullname": "Muhammed Adedigba",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Lessons from Building a Large-Scale Engineering Simulation Data Processing Library"
+        },
+        {
+            "fullname": "Albert Dorador",
+            "type": "Tutorial",
+            "title": "From Black to White Boxes: Interpretable Regression with the trust-free Python package"
+        },
+        {
+            "fullname": "Bryce Adelstein Lelbach",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Python Tile Programming for GPUs"
+        },
+        {
+            "fullname": "Daniele Raimondi",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Automating Scientific Paper Classification at Scale with Retrieval–Reranking and LLMs"
+        },
+        {
+            "fullname": "Vasu Sharma",
+            "type": "Tutorial",
+            "title": "A Hands-On Introduction to Mechanistic Interpretability"
+        },
+        {
+            "fullname": "Jost Migenda",
+            "type": "Tutorial",
+            "title": "Introduction to Profiling"
+        },
+        {
+            "fullname": "Inessa Pawson",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Ctrl + Alt + Contribute: Bringing Open Source into the Classroom"
+        },
+        {
+            "fullname": "Ryan C Cooper",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Ctrl + Alt + Contribute: Bringing Open Source into the Classroom"
+        },
+        {
+            "fullname": "Ryan Curtin",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Ctrl + Alt + Contribute: Bringing Open Source into the Classroom"
+        },
+        {
+            "fullname": "Niels Neerhoff",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Pure functions + Separate I/O: Functional Python Pipelines for Reproducible Experiments"
+        },
+        {
+            "fullname": "Simon Brugman",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Pure functions + Separate I/O: Functional Python Pipelines for Reproducible Experiments"
+        },
+        {
+            "fullname": "Diogo Rodrigues",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Finding the Right ROR: Semantic Search for Research Institutions"
+        },
+        {
+            "fullname": "Jacob Tomlinson",
+            "type": "Tutorial",
+            "title": "Deploying and debugging GPU accelerated Python workloads"
+        },
+        {
+            "fullname": "Guillaume Lemaitre",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "How to use skrub Data Ops in practice"
+        },
+        {
+            "fullname": "Jérôme Dockès",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "How to use skrub Data Ops in practice"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Tutorial",
+            "title": "Do you know how well your model is doing? Evaluate your LLMs"
+        },
+        {
+            "fullname": "Daniele Raimondi",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Building a Scientific Taxonomy at Scale with Graph Clustering, Embeddings, and LLMs"
+        },
+        {
+            "fullname": "Mike Müller",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Parallel Reactive Groundwater Transport Modeling"
+        },
+        {
+            "fullname": "Jon Nordby",
+            "type": "Tutorial",
+            "title": "Developing IoT sensors with MicroPython"
+        },
+        {
+            "fullname": "Jan Boelts (Teusen)",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "setu: Bridging Simulators to Probabilistic Programming in JAX"
+        },
+        {
+            "fullname": "sethaxen",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "setu: Bridging Simulators to Probabilistic Programming in JAX"
+        },
+        {
+            "fullname": "Lucas Colley",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "`LinearOperator`: stories from advancing an 18 year old data structure in SciPy"
+        },
+        {
+            "fullname": "Diogo Rodrigues",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Boring AI Works: When BERT Beats Billion-Parameter Models"
+        },
+        {
+            "fullname": "Ajinkya P Dahale",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Towards Pythonic custom constraining in FreeCAD 2D drawing"
+        },
+        {
+            "fullname": "Mike Müller",
+            "type": "Tutorial",
+            "title": "Reproducible Dependency Management with Pixi"
+        },
+        {
+            "fullname": "Gracjan Adamus",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Engineering Fortran-to-Python Bindings in C++ with nanobind[_json] and cibuildwheel"
+        },
+        {
+            "fullname": "Lorenzo Gaifas",
+            "type": "Tutorial",
+            "title": "napari: explorative visualization and workflow building for scientific data analysis"
+        },
+        {
+            "fullname": "Grzegorz Bokota",
+            "type": "Tutorial",
+            "title": "napari: explorative visualization and workflow building for scientific data analysis"
+        },
+        {
+            "fullname": "Paweł Tokaj",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Optimize the geospatial data processing with Apache Sedona and SedonaDB."
+        },
+        {
+            "fullname": "Lawrence Bradley",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Using Python for satellite operations: Lessons from the Mauve Space Mission"
+        },
+        {
+            "fullname": "Almar Klein",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Interactive visualizations anywhere"
+        },
+        {
+            "fullname": "Daniel Anderson",
+            "type": "Tutorial",
+            "title": "Introduction to Differentiable Programming"
+        },
+        {
+            "fullname": "Bryce Adelstein Lelbach",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Profiling Python GPU Code"
+        },
+        {
+            "fullname": "Stefanie Senger",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Scikit-learn's Metadata Routing API"
+        },
+        {
+            "fullname": "Akshita Sure",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Unpacking parallelising NetworkX algorithms in nx-parallel backend"
+        },
+        {
+            "fullname": "Ramon Perez",
+            "type": "Tutorial",
+            "title": "Same Recipe, Different Results: Fine-Tuning Models Across Modalities"
+        },
+        {
+            "fullname": "Lucas Colley",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Pixi: better developer experience for scientific Python projects"
+        },
+        {
+            "fullname": "Wolf Vollprecht",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "Pixi: better developer experience for scientific Python projects"
+        },
+        {
+            "fullname": "Evgeni Burovski",
+            "type": "Talk (25 mins + Q&A)",
+            "title": "The road(map) towards SciPy 2.0"
+        },
+        {
+            "fullname": "Elena Hernandez-Martinez",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Disentangling Cosmology from Astrophysics with Gaussian Process Emulation and Likelihood-Free Inference"
+        },
+        {
+            "fullname": "Justyna Szydłowska-Samsel",
+            "type": "Tutorial",
+            "title": "Introduction to Data Science with Python: Pandas and Polars"
+        },
+        {
+            "fullname": "Jon Nordby",
+            "type": "Talk (15 mins + Q&A)",
+            "title": "Embed Data Science in your IoT device with MicroPython"
+        }
+    ]
+}

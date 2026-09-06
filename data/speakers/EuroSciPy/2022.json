@@ -1,0 +1,325 @@
+{
+    "year": 2022,
+    "speakers": [
+        {
+            "fullname": "Emmanuelle Gouillart",
+            "type": "Guest Talk",
+            "title": "Interactive Image Annotation with plotly and Dash"
+        },
+        {
+            "fullname": "Andreas Steiner",
+            "type": "Keynote",
+            "title": "JAX and Flax: Function Transformations and Neural Networks"
+        },
+        {
+            "fullname": "Serge « sans » Paille",
+            "type": "Talk (long)",
+            "title": "Discover Pythran through 10 code samples"
+        },
+        {
+            "fullname": "Alejandro Saucedo",
+            "type": "Talk",
+            "title": "Industrial Strength DALLE-E: Scaling Complex Large Text & Image Models"
+        },
+        {
+            "fullname": "Jesper Dramsch",
+            "type": "Talk (long)",
+            "title": "Increase citations, ease review & collaboration – Making machine learning in research reproducible"
+        },
+        {
+            "fullname": "Maren Westermann",
+            "type": "Talk",
+            "title": "How to increase diversity in open source communities"
+        },
+        {
+            "fullname": "Joris Van den Bossche",
+            "type": "Maintainer track",
+            "title": "[Maintainers track] Interoperability in the DataFrame landscape: DataFrame API & PyArrow Update"
+        },
+        {
+            "fullname": "Alexander CS Hendorf",
+            "type": "Talk (long)",
+            "title": "A Primer to Maintainable Code"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Talk (long)",
+            "title": "Revolutionalise Data Visulization with PyScript"
+        },
+        {
+            "fullname": "Davide Poggiali",
+            "type": "Talk (long)",
+            "title": "Real-time estimation of an heat pump I/O state with IoT data."
+        },
+        {
+            "fullname": "Pierre-Olivier Simonard",
+            "type": "Talk",
+            "title": "Pragmatic Panel: Build and Deploy Complex Data-Driven WebApps"
+        },
+        {
+            "fullname": "Nicholas Hall",
+            "type": "Talk",
+            "title": "Discrete event simulations of 'all electric' mines"
+        },
+        {
+            "fullname": "Adrin Jalali",
+            "type": "Talk (long)",
+            "title": "scikit-learn and fairness, tools and challenges"
+        },
+        {
+            "fullname": "Mridul Seth",
+            "type": "Talk",
+            "title": "Continuous and on demand benchmarking"
+        },
+        {
+            "fullname": "Gaël Varoquaux",
+            "type": "Talk",
+            "title": "Machine learning with missing values"
+        },
+        {
+            "fullname": "Julien Jerphanion",
+            "type": "Talk (long)",
+            "title": "Scaling scikit-learn: introducing new computational foundations"
+        },
+        {
+            "fullname": "Jesper Dramsch",
+            "type": "Tutorial",
+            "title": "Increase citations, ease review & collaboration – Making machine learning in research reproducible"
+        },
+        {
+            "fullname": "Reimar Bauer",
+            "type": "Talk",
+            "title": "Open Source Mission Support System for research aircraft missions"
+        },
+        {
+            "fullname": "Pamela Alejandra Bustamante Faúndez",
+            "type": "Talk",
+            "title": "Discovering Mathematical Optimization with Python"
+        },
+        {
+            "fullname": "Iliya Zhechev",
+            "type": "Talk",
+            "title": "Emergent structures in noisy channel message-passing"
+        },
+        {
+            "fullname": "Arturo Amor",
+            "type": "Tutorial",
+            "title": "Introduction to scikit-learn II"
+        },
+        {
+            "fullname": "Arkadiusz Trawiński",
+            "type": "Tutorial",
+            "title": "Introduction to scikit-learn II"
+        },
+        {
+            "fullname": "Alon Nir",
+            "type": "Talk (long)",
+            "title": "Sliding into Causal Inference, with Python!"
+        },
+        {
+            "fullname": "Arturo Amor",
+            "type": "Tutorial",
+            "title": "Introduction to scikit-learn I"
+        },
+        {
+            "fullname": "Arkadiusz Trawiński",
+            "type": "Tutorial",
+            "title": "Introduction to scikit-learn I"
+        },
+        {
+            "fullname": "Vaibhav Srivastav",
+            "type": "Tutorial",
+            "title": "Introduction to Audio & Speech Recognition"
+        },
+        {
+            "fullname": "Katharine Jarmul",
+            "type": "Keynote",
+            "title": "Supercharging Open Data with Open Privacy"
+        },
+        {
+            "fullname": "Mx Chiin-Rui Tan",
+            "type": "Maintainer track",
+            "title": "Education - Materials, methods, tools"
+        },
+        {
+            "fullname": "Maria Teleńczuk",
+            "type": "Tutorial",
+            "title": "Introduction to NumPy"
+        },
+        {
+            "fullname": "Markus Gruber",
+            "type": "Talk",
+            "title": "How to make the most precise measurement"
+        },
+        {
+            "fullname": "Jarrod Millman",
+            "type": "Maintainer track",
+            "title": "[Maintainer Track] Scientific Python / SPECs"
+        },
+        {
+            "fullname": "Geir Arne Hjelle",
+            "type": "Tutorial",
+            "title": "Introduction to pandas"
+        },
+        {
+            "fullname": "Mridul Seth",
+            "type": "Tutorial",
+            "title": "Network Science with Python"
+        },
+        {
+            "fullname": "Milton Gomez",
+            "type": "Talk",
+            "title": "Data-Driven Thresholding for Extreme Event Detection in Geosciences"
+        },
+        {
+            "fullname": "Joshy Cyriac",
+            "type": "Talk",
+            "title": "Deep learning at the Radiology & Nuclear Medicine Clinic / University Hospital Basel"
+        },
+        {
+            "fullname": "Jakob Wasserthal",
+            "type": "Talk",
+            "title": "Deep learning at the Radiology & Nuclear Medicine Clinic / University Hospital Basel"
+        },
+        {
+            "fullname": "Noa Tamir",
+            "type": "Maintainer track",
+            "title": "[Maintainers Track] Contributor Experience & Diversity"
+        },
+        {
+            "fullname": "Ed Shee",
+            "type": "Talk",
+            "title": "Optimizing inference for state of the art python models"
+        },
+        {
+            "fullname": "Roman Yurchak",
+            "type": "Maintainer track",
+            "title": "[Maintainers track] Python in the browser"
+        },
+        {
+            "fullname": "Thorsten Beier",
+            "type": "Maintainer track",
+            "title": "[Maintainers track] Python in the browser"
+        },
+        {
+            "fullname": "Francesco Bonazzi",
+            "type": "Talk",
+            "title": "Array expressions and symbolic gradients in SymPy"
+        },
+        {
+            "fullname": "Noa Tamir",
+            "type": "Talk (long)",
+            "title": "What is Contributor Experience?"
+        },
+        {
+            "fullname": "Valerio Maggio",
+            "type": "Tutorial",
+            "title": "Introduction to PyTorch"
+        },
+        {
+            "fullname": "Mojdeh Rastgoo",
+            "type": "Tutorial",
+            "title": "Introduction to Python for scientific programming"
+        },
+        {
+            "fullname": "Jeremy TULOUP, QuantStack",
+            "type": "Talk (long)",
+            "title": "Interactive Data Science in the browser with JupyterLite and Emscripten Forge"
+        },
+        {
+            "fullname": "Martin Renou",
+            "type": "Talk (long)",
+            "title": "Interactive Data Science in the browser with JupyterLite and Emscripten Forge"
+        },
+        {
+            "fullname": "Thorsten Beier",
+            "type": "Talk (long)",
+            "title": "Interactive Data Science in the browser with JupyterLite and Emscripten Forge"
+        },
+        {
+            "fullname": "Wolf Vollprecht",
+            "type": "Talk",
+            "title": "conda-forge, mamba, boa and quetz - the evolution of package management for data science and beyond"
+        },
+        {
+            "fullname": "Olivier Grisel",
+            "type": "Tutorial",
+            "title": "Time Series Forecasting with scikit-learn's Quantile Gradient Boosted Regression Trees"
+        },
+        {
+            "fullname": "Tim Hoffmann",
+            "type": "Tutorial",
+            "title": "Effectively using matplotib"
+        },
+        {
+            "fullname": "Wolf Vollprecht",
+            "type": "Talk (long)",
+            "title": "conda-forge: supporting the growth of the volunteer-driven, community-based packaging project"
+        },
+        {
+            "fullname": "Jannis Leidel",
+            "type": "Talk (long)",
+            "title": "conda-forge: supporting the growth of the volunteer-driven, community-based packaging project"
+        },
+        {
+            "fullname": "Jaime Rodríguez-Guerra",
+            "type": "Talk (long)",
+            "title": "conda-forge: supporting the growth of the volunteer-driven, community-based packaging project"
+        },
+        {
+            "fullname": "Gaël Varoquaux",
+            "type": "Tutorial",
+            "title": "Evaluating your machine learning models: beyond the basics"
+        },
+        {
+            "fullname": "Arturo Amor",
+            "type": "Tutorial",
+            "title": "Evaluating your machine learning models: beyond the basics"
+        },
+        {
+            "fullname": "Tim Hoffmann",
+            "type": "Talk (long)",
+            "title": "Lessions learned from 10 years of Python in industrial reseach and development"
+        },
+        {
+            "fullname": "Mike Müller",
+            "type": "Tutorial",
+            "title": "Getting started with JupyterLab"
+        },
+        {
+            "fullname": "Joris Van den Bossche",
+            "type": "Tutorial",
+            "title": "Introduction to geospatial data analysis with GeoPandas"
+        },
+        {
+            "fullname": "Christian Barz",
+            "type": "Talk (long)",
+            "title": "Decision making under uncertainty"
+        },
+        {
+            "fullname": "Roman Yurchak",
+            "type": "Talk (long)",
+            "title": "Scientific Python in the browser with Pyodide"
+        },
+        {
+            "fullname": "Hristo Vrigazov",
+            "type": "Talk",
+            "title": "Memory maps to accelerate machine learning training"
+        },
+        {
+            "fullname": "Emmanuelle Gouillart",
+            "type": "Tutorial",
+            "title": "Image processing with scikit-image"
+        },
+        {
+            "fullname": "Deleted User",
+            "type": "Tutorial",
+            "title": "Image processing with scikit-image"
+        },
+        {
+            "fullname": "Vincent Maladiere",
+            "type": "Tutorial",
+            "title": "Introduction to SciPy"
+        }
+    ]
+}
