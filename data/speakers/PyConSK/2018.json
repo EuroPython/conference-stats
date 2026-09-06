@@ -1,0 +1,325 @@
+{
+    "year": 2018,
+    "speakers": [
+        {
+            "fullname": "Claus Aichinger",
+            "type": "Workshop",
+            "title": "Testing Essentials for Scientists and Engineers"
+        },
+        {
+            "fullname": "Mikey Ariel",
+            "type": "Talk",
+            "title": "Docs or it didn't happen"
+        },
+        {
+            "fullname": "Mikey Ariel",
+            "type": "Workshop",
+            "title": "Documentation clinic/helpdesk"
+        },
+        {
+            "fullname": "Tibor Arpáš",
+            "type": "Talk",
+            "title": "“Secret” information about the code we write"
+        },
+        {
+            "fullname": "Peter Bábics",
+            "type": "Talk",
+            "title": "Charon and the way out from a pickle hell"
+        },
+        {
+            "fullname": "Martin Bago",
+            "type": "Workshop",
+            "title": "How to create interactive maps in Python / R"
+        },
+        {
+            "fullname": "Aaron Bassett",
+            "type": "Talk",
+            "title": "When your wetware has too many threads - Tips from an ADHDer on how to improve your focus"
+        },
+        {
+            "fullname": "Aaron Bassett",
+            "type": "Workshop",
+            "title": "Real-time transcription and sentiment analysis of audio streams; on the phone and in the browser"
+        },
+        {
+            "fullname": "František Benko",
+            "type": "Talk",
+            "title": "To the Google in 80 Days"
+        },
+        {
+            "fullname": "Gareth Brown",
+            "type": "Talk",
+            "title": "The Concierge Paradigm"
+        },
+        {
+            "fullname": "Anton Caceres",
+            "type": "Talk",
+            "title": "The Truth about Mastering Big Data"
+        },
+        {
+            "fullname": "Matej Čapkovič",
+            "type": "Workshop",
+            "title": "Managing high-available applications in production"
+        },
+        {
+            "fullname": "Branislav Cief",
+            "type": "Talk",
+            "title": "Meteo data in Python. Effectively."
+        },
+        {
+            "fullname": "Giacomo Debidda",
+            "type": "Talk",
+            "title": "Getting started with HDF5 and PyTables"
+        },
+        {
+            "fullname": "Daniel Dobiaš",
+            "type": "Workshop",
+            "title": "Workshop: An Introduction to Ansible"
+        },
+        {
+            "fullname": "Peter Dolák",
+            "type": "Talk",
+            "title": "Campaign Automation & Abusing Celery Properly"
+        },
+        {
+            "fullname": "Tomáš Dudík",
+            "type": "Talk",
+            "title": "How do we struggle with Python in Martin?"
+        },
+        {
+            "fullname": "Tomáš Ehrlich",
+            "type": "Talk",
+            "title": "GraphQL is the new black"
+        },
+        {
+            "fullname": "Alex Ellis",
+            "type": "Talk",
+            "title": "FaaS and Furious - Zero to Serverless in 60 seconds - Anywhere"
+        },
+        {
+            "fullname": "Alex Ellis",
+            "type": "Workshop",
+            "title": "Serverless with OpenFaaS and Python"
+        },
+        {
+            "fullname": "Will Foster",
+            "type": "Talk",
+            "title": "Skynet your Infrastructure with QUADS"
+        },
+        {
+            "fullname": "Peter Garaj",
+            "type": "Talk",
+            "title": "LOCKED SHIELDS: What a good cyber testing looks like"
+        },
+        {
+            "fullname": "Ján Gondoľ",
+            "type": "Talk",
+            "title": "Open educational resources for learning Python"
+        },
+        {
+            "fullname": "Miro Hrončok",
+            "type": "Workshop",
+            "title": "Cython: Speed up your code without going insane"
+        },
+        {
+            "fullname": "Lenka Huňorová",
+            "type": "Talk",
+            "title": "Python Days in Martin and follow-up activities"
+        },
+        {
+            "fullname": "Katharine Jarmul",
+            "type": "Workshop",
+            "title": "Introduction to Machine Learning with Python"
+        },
+        {
+            "fullname": "Dinesh Joshi",
+            "type": "Talk",
+            "title": "Designing fast and scalable Python MicroServices with django"
+        },
+        {
+            "fullname": "Věroš Kaplan",
+            "type": "Workshop",
+            "title": "Roboworkshop"
+        },
+        {
+            "fullname": "Michael Kennedy",
+            "type": "Talk",
+            "title": "Pythonic code, by example"
+        },
+        {
+            "fullname": "Michael Kennedy",
+            "type": "Workshop",
+            "title": "Learn MongoDB by modeling PyPI in a document database"
+        },
+        {
+            "fullname": "Ryan Kirkbride",
+            "type": "Talk",
+            "title": "Programming Python as performance: live coding with FoxDot"
+        },
+        {
+            "fullname": "Rae Knowler",
+            "type": "Talk",
+            "title": "Unsafe at Any Speed"
+        },
+        {
+            "fullname": "Stanislav Komanec",
+            "type": "Talk",
+            "title": "Kiwi.com in ZOO"
+        },
+        {
+            "fullname": "Vladimir Kopso",
+            "type": "Talk",
+            "title": "Making Python Behave"
+        },
+        {
+            "fullname": "Miloš Korenčiak",
+            "type": "Talk",
+            "title": "Meteo data in Python. Effectively."
+        },
+        {
+            "fullname": "Tomáš Kubina",
+            "type": "Talk",
+            "title": "Automated network OS testing"
+        },
+        {
+            "fullname": "Zuzana Kubincová",
+            "type": "Talk",
+            "title": "Panel discussion: Teaching IT in Slovakia - where is it heading?"
+        },
+        {
+            "fullname": "Peter Kučera",
+            "type": "Talk",
+            "title": "Python programming till graduation"
+        },
+        {
+            "fullname": "Peter Kučera",
+            "type": "Workshop",
+            "title": "Coding in Python: A high-school programming lesson"
+        },
+        {
+            "fullname": "Christopher Lozinski",
+            "type": "Talk",
+            "title": "ZODB: The Graph database for Python Developers."
+        },
+        {
+            "fullname": "Jakub Mačina",
+            "type": "Talk",
+            "title": "Real-time personalized recommendations using embeddings"
+        },
+        {
+            "fullname": "Marek Mansell",
+            "type": "Talk",
+            "title": "Why hardware attracts kids and adults to IT"
+        },
+        {
+            "fullname": "Marek Mansell",
+            "type": "Workshop",
+            "title": "Microbit:Slovakia"
+        },
+        {
+            "fullname": "Jan Margeta",
+            "type": "Talk",
+            "title": "Differentiable programming in Python and Gluon for (not only medical) image analysis"
+        },
+        {
+            "fullname": "Justin Mayer",
+            "type": "Talk",
+            "title": "Protecting Privacy and Security — For Yourself and Your Community"
+        },
+        {
+            "fullname": "Michal Nalevanko",
+            "type": "Workshop",
+            "title": "Meet the pandas"
+        },
+        {
+            "fullname": "Goga Patarkatsishvili",
+            "type": "Talk",
+            "title": "How to connect objects with each other in different situations with Pythonic ways - association, aggregation, composition and etc."
+        },
+        {
+            "fullname": "Stefan Prodan",
+            "type": "Workshop",
+            "title": "Serverless with OpenFaaS and Python"
+        },
+        {
+            "fullname": "Tomáš Pytel",
+            "type": "Workshop",
+            "title": "Workshop: An Introduction to Ansible"
+        },
+        {
+            "fullname": "Alejandro Saucedo",
+            "type": "Talk",
+            "title": "Industrial Machine Learning: Building scalable distributed machine learning pipelines with Python"
+        },
+        {
+            "fullname": "Václav Sauer",
+            "type": "Workshop",
+            "title": "Working with XML"
+        },
+        {
+            "fullname": "Lasse Schuirmann",
+            "type": "Talk",
+            "title": "7 Steps to a Clean Issue Tracker"
+        },
+        {
+            "fullname": "Miroslav Šedivý",
+            "type": "Talk",
+            "title": "Vim your Python, Python your Vim"
+        },
+        {
+            "fullname": "Ondrej Sika",
+            "type": "Talk",
+            "title": "Tools to interact with Bitcoin and Ethereum"
+        },
+        {
+            "fullname": "Martin Strapko",
+            "type": "Talk",
+            "title": "APIs: Gateway to world's data"
+        },
+        {
+            "fullname": "Martin Strycek",
+            "type": "Talk",
+            "title": "Our DevOps journey, is SRE the next stop?"
+        },
+        {
+            "fullname": "Maciej Szulik",
+            "type": "Workshop",
+            "title": "Effectively running python applications in Kubernetes/OpenShift"
+        },
+        {
+            "fullname": "Štěpán Tomsa",
+            "type": "Talk",
+            "title": "Around the World in 30 minutes"
+        },
+        {
+            "fullname": "Matúš Valo",
+            "type": "Talk",
+            "title": "Implementing distributed systems with Consul"
+        },
+        {
+            "fullname": "Matej Vetrák",
+            "type": "Workshop",
+            "title": "Managing high-available applications in production"
+        },
+        {
+            "fullname": "Petr Viktorin",
+            "type": "Talk",
+            "title": "Community based courses"
+        },
+        {
+            "fullname": "Petr Viktorin",
+            "type": "Workshop",
+            "title": "Roboworkshop"
+        },
+        {
+            "fullname": "Ernest Walzel",
+            "type": "Talk",
+            "title": "About Ninjas and Mentors: CoderDojo in Slovakia"
+        },
+        {
+            "fullname": "Krzysztof Żuraw",
+            "type": "Talk",
+            "title": "Solutions Reviews"
+        }
+    ]
+}

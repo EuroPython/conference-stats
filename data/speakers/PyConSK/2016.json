@@ -1,0 +1,31 @@
+{
+  "year": 2016,
+  "speakers": [
+    {"fullname": "Petr Viktorin", "type": "Talk", "title": "How import works"},
+    {"fullname": "Andrea Šteňová", "type": "Talk", "title": "Basics of functional programming"},
+    {"fullname": "Andrej Mošať", "type": "Talk", "title": "MicroPython"},
+    {"fullname": "Miroslav Beka", "type": "Talk", "title": "Virtualenv, Flask, Vagrant, etc."},
+    {"fullname": "Michal Kaukič", "type": "Talk", "title": "Jupyter notebook at home, in school, everywhere"},
+    {"fullname": "Peter Matkovski", "type": "Talk", "title": "Python a malware"},
+    {"fullname": "Svetlana Margetová", "type": "Talk", "title": "Django, Django REST Framework, React"},
+    {"fullname": "Tibor Arpáš", "type": "Talk", "title": "Mashing up py.test, coverage.py and ast.py to take TDD to a new level"},
+    {"fullname": "Jakub Ševcech", "type": "Talk", "title": "Tips and tricks for using functional features of Python"},
+    {"fullname": "Nicholas H. Tollervey", "type": "Talk", "title": "Teach, Learn, Program"},
+    {"fullname": "Bjarni Runar Einarsson", "type": "Talk", "title": "Can Free Software be a full time job?"},
+    {"fullname": "Cory Benfield", "type": "Talk", "title": "Building Protocol Libraries The Right Way"},
+    {"fullname": "Daniele Procida", "type": "Talk", "title": "Poets, programmers and Python"},
+    {"fullname": "Johannes Wachs", "type": "Talk", "title": "Analyzing Networks In Python"},
+    {"fullname": "Petra Cross", "type": "Talk", "title": "Behind The Scenes Of Day-To-Day Software Development At Google"},
+    {"fullname": "Jesús Cea Avión", "type": "Talk", "title": "Python and DTrace"},
+    {"fullname": "Michael Scherer", "type": "Talk", "title": "Python application security auditing with bandit"},
+    {"fullname": "Claus Aichinger", "type": "Talk", "title": "Scientific Computing with Python"},
+    {"fullname": "Tatiana Al-Chueyr Martins", "type": "Talk", "title": "Automatic English Text Correction"},
+    {"fullname": "Michal Kuffa", "type": "Talk", "title": "Building Netflow based NIDS out of open source components"},
+    {"fullname": "Rodolfo Carvalho", "type": "Talk", "title": "Building and Deploying containerized Python Apps in the Cloud"},
+    {"fullname": "Büşra Köken", "type": "Talk", "title": "Automating Distributed Tasks with Ansible in the Cloud"},
+    {"fullname": "Věroš Kaplan", "type": "Talk", "title": "Vagrant - End of \"It works on my machine\" saga"},
+    {"fullname": "Tomáš Sirný", "type": "Talk", "title": "Personalised emails using Python and Spark"},
+    {"fullname": "Matúš Rehák", "type": "Talk", "title": "Automated measurements using Python"},
+    {"fullname": "Martina Šturdíková", "type": "Talk", "title": "Python – What you didn’t know you didn’t know…"}
+  ]
+}

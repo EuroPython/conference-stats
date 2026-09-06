@@ -1,0 +1,240 @@
+{
+    "year": 2024,
+    "speakers": [
+        {
+            "fullname": "Alvaro Duran",
+            "type": "Talk",
+            "title": "Pyments: How To Design Payment Applications In Python"
+        },
+        {
+            "fullname": "Daniel Hervás",
+            "type": "Talk",
+            "title": "Naming: Why it's important and how to do it right"
+        },
+        {
+            "fullname": "Eli Holderness",
+            "type": "Talk",
+            "title": "Pointers? In My Python? It's More Likely Than You Think!"
+        },
+        {
+            "fullname": "Petr Viktorin",
+            "type": "Talk",
+            "title": "Python jako projekt"
+        },
+        {
+            "fullname": "Jakub Hantabal",
+            "type": "Talk",
+            "title": "Innovative data science education: The story of Data Science Academy"
+        },
+        {
+            "fullname": "Laura Johanesová",
+            "type": "Talk",
+            "title": "Innovative data science education: The story of Data Science Academy"
+        },
+        {
+            "fullname": "Karel Boháček",
+            "type": "Talk",
+            "title": "Sign language recognition: Enabling communication for the hearing-impaired through machine learning"
+        },
+        {
+            "fullname": "Jacek Kołodziej",
+            "type": "Talk",
+            "title": "GIL: What's the hassle and... should I care?"
+        },
+        {
+            "fullname": "Yuliia Barabash",
+            "type": "Talk",
+            "title": "Saying Bye to the Keyboard, Hello to Alexa with Python AWS Lambda"
+        },
+        {
+            "fullname": "Luboslav Lacko",
+            "type": "Talk",
+            "title": "Ako v Pythone naprogramovať a natrénovať neurónovú sieť na generovanie textu"
+        },
+        {
+            "fullname": "Matúš Ferech",
+            "type": "Talk",
+            "title": "Nix: know what you are running, testing and deploying"
+        },
+        {
+            "fullname": "Maxim Danilov",
+            "type": "Talk",
+            "title": "Selecting tools to fight complexity in large Python projects"
+        },
+        {
+            "fullname": "Miroslav Šedivý",
+            "type": "Talk",
+            "title": "Solving Two Hard Problems in Computer Science Using Pandas"
+        },
+        {
+            "fullname": "Sara Jakša",
+            "type": "Talk",
+            "title": "The different types of API authentications: the stories from the trenches of third party integrations"
+        },
+        {
+            "fullname": "Štěpán Bechynský",
+            "type": "Talk",
+            "title": "Azure OpenAI for Python developers in enterprise organizations"
+        },
+        {
+            "fullname": "Veronika Kabátová",
+            "type": "Talk",
+            "title": "How to not get crazy from information overload"
+        },
+        {
+            "fullname": "Jeroen Overschie",
+            "type": "Talk",
+            "title": "Are you ready for MLOps?"
+        },
+        {
+            "fullname": "Yke Rusticus",
+            "type": "Talk",
+            "title": "How to MLOps: Experiment tracking & deployment"
+        },
+        {
+            "fullname": "Jeroen Overschie",
+            "type": "Talk",
+            "title": "How to MLOps: Experiment tracking & deployment"
+        },
+        {
+            "fullname": "Tvrtko Sternak",
+            "type": "Talk",
+            "title": "Decoding FastStream: A Deeper Dive into the Event Streaming Library"
+        },
+        {
+            "fullname": "PyLadies Bratislava",
+            "type": "Workshop",
+            "title": "Introduction to Automation and Scripting: A Beginner's Workshop in Python"
+        },
+        {
+            "fullname": "Rudolf Starovský",
+            "type": "Talk",
+            "title": "Knižnica Numba alebo ako zrýchliť Python?"
+        },
+        {
+            "fullname": "Jan Margeta",
+            "type": "Talk",
+            "title": "Simulate, Analyze, Learn: Python's Physics Simulation"
+        },
+        {
+            "fullname": "Márton Kodok",
+            "type": "Talk",
+            "title": "Build applications with generative AI on Google Cloud"
+        },
+        {
+            "fullname": "Tibor Kurina",
+            "type": "Talk",
+            "title": "Možnosti spracovania veľkých dát (HugeData/BigData) v jazyku Python"
+        },
+        {
+            "fullname": "Elena Štefancová",
+            "type": "Talk",
+            "title": "Mám dáta, čo s nimi?"
+        },
+        {
+            "fullname": "Shahriyar Rzayev",
+            "type": "Talk",
+            "title": "Score A+ for Security Headers with Django application"
+        },
+        {
+            "fullname": "Michal Kaukič",
+            "type": "Talk",
+            "title": "Dátová analytika ako predjedlo"
+        },
+        {
+            "fullname": "Mirek Biňas",
+            "type": "Talk",
+            "title": "Python pre DevOps"
+        },
+        {
+            "fullname": "Mirek Biňas",
+            "type": "Talk",
+            "title": "Dátová analytika ako predjedlo"
+        },
+        {
+            "fullname": "Dom Weldon",
+            "type": "Talk",
+            "title": "How do imports work, and why should I care? (and why should I use a tool like PDM?)"
+        },
+        {
+            "fullname": "Amit Kumar",
+            "type": "Talk",
+            "title": "Tackling Malaria with Python and distributed computing"
+        },
+        {
+            "fullname": "Pavel Král",
+            "type": "Talk",
+            "title": "Large Language Models Across Languages"
+        },
+        {
+            "fullname": "Vojta Filipec",
+            "type": "Talk",
+            "title": "The Beauty of Sinus And Cosinus: Hypotrochoid Curves as a Web App"
+        },
+        {
+            "fullname": "Sylvia Ličková",
+            "type": "Talk",
+            "title": "Ako sa predať na trhu práce (CV/LINKEDIN)"
+        },
+        {
+            "fullname": "Peter Steiner",
+            "type": "Talk",
+            "title": "Data Engineering Story"
+        },
+        {
+            "fullname": "Peter Bakonyi",
+            "type": "Talk",
+            "title": "Pythonic Outliers: Mastering LOF Detection"
+        },
+        {
+            "fullname": "Tomáš Pulai",
+            "type": "Talk",
+            "title": "AsyncSocket Mastery"
+        },
+        {
+            "fullname": "Michal Brandis",
+            "type": "Talk",
+            "title": "Analýza freelance trhu. Trendy, štatistiky a prehľad v IT projektoch"
+        },
+        {
+            "fullname": "CoderDojo",
+            "type": "Workshop",
+            "title": "CoderDojo workshop pre mladých ľudí od 7 do 17 rokov"
+        },
+        {
+            "fullname": "Tomáš Božik",
+            "type": "Workshop",
+            "title": "BBC micro:bit workshop pre mladých ľudí od 9 do 15 rokov"
+        },
+        {
+            "fullname": "Mykalin Jones",
+            "type": "Talk",
+            "title": "Teaching Children Python - What Works?"
+        },
+        {
+            "fullname": "Jakub Hantabal",
+            "type": "Talk",
+            "title": "Uncovering patterns in a dataset via data visualization and accessible machine learning"
+        },
+        {
+            "fullname": "Laura Johanesová",
+            "type": "Talk",
+            "title": "Uncovering patterns in a dataset via data visualization and accessible machine learning"
+        },
+        {
+            "fullname": "Maxim Danilov",
+            "type": "Talk",
+            "title": "Creating really Multilingual Django project in few steps"
+        },
+        {
+            "fullname": "Štěpán Bechynský",
+            "type": "Talk",
+            "title": "Micro:bit a Python"
+        },
+        {
+            "fullname": "Pavel Král",
+            "type": "Talk",
+            "title": "Creating a RAG tool in Python"
+        }
+    ]
+}

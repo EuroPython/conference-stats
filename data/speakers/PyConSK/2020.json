@@ -1,0 +1,230 @@
+{
+    "year": 2020,
+    "speakers": [
+        {
+            "fullname": "Tom Dyson",
+            "type": "Talk",
+            "title": "Find happiness with Python"
+        },
+        {
+            "fullname": "Roman Imankulov",
+            "type": "Talk",
+            "title": "Evolution of a twelve-year-old project"
+        },
+        {
+            "fullname": "Emilie Sengstschmid",
+            "type": "Talk",
+            "title": "Portfolio: How to build a flexible web application using controlled vocabularies and data schemes"
+        },
+        {
+            "fullname": "Michal Cyprian",
+            "type": "Talk",
+            "title": "How (not) to turn Kubernetes self-healing capabilities into self-destructive machinery"
+        },
+        {
+            "fullname": "Filipa Andrade",
+            "type": "Talk",
+            "title": "Breaking stereotypes in tech"
+        },
+        {
+            "fullname": "Dom Weldon",
+            "type": "Talk",
+            "title": "Oxidizing MyPy: Typed Python, Rust and Rust-in-Python."
+        },
+        {
+            "fullname": "Ines Meršak",
+            "type": "Talk",
+            "title": "Pushing Django to its limit: rally of 2017"
+        },
+        {
+            "fullname": "Nicholas Thapen",
+            "type": "Talk",
+            "title": "Sourcery - Write better code faster with AI"
+        },
+        {
+            "fullname": "Lilian Nandi",
+            "type": "Talk",
+            "title": "Creating the Next Generation of (Technology) Billionaires - Part 2"
+        },
+        {
+            "fullname": "Hannah Hazi",
+            "type": "Talk",
+            "title": "The Knowledge In The Code: Or How I Learned to Stop Worrying and Love Legacy Code"
+        },
+        {
+            "fullname": "Adam Števko",
+            "type": "Talk",
+            "title": "The day when I stopped worrying about exposed SSH ports"
+        },
+        {
+            "fullname": "Luka Raljević",
+            "type": "Talk",
+            "title": "Dive into codebase like a pro"
+        },
+        {
+            "fullname": "Anton Caceres",
+            "type": "Talk",
+            "title": "Why Using Serverless With Python is a Good Idea"
+        },
+        {
+            "fullname": "Goce Anastasovski",
+            "type": "Talk",
+            "title": "Code Review, A Software Engineer's Best Friend"
+        },
+        {
+            "fullname": "Mauro Pelucchi",
+            "type": "Talk",
+            "title": "Job-Me - An AI system to analyse resumes"
+        },
+        {
+            "fullname": "Dmitry Dygalo",
+            "type": "Talk",
+            "title": "Stop writing tests for your web API! Try to generate them first"
+        },
+        {
+            "fullname": "Brendan Maginnis",
+            "type": "Talk",
+            "title": "The Future of Software Development"
+        },
+        {
+            "fullname": "Peter Dolák",
+            "type": "Talk",
+            "title": "This too shall parse"
+        },
+        {
+            "fullname": "Ondrej Sika",
+            "type": "Talk",
+            "title": "Monitorujte Vaši Python aplikaci pomocí Promethea"
+        },
+        {
+            "fullname": "Michal Petrucha",
+            "type": "Talk",
+            "title": "Autopsy of a serial burnout"
+        },
+        {
+            "fullname": "Conor Lyman",
+            "type": "Talk",
+            "title": "Leveraging Python to transform today’s electrical grid into an integrated system of clean and sustainable power-plants"
+        },
+        {
+            "fullname": "William Galindez Arias",
+            "type": "Talk",
+            "title": "What if a Chatbot can become your language teacher?"
+        },
+        {
+            "fullname": "Adrian Gonzalez Martin",
+            "type": "Talk",
+            "title": "Production Machine Learning with Seldon and MLflow"
+        },
+        {
+            "fullname": "Tibor Zavadil",
+            "type": "Talk",
+            "title": "Automation of data quality assessment from solar stations"
+        },
+        {
+            "fullname": "Martin Brezáni",
+            "type": "Talk",
+            "title": "Úvod do sveta kvantových počítačov"
+        },
+        {
+            "fullname": "Jiří Kozel",
+            "type": "Talk",
+            "title": "A few times trapped by Celery"
+        },
+        {
+            "fullname": "Michal Chovanec",
+            "type": "Talk",
+            "title": "deep reinforcement learning pomocou pytorch frameworku"
+        },
+        {
+            "fullname": "Christopher Lozinski",
+            "type": "Talk",
+            "title": "MQTT: For IoT, Cell Phones, Web and Chat"
+        },
+        {
+            "fullname": "Nandor Poka",
+            "type": "Talk",
+            "title": "Overview of Python for Bioinformatics and Computational Biology"
+        },
+        {
+            "fullname": "Marcel Kucharik",
+            "type": "Talk",
+            "title": "Ako mení Python svet biomedicíny"
+        },
+        {
+            "fullname": "Matej Vetrak",
+            "type": "Talk",
+            "title": "Distributed Authorization at Scale"
+        },
+        {
+            "fullname": "Craig Franklin",
+            "type": "Talk",
+            "title": "The Traps and Challenges of Machine Learning Outside the Kaggle Cloister"
+        },
+        {
+            "fullname": "Michal Haták",
+            "type": "Talk",
+            "title": "AWS Lambda - Serverless prakticky"
+        },
+        {
+            "fullname": "Mariana Hurná",
+            "type": "Talk",
+            "title": "Open Data panel"
+        },
+        {
+            "fullname": "Fabšíková Nina",
+            "type": "Talk",
+            "title": "Open Data panel: Open Data v Bratislave: Cesta k transparentnému mestu"
+        },
+        {
+            "fullname": "Iveta Ferčíková",
+            "type": "Talk",
+            "title": "Open Data panel: Open Data v samosprávach: Kde sme a kde by sme mohli byť?"
+        },
+        {
+            "fullname": "Tom Dyson",
+            "type": "Workshop",
+            "title": "Wagtail workshop"
+        },
+        {
+            "fullname": "Marek Greško",
+            "type": "Workshop",
+            "title": "Spoznaj zákutia IT freelancingu"
+        },
+        {
+            "fullname": "Michal Brandis",
+            "type": "Workshop",
+            "title": "Zahviezdi na pohovore ako #Pythonstar"
+        },
+        {
+            "fullname": "Ján Šichula",
+            "type": "Workshop",
+            "title": "Python a Visual Studio Code – motivácia, inštalácia, konfigurácia, používanie, skúsenosti"
+        },
+        {
+            "fullname": "Věroš Kaplan",
+            "type": "Workshop",
+            "title": "Python powered Digital clock"
+        },
+        {
+            "fullname": "Radoslav Kokuľa",
+            "type": "Workshop",
+            "title": "Robot Framework: automatizované testy rýchlo a jednoducho"
+        },
+        {
+            "fullname": "Jan Pipek",
+            "type": "Workshop",
+            "title": "Introduction to pandas"
+        },
+        {
+            "fullname": "Andrej Krnáč",
+            "type": "Workshop",
+            "title": "Python application deployment in cloud using Kubernetes"
+        },
+        {
+            "fullname": "Martin Forstner",
+            "type": "Workshop",
+            "title": "Visualizing Wikipedia edit streams with Redis and Plotly Dash"
+        }
+    ]
+}

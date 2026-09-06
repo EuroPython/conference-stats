@@ -1,0 +1,275 @@
+{
+    "year": 2022,
+    "speakers": [
+        {
+            "fullname": "Tom Dyson",
+            "type": "Talk",
+            "title": "Find happiness with Python"
+        },
+        {
+            "fullname": "Mauro Pelucchi",
+            "type": "Talk",
+            "title": "Nowcasting financial crisis with deep learning techniques"
+        },
+        {
+            "fullname": "Luka Raljević",
+            "type": "Talk",
+            "title": "Dive into codebase like a pro"
+        },
+        {
+            "fullname": "Dmitry Dygalo",
+            "type": "Talk",
+            "title": "Stop writing tests for your web API! Try to generate them first."
+        },
+        {
+            "fullname": "Dom Weldon",
+            "type": "Talk",
+            "title": "Its Your Call(able): a tour of Pythons callable (function) interface"
+        },
+        {
+            "fullname": "Petr Šebek",
+            "type": "Talk",
+            "title": "Where good engineering practices would save the day"
+        },
+        {
+            "fullname": "Michal Kaukič",
+            "type": "Talk",
+            "title": "Pyviz panel a interaktívne webové aplikácie"
+        },
+        {
+            "fullname": "Marcel Puškarik",
+            "type": "Talk",
+            "title": "Pyviz panel a interaktívne webové aplikácie"
+        },
+        {
+            "fullname": "Artur Patoka",
+            "type": "Talk",
+            "title": "Accelerate Python Development using live PyCharm debugging"
+        },
+        {
+            "fullname": "Umut Nefta Kanilmaz",
+            "type": "Talk",
+            "title": "Understanding the evolution and spread of conspiracy theories using Twitter user network data"
+        },
+        {
+            "fullname": "Štěpán Bechynský",
+            "type": "Talk",
+            "title": "Python, Raspberry Pi a Grove"
+        },
+        {
+            "fullname": "Miroslav Šedivý",
+            "type": "Talk",
+            "title": "Your Name is Invalid!"
+        },
+        {
+            "fullname": "Vojta Filipec",
+            "type": "Talk",
+            "title": "Set up an interactive map in browser in a few steps"
+        },
+        {
+            "fullname": "Tomás Sabat",
+            "type": "Talk",
+            "title": "Building an Open Source Threat Intelligence Platform with STIX"
+        },
+        {
+            "fullname": "Anastasiia Tymoshchuk",
+            "type": "Talk",
+            "title": "Continuous Documentation for your Python code"
+        },
+        {
+            "fullname": "Lilian Nandi",
+            "type": "Talk",
+            "title": "Creating the Next Generation of Billionaires"
+        },
+        {
+            "fullname": "Maarten Huijsmans",
+            "type": "Talk",
+            "title": "5 Things weve learned building large APIs with FastAPI"
+        },
+        {
+            "fullname": "Michael Seifert",
+            "type": "Talk",
+            "title": "Bulletproof Python – Property-Based Testing with Hypothesis"
+        },
+        {
+            "fullname": "Marc-Andre Lemburg",
+            "type": "Talk",
+            "title": "Choosing the right database for your next project"
+        },
+        {
+            "fullname": "Sara Jakša",
+            "type": "Talk",
+            "title": "Regex is Magic"
+        },
+        {
+            "fullname": "Jan Margeta",
+            "type": "Talk",
+            "title": "Interactive 3D scientific data visualization and mesh analysis with PyVista"
+        },
+        {
+            "fullname": "Věroš Kaplan",
+            "type": "Talk",
+            "title": "Writing Kubernetes operators in Python Kopf"
+        },
+        {
+            "fullname": "Kacper Łukawski",
+            "type": "Talk",
+            "title": "Don't use a lot where a little will do. A story of programming tricks you wish you invented"
+        },
+        {
+            "fullname": "Jozef Urbanovský",
+            "type": "Talk",
+            "title": "Automated Network Performance testing in Python"
+        },
+        {
+            "fullname": "Nabanita Roy",
+            "type": "Talk",
+            "title": "Introduction to Text Analytics for Social Media Chatter"
+        },
+        {
+            "fullname": "Vojtěch Kusý",
+            "type": "Talk",
+            "title": "Satellite Imagery Processing with Python"
+        },
+        {
+            "fullname": "Matěj Bartoš",
+            "type": "Talk",
+            "title": "Satellite Imagery Processing with Python"
+        },
+        {
+            "fullname": "Jan Pipek",
+            "type": "Talk",
+            "title": "Pandas watching movies"
+        },
+        {
+            "fullname": "Jakub Urban",
+            "type": "Talk",
+            "title": "Pandas watching movies"
+        },
+        {
+            "fullname": "Karla Fejfarová",
+            "type": "Talk",
+            "title": "Snakes and Birds Daily Python Tip"
+        },
+        {
+            "fullname": "Petr Viktorin",
+            "type": "Talk",
+            "title": "The stories of Python features"
+        },
+        {
+            "fullname": "Oliver Osvald",
+            "type": "Talk",
+            "title": "Implementation of advanced analytics pipeline in solar energy industry and integration into AWS cloud environment"
+        },
+        {
+            "fullname": "Martin Mihál",
+            "type": "Talk",
+            "title": "Implementation of advanced analytics pipeline in solar energy industry and integration into AWS cloud"
+        },
+        {
+            "fullname": "Michal Racko",
+            "type": "Talk",
+            "title": "Distributed-energy-resource simulation in the context of a transmission grid"
+        },
+        {
+            "fullname": "Viktoria Karolova",
+            "type": "Talk",
+            "title": "What I learned during my summer with a command line: confession of a non tech person in tech"
+        },
+        {
+            "fullname": "Jaroslav Výbošťok",
+            "type": "Talk",
+            "title": "Programovací jazyk Robot Karel pre žiakov mladších i starších"
+        },
+        {
+            "fullname": "Róbert Tomolya",
+            "type": "Talk",
+            "title": "Programovanie dronov"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Talk",
+            "title": "Revolutionize Data Visulization with PyScript"
+        },
+        {
+            "fullname": "Michael Niepel",
+            "type": "Talk",
+            "title": "Micropython Workshop"
+        },
+        {
+            "fullname": "Lukáš Polák",
+            "type": "Talk",
+            "title": "Scaling distributed workflow using Prefect"
+        },
+        {
+            "fullname": "Michal Brandis",
+            "type": "Talk",
+            "title": "IT FREELANCING   trendy, štatistiky & Python v IT projektoch"
+        },
+        {
+            "fullname": "Jozef Gaborik",
+            "type": "Talk",
+            "title": "Best practices for building Docker images for Python apps"
+        },
+        {
+            "fullname": "Maria Jose Molina-Contreras",
+            "type": "Talk",
+            "title": "How to build an indoor air quality monitoring and predictive system"
+        },
+        {
+            "fullname": "Peter Dolák",
+            "type": "Talk",
+            "title": "Stereotype Data models pushing Python to the limits"
+        },
+        {
+            "fullname": "Jakub Tesárek",
+            "type": "Talk",
+            "title": "Working with Data Scientists Survival guide"
+        },
+        {
+            "fullname": "Marek Bruchatý",
+            "type": "Talk",
+            "title": "Performance Matters: How to Make Python Fast"
+        },
+        {
+            "fullname": "Ondrej Unger",
+            "type": "Talk",
+            "title": "Performance Matters: How to Make Python Fast"
+        },
+        {
+            "fullname": "Zuzana Tkáčová",
+            "type": "Talk",
+            "title": "Creative coding ako cesta k S.T.E.A.M. projektom"
+        },
+        {
+            "fullname": "Monika Balážová",
+            "type": "Talk",
+            "title": "Aké pozície ponúka IT odvetvie"
+        },
+        {
+            "fullname": "Michaela Gažová",
+            "type": "Talk",
+            "title": "Internetová bezpečnosť základy sebaobrany"
+        },
+        {
+            "fullname": "Peter Palát",
+            "type": "Workshop",
+            "title": "Internetová bezpečnosť: základy sebaobrany"
+        },
+        {
+            "fullname": "Miroslav Biňas",
+            "type": "Talk",
+            "title": "Ako sa dá s jazykom Python zvládnuť štvorročné štúdium na strednej škole"
+        },
+        {
+            "fullname": "Luboslav Lacko",
+            "type": "Talk",
+            "title": "Čo sa s Microbitom naučíš, využiješ na reálnych IoT platformách"
+        },
+        {
+            "fullname": "Sylvia Ličková",
+            "type": "Talk",
+            "title": "Ako sa odprezentovať a zaujať životopisom"
+        }
+    ]
+}

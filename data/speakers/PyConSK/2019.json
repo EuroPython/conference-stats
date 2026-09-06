@@ -1,0 +1,300 @@
+{
+    "year": 2019,
+    "speakers": [
+        {
+            "fullname": "Honza Král",
+            "type": "Talk",
+            "title": "So you want to be an Engineer?"
+        },
+        {
+            "fullname": "Helen Li",
+            "type": "Talk",
+            "title": "Nucleus: an open-source library for genomics data and machine learning"
+        },
+        {
+            "fullname": "Juraj Hromkovič",
+            "type": "Talk",
+            "title": "Programovanie s LOGO-filozofiou ako model všeobecného vzdelávania pre všetky odbory"
+        },
+        {
+            "fullname": "Markus Holtermann",
+            "type": "Talk",
+            "title": "Less Obvious Things To Do With Django's ORM"
+        },
+        {
+            "fullname": "Luke Spademan",
+            "type": "Talk",
+            "title": "Controling a robotic arm with micro:bits."
+        },
+        {
+            "fullname": "Jakub Balas",
+            "type": "Talk",
+            "title": "Using Python in new space industry is not a rocket science"
+        },
+        {
+            "fullname": "Stéphane Wirtel",
+            "type": "Talk",
+            "title": "What's new in Python 3.7?"
+        },
+        {
+            "fullname": "Meredydd Luff",
+            "type": "Talk",
+            "title": "Anvil: Full-stack Web Apps with Nothing but Python"
+        },
+        {
+            "fullname": "Shaun Taylor-Morgan",
+            "type": "Talk",
+            "title": "Anvil - Build a full-stack web app using nothing but Python"
+        },
+        {
+            "fullname": "Adam Števko",
+            "type": "Talk",
+            "title": "Be a good colleague and help your Security Engineer!"
+        },
+        {
+            "fullname": "Stanislava Sojáková",
+            "type": "Talk",
+            "title": "Lessons Learned from Leading Bratislava Peer Python Learning Group"
+        },
+        {
+            "fullname": "Dmitry Dygalo",
+            "type": "Talk",
+            "title": "Testing network interactions in Python"
+        },
+        {
+            "fullname": "Samuel Hopko",
+            "type": "Talk",
+            "title": "Amazon Web Services - Alexa skills"
+        },
+        {
+            "fullname": "Miroslav Šedivý",
+            "type": "Talk",
+            "title": "A Day Has Only 24±1 Hours"
+        },
+        {
+            "fullname": "Manoj Pandey",
+            "type": "Talk",
+            "title": "Gotchas and landmines in Python"
+        },
+        {
+            "fullname": "Joel Lord",
+            "type": "Talk",
+            "title": "I Don't Care About Security (And Neither Should You)"
+        },
+        {
+            "fullname": "Jakub Šedinár",
+            "type": "Talk",
+            "title": "Odoo"
+        },
+        {
+            "fullname": "Petra Dzurovcinova",
+            "type": "Talk",
+            "title": "Inovácie v meste Bratislava"
+        },
+        {
+            "fullname": "Jakub Mertus",
+            "type": "Talk",
+            "title": "Automatická korekcia písaného prejavu prirodzeného jazyka"
+        },
+        {
+            "fullname": "Sviatoslav Sydorenko",
+            "type": "Talk",
+            "title": "GitHub Bots: Rise of the Machines 🤖"
+        },
+        {
+            "fullname": "Mridul Seth",
+            "type": "Talk",
+            "title": "Network Science, Game of Thrones and US Airports"
+        },
+        {
+            "fullname": "Christian Barra",
+            "type": "Talk",
+            "title": "Let's talk about MLOps"
+        },
+        {
+            "fullname": "Mislav Cimperšak",
+            "type": "Talk",
+            "title": "On the Edge of Leadership"
+        },
+        {
+            "fullname": "Jorge Torres",
+            "type": "Talk",
+            "title": "Machine Learning Democratization"
+        },
+        {
+            "fullname": "Světlana Hrabinová",
+            "type": "Talk",
+            "title": "Nenuťte uživatele přemýšlet"
+        },
+        {
+            "fullname": "Tibor Frank",
+            "type": "Talk",
+            "title": "Automated visualization and presentation of tests results"
+        },
+        {
+            "fullname": "Laurent Picard",
+            "type": "Talk",
+            "title": "Building smarter solutions with Machine Learning, from magic to reality"
+        },
+        {
+            "fullname": "Christoph Ritzer",
+            "type": "Talk",
+            "title": "Intro to Blockchain with Python"
+        },
+        {
+            "fullname": "Radoslav Kokuľa",
+            "type": "Talk",
+            "title": "Robot Framework – univerzálny nástroj pre automatizované testovanie"
+        },
+        {
+            "fullname": "Hans Christian Feßl",
+            "type": "Talk",
+            "title": "Think about the user"
+        },
+        {
+            "fullname": "Anton Caceres",
+            "type": "Talk",
+            "title": "Avoiding Macro Trouble of Micro Services"
+        },
+        {
+            "fullname": "Suryansh Tibarewala",
+            "type": "Talk",
+            "title": "MVP, is never just a MVP"
+        },
+        {
+            "fullname": "Ondrej Sika",
+            "type": "Talk",
+            "title": "Deploy your Python application into Kubernetes"
+        },
+        {
+            "fullname": "Petr Stehlík",
+            "type": "Talk",
+            "title": "The dos and don'ts of task queues"
+        },
+        {
+            "fullname": "Kalyan Dikshit",
+            "type": "Talk",
+            "title": "Smart Homes + Tor = SSH [Secure Smart Home]"
+        },
+        {
+            "fullname": "Paweł Lewtak",
+            "type": "Talk",
+            "title": "Long term IT projects"
+        },
+        {
+            "fullname": "František Benko",
+            "type": "Talk",
+            "title": "We run huge in-memory databases in GKE and we love it!"
+        },
+        {
+            "fullname": "Magdaléna Bellayová",
+            "type": "Talk",
+            "title": "Programovať môže každý. Fakt alebo mýtus?"
+        },
+        {
+            "fullname": "Eva Kupčová",
+            "type": "Talk",
+            "title": "Programovať môže každý. Fakt alebo mýtus?"
+        },
+        {
+            "fullname": "Peter Kučera",
+            "type": "Talk",
+            "title": "Programujeme v Pythone na strednej škole"
+        },
+        {
+            "fullname": "Miroslava Šturmová",
+            "type": "Talk",
+            "title": "Objavovanie VPythonu v Dudley College"
+        },
+        {
+            "fullname": "Karol Hrubjak",
+            "type": "Talk",
+            "title": "Machine learning workshop in Python"
+        },
+        {
+            "fullname": "Veronika Žatková",
+            "type": "Talk",
+            "title": "Machine learning workshop in Python"
+        },
+        {
+            "fullname": "Filip Štefaňák",
+            "type": "Talk",
+            "title": "Stability with a Hockey-stick"
+        },
+        {
+            "fullname": "Gabriel Lachmann",
+            "type": "Talk",
+            "title": "Ako prestať kradnúť v štátnom IT?"
+        },
+        {
+            "fullname": "Ján Suchal",
+            "type": "Talk",
+            "title": "Ako prestať kradnúť v štátnom IT?"
+        },
+        {
+            "fullname": "Peter Valachovič",
+            "type": "Talk",
+            "title": "Prechod na Python u Piaristov v Nitre a niektoré tamojšie študentské projekty"
+        },
+        {
+            "fullname": "Ingrid Budau",
+            "type": "Talk",
+            "title": "The Apprentice's Enthusiastic Guide to pandas"
+        },
+        {
+            "fullname": "Tobias Kohn",
+            "type": "Talk",
+            "title": "Using Python to Teach Algorithmic Efficiency"
+        },
+        {
+            "fullname": "Dennis Komm",
+            "type": "Talk",
+            "title": "Using Python to Teach Algorithmic Efficiency"
+        },
+        {
+            "fullname": "Miroslav Biňas",
+            "type": "Talk",
+            "title": "Dobrodružstvá v Minecrafte s jazykom Python; Výučba programovania pomocou tvorby hier v PyGame Zero"
+        },
+        {
+            "fullname": "Marek Višňovec",
+            "type": "Talk",
+            "title": "Objavovanie VPythonu v Dudley College"
+        },
+        {
+            "fullname": "Róbert Junas",
+            "type": "Talk",
+            "title": "Objavovanie VPythonu v Dudley College"
+        },
+        {
+            "fullname": "Tomáš Dudík",
+            "type": "Talk",
+            "title": "Ako sa ďalej pasujeme s Python na hodinách informatiky"
+        },
+        {
+            "fullname": "Martin Strýček",
+            "type": "Talk",
+            "title": "Your flight ticket is just the tip of the iceberg!"
+        },
+        {
+            "fullname": "Tomáš Kiss",
+            "type": "Talk",
+            "title": "Prechod na Python u Piaristov v Nitre a niektoré tamojšie študentské projekty"
+        },
+        {
+            "fullname": "Jakub Hrnčár",
+            "type": "Talk",
+            "title": "Prechod na Python u Piaristov v Nitre a niektoré tamojšie študentské projekty"
+        },
+        {
+            "fullname": "Marek Mansell",
+            "type": "Talk",
+            "title": "Učíme s Hardvérom a finále SPyCup"
+        },
+        {
+            "fullname": "Marek Mansell",
+            "type": "Talk",
+            "title": "Pokročilé medzipredmetové projekty s BBC micro:bit"
+        }
+    ]
+}

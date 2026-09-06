@@ -1,0 +1,315 @@
+{
+    "year": 2017,
+    "speakers": [
+        {
+            "fullname": "Tibor Arpáš",
+            "type": "Talk",
+            "title": "Alternatívne spôsoby ako spúšťať testy a vyhodnocovať ich výsledky"
+        },
+        {
+            "fullname": "Jona Azizaj",
+            "type": "Talk",
+            "title": "How to build up a Python community and empower women"
+        },
+        {
+            "fullname": "Jakub Balas",
+            "type": "Talk",
+            "title": "How far can you go with python"
+        },
+        {
+            "fullname": "Christian Barra",
+            "type": "Talk",
+            "title": "Jupyter: if you don't use it yet you're doing wrong."
+        },
+        {
+            "fullname": "Miroslav Beka",
+            "type": "Talk",
+            "title": "Custom Python Libraries for Robot Framework"
+        },
+        {
+            "fullname": "Anino Belan",
+            "type": "Talk",
+            "title": "Ako funguje evolúcia?"
+        },
+        {
+            "fullname": "Andrej Blaho",
+            "type": "Talk",
+            "title": "Prečo učiť Python"
+        },
+        {
+            "fullname": "Vladimir Boza",
+            "type": "Talk",
+            "title": "Spracovanie textu a Machine Learning v Pythone"
+        },
+        {
+            "fullname": "Anton Caceres",
+            "type": "Talk",
+            "title": "From Code to Community"
+        },
+        {
+            "fullname": "Juan Luis Cano Rodríguez",
+            "type": "Talk",
+            "title": "Through Python to the stars!"
+        },
+        {
+            "fullname": "Rodolfo Carvalho",
+            "type": "Talk",
+            "title": "Automation with Ansible and Containers"
+        },
+        {
+            "fullname": "Razvan Chitu",
+            "type": "Panel",
+            "title": "Panel discussion"
+        },
+        {
+            "fullname": "Michal Cyprian",
+            "type": "Talk",
+            "title": "Make sudo pip Safe Again"
+        },
+        {
+            "fullname": "Ladislav Dobrovsky",
+            "type": "Talk",
+            "title": "Introduction to game developement with SDL2 and OpenGL"
+        },
+        {
+            "fullname": "Peter Fedoročko",
+            "type": "Talk",
+            "title": "The machine's search for meaning"
+        },
+        {
+            "fullname": "​Honza ​Grec",
+            "type": "Talk",
+            "title": "​Python using Redis - what kicked our asses?"
+        },
+        {
+            "fullname": "Michala Gulášová",
+            "type": "Talk",
+            "title": "Je azda Matlab lepší ako had?"
+        },
+        {
+            "fullname": "Ján Guniš",
+            "type": "Talk",
+            "title": "Jazyk Python v programátorskej súťaži PALMA junior"
+        },
+        {
+            "fullname": "Jana Gutierrez Chvalkovska",
+            "type": "Talk",
+            "title": "Red Hat - how to build diverse and entertaining opensource corporate culture"
+        },
+        {
+            "fullname": "Peter Hanečák",
+            "type": "Talk",
+            "title": "Open Data - introduction, status in Slovakia and role of Python"
+        },
+        {
+            "fullname": "Michal Hanula",
+            "type": "Talk",
+            "title": "Making monitoring boring"
+        },
+        {
+            "fullname": "Adrian Holovaty",
+            "type": "Talk",
+            "title": "Human part of open-source"
+        },
+        {
+            "fullname": "Slavomir Hudak",
+            "type": "Talk",
+            "title": "Closures in Python"
+        },
+        {
+            "fullname": "Katharine Jarmul",
+            "type": "Talk",
+            "title": "Building Data Pipelines with Python; Data Wrangling with Python"
+        },
+        {
+            "fullname": "Elisa Jasinska",
+            "type": "Talk",
+            "title": "Automating Network Equipment with Python"
+        },
+        {
+            "fullname": "Honza Javorek",
+            "type": "Talk",
+            "title": "Because Web API Testing Should Be Easy"
+        },
+        {
+            "fullname": "Horst JENS",
+            "type": "Talk",
+            "title": "Teaching python to (your) children"
+        },
+        {
+            "fullname": "Ivan Kalaš",
+            "type": "Talk",
+            "title": "Programovanie v škole: Primerané, udržateľné, rešpektované a integrované. Platí či neplatí?"
+        },
+        {
+            "fullname": "Michal Kaukič",
+            "type": "Talk",
+            "title": "Grafika v Jupyter notebookoch a vplyv programovacích prostriedkov na dušu študenta i učiteľa"
+        },
+        {
+            "fullname": "Jozef Képesi",
+            "type": "Talk",
+            "title": "Our journey from developers to real software engineers"
+        },
+        {
+            "fullname": "Jožo Kováč",
+            "type": "Talk",
+            "title": "Ako môže AI v Pythone pomôcť firme rásť?"
+        },
+        {
+            "fullname": "Peter Kučera",
+            "type": "Talk",
+            "title": "Programujeme v Pythone"
+        },
+        {
+            "fullname": "Jeff Lambert",
+            "type": "Talk",
+            "title": "End-to-End Encryption of Distributed Applications"
+        },
+        {
+            "fullname": "Pawel Lewtak",
+            "type": "Talk",
+            "title": "Object Calisthenics - 9 steps to better code"
+        },
+        {
+            "fullname": "Marek Mansell",
+            "type": "Talk",
+            "title": "MicroPython - Python a hardvér patria k sebe; MicroPython na NodeMCU"
+        },
+        {
+            "fullname": "Jan Margeta",
+            "type": "Talk",
+            "title": "Let's solve cardiac diseases together: Python meets medical imaging and machine learning"
+        },
+        {
+            "fullname": "Eva Mészárosová",
+            "type": "Talk",
+            "title": "Základy programovania v jazyku Python pomocou korytnačej grafiky"
+        },
+        {
+            "fullname": "Michal Petrucha",
+            "type": "Talk",
+            "title": "You should contribute to open-source"
+        },
+        {
+            "fullname": "Fridolín Pokorný",
+            "type": "Talk",
+            "title": "Selinon - A dynamic distributed task computing with Python"
+        },
+        {
+            "fullname": "Kristi Progri",
+            "type": "Talk",
+            "title": "How to build up a Python community and empower women"
+        },
+        {
+            "fullname": "Pavol Rusnak",
+            "type": "Talk",
+            "title": "MicroPython & TREZOR"
+        },
+        {
+            "fullname": "Lasse Schuirmann",
+            "type": "Talk",
+            "title": "Open Source Contributor Automation; Code Analysis with coala sprint"
+        },
+        {
+            "fullname": "Pavel Serbajlo",
+            "type": "Talk",
+            "title": "What makes Silicon Valley software developers special"
+        },
+        {
+            "fullname": "Yian Shang",
+            "type": "Talk",
+            "title": "Discovering Related Content with Python"
+        },
+        {
+            "fullname": "Ľubomír Šnajder",
+            "type": "Talk",
+            "title": "Jazyk Python v programátorskej súťaži PALMA junior"
+        },
+        {
+            "fullname": "Andrii Soldatenko",
+            "type": "Talk",
+            "title": "Crash test of Django ORM"
+        },
+        {
+            "fullname": "Bhargav Srinivasa Desikan",
+            "type": "Talk",
+            "title": "Topic Modelling with Gensim"
+        },
+        {
+            "fullname": "Martin Strýček",
+            "type": "Talk",
+            "title": "Scrum sucks!"
+        },
+        {
+            "fullname": "Jan Suchal",
+            "type": "Talk",
+            "title": "Ako si lepší e-government spravíme sami"
+        },
+        {
+            "fullname": "Miroslav Suchý",
+            "type": "Talk",
+            "title": "Programming for 6 years old kids"
+        },
+        {
+            "fullname": "Valdemar Švábenský",
+            "type": "Talk",
+            "title": "Make learning great again: It's the how, not what"
+        },
+        {
+            "fullname": "Zuzana Tkáčová",
+            "type": "Talk",
+            "title": "Zážitkové vyučovanie vo výučbe programovania na strednej škole"
+        },
+        {
+            "fullname": "Michal Toman",
+            "type": "Talk",
+            "title": "Using GPIO to blink LED diods"
+        },
+        {
+            "fullname": "Matuš Valo",
+            "type": "Talk",
+            "title": "ctypes tutorial"
+        },
+        {
+            "fullname": "Philo van Kemenade",
+            "type": "Talk",
+            "title": "Connecting the pieces: breathing life into digital collections"
+        },
+        {
+            "fullname": "Michal Vašíček",
+            "type": "Talk",
+            "title": "Mozilla ❤ Python"
+        },
+        {
+            "fullname": "Petr Viktorin",
+            "type": "Talk",
+            "title": "The Balance of Python"
+        },
+        {
+            "fullname": "Jaroslav Výbošťok",
+            "type": "Talk",
+            "title": "Skúsenosti s vyučovaním programovania v jazyku Python na strednej škole"
+        },
+        {
+            "fullname": "Chris Ward",
+            "type": "Talk",
+            "title": "A documentation crash course for developers"
+        },
+        {
+            "fullname": "Rachel Willmer",
+            "type": "Talk",
+            "title": "Django Channels and Real-Time Data"
+        },
+        {
+            "fullname": "Tibor Zavadil",
+            "type": "Talk",
+            "title": "Sentiment analysis of customer comments"
+        },
+        {
+            "fullname": "Peter Zvirinský",
+            "type": "Talk",
+            "title": "Machine learning with text in Scikit-learn"
+        }
+    ]
+}
