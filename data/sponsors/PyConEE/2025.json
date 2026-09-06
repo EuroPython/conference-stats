@@ -1,0 +1,96 @@
+{
+    "year": 2025,
+    "levels": {
+        "Gold": 0,
+        "Sponsors and Partners": 0,
+        "Friends of PyCon Estonia": 0,
+        "Lifetime Sponsor": 0
+    },
+    "sponsors": [
+        {
+            "name": "Pipedrive",
+            "website": "https://www.pipedrive.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "AppSignal",
+            "website": "https://appsignal.com/",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "Invest in Estonia",
+            "website": "https://investinestonia.com/",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "Pactum",
+            "website": "https://pactum.com/",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "Waybiller",
+            "website": "https://waybiller.com/",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "Startup Estonia",
+            "website": "https://startupestonia.ee/",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "Mindstone",
+            "website": "https://mindstone.com/",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "Work in Estonia",
+            "website": "https://www.workinestonia.com/",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "City of Tallinn",
+            "website": "https://www.tallinn.ee/",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "EuroPython Society",
+            "website": "www.europython-society.org/",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "Belief Water",
+            "website": "",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "European Union",
+            "website": "https://european-union.europa.eu/",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "Startup Garage",
+            "website": "",
+            "level": "Friends of PyCon Estonia"
+        },
+        {
+            "name": "Visit Tallinn",
+            "website": "https://www.visittallinn.ee/",
+            "level": "Friends of PyCon Estonia"
+        },
+        {
+            "name": "Digit.dev",
+            "website": "",
+            "level": "Friends of PyCon Estonia"
+        },
+        {
+            "name": "Thorgate",
+            "website": "https://thorgate.eu/",
+            "level": "Lifetime Sponsor"
+        }
+    ]
+}
