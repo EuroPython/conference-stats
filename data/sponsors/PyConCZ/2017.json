@@ -1,0 +1,75 @@
+{
+    "year": 2017,
+    "levels": {
+        "Platinum": 0,
+        "Gold": 0,
+        "Silver": 0
+    },
+    "sponsors": [
+        {
+            "name": "kiwi.com",
+            "website": "https://www.kiwi.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Elastic",
+            "website": "https://www.elastic.co/",
+            "level": "Gold"
+        },
+        {
+            "name": "Red Hat",
+            "website": "https://www.redhat.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "IBM",
+            "website": "https://research.ibm.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Imper",
+            "website": "https://imper.io/",
+            "level": "Silver"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Silver"
+        },
+        {
+            "name": "Quantlane",
+            "website": "https://quantlane.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "SEMrush",
+            "website": "https://www.semrush.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Sentry",
+            "website": "https://sentry.io/welcome",
+            "level": "Silver"
+        },
+        {
+            "name": "Slido",
+            "website": "https://www.slido.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Slush Pool",
+            "website": "https://braiins.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "cz.nic",
+            "website": "https://www.nic.cz/",
+            "level": "Silver"
+        },
+        {
+            "name": "Faculty of Information Technology (CTU)",
+            "website": "https://fit.cvut.cz/",
+            "level": "Silver"
+        }
+    ]
+}
