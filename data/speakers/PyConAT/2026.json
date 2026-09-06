@@ -1,0 +1,195 @@
+{
+    "year": 2026,
+    "speakers": [
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Workshop",
+            "title": "Do you know how well your model is doing? Evaluate your LLMs"
+        },
+        {
+            "fullname": "Stefanie Molin",
+            "type": "Talk",
+            "title": "(Pre-)Commit to Better Code"
+        },
+        {
+            "fullname": "Jan Margeta",
+            "type": "Talk",
+            "title": "The Flexible Robotics Stack: Simulating and Controlling Bots in Python"
+        },
+        {
+            "fullname": "Vinayak Mehta",
+            "type": "Talk",
+            "title": "Running Every Street in Paris with Python and PostGIS"
+        },
+        {
+            "fullname": "Manuel Alejandro Ledezma Falcon",
+            "type": "Talk",
+            "title": "How to Automate Tests for LLMs That Never Answer the Same Way Twice"
+        },
+        {
+            "fullname": "Sophie Herrmann",
+            "type": "Talk",
+            "title": "Kafka for Python Devs: From “What is Kafka?” to Production Basics"
+        },
+        {
+            "fullname": "Marcel-Jan Krijgsman",
+            "type": "Talk",
+            "title": "Building a data lakehouse in the European cloud"
+        },
+        {
+            "fullname": "Fabian Schindler",
+            "type": "Talk",
+            "title": "Agents — What Do They Do?"
+        },
+        {
+            "fullname": "Gabor Szarnyas",
+            "type": "Talk",
+            "title": "Why would you \"import duckdb\" in your Python project?"
+        },
+        {
+            "fullname": "John Rooney",
+            "type": "Talk",
+            "title": "How Python Powers Data Extraction: Scrapy in Production"
+        },
+        {
+            "fullname": "Gábor Mészáros",
+            "type": "Talk",
+            "title": "From Imports to Innovation: The Dynamics Behind Python’s Evolution"
+        },
+        {
+            "fullname": "Michael Seifert",
+            "type": "Talk",
+            "title": "Code organization for non-engineers"
+        },
+        {
+            "fullname": "Haim Michael",
+            "type": "Talk",
+            "title": "Python Decorators: From Syntactic Sugar to Production-Grade Design Tool"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Talk",
+            "title": "Debug smarter, not harder - all you need to know about debugging in Python"
+        },
+        {
+            "fullname": "Albert Dorador",
+            "type": "Talk",
+            "title": "The \"Flicker Effect\": Why Your Model Audits Are Lying to You"
+        },
+        {
+            "fullname": "Konrad Gawda",
+            "type": "Talk",
+            "title": "Logging module adventures"
+        },
+        {
+            "fullname": "James Donahue",
+            "type": "Talk",
+            "title": "Feature Selection: What your model can't tell you"
+        },
+        {
+            "fullname": "Tabish Mazhari",
+            "type": "Talk",
+            "title": "Stop Guessing: Finding and Fixing Python Performance Bottlenecks"
+        },
+        {
+            "fullname": "Ishan Jain",
+            "type": "Talk",
+            "title": "What Did My Agent Do? Observability and Accountability for AI Agents"
+        },
+        {
+            "fullname": "Artem Sentsov",
+            "type": "Talk",
+            "title": "The AI Blind Spot: Why Your Vector Search Needs Classic Python Algorithms"
+        },
+        {
+            "fullname": "Haim Michael",
+            "type": "Talk",
+            "title": "The Combinator Pattern: Elegant Composition for Modern Python Developers"
+        },
+        {
+            "fullname": "Michael Seifert",
+            "type": "Talk",
+            "title": "Making sense of concurrency in Python 3.14"
+        },
+        {
+            "fullname": "Linda Kolb",
+            "type": "Talk",
+            "title": "Ready, set, publish - Write your first Python Package"
+        },
+        {
+            "fullname": "Robina Mirbahar",
+            "type": "Talk",
+            "title": "Hands-On: Building AI Applications in Python"
+        },
+        {
+            "fullname": "Brandon Gier",
+            "type": "Talk",
+            "title": "From Marketboard to MCP: Building an LLM-Powered Advisor for Final Fantasy 14 with Python"
+        },
+        {
+            "fullname": "Thomas Aglassinger",
+            "type": "Talk",
+            "title": "Multi-lingual advanced search in Django without Cloud"
+        },
+        {
+            "fullname": "Cherno Basiru Jallow",
+            "type": "Talk",
+            "title": "Building Deep Learning Systems with Python: For Problems in Health, Agriculture, and Climate"
+        },
+        {
+            "fullname": "Vyom Gupta",
+            "type": "Talk",
+            "title": "Schema-First AI: Type-Safe LLM Outputs with PydanticAI (Tested in CI, Offline with Ollama)"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Talk",
+            "title": "Are we free-threaded ready? Looking at where free-threaded Python fails"
+        },
+        {
+            "fullname": "Stefan Trenkwalder",
+            "type": "Talk",
+            "title": "AI-driven Software Engineering: TDD-Guardrails for the Age of Vibe Programming"
+        },
+        {
+            "fullname": "Mingxuan Zhao",
+            "type": "Talk",
+            "title": "Workshop: Learn to Unlock Document Intelligence with Open-Source AI"
+        },
+        {
+            "fullname": "Carol Chen",
+            "type": "Talk",
+            "title": ""
+        },
+        {
+            "fullname": "Charlie Lin",
+            "type": "Talk",
+            "title": "Tying Up Loose Threads: Making your Project No-GIL Ready"
+        },
+        {
+            "fullname": "Manuel Alejandro Ledezma Falcon",
+            "type": "Talk",
+            "title": "Fair AI from QA: How Testers Can Prevent Algorithmic Bias"
+        },
+        {
+            "fullname": "Claus Aichinger",
+            "type": "Talk",
+            "title": "An Introduction to Regression Testing"
+        },
+        {
+            "fullname": "Ralf Schlatterbeck",
+            "type": "Talk",
+            "title": "Vibe coding with Aider?"
+        },
+        {
+            "fullname": "Franz Knipp",
+            "type": "Talk",
+            "title": "Ein Raspberry Pi: Nice, Hunderte davon: Crazy – Wie man mit Raspberry Pis (kein) Geld verdient"
+        },
+        {
+            "fullname": "Martin Heppner-Phadoongvithee",
+            "type": "Talk",
+            "title": "Alpine Mobility: Bahn zum Berg & Zuugle"
+        }
+    ]
+}

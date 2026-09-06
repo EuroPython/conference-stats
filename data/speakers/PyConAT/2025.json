@@ -1,0 +1,275 @@
+{
+    "year": 2025,
+    "speakers": [
+        {
+            "fullname": "Christian Leitold",
+            "type": "Talk",
+            "title": "How to combine tiny bits of Python, physics, and art to create (hopefully) pretty pictures"
+        },
+        {
+            "fullname": "Valeria Jankowskaja",
+            "type": "Talk",
+            "title": "AI-gent 007: Build your Digital Assistant in 30 min"
+        },
+        {
+            "fullname": "Artem Sentsov",
+            "type": "Talk",
+            "title": "Using Python & Neo4j to Explore Business Connections"
+        },
+        {
+            "fullname": "Ines Panker",
+            "type": "Talk",
+            "title": "Software estimation is a delusion or is it just a misused tool?"
+        },
+        {
+            "fullname": "Týna Doležalová",
+            "type": "Workshop",
+            "title": "Exploring Data with Python: From Raw Numbers to Insights"
+        },
+        {
+            "fullname": "Dor Schwarz",
+            "type": "Talk",
+            "title": "Teach Your Old Code New Tricks: Automating Code Quality in Large Project"
+        },
+        {
+            "fullname": "Raul Pino",
+            "type": "Talk",
+            "title": "Beyond the Cloud: On-premise Orchestration for Open-source LLMs"
+        },
+        {
+            "fullname": "Aivars Kalvāns",
+            "type": "Talk",
+            "title": "How to solve a Python mystery"
+        },
+        {
+            "fullname": "Alex Shershebnev",
+            "type": "Workshop",
+            "title": "developing production-ready apps in collaboration with AI Agents"
+        },
+        {
+            "fullname": "Jacqueline Berger",
+            "type": "Workshop",
+            "title": "#IamRemarkable"
+        },
+        {
+            "fullname": "Danijel Kivaranovic",
+            "type": "Talk",
+            "title": "pgcrud: Create, Read, Update, and Delete (CRUD) operations for PostgreSQL made simple and fast"
+        },
+        {
+            "fullname": "Darius Chira",
+            "type": "Talk",
+            "title": "Practical python data pipeline design"
+        },
+        {
+            "fullname": "Ricardo Sueiras",
+            "type": "Talk",
+            "title": "Zero to shipped in 30 mins with AI coding assistants"
+        },
+        {
+            "fullname": "Syed Ansab Waqar Gillani",
+            "type": "Talk",
+            "title": "Crafting Great APIs for Libraries: Lessons from the Good, the Bad, and the Delightfull"
+        },
+        {
+            "fullname": "PJ Hagerty",
+            "type": "Talk",
+            "title": "AI and Ethics - What we SHOULD be pondering"
+        },
+        {
+            "fullname": "Olena Kutsenko",
+            "type": "Talk",
+            "title": "Building agent systems with Apache Kafka and Apache Flink"
+        },
+        {
+            "fullname": "Jaroslav Bezděk",
+            "type": "Talk",
+            "title": "Streamlit: web app in 30 minutes"
+        },
+        {
+            "fullname": "Kamil Marut",
+            "type": "Talk",
+            "title": "Demystifying Python Modules and Imports: How Imports Really Work in Python"
+        },
+        {
+            "fullname": "Carolina Lennon",
+            "type": "Workshop",
+            "title": "A Hands-On Workshop on Parsing Wikitext"
+        },
+        {
+            "fullname": "Shirley",
+            "type": "Workshop",
+            "title": "Prompt Like a Queen"
+        },
+        {
+            "fullname": "Isabella",
+            "type": "Workshop",
+            "title": "Prompt Like a Queen"
+        },
+        {
+            "fullname": "Jan Pipek",
+            "type": "Workshop",
+            "title": "Data Analysis, the Polars Way"
+        },
+        {
+            "fullname": "Lidiane Taquehara",
+            "type": "Talk",
+            "title": "Web scraping & web crawling with Python"
+        },
+        {
+            "fullname": "Sara Jakša",
+            "type": "Talk",
+            "title": "Regex is magic"
+        },
+        {
+            "fullname": "Ralf Schlatterbeck",
+            "type": "Talk",
+            "title": "Experiments with Automatic Music Composition"
+        },
+        {
+            "fullname": "Siddharth Gupta",
+            "type": "Workshop",
+            "title": "Streamlit 101 to Build & Deploy Apps like a Data Scientist"
+        },
+        {
+            "fullname": "Maxim Danilov",
+            "type": "Talk",
+            "title": "Django FTL: Resolving bottlenecks on the path to high performance"
+        },
+        {
+            "fullname": "Laurent Direr",
+            "type": "Talk",
+            "title": "Python's Abstract Syntax Tree: Practical and Unpractical Uses"
+        },
+        {
+            "fullname": "Radovan Baćović",
+            "type": "Talk",
+            "title": "Data Classification: From Chaos to Clarity with LLMs and Python (of course)"
+        },
+        {
+            "fullname": "Octaviano pratama",
+            "type": "Workshop",
+            "title": "Music Classification using Deep Learning based on Python"
+        },
+        {
+            "fullname": "Stefan Trenkwalder",
+            "type": "Workshop",
+            "title": "Test-Driven Development in Practice"
+        },
+        {
+            "fullname": "Aivars Kalvāns",
+            "type": "Talk",
+            "title": "QuerySet.explain(): make it make sense"
+        },
+        {
+            "fullname": "Fabian Schindler",
+            "type": "Talk",
+            "title": "Concurrency in Python"
+        },
+        {
+            "fullname": "Michael Druk",
+            "type": "Talk",
+            "title": "Breaking Barriers"
+        },
+        {
+            "fullname": "Christoph Müller",
+            "type": "Talk",
+            "title": "bAm V5 tied together - architecture as living organism"
+        },
+        {
+            "fullname": "Jackie",
+            "type": "Talk",
+            "title": "One does not simply migrate a primary key! A database adventure from the Django lands."
+        },
+        {
+            "fullname": "Andrea Ida Malkah Klaura",
+            "type": "Talk",
+            "title": "One does not simply migrate a primary key! A database adventure from the Django lands."
+        },
+        {
+            "fullname": "Ralf Schlatterbeck",
+            "type": "Talk",
+            "title": "Optimization of continuous Problems with Evolutionary Algorithms"
+        },
+        {
+            "fullname": "Clemens Bachmann",
+            "type": "Talk",
+            "title": "WebTigerPython: Unleashing Python's Full Potential in the Browser"
+        },
+        {
+            "fullname": "Armin Ronacher",
+            "type": "Talk",
+            "title": "Do Dumb Things"
+        },
+        {
+            "fullname": "Yan Yanchiy",
+            "type": "Talk",
+            "title": "Python Integers Behind the Scenes"
+        },
+        {
+            "fullname": "Christophe Bornet",
+            "type": "Talk",
+            "title": "Building Retrieval Augmented Generation (RAG) AI applications with LangChain"
+        },
+        {
+            "fullname": "Alfarabi Issakhanov",
+            "type": "Workshop",
+            "title": "Create interactive explanation of ML algorithms using Plotly"
+        },
+        {
+            "fullname": "Fomin",
+            "type": "Talk",
+            "title": "Python Beyond the Usual: Building an RC Car with MicroPython"
+        },
+        {
+            "fullname": "Christoph Müller",
+            "type": "Workshop",
+            "title": "Structural Optimization in Architecture with Blender3D, Python and Phänotyp"
+        },
+        {
+            "fullname": "Vic Zagranowsk",
+            "type": "Workshop",
+            "title": "You Meet at the Tavern: Scraping Your Way to the Perfect D&D Game with Scrapy"
+        },
+        {
+            "fullname": "Petr Simecek",
+            "type": "Talk",
+            "title": "From ML Miracles to AI Trash: Taming the Bullshit in LLMs"
+        },
+        {
+            "fullname": "Ralf Schlatterbeck",
+            "type": "Talk",
+            "title": "Writing a Language Interpreter with Python Lex-Yacc (PLY)"
+        },
+        {
+            "fullname": "Ivana Kellyer",
+            "type": "Talk",
+            "title": "Embracing Weird Code: Tales of an SDK Engineer"
+        },
+        {
+            "fullname": "Horst Jens",
+            "type": "Talk",
+            "title": "3D graphics with vpython for fun and education"
+        },
+        {
+            "fullname": "Pamphile Roy",
+            "type": "Talk",
+            "title": "Python Security: Because \"Nobody Would Hack my Project\" is not a Security Strategy"
+        },
+        {
+            "fullname": "Benjamin Müllner",
+            "type": "Talk",
+            "title": "Python Security: Because \"Nobody Would Hack my Project\" is not a Security Strategy"
+        },
+        {
+            "fullname": "Raul Pino",
+            "type": "Talk",
+            "title": "Red Teaming Latent Spaces & Protecting LLM apps"
+        },
+        {
+            "fullname": "Thomas Aglassinger",
+            "type": "Talk",
+            "title": "Django reporting with raw SQL"
+        }
+    ]
+}
