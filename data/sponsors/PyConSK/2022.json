@@ -1,0 +1,106 @@
+{
+    "year": 2022,
+    "levels": {
+        "Diamond": 0,
+        "Platinum": 0,
+        "Gold": 0,
+        "Bronze": 0
+    },
+    "sponsors": [
+        {
+            "name": "Titans freelancers",
+            "website": "https://titans.click/",
+            "level": "Diamond"
+        },
+        {
+            "name": "Ataccama",
+            "website": "https://jobs.ataccama.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Sufio",
+            "website": "https://www.sufio.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Solargis",
+            "website": "https://solargis.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Exxeta",
+            "website": "https://www.exxeta.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "LMC/Profesia",
+            "website": "https://www.lmc.eu/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Bloomreach",
+            "website": "https://www.bloomreach.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Raiffeisen Bank International",
+            "website": "https://www.rbinternational.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Slido",
+            "website": "https://www.slido.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Blueprint Power & MAKERS",
+            "website": "",
+            "level": "Gold"
+        },
+        {
+            "name": "Swiss Re",
+            "website": "https://www.swissre.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Kiwi",
+            "website": "https://www.kiwi.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Red Hat",
+            "website": "https://www.redhat.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "O'Reilly",
+            "website": "www.oreilly.com",
+            "level": "Bronze"
+        },
+        {
+            "name": "JetBrains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Sticker Mule",
+            "website": "",
+            "level": "Bronze"
+        },
+        {
+            "name": "Packt",
+            "website": "www.packtpub.com",
+            "level": "Bronze"
+        },
+        {
+            "name": "No Starch Press",
+            "website": "https://nostarch.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Digital Ocean",
+            "website": "https://www.digitalocean.com/",
+            "level": "Bronze"
+        }
+    ]
+}

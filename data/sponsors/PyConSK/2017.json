@@ -1,0 +1,76 @@
+{
+    "year": 2017,
+    "levels": {
+        "Platinum": 0,
+        "Gold": 0,
+        "Silver": 0,
+        "Bronze": 0
+    },
+    "sponsors": [
+        {
+            "name": "Exponea",
+            "website": "https://bloomreach.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "kiwi.com",
+            "website": "https://www.kiwi.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Eset",
+            "website": "https://www.eset.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Kistler",
+            "website": "https://www.kistler.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Red Hat",
+            "website": "https://www.redhat.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "BBI International",
+            "website": "",
+            "level": "Silver"
+        },
+        {
+            "name": "Danube Cloud",
+            "website": "https://danubecloud.org/",
+            "level": "Silver"
+        },
+        {
+            "name": "Google",
+            "website": "https://google.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Switzerlab",
+            "website": "",
+            "level": "Silver"
+        },
+        {
+            "name": "Fedora",
+            "website": "https://getfedora.org/",
+            "level": "Bronze"
+        },
+        {
+            "name": "GapData Institute",
+            "website": "https://gapdata.org/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Infinit",
+            "website": "",
+            "level": "Bronze"
+        }
+    ]
+}
