@@ -1,0 +1,205 @@
+{
+    "year": 2023,
+    "speakers": [
+        {
+            "fullname": "Aivars Kalvāns",
+            "type": "Talk",
+            "title": "Pessimism, optimism, realism and Django database concurrency"
+        },
+        {
+            "fullname": "Alessandro Romano",
+            "type": "Talk",
+            "title": "Is Polars the new Pandas? When and how to use it."
+        },
+        {
+            "fullname": "Alexandra Pop",
+            "type": "Talk",
+            "title": "Standing out in a Job application process"
+        },
+        {
+            "fullname": "Alihan Zıhna",
+            "type": "Talk",
+            "title": "Updating the model in production: The Horror Show"
+        },
+        {
+            "fullname": "Allen Thomas Varghese",
+            "type": "Talk",
+            "title": "Build Docker Desktop in Python"
+        },
+        {
+            "fullname": "Allyn Hunt",
+            "type": "Talk",
+            "title": "Python in the ActivityPub"
+        },
+        {
+            "fullname": "Deepak John Reji",
+            "type": "Talk",
+            "title": "Dbias - Detecting Bias and ensuring Fairness in AI solutions"
+        },
+        {
+            "fullname": "Eoin Halpin",
+            "type": "Talk",
+            "title": "Unleashing the Power of Generative AI: Python API Integration with ChatGPT, DALL-E, and D-ID Studio"
+        },
+        {
+            "fullname": "Falko Schindler",
+            "type": "Talk",
+            "title": "NiceGUI: Inventing Python’s Nicest UI Framework"
+        },
+        {
+            "fullname": "Gavin Chan",
+            "type": "Talk",
+            "title": "Guide to Modern Quantitative Development - The Good, the Bad and the Ugly"
+        },
+        {
+            "fullname": "Gerard Keating",
+            "type": "Talk",
+            "title": "How I Learned to Stop Worrying and Love Type Annotation"
+        },
+        {
+            "fullname": "Javier Fernandez",
+            "type": "Talk",
+            "title": "Federated Learning: Machine Learning on Distributed Data for Python Developers"
+        },
+        {
+            "fullname": "John Curry",
+            "type": "Talk",
+            "title": "Going the Last Mile – The Story of an Irish Python Based Consultancy"
+        },
+        {
+            "fullname": "John Savage",
+            "type": "Talk",
+            "title": "Click Buy Repeat: Simulating a day at an e-commerce company"
+        },
+        {
+            "fullname": "Kairo Francisco de Araujo",
+            "type": "Talk",
+            "title": "PEP 458 a solution not only for PyPI"
+        },
+        {
+            "fullname": "Kristian Scholze",
+            "type": "Talk",
+            "title": "Pinkie Pacts - Consumer Based Contract Testing"
+        },
+        {
+            "fullname": "Liliya Akhtyamova",
+            "type": "Talk",
+            "title": "Introduction to NLP and Text Classification"
+        },
+        {
+            "fullname": "Mario Macías",
+            "type": "Talk",
+            "title": "OpenTelemetry metrics for Python without the remorse, i.e. with eBPF"
+        },
+        {
+            "fullname": "Mark Azer",
+            "type": "Talk",
+            "title": "Using Static Analysis to Elevate Your Python Code"
+        },
+        {
+            "fullname": "Mia Bajić",
+            "type": "Talk",
+            "title": "The Standard Library Tour"
+        },
+        {
+            "fullname": "Michael Twomey",
+            "type": "Talk",
+            "title": "Exploring boto3 behaviours using mitmproxy"
+        },
+        {
+            "fullname": "Miguel Grinberg",
+            "type": "Talk",
+            "title": "What's New in SQLAlchemy 2"
+        },
+        {
+            "fullname": "Morgane Mahaud",
+            "type": "Talk",
+            "title": "Don’t be too soft when guiding the catastrophic behaviour of a bullshiter, and other LLM code tips"
+        },
+        {
+            "fullname": "Mykalin Jones",
+            "type": "Talk",
+            "title": "Child Prodigies and 6 Figure Salaries? Discussing Realist Methods and Goals in Python Education"
+        },
+        {
+            "fullname": "Nabanita Roy",
+            "type": "Talk",
+            "title": "Introduction to NLP and Text Classification"
+        },
+        {
+            "fullname": "Nathaniel Forde",
+            "type": "Talk",
+            "title": "Discrete Choice and Random Utility Models in PyMC"
+        },
+        {
+            "fullname": "Pablo Galindo Salgado",
+            "type": "Talk",
+            "title": "The snake of Theseus"
+        },
+        {
+            "fullname": "Pavlo Tishkin",
+            "type": "Talk",
+            "title": "Running Python in AWS"
+        },
+        {
+            "fullname": "Pedro Tabacof",
+            "type": "Talk",
+            "title": "How I lost 1000 euros betting on CS:GO with machine learning"
+        },
+        {
+            "fullname": "Phil Carroll",
+            "type": "Talk",
+            "title": "Quantum Computing with Python"
+        },
+        {
+            "fullname": "Quazi Nafiul Islam",
+            "type": "Talk",
+            "title": "Calling Rust from Python: A Gentle Introduction to PyO3"
+        },
+        {
+            "fullname": "Ramon Perez",
+            "type": "Talk",
+            "title": "Architecting Dashboards: A hacky and yet practical guide for sharing insights"
+        },
+        {
+            "fullname": "Roberto Gambuzzi",
+            "type": "Talk",
+            "title": "Advent of code: a comparison between python, numba, cuda"
+        },
+        {
+            "fullname": "Rodrigo 🐍🚀",
+            "type": "Talk",
+            "title": "How to implement a Python-like programming language"
+        },
+        {
+            "fullname": "Rodrigo 🐍🚀",
+            "type": "Talk",
+            "title": "Describing Descriptors"
+        },
+        {
+            "fullname": "Sadhana Srinivasan",
+            "type": "Talk",
+            "title": "The Gilectomy: Past, Present and Future"
+        },
+        {
+            "fullname": "Stephen McCullough",
+            "type": "Talk",
+            "title": "Leveraging AWS SageMaker for Scalable AI Deployment with Python: A Real-World Journey"
+        },
+        {
+            "fullname": "Sukanya Mandal",
+            "type": "Talk",
+            "title": "​A Practitioner’s Guide to Machine Learning with Homomorphic Encryption"
+        },
+        {
+            "fullname": "Sukanya Mandal",
+            "type": "Talk",
+            "title": "​​Encrypted computing in Python using OpenFHE"
+        },
+        {
+            "fullname": "Tom Halpin",
+            "type": "Talk",
+            "title": "Unleashing the Power of Generative AI: Python API Integration with ChatGPT, DALL-E, and D-ID Studio"
+        }
+    ]
+}

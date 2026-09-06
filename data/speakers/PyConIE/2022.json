@@ -1,0 +1,200 @@
+{
+    "year": 2022,
+    "speakers": [
+        {
+            "fullname": "Sylvain Gubian",
+            "type": "Talk",
+            "title": "Dual Annealing for global optimization problems"
+        },
+        {
+            "fullname": "Allyn Hunt",
+            "type": "Talk",
+            "title": "Destiny-Focus: A Python and ReactJS powered stat tracking and sharing app for Destiny 2, the game"
+        },
+        {
+            "fullname": "Stephen Finucane",
+            "type": "Talk",
+            "title": "Zero-downtime upgrades with SQLAlchemy + Alembic"
+        },
+        {
+            "fullname": "Alessandro Molina",
+            "type": "Talk",
+            "title": "Apache Arrow as a full stack data engineering solution"
+        },
+        {
+            "fullname": "Sonam Pankaj",
+            "type": "Talk",
+            "title": "Biases in Language models and it's explainability using shap"
+        },
+        {
+            "fullname": "Inder Preet",
+            "type": "Talk",
+            "title": "Pruning and quantization for deep neural networks"
+        },
+        {
+            "fullname": "Jim Dowling",
+            "type": "Talk",
+            "title": "Data Validation for ML using Great Expectations and Hopsworks"
+        },
+        {
+            "fullname": "Richard Rowland",
+            "type": "Talk",
+            "title": "Why \"Hello World\" is a Massive Operation - From Python code to Stack Virtual Machine"
+        },
+        {
+            "fullname": "Christian Ledermann",
+            "type": "Talk",
+            "title": "A Tale of two Kitchens, hyper modernising your code base."
+        },
+        {
+            "fullname": "Rebecca Martin",
+            "type": "Talk",
+            "title": "Fighting Bots with Python and Machine Learning"
+        },
+        {
+            "fullname": "Dina Bavli",
+            "type": "Talk",
+            "title": "Everybody Is an Influencer– Which Influencer Are You?"
+        },
+        {
+            "fullname": "Liam Brannigan",
+            "type": "Talk",
+            "title": "Dataframes in python: a new era begins"
+        },
+        {
+            "fullname": "Linda Smith",
+            "type": "Talk",
+            "title": "Assigning taxonomy to microbiome viruses using python"
+        },
+        {
+            "fullname": "Yosef Arbiv",
+            "type": "Workshop",
+            "title": "OpenTelemetry"
+        },
+        {
+            "fullname": "Weichen Huang",
+            "type": "Talk",
+            "title": "Brain age prediction using neural networks"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Talk",
+            "title": "Trying No GIL on Scientific Programming"
+        },
+        {
+            "fullname": "David Renton",
+            "type": "Talk",
+            "title": "Getting work completed, and following up, and following up; with Python and other things."
+        },
+        {
+            "fullname": "Liliya Akhtyamova",
+            "type": "Talk",
+            "title": "Making MVP before a fully-fledged product. How and why?"
+        },
+        {
+            "fullname": "Ben Fagan",
+            "type": "Talk",
+            "title": "Python draws pixels: starting a basic Gameboy emulator in Python"
+        },
+        {
+            "fullname": "Muhammad Atif Qureshi",
+            "type": "Talk",
+            "title": "Rapid Cues for Research: COVID-19 Exploratory Search System Using Taxonomies"
+        },
+        {
+            "fullname": "Igor Mosyagin",
+            "type": "Talk",
+            "title": "Embarrasingly parallel python with a little help of redis"
+        },
+        {
+            "fullname": "Ramon Perez",
+            "type": "Talk",
+            "title": "Getting Started with Feature Stores"
+        },
+        {
+            "fullname": "Simer Anand",
+            "type": "Talk",
+            "title": "Getting started with Python Asyncio"
+        },
+        {
+            "fullname": "Murilo Cunha",
+            "type": "Talk",
+            "title": "Effective data science teams with databooks"
+        },
+        {
+            "fullname": "Mark Smith",
+            "type": "Talk",
+            "title": "Stupid Things I've Done With Python"
+        },
+        {
+            "fullname": "Stephen McInerney",
+            "type": "Talk",
+            "title": "NLP, Topic Modeling and Scraping of conference talks to find which topics are hot and not"
+        },
+        {
+            "fullname": "Ritik Agarwal",
+            "type": "Talk",
+            "title": "FAST API and Deploying ML Models using it on AWS"
+        },
+        {
+            "fullname": "Donal Byrne",
+            "type": "Talk",
+            "title": "Introduction To Jax: the next step in high performance machine learning"
+        },
+        {
+            "fullname": "Dom Weldon",
+            "type": "Talk",
+            "title": "It's Your Call(able): a tour of Python's callable (function) interface"
+        },
+        {
+            "fullname": "Max Vizard",
+            "type": "Workshop",
+            "title": "Intro to MicroPython"
+        },
+        {
+            "fullname": "Max Vizard",
+            "type": "Talk",
+            "title": "Home automation with MicroPython"
+        },
+        {
+            "fullname": "Gauri Vaidya",
+            "type": "Workshop",
+            "title": "SHIELD: Do it the safe way"
+        },
+        {
+            "fullname": "Meghana Kshirsagar",
+            "type": "Workshop",
+            "title": "SHIELD: Do it the safe way"
+        },
+        {
+            "fullname": "Gauri Vaidya",
+            "type": "Workshop",
+            "title": "A picture is worth a thousand words!"
+        },
+        {
+            "fullname": "Meghana Kshirsagar",
+            "type": "Workshop",
+            "title": "A picture is worth a thousand words!"
+        },
+        {
+            "fullname": "Parisa Gregg",
+            "type": "Workshop",
+            "title": "Automated reporting with Quarto"
+        },
+        {
+            "fullname": "Myles Mitchell",
+            "type": "Workshop",
+            "title": "Automated reporting with Quarto"
+        },
+        {
+            "fullname": "James Shields",
+            "type": "Talk",
+            "title": "Hacking a Python Hackathon"
+        },
+        {
+            "fullname": "James Long",
+            "type": "Talk",
+            "title": "I would have written less code, but I didn't have the time"
+        }
+    ]
+}

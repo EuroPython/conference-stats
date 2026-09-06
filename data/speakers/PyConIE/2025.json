@@ -1,0 +1,275 @@
+{
+    "year": 2025,
+    "speakers": [
+        {
+            "fullname": "Ines Montani",
+            "type": "Keynote",
+            "title": "Ines Montani"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Talk",
+            "title": "Story About the Python GIL - its Existence and the Lack Thereof"
+        },
+        {
+            "fullname": "Sergii Danilov",
+            "type": "Talk",
+            "title": "From Prompts to Programs: DSPy in 120 Minutes"
+        },
+        {
+            "fullname": "Luca Gilli",
+            "type": "Talk",
+            "title": "Build a Tiny Language Model from Scratch"
+        },
+        {
+            "fullname": "Pietro Mascolo",
+            "type": "Talk",
+            "title": "Graph-Based Machine Learning with Python"
+        },
+        {
+            "fullname": "Jake Mac Uilliam",
+            "type": "Talk",
+            "title": "Performance Engineering for Python-based AI Workflows in HPC"
+        },
+        {
+            "fullname": "Buket Benek Gursoy",
+            "type": "Talk",
+            "title": "Performance Engineering for Python-based AI Workflows in HPC"
+        },
+        {
+            "fullname": "Vemund Santi",
+            "type": "Talk",
+            "title": "End to End with Testcontainers and Playwright"
+        },
+        {
+            "fullname": "Jeffrey Roe",
+            "type": "Talk",
+            "title": "Stopping Time with Python: Building an Interactive Art Installation"
+        },
+        {
+            "fullname": "Pietro Mascolo",
+            "type": "Talk",
+            "title": "Timeseries on steroids with RETAIN networks"
+        },
+        {
+            "fullname": "Mihai Criveti",
+            "type": "Talk",
+            "title": "Building, Testing, and Deploying Production-Ready MCP Servers in Python"
+        },
+        {
+            "fullname": "Kevin Scannell",
+            "type": "Panel",
+            "title": "AI and the Future of the Irish Language"
+        },
+        {
+            "fullname": "Michal Měchura",
+            "type": "Panel",
+            "title": "AI and the Future of the Irish Language"
+        },
+        {
+            "fullname": "Micheal O Meachair",
+            "type": "Panel",
+            "title": "AI and the Future of the Irish Language"
+        },
+        {
+            "fullname": "Vittorio Zamboni",
+            "type": "Talk",
+            "title": "Python to power the alcohol industry"
+        },
+        {
+            "fullname": "Dmitry Sorokin",
+            "type": "Talk",
+            "title": "Turning ML and Data Pipelines into AI Agents with Kedro and LangGraph"
+        },
+        {
+            "fullname": "Indranil Ghosh",
+            "type": "Talk",
+            "title": "Time series analysis for coupled neurons."
+        },
+        {
+            "fullname": "Vishal Vatsa",
+            "type": "Talk",
+            "title": "An Ode to Postgres"
+        },
+        {
+            "fullname": "Rajarshi Tiwari",
+            "type": "Talk",
+            "title": "Analog quantum simulation made simple: the QSE story"
+        },
+        {
+            "fullname": "James Nelson",
+            "type": "Talk",
+            "title": "Analog quantum simulation made simple: the QSE story"
+        },
+        {
+            "fullname": "Nathaniel Forde",
+            "type": "Talk",
+            "title": "Modern Bayesian Workflow with PyMC for Structural Equation Models"
+        },
+        {
+            "fullname": "Dom Weldon",
+            "type": "Talk",
+            "title": "Why, and how, all your Python code should be Declarative in the Age of Generative AI"
+        },
+        {
+            "fullname": "Aldridge Abaasa",
+            "type": "Talk",
+            "title": "Supporting Open Science with Python and FOSS at the Irish Centre for High-End Computing."
+        },
+        {
+            "fullname": "Gautam Samriya",
+            "type": "Talk",
+            "title": "Supporting Open Science with Python and FOSS at the Irish Centre for High-End Computing."
+        },
+        {
+            "fullname": "Deepak John Reji",
+            "type": "Talk",
+            "title": "Dynamic Analysis of Immigration Attitudes: Event-Driven Modelling with NLP & Temporal Networks"
+        },
+        {
+            "fullname": "Mykalin Jones",
+            "type": "Talk",
+            "title": "Understanding Fadúdas: Using Python to Explore How People in Ulster Speak Irish"
+        },
+        {
+            "fullname": "Ovidiu Neatu",
+            "type": "Talk",
+            "title": "Regex Made Easy: An Introduction in Python"
+        },
+        {
+            "fullname": "Mihai Criveti",
+            "type": "Keynote",
+            "title": "AI Agents in Production: Lessons from 160,000 Users in the Real World"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Talk",
+            "title": "Epic Evolution of typing in Python: how we get here and where are we going?"
+        },
+        {
+            "fullname": "Tom Kaltofen",
+            "type": "Talk",
+            "title": "Rethinking feature engineering with mloda"
+        },
+        {
+            "fullname": "Nick Acosta",
+            "type": "Talk",
+            "title": "AI Driven Automation in Open-Source Metadata Platforms: Embedding an MCP Server"
+        },
+        {
+            "fullname": "Oleksandr Saienko",
+            "type": "Talk",
+            "title": "Build AI Agents with Google Agent Development Kit (ADK)"
+        },
+        {
+            "fullname": "Indranil Ghosh",
+            "type": "Talk",
+            "title": "Time series analysis for coupled neurons (rerun)"
+        },
+        {
+            "fullname": "Miguel Grinberg",
+            "type": "Talk",
+            "title": "Rediscovering Server Sent Events"
+        },
+        {
+            "fullname": "Richie Morrisroe",
+            "type": "Talk",
+            "title": "Visualisation: Modelling the World"
+        },
+        {
+            "fullname": "Cosmin Marian Paduraru",
+            "type": "Talk",
+            "title": "From Collecting Bottle Caps 🥤to Building Vision 👀"
+        },
+        {
+            "fullname": "Dr. Conor Lynch",
+            "type": "Talk",
+            "title": "JupyterHub - An ecosystem of web applications"
+        },
+        {
+            "fullname": "Ines Montani",
+            "type": "Panel",
+            "title": "AI and its impact"
+        },
+        {
+            "fullname": "Sean Blanchfield",
+            "type": "Panel",
+            "title": "AI and its impact"
+        },
+        {
+            "fullname": "Luca Gilli",
+            "type": "Panel",
+            "title": "AI and its impact"
+        },
+        {
+            "fullname": "Mihai Criveti",
+            "type": "Panel",
+            "title": "AI and its impact"
+        },
+        {
+            "fullname": "Manuel Alejandro Ledezma Falcon",
+            "type": "Talk",
+            "title": "Machine Learning for Testers: Train, Evaluate, and Detect Bias in AI Models"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Talk",
+            "title": "PyO3 202 - Support Python Async and Multithreading in PyO3"
+        },
+        {
+            "fullname": "Laurent Doguin",
+            "type": "Talk",
+            "title": "Building Privacy-Focused Vector Search Applications"
+        },
+        {
+            "fullname": "Mihai Criveti",
+            "type": "Talk",
+            "title": "Building, Testing, and Deploying Production-Ready MCP Servers in Python (rerun)"
+        },
+        {
+            "fullname": "Peter Collins",
+            "type": "Talk",
+            "title": "Replatforming Gov.ie - Migrating to Wagtail CMS"
+        },
+        {
+            "fullname": "Sina Banan",
+            "type": "Talk",
+            "title": "Replatforming Gov.ie - Migrating to Wagtail CMS"
+        },
+        {
+            "fullname": "Theodore Tucker",
+            "type": "Talk",
+            "title": "A reproducible approach to scientific Python: Git, CI and remote execution with Jupyter notebooks"
+        },
+        {
+            "fullname": "Gerard Keating",
+            "type": "Talk",
+            "title": "Dataclasses: What Do They Do? Do They Do things? Let's Find Out!"
+        },
+        {
+            "fullname": "Christopher Gregan",
+            "type": "Talk",
+            "title": "Smart Spreadsheet Workflows with Celbridge & Python"
+        },
+        {
+            "fullname": "Peter Nolan",
+            "type": "Talk",
+            "title": "Flattening the Curve: How Ireland Modelled COVID"
+        },
+        {
+            "fullname": "Alexander Darby",
+            "type": "Talk",
+            "title": "Securing AI Agents in Production"
+        },
+        {
+            "fullname": "Rebecca Martin",
+            "type": "Talk",
+            "title": "It's in the Game: Spreading Malware Through Sims 4 Mods"
+        },
+        {
+            "fullname": "Fernando Brito",
+            "type": "Talk",
+            "title": "Geospatial Data Demystified: A Gentle Guide for Python Developers"
+        }
+    ]
+}

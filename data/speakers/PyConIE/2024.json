@@ -1,0 +1,245 @@
+{
+    "year": 2024,
+    "speakers": [
+        {
+            "fullname": "Will Rogers",
+            "type": "Talk",
+            "title": "Cluid Housing: The evolution of a custom Python package in a complex data migration."
+        },
+        {
+            "fullname": "Peter Nolan",
+            "type": "Talk",
+            "title": "How the Irish Speak English: Python machine learning for understanding Irish accents in English"
+        },
+        {
+            "fullname": "Jaroslav Bezdek",
+            "type": "Talk",
+            "title": "Zoology 101: python, pandas, and duckdb"
+        },
+        {
+            "fullname": "Craig West",
+            "type": "Talk",
+            "title": "Getting started with PyTest"
+        },
+        {
+            "fullname": "Brain Aboze",
+            "type": "Talk",
+            "title": "Utilizing LLM Agents for Efficient Requirement Analysis and Specification"
+        },
+        {
+            "fullname": "Ben Fagan",
+            "type": "Talk",
+            "title": "Building an expression parser in Python"
+        },
+        {
+            "fullname": "Mikhail Medvedev",
+            "type": "Talk",
+            "title": "Building an expression parser in Python"
+        },
+        {
+            "fullname": "Natan Mish",
+            "type": "Talk",
+            "title": "Build a RAG to Brag About"
+        },
+        {
+            "fullname": "Marcel-Jan Krijgsman",
+            "type": "Talk",
+            "title": "E-ink dashboards everywhere"
+        },
+        {
+            "fullname": "Dmitry Sorokin",
+            "type": "Talk",
+            "title": "End-to-end Machine Learning with open-source"
+        },
+        {
+            "fullname": "Mihai Criveti",
+            "type": "Talk",
+            "title": "Building Scalable AI multi-agent collaboration with Langchain, Langgraph, Crew.AI, and RAG"
+        },
+        {
+            "fullname": "Steve Holden",
+            "type": "Talk",
+            "title": "Descriptors in Python"
+        },
+        {
+            "fullname": "Deepak John Reji",
+            "type": "Talk",
+            "title": "EnvBert: An NLP model for Environmental Due Diligence data classification"
+        },
+        {
+            "fullname": "Sara Fiori",
+            "type": "Talk",
+            "title": "Pytch: Give it a go — Supporting learners through the challenging transition from Scratch to Python"
+        },
+        {
+            "fullname": "Dom Weldon",
+            "type": "Talk",
+            "title": "Who does Python trust, and why?"
+        },
+        {
+            "fullname": "Tom Doyle",
+            "type": "Talk",
+            "title": "Securing the Supply Chain"
+        },
+        {
+            "fullname": "Florian Stefan",
+            "type": "Talk",
+            "title": "Testable data pipelines - Lessons learned from writing modular SQL and Python models with DBT"
+        },
+        {
+            "fullname": "John Gill",
+            "type": "Talk",
+            "title": "Exploring the Milky Way with astropy, matplotlib and Gaia"
+        },
+        {
+            "fullname": "Mark Smith",
+            "type": "Talk",
+            "title": "Build a Powerful Autonomous Assistant with AI"
+        },
+        {
+            "fullname": "Nathaniel Forde",
+            "type": "Talk",
+            "title": "Uncertainty and Causal Inference in Python with CausalPy"
+        },
+        {
+            "fullname": "Cosmin Marian Paduraru",
+            "type": "Talk",
+            "title": "Unlocking Visual Intelligence: Exploring Computer Vision with Python"
+        },
+        {
+            "fullname": "Michael Dowling",
+            "type": "Talk",
+            "title": "Pythonising Government AI"
+        },
+        {
+            "fullname": "Vishal Vatsa",
+            "type": "Talk",
+            "title": "A journey into Regular Expressions"
+        },
+        {
+            "fullname": "Mykalin Jones",
+            "type": "Talk",
+            "title": "A journey into Regular Expressions"
+        },
+        {
+            "fullname": "John Gill",
+            "type": "Talk",
+            "title": "Introduction to the Geometry of the Universe."
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Talk",
+            "title": "Writing Python modules in Rust - PyO3 101"
+        },
+        {
+            "fullname": "James Shields",
+            "type": "Talk",
+            "title": "Innovation Evolution: Using the Python ecosystem to jumpstart and build an innovation culture"
+        },
+        {
+            "fullname": "Olivier Bierlaire",
+            "type": "Talk",
+            "title": "Reducing Legacy Code's Carbon Footprint with AI"
+        },
+        {
+            "fullname": "Oleksandr Saienko",
+            "type": "Talk",
+            "title": "Building scalable GenAI Pipelines using Apache Beam"
+        },
+        {
+            "fullname": "Alistair Lynn",
+            "type": "Talk",
+            "title": "Exceptionally Tricky: Good errors in bad situations"
+        },
+        {
+            "fullname": "Tom Halpin",
+            "type": "Talk",
+            "title": "Leveraging GitHub Ecosystem for Python Projects: From Hello World to Docker Deployment"
+        },
+        {
+            "fullname": "Eoin Halpin",
+            "type": "Talk",
+            "title": "Leveraging GitHub Ecosystem for Python Projects: From Hello World to Docker Deployment"
+        },
+        {
+            "fullname": "David Andersson",
+            "type": "Talk",
+            "title": "Simplifying Python Web App Operations: Automating K8s Ops with Open Source"
+        },
+        {
+            "fullname": "John Curry",
+            "type": "Talk",
+            "title": "How to not Screw Up a Python Based Product Startup"
+        },
+        {
+            "fullname": "Paul Minogue",
+            "type": "Talk",
+            "title": "Vector Voodoo: Unleashing the Magic of Vector Databases with Python"
+        },
+        {
+            "fullname": "Velda Kiara",
+            "type": "Talk",
+            "title": "Django Performance Optimization using Django Debug Toolbar"
+        },
+        {
+            "fullname": "Shekhar Koirala",
+            "type": "Talk",
+            "title": "Parallel Python: Embracing the Future with Sub-Interpreters and Free Threading"
+        },
+        {
+            "fullname": "Florenz Hollebrandse",
+            "type": "Talk",
+            "title": "Designing modular services with a practical example in AI/ML model deployment"
+        },
+        {
+            "fullname": "Alex Andreev",
+            "type": "Talk",
+            "title": "Python Interface for the High-Performance C++ Library, Done the Right Way"
+        },
+        {
+            "fullname": "Mykalin Jones",
+            "type": "Talk",
+            "title": "Taking the ‘-Deoir’ out of ‘Taighdeoir’: Creating a Substring Search Tool for the Irish Language"
+        },
+        {
+            "fullname": "Ellen Corbett",
+            "type": "Talk",
+            "title": "Taking the ‘-Deoir’ out of ‘Taighdeoir’: Creating a Substring Search Tool for the Irish Language"
+        },
+        {
+            "fullname": "Juan Castillo del Río",
+            "type": "Talk",
+            "title": "Quantifying uncertainty with stochastic and machine learning models."
+        },
+        {
+            "fullname": "Marcel-Jan Krijgsman",
+            "type": "Talk",
+            "title": "How I use Python to prepare my astronomy podcast"
+        },
+        {
+            "fullname": "Mihai Criveti",
+            "type": "Talk",
+            "title": "Build your own \"Chat with Local Files\" using Retrieval Augmented Generation"
+        },
+        {
+            "fullname": "Mark Smith",
+            "type": "Talk",
+            "title": "Vector Search and RAG with Python & MongoDB"
+        },
+        {
+            "fullname": "Shekhar Koirala",
+            "type": "Talk",
+            "title": "RAG Reimagined: Supercharging Retrieval with Intelligent Agents"
+        },
+        {
+            "fullname": "Fabien Vauchelles",
+            "type": "Workshop",
+            "title": "Master Advanced Web Scraping Techniques in Python"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Talk",
+            "title": "Power up your Polars code with Polars extention"
+        }
+    ]
+}
