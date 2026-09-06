@@ -1,0 +1,48 @@
+{
+    "year": 2016,
+    "levels": {
+        "Sponsor": 0
+    },
+    "sponsors": [
+        {
+            "name": "Anders Innovations",
+            "website": "https://www.andersinnovations.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Headforwards",
+            "website": "https://headforwards.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Kapsi",
+            "website": "https://kapsi.fi/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "LocalBitcoins",
+            "website": "https://localbitcoins.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Nixu",
+            "website": "https://www.nixu.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Qentinel",
+            "website": "https://qentinel.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "SSH Communications Security",
+            "website": "https://www.ssh.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Zyte",
+            "website": "https://www.zyte.com/",
+            "level": "Sponsor"
+        }
+    ]
+}

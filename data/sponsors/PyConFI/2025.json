@@ -1,0 +1,101 @@
+{
+    "year": 2025,
+    "levels": {
+        "Diamond": 10000,
+        "Platinum": 6000,
+        "Gold": 4000,
+        "Silver": 1500,
+        "Bronze": 1000,
+        "Copper": 500,
+        "Supporting": 300,
+        "PyCon Finland Sponsor": 1000,
+        "Community": 0
+    },
+    "sponsors": [
+        {
+            "name": "iMio",
+            "website": "https://www.imio.be/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Quaive",
+            "website": "https://quaive.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Jazkarta",
+            "website": "https://www.jazkarta.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "RedTurtle",
+            "website": "https://www.redturtle.it/",
+            "level": "Silver"
+        },
+        {
+            "name": "Enfold Systems",
+            "website": "https://enfoldsystems.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "kitconcept",
+            "website": "https://www.kitconcept.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Affinitic",
+            "website": "https://affinitic.eu/",
+            "level": "Silver"
+        },
+        {
+            "name": "Starzel",
+            "website": "https://starzel.de/",
+            "level": "Bronze"
+        },
+        {
+            "name": "interaktiv",
+            "website": "https://interaktiv.de/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Mikko Ohtamaa",
+            "website": "",
+            "level": "Bronze"
+        },
+        {
+            "name": "ecityclic",
+            "website": "https://www.ecityclic.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Cloud 19",
+            "website": "",
+            "level": "Bronze"
+        },
+        {
+            "name": "Juizi",
+            "website": "",
+            "level": "Copper"
+        },
+        {
+            "name": "Tivia KS",
+            "website": "",
+            "level": "Supporting"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf-landing/",
+            "level": "Community"
+        },
+        {
+            "name": "EuroPython Society",
+            "website": "https://www.europython-society.org/",
+            "level": "Community"
+        },
+        {
+            "name": "Interjektio",
+            "website": "",
+            "level": "PyCon Finland Sponsor"
+        }
+    ]
+}
