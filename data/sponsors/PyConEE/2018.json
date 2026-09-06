@@ -1,0 +1,16 @@
+{
+    "year": 2018,
+    "levels": {
+        "Gold": 0,
+        "Sponsors and Partners": 0,
+        "Friends of PyCon Estonia": 0,
+        "Lifetime Sponsor": 0
+    },
+    "sponsors": [
+        {
+            "name": "neti.ee",
+            "website": "https://www.neti.ee/",
+            "level": "Gold"
+        }
+    ]
+}

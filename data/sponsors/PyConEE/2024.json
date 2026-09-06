@@ -1,0 +1,76 @@
+{
+    "year": 2024,
+    "levels": {
+        "Gold": 0,
+        "Sponsors and Partners": 0,
+        "Friends of PyCon Estonia": 0,
+        "Lifetime Sponsor": 0
+    },
+    "sponsors": [
+        {
+            "name": "Patchstack",
+            "website": "https://patchstack.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Thorgate",
+            "website": "https://thorgate.eu/",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "GlobalReader",
+            "website": "https://www.globalreader.com/",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "AppSignal",
+            "website": "https://appsignal.com/",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "Waybiller",
+            "website": "https://waybiller.com/",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "TalTech",
+            "website": "https://taltech.ee/",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "EuroPython Society",
+            "website": "www.europython-society.org/",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "PyCon Lithuania 2024",
+            "website": "https://pycon.lt/",
+            "level": "Friends of PyCon Estonia"
+        },
+        {
+            "name": "AI/ML Events",
+            "website": "",
+            "level": "Friends of PyCon Estonia"
+        },
+        {
+            "name": "Startup Estonia",
+            "website": "https://startupestonia.ee/",
+            "level": "Friends of PyCon Estonia"
+        },
+        {
+            "name": "Tehnopol",
+            "website": "https://tehnopol.ee/",
+            "level": "Friends of PyCon Estonia"
+        },
+        {
+            "name": "New Nordic AI",
+            "website": "",
+            "level": "Friends of PyCon Estonia"
+        }
+    ]
+}

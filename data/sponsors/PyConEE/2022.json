@@ -1,0 +1,46 @@
+{
+    "year": 2022,
+    "levels": {
+        "Gold": 0,
+        "Sponsors and Partners": 0,
+        "Friends of PyCon Estonia": 0,
+        "Lifetime Sponsor": 0
+    },
+    "sponsors": [
+        {
+            "name": "Thorgate",
+            "website": "https://thorgate.eu/",
+            "level": "Gold"
+        },
+        {
+            "name": "Veriff",
+            "website": "https://www.veriff.com/",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "Waybiller",
+            "website": "https://waybiller.com/",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "Nordigen",
+            "website": "https://nordigen.com/",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "UpCloud",
+            "website": "https://upcloud.com/",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "Tehnopol",
+            "website": "https://tehnopol.ee/",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "Packt",
+            "website": "www.packtpub.com",
+            "level": "Sponsors and Partners"
+        }
+    ]
+}

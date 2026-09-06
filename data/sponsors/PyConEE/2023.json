@@ -1,0 +1,61 @@
+{
+    "year": 2023,
+    "levels": {
+        "Gold": 0,
+        "Sponsors and Partners": 0,
+        "Friends of PyCon Estonia": 0,
+        "Lifetime Sponsor": 0
+    },
+    "sponsors": [
+        {
+            "name": "GlobalReader",
+            "website": "https://www.globalreader.com/",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "Patchstack",
+            "website": "https://patchstack.com/",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "Corner Case Tech",
+            "website": "",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "Xolo",
+            "website": "https://xolo.io/",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "Tehnopol",
+            "website": "https://tehnopol.ee/",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "Digit.dev",
+            "website": "",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "Qubit Labs",
+            "website": "https://qubit-labs.com/",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "Startup Estonia",
+            "website": "https://startupestonia.ee/",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "Thorgate",
+            "website": "https://thorgate.eu/",
+            "level": "Friends of PyCon Estonia"
+        }
+    ]
+}

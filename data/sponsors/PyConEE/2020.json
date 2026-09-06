@@ -1,0 +1,26 @@
+{
+    "year": 2020,
+    "levels": {
+        "Gold": 0,
+        "Sponsors and Partners": 0,
+        "Friends of PyCon Estonia": 0,
+        "Lifetime Sponsor": 0
+    },
+    "sponsors": [
+        {
+            "name": "Thorgate",
+            "website": "https://thorgate.eu/",
+            "level": "Gold"
+        },
+        {
+            "name": "Veriff",
+            "website": "https://www.veriff.com/",
+            "level": "Sponsors and Partners"
+        },
+        {
+            "name": "Adact",
+            "website": "https://www.adact.me/",
+            "level": "Sponsors and Partners"
+        }
+    ]
+}

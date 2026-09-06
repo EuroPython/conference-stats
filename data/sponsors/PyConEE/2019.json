@@ -1,0 +1,61 @@
+{
+    "year": 2019,
+    "levels": {
+        "Gold": 0,
+        "Sponsors and Partners": 0,
+        "Friends of PyCon Estonia": 0,
+        "Lifetime Sponsor": 0
+    },
+    "sponsors": [
+        {
+            "name": "Thorgate",
+            "website": "https://thorgate.eu/",
+            "level": "Gold"
+        },
+        {
+            "name": "Microsoft",
+            "website": "https://developer.microsoft.com/en-us/python/",
+            "level": "Gold"
+        },
+        {
+            "name": "Oracle",
+            "website": "https://www.oracle.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "KPMG",
+            "website": "https://kpmg.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Paxful",
+            "website": "https://paxful.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Nevercode",
+            "website": "https://nevercode.io/",
+            "level": "Gold"
+        },
+        {
+            "name": "UK Science and Innovation Network",
+            "website": "",
+            "level": "Gold"
+        },
+        {
+            "name": "British Embassy Tallinn",
+            "website": "",
+            "level": "Gold"
+        },
+        {
+            "name": "Namespace",
+            "website": "",
+            "level": "Gold"
+        },
+        {
+            "name": "Sticker Mule",
+            "website": "https://www.stickermule.com/",
+            "level": "Gold"
+        }
+    ]
+}
