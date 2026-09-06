@@ -1,0 +1,28 @@
+{
+    "year": 2014,
+    "levels": {
+        "Sponsor": 0
+    },
+    "sponsors": [
+        {
+            "name": "Enthought",
+            "website": "https://www.enthought.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Python Academy",
+            "website": "https://www.python-academy.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Logilab",
+            "website": "https://www.logilab.fr/",
+            "level": "Partner"
+        },
+        {
+            "name": "G-Node",
+            "website": "https://www.g-node.org/",
+            "level": "Partner"
+        }
+    ]
+}

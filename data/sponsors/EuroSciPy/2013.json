@@ -1,0 +1,73 @@
+{
+    "year": 2013,
+    "levels": {
+        "Sponsor": 0
+    },
+    "sponsors": [
+        {
+            "name": "Université libre de Bruxelles",
+            "website": "https://www.ulb.be/",
+            "level": "Gold"
+        },
+        {
+            "name": "Enthought",
+            "website": "https://www.enthought.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "NumFOCUS",
+            "website": "https://numfocus.org/",
+            "level": "Gold"
+        },
+        {
+            "name": "FNRS",
+            "website": "https://www.frs-fnrs.be/",
+            "level": "Gold"
+        },
+        {
+            "name": "VISITBRUSSELS",
+            "website": "https://visit.brussels/",
+            "level": "Gold"
+        },
+        {
+            "name": "IBM Belgium",
+            "website": "https://www.ibm.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Python Academy",
+            "website": "https://www.python-academy.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "GitHub",
+            "website": "https://github.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Python Software Verband",
+            "website": "https://www.python-verband.org/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Wingware",
+            "website": "https://wingware.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Logilab",
+            "website": "https://www.logilab.fr/",
+            "level": "Partner"
+        },
+        {
+            "name": "G-Node",
+            "website": "https://www.g-node.org/",
+            "level": "Partner"
+        },
+        {
+            "name": "Continuum Analytics",
+            "website": "https://www.anaconda.com/",
+            "level": "Partner"
+        }
+    ]
+}

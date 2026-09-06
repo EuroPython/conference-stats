@@ -1,0 +1,48 @@
+{
+    "year": 2018,
+    "levels": {
+        "Sponsor": 0
+    },
+    "sponsors": [
+        {
+            "name": "Fondazione Bruno Kessler",
+            "website": "https://www.fbk.eu/",
+            "level": "Institutional"
+        },
+        {
+            "name": "School of Medicine and Surgery",
+            "website": "",
+            "level": "Institutional"
+        },
+        {
+            "name": "Würth Phoenix",
+            "website": "https://www.wuerth-phoenix.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "BCG (Boston Consulting Group)",
+            "website": "https://www.bcg.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Enthought",
+            "website": "https://www.enthought.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "EuroPython Society (EPS)",
+            "website": "https://www.europython-society.org/",
+            "level": "Grant"
+        },
+        {
+            "name": "Python Software Foundation (PSF)",
+            "website": "https://www.python.org/psf-landing/",
+            "level": "Grant"
+        },
+        {
+            "name": "Manning Publications",
+            "website": "https://www.manning.com/",
+            "level": "Prize sponsor"
+        }
+    ]
+}

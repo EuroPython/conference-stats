@@ -1,0 +1,58 @@
+{
+    "year": 2015,
+    "levels": {
+        "Sponsor": 0
+    },
+    "sponsors": [
+        {
+            "name": "Jump Trading",
+            "website": "https://www.jumptrading.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Enthought",
+            "website": "https://www.enthought.com/",
+            "level": "Institutional"
+        },
+        {
+            "name": "Oxford Nanopore Technologies",
+            "website": "https://nanoporetech.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "JetBrains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Met Office",
+            "website": "https://www.metoffice.gov.uk/",
+            "level": "Silver"
+        },
+        {
+            "name": "Python Academy",
+            "website": "https://www.python-academy.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "ActiveState Komodo IDE",
+            "website": "https://www.activestate.com/",
+            "level": "Partner"
+        },
+        {
+            "name": "O'Reilly",
+            "website": "www.oreilly.com",
+            "level": "Partner"
+        },
+        {
+            "name": "Packt",
+            "website": "www.packtpub.com",
+            "level": "Partner"
+        },
+        {
+            "name": "NumFOCUS",
+            "website": "https://numfocus.org/",
+            "level": "Partner"
+        }
+    ]
+}
