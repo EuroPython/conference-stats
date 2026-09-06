@@ -1,0 +1,78 @@
+{
+    "year": 2014,
+    "levels": {
+        "Sponsor": 0
+    },
+    "sponsors": [
+        {
+            "name": "HexACK",
+            "website": "",
+            "level": "Gold"
+        },
+        {
+            "name": "Akretion",
+            "website": "https://www.akretion.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "ASK'interactive",
+            "website": "",
+            "level": "Gold"
+        },
+        {
+            "name": "Yaal",
+            "website": "https://www.yaal.coop/",
+            "level": "Gold"
+        },
+        {
+            "name": "Fédération Lyonnaise de Modélisation",
+            "website": "",
+            "level": "Gold"
+        },
+        {
+            "name": "Université Lyon 1",
+            "website": "https://www.univ-lyon1.fr/",
+            "level": "Gold"
+        },
+        {
+            "name": "alwaysdata",
+            "website": "https://www.alwaysdata.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "XCG Consulting",
+            "website": "https://www.xcg-consulting.fr/",
+            "level": "Gold"
+        },
+        {
+            "name": "UNLISH",
+            "website": "",
+            "level": "Gold"
+        },
+        {
+            "name": "Clever Cloud",
+            "website": "https://www.clever-cloud.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Bearstech",
+            "website": "https://bearstech.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Anybox",
+            "website": "https://anybox.fr/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Novapost",
+            "website": "https://www.novapost.fr/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Red Hat",
+            "website": "https://www.redhat.com/",
+            "level": "Bronze"
+        }
+    ]
+}
