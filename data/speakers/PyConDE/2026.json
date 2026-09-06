@@ -1,0 +1,905 @@
+{
+    "year": 2026,
+    "speakers": [
+        {
+            "fullname": "Silke Horn",
+            "type": "Sponsored Talk",
+            "title": "From Hard Problems to Proven Solutions: Solving Decision Problems with Gurobi"
+        },
+        {
+            "fullname": "Stephen",
+            "type": "Talk",
+            "title": "In Praise of Documentation: Tools, Tips & Techniques for Literate Programming in the AI Age"
+        },
+        {
+            "fullname": "Leon Lukas",
+            "type": "Talk",
+            "title": "From Ticket to Draft: How Munich Automates Citizen Inquiries with AI"
+        },
+        {
+            "fullname": "Harald Nezbeda",
+            "type": "Talk",
+            "title": "Building Secure Environments for CLI Code Agents"
+        },
+        {
+            "fullname": "Sebastian Krauss",
+            "type": "Talk",
+            "title": "Is my AI Recruiting biased? - How to evaluate these systems"
+        },
+        {
+            "fullname": "Subhosri Basu",
+            "type": "Talk",
+            "title": "Catch the LLM if you Can: Watermarking LLMs"
+        },
+        {
+            "fullname": "Jon Nordby",
+            "type": "Talk",
+            "title": "Embedding Data Science in IoT devices with MicroPython and emlearn"
+        },
+        {
+            "fullname": "Thomas Prexl",
+            "type": "Talk",
+            "title": "It Works on My Machine: Why LLM Apps Fail Users (Not Tests)"
+        },
+        {
+            "fullname": "Frank Rust",
+            "type": "Talk",
+            "title": "It Works on My Machine: Why LLM Apps Fail Users (Not Tests)"
+        },
+        {
+            "fullname": "Jeyashree Krishnan",
+            "type": "Talk",
+            "title": "From Research Models to SLAs: Operationalizing TSFMs with Python"
+        },
+        {
+            "fullname": "Catarina Filipe",
+            "type": "Talk",
+            "title": "From Research Models to SLAs: Operationalizing TSFMs with Python"
+        },
+        {
+            "fullname": "Mahe Iram Khan",
+            "type": "Talk",
+            "title": "How to mix conda and pip without causing “environmental” damage."
+        },
+        {
+            "fullname": "Jannis Lübbe",
+            "type": "Talk",
+            "title": "Offline Fallback for a Mobile LoRaWAN Gateway"
+        },
+        {
+            "fullname": "Daniel Finnan",
+            "type": "Talk",
+            "title": "To nest, or not to nest? Nested data types in Polars with big data"
+        },
+        {
+            "fullname": "Paula Gonzalez Avalos",
+            "type": "Open Space",
+            "title": "Workshop: What do we still need to learn? [no-video]"
+        },
+        {
+            "fullname": "Sebastian Neubauer",
+            "type": "Open Space",
+            "title": "Workshop: What do we still need to learn? [no-video]"
+        },
+        {
+            "fullname": "Dr. Kristian Rother",
+            "type": "Open Space",
+            "title": "Workshop: What do we still need to learn? [no-video]"
+        },
+        {
+            "fullname": "Florian Wilhelm",
+            "type": "Talk",
+            "title": "Sentinel Values in Python: Semantics, Double Dispatch, and the Limits of Typing"
+        },
+        {
+            "fullname": "Kyle Into",
+            "type": "Sponsored Talk",
+            "title": "Type Errors for Better Agent-Assisted Development"
+        },
+        {
+            "fullname": "Nils Haase",
+            "type": "Talk",
+            "title": "Octopus AutoML: Extracting Signal from Small and High-Dimensional Data"
+        },
+        {
+            "fullname": "Andreas Wurl",
+            "type": "Talk",
+            "title": "Octopus AutoML: Extracting Signal from Small and High-Dimensional Data"
+        },
+        {
+            "fullname": "Ryan Sequeira",
+            "type": "Talk",
+            "title": "Ship Data with Confidence: Declarative Validation for PySpark & Pandas"
+        },
+        {
+            "fullname": "Vincenzo Ventriglia",
+            "type": "Talk",
+            "title": "When Space Weather Breaks Your GPS: Building an Explainable Early Warning System"
+        },
+        {
+            "fullname": "Sebastian Raschka",
+            "type": "Panel",
+            "title": "Stop Waiting, Start Shipping: Real-World Strategy for Open-Source LLMs"
+        },
+        {
+            "fullname": "Alexander CS Hendorf",
+            "type": "Panel",
+            "title": "Stop Waiting, Start Shipping: Real-World Strategy for Open-Source LLMs"
+        },
+        {
+            "fullname": "Bernhard Schäfer",
+            "type": "Talk (long)",
+            "title": "Empowering Data Scientists with Zero Platform Friction: Deploying Streamlit & Friends in 3 Minutes"
+        },
+        {
+            "fullname": "Nicolas Renkamp",
+            "type": "Talk (long)",
+            "title": "Empowering Data Scientists with Zero Platform Friction: Deploying Streamlit & Friends in 3 Minutes"
+        },
+        {
+            "fullname": "John Robert",
+            "type": "Talk (long)",
+            "title": "Securing AI Agentic Systems: Enforcing Safety Constraints in AI Agent"
+        },
+        {
+            "fullname": "Raniere Silva",
+            "type": "Tutorial",
+            "title": "A minimalist introduction to Ansible"
+        },
+        {
+            "fullname": "Bruno Vollmer",
+            "type": "Talk",
+            "title": "Simplicity Scales: Rewriting to a Django Monolith and Monorepo"
+        },
+        {
+            "fullname": "Mehdi Ouazza",
+            "type": "Tutorial",
+            "title": "SQL is Dead, Long Live SQL: Engineering reliable analytics agent from scratch"
+        },
+        {
+            "fullname": "Dumky de Wilde",
+            "type": "Tutorial",
+            "title": "SQL is Dead, Long Live SQL: Engineering reliable analytics agent from scratch"
+        },
+        {
+            "fullname": "Iason Krommydas",
+            "type": "Tutorial",
+            "title": "Array-Oriented Programming in Python: Libraries, Techniques, and Trade-offs"
+        },
+        {
+            "fullname": "Yann Lechelle",
+            "type": "Panel",
+            "title": "Open Source as a Business — Models, Paths, and Practice"
+        },
+        {
+            "fullname": "Ines Montani",
+            "type": "Panel",
+            "title": "Open Source as a Business — Models, Paths, and Practice"
+        },
+        {
+            "fullname": "Sylvain Corlay",
+            "type": "Panel",
+            "title": "Open Source as a Business — Models, Paths, and Practice"
+        },
+        {
+            "fullname": "Alexander CS Hendorf",
+            "type": "Panel",
+            "title": "Open Source as a Business — Models, Paths, and Practice"
+        },
+        {
+            "fullname": "Claudio Giorgio Giancaterino",
+            "type": "Talk",
+            "title": "From Pixel to Payouts: A Multi-Agent System for Real-Time Insurance Claims Processing"
+        },
+        {
+            "fullname": "Yannik Tausch",
+            "type": "Sponsored Talk",
+            "title": "Kickstart Coding at Scale: How Project Template Automation Unlocks Developer Productivity"
+        },
+        {
+            "fullname": "Ines Montani",
+            "type": "Talk",
+            "title": "Vibe NLP for Applied NLP"
+        },
+        {
+            "fullname": "Gabi Kadlecova",
+            "type": "Talk",
+            "title": "Small Language Models for Tool Calling Are Better Than You Think"
+        },
+        {
+            "fullname": "Pavlo Penenko",
+            "type": "Talk",
+            "title": "Metashade: Compilerless Immediate-Mode Shader Generation in Pure Python"
+        },
+        {
+            "fullname": "Illia Babounikau",
+            "type": "Talk",
+            "title": "Accuracy Is Overrated: Ship Stable Forecasts (Without Lying to Yourself)"
+        },
+        {
+            "fullname": "Huijo Kim",
+            "type": "Talk",
+            "title": "Agent-Based Hyperparameter Optimization for Gradient Boosted Trees"
+        },
+        {
+            "fullname": "Sebastian Raschka",
+            "type": "Keynote",
+            "title": "From Scratch to Scale: Turning LLM Code into Architecture Insights"
+        },
+        {
+            "fullname": "Maris Nieuwenhuis",
+            "type": "Talk",
+            "title": "Build a web coding platform with Python, run in WebAssembly"
+        },
+        {
+            "fullname": "Moin Uddin",
+            "type": "Talk",
+            "title": "Django-Q2: Async Tasks Made Simple"
+        },
+        {
+            "fullname": "Alexander Zaytsev",
+            "type": "Talk",
+            "title": "Demystifying Containers with Python: Building a Minimal Engine from Scratch"
+        },
+        {
+            "fullname": "Heiner Wolf",
+            "type": "Talk (long)",
+            "title": "Beyond Stateless: Why Your Web Service Architecture is Fighting Against Performance"
+        },
+        {
+            "fullname": "Dennie Declercq",
+            "type": "Talk",
+            "title": "(Autism and) The Predictive Brain Theory (in Tech)"
+        },
+        {
+            "fullname": "Andy Kitchen",
+            "type": "Talk",
+            "title": "On Interventional Generalisation"
+        },
+        {
+            "fullname": "Gabriela Bogk",
+            "type": "Keynote",
+            "title": "\"Honey, I vibe coded some crypto\" - Security in the age of LLMS"
+        },
+        {
+            "fullname": "Ina Schlie",
+            "type": "Panel",
+            "title": "Start-Ups & Investors"
+        },
+        {
+            "fullname": "Carlina Bennison",
+            "type": "Panel",
+            "title": "Start-Ups & Investors"
+        },
+        {
+            "fullname": "Sara Jourdan",
+            "type": "Panel",
+            "title": "Start-Ups & Investors"
+        },
+        {
+            "fullname": "Jovana Walter",
+            "type": "Panel",
+            "title": "Start-Ups & Investors"
+        },
+        {
+            "fullname": "Alina Dallmann",
+            "type": "Talk",
+            "title": "Beyond Vibe-Coding: A Practitioner's Guide to Spec-Driven Development in AI Engineering"
+        },
+        {
+            "fullname": "Tereza Iofciu",
+            "type": "Tutorial",
+            "title": "Getting Career Clarity in Uncertain Times"
+        },
+        {
+            "fullname": "Oleh Kostromin",
+            "type": "Talk",
+            "title": "State of In-Browser ML: WebAssembly, WebGPU, and the Modern Stack"
+        },
+        {
+            "fullname": "Iryna Kondrashchenko",
+            "type": "Talk",
+            "title": "State of In-Browser ML: WebAssembly, WebGPU, and the Modern Stack"
+        },
+        {
+            "fullname": "Marcel Kurovski",
+            "type": "Talk (long)",
+            "title": "Personalized Restaurant Recommendations at Scale combining Transformer with Gradient-Boosted Ranking"
+        },
+        {
+            "fullname": "Steffen Klempau",
+            "type": "Talk (long)",
+            "title": "Personalized Restaurant Recommendations at Scale combining Transformer with Gradient-Boosted Ranking"
+        },
+        {
+            "fullname": "Valentin Zieglmeier",
+            "type": "Talk",
+            "title": "Reaching the next level of abstraction: meta classes and what they enable"
+        },
+        {
+            "fullname": "Mohamed Amine Jebari",
+            "type": "Talk",
+            "title": "Hierarchical Models in MMM: Can Structure beat data size?"
+        },
+        {
+            "fullname": "Rahkakavee Baskaran",
+            "type": "Talk",
+            "title": "Building MCP at the Speed of Hype: Principles That Outlast the Trends"
+        },
+        {
+            "fullname": "Friederike Bauer",
+            "type": "Talk",
+            "title": "Building MCP at the Speed of Hype: Principles That Outlast the Trends"
+        },
+        {
+            "fullname": "Evgeniya Ovchinnikova",
+            "type": "Talk",
+            "title": "Don’t call your LLM too often! How to build your dialog graph with confidence and sleep at night."
+        },
+        {
+            "fullname": "Andrei Beliankou",
+            "type": "Talk",
+            "title": "Don’t call your LLM too often! How to build your dialog graph with confidence and sleep at night."
+        },
+        {
+            "fullname": "Raphael Hviding",
+            "type": "Talk",
+            "title": "Black Hole Stars: An Astronomical Mystery (Mostly) Solved with NumPyro and JAX"
+        },
+        {
+            "fullname": "Jonas Dedden",
+            "type": "Talk (long)",
+            "title": "Scaling Data Processing for Training Workloads at DeepL Research with Rust"
+        },
+        {
+            "fullname": "Johanna Goergen",
+            "type": "Talk (long)",
+            "title": "Scaling Data Processing for Training Workloads at DeepL Research with Rust"
+        },
+        {
+            "fullname": "Nico Buhl",
+            "type": "Talk",
+            "title": "Increase productivity of CNC-machining of aerospace engine parts with Python"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Talk",
+            "title": "Are we free-threaded ready? Looking at where free-threaded Python fails"
+        },
+        {
+            "fullname": "Aimilios Tsouvelekakis",
+            "type": "Talk (long)",
+            "title": "From Row-Wise to Columnar: Speeding Up PySpark UDFs with Arrow and Polars"
+        },
+        {
+            "fullname": "Ajay",
+            "type": "Talk",
+            "title": "Surviving AI Fatigue: Staying Sane and Relevant in a Fast Moving Field"
+        },
+        {
+            "fullname": "Jeyashree Krishnan",
+            "type": "Talk",
+            "title": "Surviving AI Fatigue: Staying Sane and Relevant in a Fast Moving Field"
+        },
+        {
+            "fullname": "Tobias Senst",
+            "type": "Talk (long)",
+            "title": "When LLMs Are Too Big: Building Cost-Efficient High-Throughput ML Systems for E-Commerce Cataloging"
+        },
+        {
+            "fullname": "Bastian Wandt",
+            "type": "Talk (long)",
+            "title": "When LLMs Are Too Big: Building Cost-Efficient High-Throughput ML Systems for E-Commerce Cataloging"
+        },
+        {
+            "fullname": "Dominik Haitz",
+            "type": "Talk",
+            "title": "How to create effective data visualizations"
+        },
+        {
+            "fullname": "Freya Bruhin",
+            "type": "Tutorial",
+            "title": "pytest tips and tricks for a better testsuite"
+        },
+        {
+            "fullname": "Moritz Bauer",
+            "type": "Talk",
+            "title": "Making bad CLIs fun with Small Language Models"
+        },
+        {
+            "fullname": "Oliver Borchert",
+            "type": "Tutorial",
+            "title": "Building reliable data pipelines with polars and dataframely"
+        },
+        {
+            "fullname": "Andreas Albert",
+            "type": "Tutorial",
+            "title": "Building reliable data pipelines with polars and dataframely"
+        },
+        {
+            "fullname": "Abdullah Taha",
+            "type": "Talk",
+            "title": "Holistic Optimization: Implementing \"Pipeline-as-a-Trial\" HPO with Ray and Cloud Infra"
+        },
+        {
+            "fullname": "Theodore Meynard",
+            "type": "Talk",
+            "title": "Solving Marketplace Cold Start at Scale with Ranking"
+        },
+        {
+            "fullname": "Tamara Badikyan",
+            "type": "Talk",
+            "title": "Making Tech Tutorials Accessible: Practical Techniques for Educators"
+        },
+        {
+            "fullname": "Gaël Pegliasco",
+            "type": "Talk (long)",
+            "title": "Demystifying Parallel Programming in Python: from CPU to quantum processors, including GPU and TPU"
+        },
+        {
+            "fullname": "Axel Buddendiek",
+            "type": "Talk",
+            "title": "Pair & Share: How formal Mentoring pushed REWE Analytics to a new level"
+        },
+        {
+            "fullname": "Johannes Dröge",
+            "type": "Talk (long)",
+            "title": "Beyond Kafka and S3: Python Data Pipelines with HTTP-Native Bytestreams"
+        },
+        {
+            "fullname": "Jonas Böer",
+            "type": "Talk",
+            "title": "Rediscovering single-node processing: When does it make sense to move from Spark to Polars?"
+        },
+        {
+            "fullname": "Werner Gothein",
+            "type": "Talk",
+            "title": "AI Is Changing the Game: Building Modular, AI-Ready Platforms on Top of Legacy Systems"
+        },
+        {
+            "fullname": "Holger Nösekabel",
+            "type": "Talk (long)",
+            "title": "Building Agentic Systems with Python, LangGraph, MCP, and A2A"
+        },
+        {
+            "fullname": "Kavish Nareshchandra Dahekar",
+            "type": "Talk",
+            "title": "Python Hates Being PID 1: Writing Container-Aware Code for Kubernetes"
+        },
+        {
+            "fullname": "Justine Broihan",
+            "type": "Sponsored Talk",
+            "title": "The Art of the Optimal: A Pythonic Approach to Complex Decision-Making"
+        },
+        {
+            "fullname": "Claudia Comito",
+            "type": "Talk",
+            "title": "Heat: scaling the Python scientific stack to HPC systems"
+        },
+        {
+            "fullname": "Thomas Saupe",
+            "type": "Talk",
+            "title": "Heat: scaling the Python scientific stack to HPC systems"
+        },
+        {
+            "fullname": "Celeste Horgan",
+            "type": "Sponsored Talk",
+            "title": "Making my Apache Spark™ talk more interesting using AI"
+        },
+        {
+            "fullname": "Paula Gonzalez Avalos",
+            "type": "Panel",
+            "title": "Panel What Do We Still Need to Learn?"
+        },
+        {
+            "fullname": "Sebastian Unterreitmeier",
+            "type": "Panel",
+            "title": "Panel What Do We Still Need to Learn?"
+        },
+        {
+            "fullname": "Silvia Hänig",
+            "type": "Panel",
+            "title": "Panel What Do We Still Need to Learn?"
+        },
+        {
+            "fullname": "Dr. Kristian Rother",
+            "type": "Panel",
+            "title": "Panel What Do We Still Need to Learn?"
+        },
+        {
+            "fullname": "Camila Maia",
+            "type": "Tutorial",
+            "title": "Your First Open Source Contribution in Python: From Fork to Pull Request"
+        },
+        {
+            "fullname": "Frank Hutter",
+            "type": "Sponsored Talk",
+            "title": "The foundation model revolution for tabular data"
+        },
+        {
+            "fullname": "Dr. Irena Bojarovska",
+            "type": "Talk",
+            "title": "Foundation Models in Forecasting: Are We There Yet? Lessons from the Trenches"
+        },
+        {
+            "fullname": "Hilde Kühne",
+            "type": "Keynote",
+            "title": "The Multimodal Era of Machine Learning (and How Python Made It Possible)"
+        },
+        {
+            "fullname": "Aaron Glenn",
+            "type": "Keynote",
+            "title": "A View of Sovereignty from The Cloud"
+        },
+        {
+            "fullname": "Étienne Tremblay",
+            "type": "Talk",
+            "title": "Using Sensor Fusion and ML to Navigate Underground When GPS Fails"
+        },
+        {
+            "fullname": "Darya Petrashka",
+            "type": "Talk",
+            "title": "\"You are an intelligent business analyst\": how i learned to talk to business"
+        },
+        {
+            "fullname": "Rashmi Nagpal",
+            "type": "Talk (long)",
+            "title": "What Breaks When Automatic Speech Recognition Systems Go Multilingual"
+        },
+        {
+            "fullname": "Shiva Banasaz Nouri",
+            "type": "Talk (long)",
+            "title": "Building Non-Biased Synthetic Datasets: What Actually Works (and What Fails)"
+        },
+        {
+            "fullname": "Simon Hedrich",
+            "type": "Talk",
+            "title": "Mastering the Hex: A Case Study in Reinforcement Learning for Strategy Games"
+        },
+        {
+            "fullname": "Cosima Meyer",
+            "type": "Talk",
+            "title": "Why Did The Model Do That? Debugging the Ghost in the Machine"
+        },
+        {
+            "fullname": "Martin Seeler",
+            "type": "Talk",
+            "title": "AI Evals Done Right: From Vibes to Confident Decisions"
+        },
+        {
+            "fullname": "Vadim Vlasov",
+            "type": "Talk",
+            "title": "Escape the Hype: Teaching LLM Concepts Through an Interactive AI Factory Game"
+        },
+        {
+            "fullname": "Eric Glaser",
+            "type": "Talk",
+            "title": "Escape the Hype: Teaching LLM Concepts Through an Interactive AI Factory Game"
+        },
+        {
+            "fullname": "Lisa Amrhein",
+            "type": "Talk",
+            "title": "Escape the Hype: Teaching LLM Concepts Through an Interactive AI Factory Game"
+        },
+        {
+            "fullname": "Dr. Evelyne Groen",
+            "type": "Tutorial",
+            "title": "Accelerate FastAPI Development with OpenAPI Generator"
+        },
+        {
+            "fullname": "Kateryna Budzyak",
+            "type": "Tutorial",
+            "title": "Accelerate FastAPI Development with OpenAPI Generator"
+        },
+        {
+            "fullname": "Laurent Direr",
+            "type": "Talk",
+            "title": "Practical Refactoring with Syntax Trees"
+        },
+        {
+            "fullname": "Dennis Schulz",
+            "type": "Talk",
+            "title": "Restaurants around train stations are bad and I can prove it"
+        },
+        {
+            "fullname": "Tim Kreitner",
+            "type": "Talk",
+            "title": "Free T(h)r(e)ading: A Trading Systems Journey Beyond the GIL"
+        },
+        {
+            "fullname": "Samuel Oslovich",
+            "type": "Invited Talk",
+            "title": "Programming Quantum Networks in Python"
+        },
+        {
+            "fullname": "Giancarlo Mattia",
+            "type": "Talk",
+            "title": "Post-Processing and Visualization of Astrophysical Data with PyPLUTO"
+        },
+        {
+            "fullname": "Sarah Masud",
+            "type": "Talk",
+            "title": "Tracking Knowledge Diversity in LLM-Generated Responses."
+        },
+        {
+            "fullname": "Asya Melnik",
+            "type": "Talk",
+            "title": "The Day the Agent Started Lying (Politely)"
+        },
+        {
+            "fullname": "Akif Cakir",
+            "type": "Talk",
+            "title": "From Struggling to Mastery: A Practical Guide to Data Pipeline Operations"
+        },
+        {
+            "fullname": "Rostislaw Krassow",
+            "type": "Talk (long)",
+            "title": "Fight your garbage data: implementation of a pythonic data quality monitoring framework in PySpark"
+        },
+        {
+            "fullname": "Joshua Finger",
+            "type": "Talk (long)",
+            "title": "Fight your garbage data: implementation of a pythonic data quality monitoring framework in PySpark"
+        },
+        {
+            "fullname": "Valerio Maggio",
+            "type": "Talk",
+            "title": "Come for the Code, Stay for the People."
+        },
+        {
+            "fullname": "Alejandro Saucedo",
+            "type": "Talk",
+            "title": "Production ML across 2015-2035: A Journey to the Past and the Future"
+        },
+        {
+            "fullname": "Dr. Juan Orduz",
+            "type": "Talk (long)",
+            "title": "Causal Inference through the lens of probabilistic programming"
+        },
+        {
+            "fullname": "Tanio Toranosuke",
+            "type": "Talk",
+            "title": "Schema-Driven Lambdaliths in Python with AWS Lambda Powertools and Pydantic"
+        },
+        {
+            "fullname": "Haruto Mori",
+            "type": "Talk",
+            "title": "Schema-Driven Lambdaliths in Python with AWS Lambda Powertools and Pydantic"
+        },
+        {
+            "fullname": "Stefan Kraus",
+            "type": "Talk",
+            "title": "Ty mypy:  The New Generation of Python Type Checking"
+        },
+        {
+            "fullname": "Tereza Iofciu",
+            "type": "Panel",
+            "title": "PyLadies Fireside Chat"
+        },
+        {
+            "fullname": "Dawn Wages",
+            "type": "Panel",
+            "title": "PyLadies Fireside Chat"
+        },
+        {
+            "fullname": "Jessica Greene (she/her)",
+            "type": "Panel",
+            "title": "PyLadies Fireside Chat"
+        },
+        {
+            "fullname": "Dr. Maria Börner",
+            "type": "Talk",
+            "title": "Is digital sovereignty a new buzzword in AI development?"
+        },
+        {
+            "fullname": "Christopher Sedlaczek-Bock",
+            "type": "Sponsored Talk",
+            "title": "Python in Climate Tech: Vehicle-to-Grid"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Tutorial",
+            "title": "Do you know how well your model is doing? Evaluate your LLMs"
+        },
+        {
+            "fullname": "Arne Grobrügge",
+            "type": "Talk",
+            "title": "Simplifying RAG Document Pipelines with Multimodal Embeddings"
+        },
+        {
+            "fullname": "Tomas Ruiz",
+            "type": "Talk",
+            "title": "PyTorch and CPU-GPU Synchronizations"
+        },
+        {
+            "fullname": "Xia He-Bleinagel",
+            "type": "Talk",
+            "title": "How We Built an Inclusive Data Organization: Careers, Community & 50% Women"
+        },
+        {
+            "fullname": "Serhii Sokolenko",
+            "type": "Tutorial",
+            "title": "From Prompt to Production: How to use AI Code Assistants for Python Data Systems"
+        },
+        {
+            "fullname": "Joshua Görner",
+            "type": "Talk (long)",
+            "title": "7 Anti-Lessons from Building a PydanticAI Agent: Mistakes We Made So You Don't Have To"
+        },
+        {
+            "fullname": "Laura Summers",
+            "type": "Talk",
+            "title": "No, you can't 'eval' your way to fairness"
+        },
+        {
+            "fullname": "Francesco Conte",
+            "type": "Talk",
+            "title": "Roll for Architecture: DungeonPy – A D&D Companion as Server + Thin Clients"
+        },
+        {
+            "fullname": "Stefan Birr",
+            "type": "Talk",
+            "title": "How to compare apples with oranges: Proper evaluation of article-level demand forecasts"
+        },
+        {
+            "fullname": "Mones Raslan",
+            "type": "Talk",
+            "title": "How to compare apples with oranges: Proper evaluation of article-level demand forecasts"
+        },
+        {
+            "fullname": "Petar Ilijevski",
+            "type": "Talk",
+            "title": "Zero-Copy or Zero-Speed? The hidden overhead of PySpark, Arrow & SynapseML for inference"
+        },
+        {
+            "fullname": "Franz Wöllert",
+            "type": "Talk (long)",
+            "title": "Open Table Formats in the Wild™ - Reloaded: Vortexing Ducks over Floating Icebergs"
+        },
+        {
+            "fullname": "Jakob Leander Müller",
+            "type": "Talk",
+            "title": "Dynamic Knowledge Graphs"
+        },
+        {
+            "fullname": "Falko Schindler",
+            "type": "Talk",
+            "title": "5 Years of NiceGUI: What We Learned About Designing Pythonic UIs"
+        },
+        {
+            "fullname": "Alexander CS Hendorf",
+            "type": "Open Space",
+            "title": "Problem Clinic: Python in Regulated Environments --- What Works, What Doesn't"
+        },
+        {
+            "fullname": "Stefan Dienst",
+            "type": "Talk",
+            "title": "Building Trust in Your Data Pipelines with Observability"
+        },
+        {
+            "fullname": "Igor Anokhin",
+            "type": "Talk",
+            "title": "AsyncIO vs Threads: who survives in the No-GIL Era?"
+        },
+        {
+            "fullname": "Benjamin",
+            "type": "Talk",
+            "title": "Wetterdienst: Fast, Unified Access to Open Weather Data with Polars"
+        },
+        {
+            "fullname": "Camila Maia",
+            "type": "Talk (long)",
+            "title": "Designing and Scaling a Python Library in the Open: Architecture, Automation and Community"
+        },
+        {
+            "fullname": "Shlomi Hod",
+            "type": "Tutorial",
+            "title": "Your Data Is Leaking: A Hands-On Introduction to Differential Privacy with OpenDP"
+        },
+        {
+            "fullname": "Marcel Neunhoeffer",
+            "type": "Tutorial",
+            "title": "Your Data Is Leaking: A Hands-On Introduction to Differential Privacy with OpenDP"
+        },
+        {
+            "fullname": "Larissa Haas",
+            "type": "Talk",
+            "title": "Letting AI Move: Robotics Demos Powered by Python"
+        },
+        {
+            "fullname": "Annika Herbert",
+            "type": "Talk",
+            "title": "Letting AI Move: Robotics Demos Powered by Python"
+        },
+        {
+            "fullname": "Stefanie Molin",
+            "type": "Tutorial",
+            "title": "Process, Analyze, and Transform Python Code with ASTs"
+        },
+        {
+            "fullname": "Luke Gerstner",
+            "type": "Sponsored Talk",
+            "title": "Leveraging Hexagonal Architecture When Building Applications"
+        },
+        {
+            "fullname": "Sebastian Neubauer",
+            "type": "Panel",
+            "title": "Panel: Evolution, Revolution, or Illusion? The Future of Python and Coding in the Age of AI"
+        },
+        {
+            "fullname": "Markus Klein",
+            "type": "Panel",
+            "title": "Panel: Evolution, Revolution, or Illusion? The Future of Python and Coding in the Age of AI"
+        },
+        {
+            "fullname": "Asya Melnik",
+            "type": "Panel",
+            "title": "Panel: Evolution, Revolution, or Illusion? The Future of Python and Coding in the Age of AI"
+        },
+        {
+            "fullname": "Serhii Sokolenko",
+            "type": "Panel",
+            "title": "Panel: Evolution, Revolution, or Illusion? The Future of Python and Coding in the Age of AI"
+        },
+        {
+            "fullname": "Ines Montani",
+            "type": "Panel",
+            "title": "Panel: Evolution, Revolution, or Illusion? The Future of Python and Coding in the Age of AI"
+        },
+        {
+            "fullname": "Niklas",
+            "type": "Talk",
+            "title": "Simulating the World using SimPy: A practical Example"
+        },
+        {
+            "fullname": "Travis Hathaway",
+            "type": "Talk (long)",
+            "title": "Exploring Germany's Urban Geography with Census and OpenStreetMap Data"
+        },
+        {
+            "fullname": "Sebastian Neubauer",
+            "type": "Talk",
+            "title": "Hype, Hope, or Headache? Making Sense of GenAI, LLMs, and AI Agents with Anecdotal Evidence"
+        },
+        {
+            "fullname": "Simonas Černiauskas",
+            "type": "Talk",
+            "title": "Before You Ship Your Agent: An Agent Builder’s Primer on Jailbreaking Attacks"
+        },
+        {
+            "fullname": "Christoph Frey",
+            "type": "Talk",
+            "title": "Tidy Finance in Practice: How Explicit Assumptions Avoid Bad Investment Strategies"
+        },
+        {
+            "fullname": "Pascal Puchtler",
+            "type": "Talk (long)",
+            "title": "Destructive Testing: 10 Practical Ways to Expose Hidden Application Risks"
+        },
+        {
+            "fullname": "Serhii Sokolenko",
+            "type": "Talk",
+            "title": "Demystifying Agentic AI Using Small Language Models"
+        },
+        {
+            "fullname": "Gaweng Tan",
+            "type": "Talk",
+            "title": "Learnings Building DevOps as a Software Engineer"
+        },
+        {
+            "fullname": "Eduard Thamm",
+            "type": "Talk (long)",
+            "title": "Architecture Under Constraints: Designing Systems That Still Evolve"
+        },
+        {
+            "fullname": "Mirano Tuk",
+            "type": "Talk",
+            "title": "How to Search Through 800 Billion Records in Real Time"
+        },
+        {
+            "fullname": "Filip Bacic",
+            "type": "Talk",
+            "title": "How to Search Through 800 Billion Records in Real Time"
+        }
+    ]
+}
