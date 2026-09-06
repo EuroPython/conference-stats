@@ -1,0 +1,86 @@
+{
+    "year": 2024,
+    "levels": {
+        "Platinum": 0,
+        "Gold": 0,
+        "Silver": 0,
+        "Bronze": 0
+    },
+    "sponsors": [
+        {
+            "name": "Titans",
+            "website": "https://titans.click/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Gold"
+        },
+        {
+            "name": "European Python Society (EPS)",
+            "website": "https://www.europython-society.org/",
+            "level": "Gold"
+        },
+        {
+            "name": "Zurich",
+            "website": "https://www.zurich.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "IBL",
+            "website": "",
+            "level": "Silver"
+        },
+        {
+            "name": "Takeda",
+            "website": "https://www.takeda.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Aliter technologies",
+            "website": "https://www.aliter.sk/",
+            "level": "Silver"
+        },
+        {
+            "name": "Seznam",
+            "website": "https://www.seznam.cz/",
+            "level": "Silver"
+        },
+        {
+            "name": "Blueprint Power & MAKERS",
+            "website": "",
+            "level": "Silver"
+        },
+        {
+            "name": "Bloomreach",
+            "website": "https://www.bloomreach.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "GOPAS",
+            "website": "https://www.gopas.cz/",
+            "level": "Silver"
+        },
+        {
+            "name": "Slido",
+            "website": "https://www.slido.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "O'Reilly",
+            "website": "www.oreilly.com",
+            "level": "Bronze"
+        },
+        {
+            "name": "O'Alma Career",
+            "website": "",
+            "level": "Bronze"
+        },
+        {
+            "name": "Sticker Mule",
+            "website": "",
+            "level": "Bronze"
+        }
+    ]
+}

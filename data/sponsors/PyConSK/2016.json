@@ -1,0 +1,96 @@
+{
+    "year": 2016,
+    "levels": {
+        "Platinum": 0,
+        "Gold": 0,
+        "Silver": 0,
+        "Bronze": 0
+    },
+    "sponsors": [
+        {
+            "name": "Red Hat",
+            "website": "https://www.redhat.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Erigones",
+            "website": "https://erigones.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Gold"
+        },
+        {
+            "name": "VNET",
+            "website": "https://www.vnet.sk/",
+            "level": "Gold"
+        },
+        {
+            "name": "ESET",
+            "website": "https://www.eset.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "GridMarkets",
+            "website": "https://www.gridmarkets.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "WebSupport",
+            "website": "https://www.websupport.sk/",
+            "level": "Silver"
+        },
+        {
+            "name": "Switzerlab",
+            "website": "",
+            "level": "Silver"
+        },
+        {
+            "name": "Fedora",
+            "website": "https://getfedora.org/",
+            "level": "Bronze"
+        },
+        {
+            "name": "JetBrains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "digitalware",
+            "website": "",
+            "level": "Bronze"
+        },
+        {
+            "name": "sli.do",
+            "website": "https://www.slido.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "IT Academy",
+            "website": "",
+            "level": "Bronze"
+        },
+        {
+            "name": "RADIX",
+            "website": "",
+            "level": "Bronze"
+        },
+        {
+            "name": "GOPAS",
+            "website": "https://www.gopas.cz/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Skypicker",
+            "website": "https://www.kiwi.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "DIVIO",
+            "website": "https://www.divio.com/",
+            "level": "Bronze"
+        }
+    ]
+}

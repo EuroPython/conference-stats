@@ -1,0 +1,61 @@
+{
+    "year": 2018,
+    "levels": {
+        "Diamond": 0,
+        "Platinum": 0,
+        "Gold": 0,
+        "Silver": 0
+    },
+    "sponsors": [
+        {
+            "name": "kiwi.com",
+            "website": "https://www.kiwi.com/",
+            "level": "Diamond"
+        },
+        {
+            "name": "Exponea",
+            "website": "https://bloomreach.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Kistler",
+            "website": "https://www.kistler.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Red Hat",
+            "website": "https://www.redhat.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Eset",
+            "website": "https://www.eset.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Solargis",
+            "website": "https://solargis.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "GitMate",
+            "website": "",
+            "level": "Silver"
+        },
+        {
+            "name": "BBI International",
+            "website": "",
+            "level": "Silver"
+        },
+        {
+            "name": "Slush Pool",
+            "website": "https://braiins.com/",
+            "level": "Silver"
+        }
+    ]
+}
