@@ -1,0 +1,18 @@
+{
+    "year": 2013,
+    "levels": {
+        "Sponsor": 0
+    },
+    "sponsors": [
+        {
+            "name": "Alliance for Recruitment",
+            "website": "https://www.allianceforrecruitment.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Bribespot",
+            "website": "",
+            "level": "Sponsor"
+        }
+    ]
+}

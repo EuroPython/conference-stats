@@ -1,0 +1,73 @@
+{
+    "year": 2023,
+    "levels": {
+        "Sponsor": 0
+    },
+    "sponsors": [
+        {
+            "name": "Oxylabs",
+            "website": "https://oxylabs.io/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Gurtam",
+            "website": "https://gurtam.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Omnisend",
+            "website": "https://www.omnisend.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Shift4",
+            "website": "https://www.shift4.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Convious",
+            "website": "https://convious.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Corner Case Technologies",
+            "website": "",
+            "level": "Silver"
+        },
+        {
+            "name": "Revel Systems",
+            "website": "https://revelsystems.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "O'Reilly",
+            "website": "www.oreilly.com",
+            "level": "Bronze"
+        },
+        {
+            "name": "Uncle Data",
+            "website": "",
+            "level": "Bronze"
+        },
+        {
+            "name": "Versada",
+            "website": "https://versada.lt/",
+            "level": "Bronze"
+        },
+        {
+            "name": "ZealID",
+            "website": "https://zealid.com/",
+            "level": "Community"
+        },
+        {
+            "name": "FLO",
+            "website": "",
+            "level": "Community"
+        },
+        {
+            "name": "Sticker Mule",
+            "website": "https://www.stickermule.com/",
+            "level": "Community"
+        }
+    ]
+}

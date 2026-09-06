@@ -1,0 +1,23 @@
+{
+    "year": 2015,
+    "levels": {
+        "Silver": 0
+    },
+    "sponsors": [
+        {
+            "name": "Programmers of Vilnius",
+            "website": "",
+            "level": "Silver"
+        },
+        {
+            "name": "Uber",
+            "website": "https://www.uber.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "hbee",
+            "website": "",
+            "level": "Silver"
+        }
+    ]
+}
