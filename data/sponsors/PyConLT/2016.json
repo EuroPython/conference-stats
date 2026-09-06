@@ -1,0 +1,35 @@
+{
+    "year": 2016,
+    "levels": {
+        "Gold": 1024,
+        "Silver": 512,
+        "Bronze": 256
+    },
+    "sponsors": [
+        {
+            "name": "Revel Systems",
+            "website": "https://revelsystems.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Strategic Staffing Solutions",
+            "website": "https://www.strategicstaff.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Programmers of Vilnius",
+            "website": "https://pov.lt",
+            "level": "Silver"
+        },
+        {
+            "name": "hbee",
+            "website": "",
+            "level": "Bronze"
+        },
+        {
+            "name": "Asteris",
+            "website": "",
+            "level": "Bronze"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "year": 2017,
+    "levels": {
+        "Gold": 1024,
+        "Silver": 512,
+        "Community": 0
+    },
+    "sponsors": [
+        {
+            "name": "Revel Systems",
+            "website": "https://revelsystems.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Versada",
+            "website": "https://versada.lt/",
+            "level": "Silver"
+        },
+        {
+            "name": "Programmers of Vilnius",
+            "website": "",
+            "level": "Silver"
+        },
+        {
+            "name": "KTU \"Startup Space\"",
+            "website": "",
+            "level": "Silver"
+        },
+        {
+            "name": "Strategic Staffing Solutions",
+            "website": "https://www.strategicstaff.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "JetBrains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Community"
+        },
+        {
+            "name": "O'Reilly",
+            "website": "www.oreilly.com",
+            "level": "Community"
+        },
+        {
+            "name": "PythonAnywhere",
+            "website": "https://www.pythonanywhere.com/",
+            "level": "Community"
+        }
+    ]
+}

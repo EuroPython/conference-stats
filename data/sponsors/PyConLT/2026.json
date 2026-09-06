@@ -1,0 +1,112 @@
+{
+    "year": 2026,
+    "levels": {
+        "Conference Sponsor": 7000,
+        "Day Sponsor": 3000,
+        "Onsite Sponsor": 1500,
+        "Online Sponsor": 600,
+        "Community": 0
+    },
+    "sponsors": [
+        {
+            "name": "EnforceShield",
+            "website": "",
+            "level": "Platinum"
+        },
+        {
+            "name": "Exacaster",
+            "website": "https://exacaster.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Carvertical",
+            "website": "https://www.carvertical.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Oxylabs",
+            "website": "https://oxylabs.io/",
+            "level": "Gold"
+        },
+        {
+            "name": "Mediatech",
+            "website": "",
+            "level": "Gold"
+        },
+        {
+            "name": "Visma",
+            "website": "https://www.visma.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "EPAM",
+            "website": "https://www.epam.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Apify",
+            "website": "https://ep2026.europython.eu/sponsors#sponsor-apify",
+            "level": "Gold"
+        },
+        {
+            "name": "Procurli",
+            "website": "",
+            "level": "Gold"
+        },
+        {
+            "name": "Gurtam",
+            "website": "https://gurtam.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "O'Reilly",
+            "website": "www.oreilly.com",
+            "level": "Community"
+        },
+        {
+            "name": "Packt",
+            "website": "www.packtpub.com",
+            "level": "Community"
+        },
+        {
+            "name": "EuroPython Society",
+            "website": "www.europython-society.org/",
+            "level": "Community"
+        },
+        {
+            "name": "PyCon Estonia",
+            "website": "https://pycon.ee/",
+            "level": "Community"
+        },
+        {
+            "name": "PyCon Italy",
+            "website": "https://www.pycon.it/",
+            "level": "Community"
+        },
+        {
+            "name": "PyCon Slovakia",
+            "website": "https://pycon.sk/",
+            "level": "Community"
+        },
+        {
+            "name": "JetBrains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Community"
+        },
+        {
+            "name": "PyLadies Lithuania",
+            "website": "",
+            "level": "Community"
+        },
+        {
+            "name": "Vilnius Night Office",
+            "website": "",
+            "level": "Community"
+        },
+        {
+            "name": "Meridiano School",
+            "website": "",
+            "level": "Community"
+        }
+    ]
+}
