@@ -1,0 +1,101 @@
+{
+    "year": 2017,
+    "currency": "GBP",
+    "levels": {
+        "Gold": 9995,
+        "Silver": 4995,
+        "Bronze": 1995
+    },
+    "sponsors": [
+        {
+            "name": "J.P. Morgan",
+            "website": "https://www.jpmorganchase.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "EDITED",
+            "website": "https://edited.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Osirium",
+            "website": "https://www.osirium.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Anvil",
+            "website": "https://anvil.works/",
+            "level": "Unknown"
+        },
+        {
+            "name": "BJSS",
+            "website": "https://www.bjss.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Cambridge Medical Robotics",
+            "website": "https://cmrsurgical.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Cambridge Spark",
+            "website": "https://www.cambridgespark.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Codethink",
+            "website": "https://www.codethink.co.uk/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Data Reply",
+            "website": "https://www.reply.com/data-reply/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Indeed",
+            "website": "https://www.indeed.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Mango Solutions",
+            "website": "https://www.mango-solutions.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Micro:bit Educational Foundation",
+            "website": "https://microbit.org/",
+            "level": "Unknown"
+        },
+        {
+            "name": "MOO",
+            "website": "https://www.moo.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "O'Reilly",
+            "website": "www.oreilly.com",
+            "level": "Unknown"
+        },
+        {
+            "name": "Pluralsight",
+            "website": "https://www.pluralsight.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "PythonAnywhere",
+            "website": "https://www.pythonanywhere.com/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Raspberry Pi Foundation",
+            "website": "https://www.raspberrypi.org/",
+            "level": "Unknown"
+        },
+        {
+            "name": "Reckon Digital",
+            "website": "",
+            "level": "Unknown"
+        }
+    ]
+}

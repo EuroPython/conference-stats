@@ -1,0 +1,74 @@
+{
+    "year": 2025,
+    "currency": "GBP",
+    "levels": {
+        "Headline": 10000,
+        "Platinum": 7500,
+        "Gold": 4000,
+        "Silver": 1500,
+        "Bronze": 600,
+        "Grants": 0
+    },
+    "sponsors": [
+        {
+            "name": "Bennett Institute for Applied Data Science",
+            "website": "https://www.bennett.ox.ac.uk/",
+            "level": "Gold"
+        },
+        {
+            "name": "Bloomberg",
+            "website": "https://www.bloomberg.com/europe",
+            "level": "Gold"
+        },
+        {
+            "name": "Flok Health",
+            "website": "https://flok.health/",
+            "level": "Gold"
+        },
+        {
+            "name": "Snapshot AI",
+            "website": "https://snapshot.ai/",
+            "level": "Gold"
+        },
+        {
+            "name": "JetBrains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Internet Society Pulse",
+            "website": "https://pulse.internetsociety.org/",
+            "level": "Silver"
+        },
+        {
+            "name": "Chronic Insanity",
+            "website": "https://chronicinsanity.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Burendo",
+            "website": "https://www.burendo.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Growth Invest",
+            "website": "https://growthinvest.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "EuroPython Society",
+            "website": "www.europython-society.org/",
+            "level": "Grants"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Grants"
+        },
+        {
+            "name": "Django Software Foundation",
+            "website": "https://www.djangoproject.com/foundation/",
+            "level": "Grants"
+        }
+    ]
+}

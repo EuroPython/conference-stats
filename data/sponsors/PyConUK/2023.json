@@ -1,0 +1,48 @@
+{
+    "year": 2023,
+    "currency": "GBP",
+    "levels": {
+        "Headline": 15000,
+        "Platinum": 10000,
+        "Gold": 6000,
+        "Silver": 3000,
+        "Bronze": 1200
+    },
+    "sponsors": [
+        {
+            "name": "Kraken",
+            "website": "https://kraken.tech/",
+            "level": "Gold"
+        },
+        {
+            "name": "Okta",
+            "website": "https://www.okta.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Bloomberg",
+            "website": "https://www.bloomberg.com/europe",
+            "level": "Gold"
+        },
+        {
+            "name": "Jumping Rivers",
+            "website": "https://www.jumpingrivers.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Bennett Institute for Applied Data Science",
+            "website": "https://www.bennett.ox.ac.uk/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Pretalx",
+            "website": "https://ep2026.europython.eu/sponsors#sponsor-pretalx",
+            "level": "Bronze"
+        },
+        {
+            "name": "Anvil",
+            "website": "https://anvil.works/",
+            "level": "Bronze"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "year": 2016,
+    "currency": "GBP",
+    "levels": {
+        "Gold": 9995,
+        "Silver": 4995,
+        "Bronze": 1995
+    },
+    "sponsors": [
+        {
+            "name": "Bank of America",
+            "website": "https://careers.bankofamerica.com/en-us/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Government Digital Service",
+            "website": "https://gds.blog.gov.uk/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Lyst",
+            "website": "https://www.lyst.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "PythonAnywhere",
+            "website": "https://www.pythonanywhere.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Mosaic",
+            "website": "",
+            "level": "Bronze"
+        },
+        {
+            "name": "HPE",
+            "website": "https://www.hpe.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Potato",
+            "website": "https://www.wearepotato.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "JetBrains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Smarkets",
+            "website": "https://smarkets.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "STX Next",
+            "website": "https://www.stxnext.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Pluralsight",
+            "website": "https://www.pluralsight.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Bronze"
+        }
+    ]
+}

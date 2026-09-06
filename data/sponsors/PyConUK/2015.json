@@ -1,0 +1,57 @@
+{
+    "year": 2015,
+    "currency": "GBP",
+    "levels": {
+        "Gold": 10000,
+        "Silver": 5000,
+        "Bronze": 2500,
+        "Supporter": 1000
+    },
+    "sponsors": [
+        {
+            "name": "2nd Quadrant",
+            "website": "https://www.enterprisedb.com/",
+            "level": "Supporter"
+        },
+        {
+            "name": "Osper",
+            "website": "",
+            "level": "Supporter"
+        },
+        {
+            "name": "DueDil",
+            "website": "https://www.duedil.com/",
+            "level": "Supporter"
+        },
+        {
+            "name": "PythonAnywhere",
+            "website": "https://www.pythonanywhere.com/",
+            "level": "Supporter"
+        },
+        {
+            "name": "YPlan",
+            "website": "",
+            "level": "Supporter"
+        },
+        {
+            "name": "LaterPay",
+            "website": "https://www.laterpay.net/",
+            "level": "Supporter"
+        },
+        {
+            "name": "Fry-IT",
+            "website": "https://www.fry-it.com/",
+            "level": "Supporter"
+        },
+        {
+            "name": "Import Training",
+            "website": "",
+            "level": "Supporter"
+        },
+        {
+            "name": "Lyst",
+            "website": "https://www.lyst.com/",
+            "level": "Supporter"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "year": 2019,
+    "currency": "GBP",
+    "levels": {
+        "Headline": 0,
+        "Platinum": 8000,
+        "Gold": 4000,
+        "Silver": 2000,
+        "Bronze": 1000
+    },
+    "sponsors": [
+        {
+            "name": "J.P. Morgan",
+            "website": "https://www.jpmorganchase.com/",
+            "level": "Headline"
+        },
+        {
+            "name": "Veygo",
+            "website": "https://www.veygo.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Anvil",
+            "website": "https://anvil.works/",
+            "level": "Silver"
+        },
+        {
+            "name": "Which?",
+            "website": "https://www.which.co.uk/",
+            "level": "Silver"
+        },
+        {
+            "name": "Osirium",
+            "website": "https://www.osirium.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Cisco",
+            "website": "https://www.cisco.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Pico",
+            "website": "https://picotech.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Divio",
+            "website": "https://www.divio.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Novastone",
+            "website": "https://www.novastone-sa.com/",
+            "level": "Bronze"
+        }
+    ]
+}
