@@ -1,0 +1,55 @@
+{
+    "year": 2024,
+    "speakers": [
+        {
+            "fullname": "Felienne Hermans",
+            "type": "Keynote",
+            "title": "Localization and translation of programming languages"
+        },
+        {
+            "fullname": "Alexey Preobrazhenskiy",
+            "type": "Talk",
+            "title": "How bazel streamlines python development: stories from the Uber monorepo"
+        },
+        {
+            "fullname": "Pavel Filonov",
+            "type": "Talk",
+            "title": "Past, Present and Future of Python parallelism"
+        },
+        {
+            "fullname": "Merel Theisen",
+            "type": "Talk",
+            "title": "Efficient Python Project Setup: Showing Cookiecutter's Potential within Kedro"
+        },
+        {
+            "fullname": "Daniele Procida",
+            "type": "Talk",
+            "title": "The attentive programmer"
+        },
+        {
+            "fullname": "Arjan Egges",
+            "type": "Talk",
+            "title": "How Functional Programming Can Help You Write Better Python Code"
+        },
+        {
+            "fullname": "Donatas Rasiukevicius",
+            "type": "Talk",
+            "title": "Strategies for avoiding package.json for fullstack python devs"
+        },
+        {
+            "fullname": "Anwesha Das",
+            "type": "Talk",
+            "title": "Using PyPI Trusted Publishing to Ansible release"
+        },
+        {
+            "fullname": "Lukáš Ševčík",
+            "type": "Talk",
+            "title": "Events in Fintech: From State Machines to Event-Sourced Systems"
+        },
+        {
+            "fullname": "Brett Slatkin",
+            "type": "Keynote",
+            "title": "The Zen of Polymorphism"
+        }
+    ]
+}

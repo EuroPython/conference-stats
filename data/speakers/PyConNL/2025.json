@@ -1,0 +1,75 @@
+{
+    "year": 2025,
+    "speakers": [
+        {
+            "fullname": "William Lacerda",
+            "type": "Talk",
+            "title": "From Flask to FastAPI: Why and how we Made the Switch"
+        },
+        {
+            "fullname": "Arie Bovenberg",
+            "type": "Talk",
+            "title": "Performance Myths and Silent Pitfalls of __slots__"
+        },
+        {
+            "fullname": "Thiago Bellini Ribeiro",
+            "type": "Talk",
+            "title": "Typing your Python code like a ninja!"
+        },
+        {
+            "fullname": "Merel Theisen",
+            "type": "Talk",
+            "title": "Leading Kedro: lessons from maintaining an open source Python framework"
+        },
+        {
+            "fullname": "Klaas van Schelven",
+            "type": "Talk",
+            "title": "Race to the Root Cause"
+        },
+        {
+            "fullname": "Alexander Procelewski",
+            "type": "Talk",
+            "title": "Low Latency Python - Say Goodbye to C++"
+        },
+        {
+            "fullname": "Aris Nivorlis",
+            "type": "Talk",
+            "title": "Tooling with Purpose: Making Smart Choices as You Build"
+        },
+        {
+            "fullname": "Carlo van Overbeek",
+            "type": "Talk",
+            "title": "Paleofuturistic Python"
+        },
+        {
+            "fullname": "Daniele Procida",
+            "type": "Talk",
+            "title": "Measuring and elevating quality in engineering practice"
+        },
+        {
+            "fullname": "Sebastiaan Zeeff",
+            "type": "Talk",
+            "title": "Don't Panic! A Developer's Guide To Security"
+        },
+        {
+            "fullname": "Steven Pemberton",
+            "type": "Talk",
+            "title": "Programming, Past and Future"
+        },
+        {
+            "fullname": "Sofie van Landeghem",
+            "type": "Talk",
+            "title": "How to not get fooled by your data while AI engineering"
+        },
+        {
+            "fullname": "Özge Çinko",
+            "type": "Talk",
+            "title": "How Shazam Identifies Songs in 5 Seconds: Audio Fingerprinting with Python"
+        },
+        {
+            "fullname": "Kader Miyanyedi",
+            "type": "Talk",
+            "title": "From Dictionaries to Decorators: A Practical Guide to Caching in Python"
+        }
+    ]
+}
