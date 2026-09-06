@@ -1,0 +1,83 @@
+{
+    "year": 2012,
+    "levels": {
+        "Sponsor": 0
+    },
+    "sponsors": [
+        {
+            "name": "Cité des Sciences",
+            "website": "https://www.citedessciences.fr/",
+            "level": "Gold"
+        },
+        {
+            "name": "Alwaysdata",
+            "website": "",
+            "level": "Gold"
+        },
+        {
+            "name": "Majerti",
+            "website": "https://majerti.fr/",
+            "level": "Gold"
+        },
+        {
+            "name": "Bearstech",
+            "website": "https://bearstech.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "XCG Consulting",
+            "website": "https://www.xcg-consulting.fr/",
+            "level": "Gold"
+        },
+        {
+            "name": "tinyclues",
+            "website": "https://www.tinyclues.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Logilab",
+            "website": "https://www.logilab.fr/",
+            "level": "Gold"
+        },
+        {
+            "name": "Novapost",
+            "website": "https://www.novapost.fr/",
+            "level": "Gold"
+        },
+        {
+            "name": "AppartInfo",
+            "website": "",
+            "level": "Bronze"
+        },
+        {
+            "name": "Net-ng",
+            "website": "",
+            "level": "Bronze"
+        },
+        {
+            "name": "Wingware",
+            "website": "https://wingware.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Emencia",
+            "website": "https://www.emencia.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Anybox",
+            "website": "https://anybox.fr/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Greenbureau",
+            "website": "",
+            "level": "Bronze"
+        },
+        {
+            "name": "Makina-Corpus",
+            "website": "https://makina-corpus.com/",
+            "level": "Bronze"
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "year": 2015,
+    "levels": {
+        "Sponsor": 0
+    },
+    "sponsors": [
+        {
+            "name": "E.I.S.T.I.",
+            "website": "https://www.eisti.fr/",
+            "level": "Platinum"
+        },
+        {
+            "name": "XCG Consulting",
+            "website": "https://www.xcg-consulting.fr/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Lexsi",
+            "website": "https://www.lexsi.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Yaal",
+            "website": "https://www.yaal.coop/",
+            "level": "Gold"
+        },
+        {
+            "name": "Unlish",
+            "website": "",
+            "level": "Gold"
+        },
+        {
+            "name": "Majerti",
+            "website": "https://majerti.fr/",
+            "level": "Gold"
+        },
+        {
+            "name": "Technopole Helioparc",
+            "website": "",
+            "level": "Gold"
+        },
+        {
+            "name": "THD",
+            "website": "",
+            "level": "Gold"
+        },
+        {
+            "name": "Makina Corpus",
+            "website": "https://makina-corpus.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "tinyclues",
+            "website": "https://www.tinyclues.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Anybox",
+            "website": "https://anybox.fr/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Mozilla",
+            "website": "",
+            "level": "Bronze"
+        },
+        {
+            "name": "AlwaysData",
+            "website": "https://www.alwaysdata.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Wingware ",
+            "website": "https://wingware.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Ecreall",
+            "website": "https://www.ecreall.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "PeopleDoc",
+            "website": "https://www.ultimatesoftware.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Université de Pau",
+            "website": "https://www.univ-pau.fr/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Net NG",
+            "website": "",
+            "level": "Bronze"
+        },
+        {
+            "name": "Sysnove",
+            "website": "https://sysnove.fr/",
+            "level": "Bronze"
+        }
+    ]
+}

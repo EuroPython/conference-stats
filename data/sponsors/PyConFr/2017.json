@@ -1,0 +1,63 @@
+{
+    "year": 2017,
+    "levels": {
+        "Sponsor": 0
+    },
+    "sponsors": [
+        {
+            "name": "Netsach",
+            "website": "https://www.netsach.fr/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Logilab",
+            "website": "https://www.logilab.fr/",
+            "level": "Gold"
+        },
+        {
+            "name": "IT Link",
+            "website": "https://www.it-link.fr/",
+            "level": "Gold"
+        },
+        {
+            "name": "Makina Corpus",
+            "website": "https://makina-corpus.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "PeopleDoc",
+            "website": "https://www.ultimatesoftware.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Anybox",
+            "website": "https://anybox.fr/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Nova Ideo",
+            "website": "",
+            "level": "Bronze"
+        },
+        {
+            "name": "Bearstech",
+            "website": "https://bearstech.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Yaal",
+            "website": "https://www.yaal.coop/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Algoo",
+            "website": "https://algoo.fr/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Majerti",
+            "website": "https://majerti.fr/",
+            "level": "Bronze"
+        }
+    ]
+}

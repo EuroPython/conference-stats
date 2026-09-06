@@ -1,0 +1,63 @@
+{
+    "year": 2018,
+    "levels": {
+        "Sponsor": 0
+    },
+    "sponsors": [
+        {
+            "name": "Sewan",
+            "website": "https://www.sewan.fr/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Back Market",
+            "website": "https://www.backmarket.es/es-es",
+            "level": "Gold"
+        },
+        {
+            "name": "PeopleDoc",
+            "website": "https://www.ultimatesoftware.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Anybox",
+            "website": "https://anybox.fr/",
+            "level": "Silver"
+        },
+        {
+            "name": "Makina Corpus",
+            "website": "https://makina-corpus.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "TeMPO Consulting",
+            "website": "https://www.tempo-consulting.fr/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Odoo Community Association",
+            "website": "https://odoo-community.org/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Nexedi",
+            "website": "https://www.nexedi.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Sticker Mule",
+            "website": "https://www.stickermule.com/",
+            "level": "Heart"
+        },
+        {
+            "name": "Kozea",
+            "website": "https://kozea.fr/",
+            "level": "Partner"
+        },
+        {
+            "name": "Developpez.com",
+            "website": "https://www.developpez.com/",
+            "level": "Partner"
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "year": 2013,
+    "levels": {
+        "Sponsor": 0
+    },
+    "sponsors": [
+        {
+            "name": "Majerti",
+            "website": "https://majerti.fr/",
+            "level": "Gold"
+        },
+        {
+            "name": "eNovance",
+            "website": "",
+            "level": "Gold"
+        },
+        {
+            "name": "Budget Insight",
+            "website": "https://www.budget-insight.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Yaal",
+            "website": "https://www.yaal.coop/",
+            "level": "Gold"
+        },
+        {
+            "name": "Atlassian",
+            "website": "https://www.atlassian.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "TeMPO Consulting",
+            "website": "https://www.tempo-consulting.fr/",
+            "level": "Gold"
+        },
+        {
+            "name": "UNLISH",
+            "website": "",
+            "level": "Gold"
+        },
+        {
+            "name": "XCG Consulting",
+            "website": "https://www.xcg-consulting.fr/",
+            "level": "Gold"
+        },
+        {
+            "name": "Bearstech",
+            "website": "https://bearstech.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Anybox",
+            "website": "https://anybox.fr/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Capensis",
+            "website": "https://www.capensis.fr/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Pricing Assistant",
+            "website": "",
+            "level": "Bronze"
+        },
+        {
+            "name": "AlwaysData",
+            "website": "https://www.alwaysdata.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Net-ng",
+            "website": "",
+            "level": "Bronze"
+        },
+        {
+            "name": "hackcendo",
+            "website": "",
+            "level": "Bronze"
+        },
+        {
+            "name": "VODATA",
+            "website": "",
+            "level": "Bronze"
+        },
+        {
+            "name": "Université de Strasbourg (Direction informatique)",
+            "website": "https://www.unistra.fr/",
+            "level": "Bronze"
+        }
+    ]
+}

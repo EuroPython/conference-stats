@@ -1,0 +1,78 @@
+{
+    "year": 2016,
+    "levels": {
+        "Sponsor": 0
+    },
+    "sponsors": [
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Mozilla",
+            "website": "",
+            "level": "Platinum"
+        },
+        {
+            "name": "IT Link",
+            "website": "https://www.it-link.fr/",
+            "level": "Gold"
+        },
+        {
+            "name": "Lexsi",
+            "website": "https://www.lexsi.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Yaal",
+            "website": "https://www.yaal.coop/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Net ng",
+            "website": "",
+            "level": "Bronze"
+        },
+        {
+            "name": "Planet Work",
+            "website": "",
+            "level": "Bronze"
+        },
+        {
+            "name": "Algoo",
+            "website": "https://algoo.fr/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Logilab",
+            "website": "https://www.logilab.fr/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Lengow",
+            "website": "https://www.lengow.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Orange",
+            "website": "https://www.orange.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Bearstech",
+            "website": "https://bearstech.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "PeopleDoc",
+            "website": "https://www.ultimatesoftware.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "AlwaysData",
+            "website": "https://www.alwaysdata.com/",
+            "level": "Bronze"
+        }
+    ]
+}
