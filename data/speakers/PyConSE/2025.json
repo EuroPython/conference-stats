@@ -1,0 +1,165 @@
+{
+    "year": 2025,
+    "speakers": [
+        {
+            "fullname": "Gabriel Ruttner",
+            "type": "Workshop",
+            "title": "Building Production-Ready AI Agents: The 4Ds for Scalable Python Systems"
+        },
+        {
+            "fullname": "Jan Bjørge",
+            "type": "Talk",
+            "title": "Shrinking Infrastructure: Task Queues on PostgreSQL"
+        },
+        {
+            "fullname": "Helio Loureiro",
+            "type": "Talk",
+            "title": "Mastodon and Python"
+        },
+        {
+            "fullname": "Aris Nivorlis",
+            "type": "Organization",
+            "title": "The Python Quiz!"
+        },
+        {
+            "fullname": "ELENI TOKMAKTSI",
+            "type": "Talk",
+            "title": "Empowering Geospatial Workflows with Python"
+        },
+        {
+            "fullname": "Christian Heitzmann",
+            "type": "Workshop",
+            "title": "What We Can Learn from Exemplary Python Documentation (SEE DESCRIPTION FOR PREPARATION)"
+        },
+        {
+            "fullname": "Jacob Hallén",
+            "type": "Talk",
+            "title": "Trust and the success of Python"
+        },
+        {
+            "fullname": "Sebastiaan Zeeff",
+            "type": "Talk",
+            "title": "The Magic of Self: How Python inserts self into methods"
+        },
+        {
+            "fullname": "David Vujic",
+            "type": "Talk",
+            "title": "Interactive Python Programming"
+        },
+        {
+            "fullname": "Victor Blomqvist",
+            "type": "Talk",
+            "title": "18 Years of Falling Objects: Lessons from Maintaining Physics Library Pymunk"
+        },
+        {
+            "fullname": "Antonino Ingargiola",
+            "type": "Talk",
+            "title": "Architecting Enterprise AI Agents: Secure, Governed, and Interoperable"
+        },
+        {
+            "fullname": "Irene Donato",
+            "type": "Talk",
+            "title": "Architecting Enterprise AI Agents: Secure, Governed, and Interoperable"
+        },
+        {
+            "fullname": "Anna Elisabeth Kazakova Lindegren",
+            "type": "Talk",
+            "title": "Quantum Computing in Python: Why Qiskit Matters for Developers"
+        },
+        {
+            "fullname": "Iulia Feroli",
+            "type": "Talk",
+            "title": "Embeddings - LLMs - vector/semantic search - GenAI - RAG - agents - MCP (buzzword bingo)"
+        },
+        {
+            "fullname": "Jussi Pakkanen",
+            "type": "Talk",
+            "title": "Providing a Python library — the whole shebang"
+        },
+        {
+            "fullname": "Özge Çinko",
+            "type": "Talk",
+            "title": "Building Harry Potter’s Mirror of Erised with Python and Generative AI"
+        },
+        {
+            "fullname": "Kader Miyanyedi",
+            "type": "Talk",
+            "title": "A Practical Guide to Testing Django with Pytest, Factory Boy, and Hypothesis"
+        },
+        {
+            "fullname": "Christina Dahlén",
+            "type": "Workshop",
+            "title": "Connecting IoT Devices with LavinMQ – Hands-On Workshop"
+        },
+        {
+            "fullname": "Erica Weistrand",
+            "type": "Workshop",
+            "title": "Connecting IoT Devices with LavinMQ – Hands-On Workshop"
+        },
+        {
+            "fullname": "Lysandros Nikolaou",
+            "type": "Keynote",
+            "title": "The serendipity factor: How community turns accidents into opportunities"
+        },
+        {
+            "fullname": "Eric Rishmüller",
+            "type": "Talk",
+            "title": "Gamified User Journeys with Pygame"
+        },
+        {
+            "fullname": "Iulia Feroli",
+            "type": "Keynote",
+            "title": "The Fraud Keynote (…Or Maybe Not)"
+        },
+        {
+            "fullname": "Jodie Burchell",
+            "type": "Keynote",
+            "title": "AI is having its moment ... again"
+        },
+        {
+            "fullname": "Elias Freider",
+            "type": "Talk",
+            "title": "Agents need good developer experience too"
+        },
+        {
+            "fullname": "Jim Dowling",
+            "type": "Keynote",
+            "title": "Python in the age of Agents"
+        },
+        {
+            "fullname": "Florents Tselai",
+            "type": "Talk",
+            "title": "Extending SQL Databases with Python"
+        },
+        {
+            "fullname": "Nikita Churikov",
+            "type": "Talk",
+            "title": "Designing Exceptions as an API: Hierarchies, Interfaces, and Error Codes"
+        },
+        {
+            "fullname": "Aris Nivorlis",
+            "type": "Workshop",
+            "title": "Version Everything: From Chaos to Order in Reproducible Python Projects"
+        },
+        {
+            "fullname": "Nikos Chatzis",
+            "type": "Workshop",
+            "title": "Version Everything: From Chaos to Order in Reproducible Python Projects"
+        },
+        {
+            "fullname": "Shivay Lamba",
+            "type": "Workshop",
+            "title": "Building Privacy-Focused Vector Search Applications: Hands-On Guide to Gen AI"
+        },
+        {
+            "fullname": "Gaurav Pandey",
+            "type": "Workshop",
+            "title": "Building Privacy-Focused Vector Search Applications: Hands-On Guide to Gen AI"
+        },
+        {
+            "fullname": "Kishor Deshpande",
+            "type": "Workshop",
+            "title": "Building Privacy-Focused Vector Search Applications: Hands-On Guide to Gen AI"
+        }
+    ]
+}

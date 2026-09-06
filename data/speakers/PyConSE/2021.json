@@ -1,0 +1,255 @@
+{
+    "year": 2021,
+    "speakers": [
+        {
+            "fullname": "Harsh Mittal",
+            "type": "Talk",
+            "title": "Build custom robot in ROS"
+        },
+        {
+            "fullname": "Emir Uz",
+            "type": "Talk",
+            "title": "Towards causality without the use of controlled experiments in e-commerce"
+        },
+        {
+            "fullname": "Olle Green",
+            "type": "Talk",
+            "title": "Make it Simple - Machine Learning in Time Series Forecasting - Development to Deployment with Python"
+        },
+        {
+            "fullname": "Steven Chien",
+            "type": "Talk",
+            "title": "Closing PyCon Sweden 2021"
+        },
+        {
+            "fullname": "Christine Winter",
+            "type": "Talk",
+            "title": "Closing PyCon Sweden 2021"
+        },
+        {
+            "fullname": "Sefik Ilkin Serengil",
+            "type": "Talk",
+            "title": "Building a Highly Scalable Facial Recognition Pipelines"
+        },
+        {
+            "fullname": "Georgios Deligiorgis",
+            "type": "Workshop",
+            "title": "Zero To Hero Tutorial on a Deep Learning Classification Task"
+        },
+        {
+            "fullname": "Marco Trincavelli",
+            "type": "Workshop",
+            "title": "Zero To Hero Tutorial on a Deep Learning Classification Task"
+        },
+        {
+            "fullname": "David Andersson",
+            "type": "Workshop",
+            "title": "Zero To Hero Tutorial on a Deep Learning Classification Task"
+        },
+        {
+            "fullname": "Aroma Rodrigues",
+            "type": "Talk",
+            "title": "Is the news media polarized? Or are we conditioned to think it is?"
+        },
+        {
+            "fullname": "Christine Winter",
+            "type": "Talk",
+            "title": "Closing Day 1 PyCon Sweden 2021"
+        },
+        {
+            "fullname": "Jialun Song",
+            "type": "Talk",
+            "title": "Dynamic resource allocation for machine learning jobs at H&M Group"
+        },
+        {
+            "fullname": "Amira DINARI",
+            "type": "Talk",
+            "title": "Dynamic resource allocation for machine learning jobs at H&M Group"
+        },
+        {
+            "fullname": "Natalia Pipas",
+            "type": "Workshop",
+            "title": "First steps to learn Pyspark"
+        },
+        {
+            "fullname": "Gunnar Grosch",
+            "type": "Talk",
+            "title": "Defining cloud infrastructure as Python with AWS CDK"
+        },
+        {
+            "fullname": "Igor Mosyagin",
+            "type": "Talk",
+            "title": "self.tracking and self.improving using your habits with python ecosystem and low-code tools"
+        },
+        {
+            "fullname": "Kushal Das",
+            "type": "Workshop",
+            "title": "Writing Python extensions in Rust"
+        },
+        {
+            "fullname": "Alfonso de la Guarda",
+            "type": "Talk",
+            "title": "Architecture for the extraction, automation and massive data processing"
+        },
+        {
+            "fullname": "Gajendra Deshpande",
+            "type": "Talk",
+            "title": "Security considerations in Python Packaging"
+        },
+        {
+            "fullname": "Abdur-Rahmaan Janhangeer",
+            "type": "Talk",
+            "title": "Advanced Flask: Recipes For An All-weather Craft"
+        },
+        {
+            "fullname": "RAZA BALBALE",
+            "type": "Talk",
+            "title": "Zaunic : Acceleration Simplified with Python"
+        },
+        {
+            "fullname": "Magnus Perman",
+            "type": "Talk",
+            "title": "Infrastructure as code for Data Science using Python"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Keynote",
+            "title": "Keynote - The best way to learn Python - for the absolute beginners and improvers"
+        },
+        {
+            "fullname": "Coen de Groot",
+            "type": "Talk",
+            "title": "Pro Python tips for Data Analysts"
+        },
+        {
+            "fullname": "Alen Jacob",
+            "type": "Workshop",
+            "title": "Airflow 2.0 for ML pipelines – design, implementation and management"
+        },
+        {
+            "fullname": "Scott Zhou",
+            "type": "Workshop",
+            "title": "Airflow 2.0 for ML pipelines – design, implementation and management"
+        },
+        {
+            "fullname": "Lini Jose",
+            "type": "Workshop",
+            "title": "Airflow 2.0 for ML pipelines – design, implementation and management"
+        },
+        {
+            "fullname": "Nitin Bisht",
+            "type": "Workshop",
+            "title": "Airflow 2.0 for ML pipelines – design, implementation and management"
+        },
+        {
+            "fullname": "Sergei Beilin",
+            "type": "Talk",
+            "title": "Fullstack datascientist v.2021 (how much of software engineering should a modern datascientist know)"
+        },
+        {
+            "fullname": "Natalia Beylina",
+            "type": "Talk",
+            "title": "Fullstack datascientist v.2021 (how much of software engineering should a modern datascientist know)"
+        },
+        {
+            "fullname": "Marcus Näslund",
+            "type": "Talk",
+            "title": "Python++? Here's how, and why not"
+        },
+        {
+            "fullname": "Érico Andrei",
+            "type": "Keynote",
+            "title": "Keynote - Not fading away: A tale about a 20-year old Python project"
+        },
+        {
+            "fullname": "Carolina J. Säll",
+            "type": "Workshop",
+            "title": "Build an answering machine with Flask 📞"
+        },
+        {
+            "fullname": "Victoria Wagman",
+            "type": "Workshop",
+            "title": "Build an answering machine with Flask 📞"
+        },
+        {
+            "fullname": "Lennart Fridén",
+            "type": "Talk",
+            "title": "Rules Rule (Creating and Using a Rules Engine)"
+        },
+        {
+            "fullname": "Omar Sanseviero",
+            "type": "Talk",
+            "title": "Building Machine Learning demos with Python"
+        },
+        {
+            "fullname": "Alexey Isavnin",
+            "type": "Keynote",
+            "title": "Keynote - Managing cloud infrastructure as code in Python"
+        },
+        {
+            "fullname": "Maria Paskevich",
+            "type": "Talk",
+            "title": "Using optimal decision making tools for balancing in-game economies"
+        },
+        {
+            "fullname": "Ravi Singh",
+            "type": "Talk",
+            "title": "Solving one of marketer’s biggest challenges using markov chain"
+        },
+        {
+            "fullname": "Pratibha Jagnere",
+            "type": "Talk",
+            "title": "Django security against OWASP top 10"
+        },
+        {
+            "fullname": "Md Tahseen Anam",
+            "type": "Talk",
+            "title": "Implementing Mask RCNN to identify defects in wood cuts and understand wood hardiness"
+        },
+        {
+            "fullname": "Tal Ben-Nun",
+            "type": "Keynote",
+            "title": "Keynote - Bridging Productivity, Portability, and Performance with Data-Centric Python"
+        },
+        {
+            "fullname": "Sanskar Jethi",
+            "type": "Talk",
+            "title": "Robyn: An async python web framework with a Rust runtime"
+        },
+        {
+            "fullname": "Tamara Thornquist",
+            "type": "Panels",
+            "title": "Panel - Careers with Python"
+        },
+        {
+            "fullname": "Christine Winter",
+            "type": "Talk",
+            "title": "Opening PyCon Sweden 2021"
+        },
+        {
+            "fullname": "Tiago Bacciotti Moreira",
+            "type": "Talk",
+            "title": "Python as an OOP teaching tool in the Information Systems course at the State University of Minas Gerais (Brazil)"
+        },
+        {
+            "fullname": "Alexander Hultnér",
+            "type": "Talk",
+            "title": "Unpack Python Packages 📦 – Deep dive into the wheels of python packaging"
+        },
+        {
+            "fullname": "MENG Qiang",
+            "type": "Talk",
+            "title": "5 Recipes to Fashionable Airflow Data Engineering Pipelines"
+        },
+        {
+            "fullname": "Dahmane Sheikh",
+            "type": "Talk",
+            "title": "5 Recipes to Fashionable Airflow Data Engineering Pipelines"
+        },
+        {
+            "fullname": "Grzegorz Skibinski",
+            "type": "Talk",
+            "title": "5 Recipes to Fashionable Airflow Data Engineering Pipelines"
+        }
+    ]
+}

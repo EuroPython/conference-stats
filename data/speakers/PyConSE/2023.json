@@ -1,0 +1,150 @@
+{
+    "year": 2023,
+    "speakers": [
+        {
+            "fullname": "Yngve Mardal Moe",
+            "type": "Talk",
+            "title": "The Python packaging ecosystem – Simple guidelines for packaging"
+        },
+        {
+            "fullname": "Kairo de Araujo",
+            "type": "Talk",
+            "title": "PEP 458 a solution not only for PyPI"
+        },
+        {
+            "fullname": "Daniel Roos",
+            "type": "Talk",
+            "title": "Python in Excel, a big step for finance"
+        },
+        {
+            "fullname": "Lars Holmberg",
+            "type": "Talk",
+            "title": "Load testing with Python and Locust"
+        },
+        {
+            "fullname": "Mirko Galimberti",
+            "type": "Talk",
+            "title": "Kivy: Cross-platform App development for Pythonistas"
+        },
+        {
+            "fullname": "Alex Ptakhin",
+            "type": "Talk",
+            "title": "Sustainable Python Performance"
+        },
+        {
+            "fullname": "Soraya Roberta",
+            "type": "Talk",
+            "title": "CompiledPoetry.py :  teaching about diversity with Python and poetry"
+        },
+        {
+            "fullname": "Laysa Uchoa",
+            "type": "Talk",
+            "title": "Exploring OpenSearch, Python, and Serverless: Crafting Efficient and Modern Search Applications"
+        },
+        {
+            "fullname": "Yuliia Barabash",
+            "type": "Talk",
+            "title": "Exploring OpenSearch, Python, and Serverless: Crafting Efficient and Modern Search Applications"
+        },
+        {
+            "fullname": "Iulia Feroli",
+            "type": "Talk",
+            "title": "Harry Potter and the Elastic Python Clients"
+        },
+        {
+            "fullname": "Jonas Lindemann",
+            "type": "Talk",
+            "title": "CALFEM - Teaching the Finite Element method in Python"
+        },
+        {
+            "fullname": "Artur Smęt",
+            "type": "Talk",
+            "title": "GraphQL as an umbrella for microservices"
+        },
+        {
+            "fullname": "Kanishk Pachauri",
+            "type": "Talk",
+            "title": "Robyn: An async Python web framework with a Rust runtime"
+        },
+        {
+            "fullname": "Juha-Matti Santala",
+            "type": "Talk",
+            "title": "Debugging Python"
+        },
+        {
+            "fullname": "David Vujic",
+            "type": "Talk",
+            "title": "Python Developer Experience with Polylith"
+        },
+        {
+            "fullname": "Kamil Kulig",
+            "type": "Workshop",
+            "title": "End-to-end Discord bot development&deployment"
+        },
+        {
+            "fullname": "Sinem Ayyaldaz",
+            "type": "Workshop",
+            "title": "End-to-end Discord bot development&deployment"
+        },
+        {
+            "fullname": "Gabriela Moraes",
+            "type": "Workshop",
+            "title": "Django Girls - Create your first web app with Python and Django!"
+        },
+        {
+            "fullname": "Anastasiia Potekhina",
+            "type": "Workshop",
+            "title": "Django Girls - Create your first web app with Python and Django!"
+        },
+        {
+            "fullname": "Jim Dowling",
+            "type": "Workshop",
+            "title": "Personalized LLMs with Hopsworks Feature Store"
+        },
+        {
+            "fullname": "Quazi Nafiul Islam",
+            "type": "Workshop",
+            "title": "Calling Rust from Python: A Gentle Introduction to PyO3"
+        },
+        {
+            "fullname": "Murilo Cunha",
+            "type": "Workshop",
+            "title": "Calling Rust from Python: A Gentle Introduction to PyO3"
+        },
+        {
+            "fullname": "Nikita Churikov",
+            "type": "Workshop",
+            "title": "Try building Telegram bot instead of another web application"
+        },
+        {
+            "fullname": "Radovan Bacovic",
+            "type": "Workshop",
+            "title": "DBT - from zero to hero in 90 (or 120)  minutes"
+        },
+        {
+            "fullname": "Sebastián Ramírez",
+            "type": "Keynote",
+            "title": "Modern Python through FastAPI and friends"
+        },
+        {
+            "fullname": "Raphaël Beamonte",
+            "type": "Sponsored Talk",
+            "title": "What if your code could be as simple as your business logic, and crashes were nothing but a minor inconvenience?"
+        },
+        {
+            "fullname": "Carol Willing",
+            "type": "Keynote",
+            "title": "Pragmatic Python: Python 3.12 and Beyond"
+        },
+        {
+            "fullname": "Daniel Stenberg",
+            "type": "Keynote",
+            "title": "you can do it"
+        },
+        {
+            "fullname": "Deb Nicholson",
+            "type": "Keynote",
+            "title": "The Magical Power of Asking for Help"
+        }
+    ]
+}

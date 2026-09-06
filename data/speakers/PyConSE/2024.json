@@ -1,0 +1,170 @@
+{
+    "year": 2024,
+    "speakers": [
+        {
+            "fullname": "Magdalena Stenius",
+            "type": "Talk",
+            "title": "Through the ups and downs and beyond - a down-to-earth guide to site reliability"
+        },
+        {
+            "fullname": "Sebastian Björkelid",
+            "type": "Workshop",
+            "title": "Chat with AI over SMS using 46elks"
+        },
+        {
+            "fullname": "Joakim Kokocha",
+            "type": "Workshop",
+            "title": "Chat with AI over SMS using 46elks"
+        },
+        {
+            "fullname": "Nikole Scheutz",
+            "type": "Workshop",
+            "title": "Chat with AI over SMS using 46elks"
+        },
+        {
+            "fullname": "Saaya Sorrells-Weatherford",
+            "type": "Keynote",
+            "title": "Tech as a Gateway: Unlocking Opportunities for Women and Immigrants in the Digital Age"
+        },
+        {
+            "fullname": "Cristián Maureira-Fredes",
+            "type": "Keynote",
+            "title": "Beyond the \"Hello, world!\": from the core to you!"
+        },
+        {
+            "fullname": "Ulrik Södergren",
+            "type": "Talk",
+            "title": "Controlling lab and production equipment with Python"
+        },
+        {
+            "fullname": "Melina Katkic",
+            "type": "Keynote",
+            "title": "Launching, failing & growing AI business &  teams through challeges & AI trends"
+        },
+        {
+            "fullname": "saad hasan",
+            "type": "Talk",
+            "title": "Enhancing CI/CD Workflows with Design Patterns in Python"
+        },
+        {
+            "fullname": "Marcus Näslund",
+            "type": "Talk",
+            "title": "Let's goto work"
+        },
+        {
+            "fullname": "Dominik Haitz",
+            "type": "Talk",
+            "title": "Shopping Assistants with GenAI: Frameworks, Prompt Evaluation, LLMOps and more"
+        },
+        {
+            "fullname": "Ratuja Reddy",
+            "type": "Workshop",
+            "title": "Mastering Generative AI with Python: A Hands-On Workshop with OpenAI and Anthropic"
+        },
+        {
+            "fullname": "Sophie Cassidy",
+            "type": "Workshop",
+            "title": "Mastering Generative AI with Python: A Hands-On Workshop with OpenAI and Anthropic"
+        },
+        {
+            "fullname": "Marc-André Lemburg",
+            "type": "Talk",
+            "title": "Advanced parsing of structured data using Python's new match statement"
+        },
+        {
+            "fullname": "Christophe Bornet",
+            "type": "Talk",
+            "title": "Query your structured data with a LangChain AI agent"
+        },
+        {
+            "fullname": "Fredrik Håård",
+            "type": "Workshop",
+            "title": "Log and explore everything in Django"
+        },
+        {
+            "fullname": "Kamil Kulig",
+            "type": "Workshop",
+            "title": "MongoDB for Beginners"
+        },
+        {
+            "fullname": "Adam",
+            "type": "Workshop",
+            "title": "MongoDB for Beginners"
+        },
+        {
+            "fullname": "Tobias Modig",
+            "type": "Talk",
+            "title": "Get old, go slow, write code!"
+        },
+        {
+            "fullname": "Petr Savelyev",
+            "type": "Talk",
+            "title": "A challenge of converting a project's core to asyncio"
+        },
+        {
+            "fullname": "Javier de la Puente",
+            "type": "Talk",
+            "title": "I want to deploy my Flask app"
+        },
+        {
+            "fullname": "Jesper Larsson",
+            "type": "Keynote",
+            "title": "The Art of Breaking and Entering"
+        },
+        {
+            "fullname": "shekhar koirala",
+            "type": "Talk",
+            "title": "Parallel Python: Embracing the Future with Sub-Interpreters and Free Threading"
+        },
+        {
+            "fullname": "Petter Salminen",
+            "type": "Talk",
+            "title": "It's About Time"
+        },
+        {
+            "fullname": "Lars Holmberg",
+            "type": "Workshop",
+            "title": "Write Load Tests in Python and Run Them in the Cloud in 15 Minutes"
+        },
+        {
+            "fullname": "Larry the Locust",
+            "type": "Workshop",
+            "title": "Write Load Tests in Python and Run Them in the Cloud in 15 Minutes"
+        },
+        {
+            "fullname": "Aleksey Veresov",
+            "type": "Talk",
+            "title": "Building Python based AI Systems with LLMs"
+        },
+        {
+            "fullname": "Kristoffer Nordstrom",
+            "type": "Talk",
+            "title": "Boring Releases: How We Ship Every Week Without Drama"
+        },
+        {
+            "fullname": "Christian Heitzmann",
+            "type": "Talk",
+            "title": "Documenting Python Code"
+        },
+        {
+            "fullname": "Fabien Vauchelles",
+            "type": "Workshop",
+            "title": "Workshop: Master Advanced Web Scraping Techniques in Python"
+        },
+        {
+            "fullname": "Phil Ewels",
+            "type": "Talk",
+            "title": "Accidentally popular: Beautiful CLI interfaces with rich-click"
+        },
+        {
+            "fullname": "Anastasiia Potekhina",
+            "type": "Talk",
+            "title": "Django Ninja for API Development: Lessons from Energy Market"
+        },
+        {
+            "fullname": "Beatriz Uezu",
+            "type": "Talk",
+            "title": "Django Ninja for API Development: Lessons from Energy Market"
+        }
+    ]
+}

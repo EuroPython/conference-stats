@@ -1,0 +1,135 @@
+{
+    "year": 2022,
+    "speakers": [
+        {
+            "fullname": "Jim Dowling",
+            "type": "Workshop",
+            "title": "Build ML Systems with just Python and free Serverless Services"
+        },
+        {
+            "fullname": "Ivica Kolenkaš",
+            "type": "Workshop",
+            "title": "Building serverless apps with Python"
+        },
+        {
+            "fullname": "Valerio Maggio",
+            "type": "Workshop",
+            "title": "Reproducible data pipelines with PyTorch"
+        },
+        {
+            "fullname": "Carolina J. Säll",
+            "type": "Workshop",
+            "title": "Build a switchboard in an hour ☎️"
+        },
+        {
+            "fullname": "Victoria Wagman",
+            "type": "Workshop",
+            "title": "Build a switchboard in an hour ☎️"
+        },
+        {
+            "fullname": "Chayim Kirshen",
+            "type": "Talk",
+            "title": "Chasing Birds with Code: Using Python and AI to Liberate our Balconies"
+        },
+        {
+            "fullname": "Meir Shpilraien",
+            "type": "Talk",
+            "title": "Chasing Birds with Code: Using Python and AI to Liberate our Balconies"
+        },
+        {
+            "fullname": "Caner Kilinc",
+            "type": "Talk",
+            "title": "Detecting Wireless Jammers and Hackers with JADE"
+        },
+        {
+            "fullname": "Marco Pavanelli",
+            "type": "Talk",
+            "title": "From crontab to celery with no regrets"
+        },
+        {
+            "fullname": "Vivek Mohan",
+            "type": "Talk",
+            "title": "Pytest vs Robot, A battle or Co-existence."
+        },
+        {
+            "fullname": "Jonas Lindemann",
+            "type": "Talk",
+            "title": "Interactive Lectures and Active Learning with Python in Scientific Computing"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Talk",
+            "title": "I hate writing tests, that's why I use Hypothesis"
+        },
+        {
+            "fullname": "Anwesha Das",
+            "type": "Talk",
+            "title": "\"Python for Everyone\", yes it is"
+        },
+        {
+            "fullname": "Merve Noyan",
+            "type": "Talk",
+            "title": "Building Python Data Apps using Gradio"
+        },
+        {
+            "fullname": "Anna K. Lindegren",
+            "type": "Talk",
+            "title": "Widening Natural Language Processing: training Watson Nordic Languages"
+        },
+        {
+            "fullname": "Sara Elo Dean",
+            "type": "Talk",
+            "title": "Widening Natural Language Processing: training Watson Nordic Languages"
+        },
+        {
+            "fullname": "Nicholas H.Tollervey",
+            "type": "Talk",
+            "title": "PyScript - what you need to know."
+        },
+        {
+            "fullname": "Meder Kamalov",
+            "type": "Talk",
+            "title": "A Python Introduction to Behavior Driven Development"
+        },
+        {
+            "fullname": "Oleksandr Vasylenko",
+            "type": "Talk",
+            "title": "Securing python applications with open-source tools"
+        },
+        {
+            "fullname": "Julien Simon",
+            "type": "Keynote",
+            "title": "Reinventing Machine Learning with Transformers and Hugging Face"
+        },
+        {
+            "fullname": "Tetiana Kolmychek",
+            "type": "Keynote",
+            "title": "Enhance your work with graph database"
+        },
+        {
+            "fullname": "Magnus Perman",
+            "type": "Keynote",
+            "title": "Data Literacy"
+        },
+        {
+            "fullname": "Gabriela Zarzar Gandler",
+            "type": "Keynote",
+            "title": "Discover semantic topics in a collection of documents by leveraging open source projects"
+        },
+        {
+            "fullname": "Samuel Eliasson Godonou",
+            "type": "Talk ",
+            "title": "Keeping up with the renewable energy transition: Using python and forecasting to maintain a balanced Nordic power system"
+        },
+        {
+            "fullname": "Ryan Hill",
+            "type": "Talk",
+            "title": "Working smarter to fight cancer: using dunder special methods to automate code generation"
+        },
+        {
+            "fullname": "Julien Simon",
+            "type": "Workshop",
+            "title": "Hyper-productive NLP with Hugging Face Transformers"
+        }
+    ]
+}
