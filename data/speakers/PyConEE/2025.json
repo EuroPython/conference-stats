@@ -1,0 +1,85 @@
+{
+    "year": 2025,
+    "speakers": [
+        {
+            "fullname": "Łukasz Langa",
+            "type": "Keynote",
+            "title": "Permacomputing and Python"
+        },
+        {
+            "fullname": "Usha Rengaraju",
+            "type": "Keynote",
+            "title": "Python for Neurodiversity"
+        },
+        {
+            "fullname": "Agur Jõgi",
+            "type": "Keynote",
+            "title": "Lessons from reinventing the wheel and driving big change in a 15-year-old tech giant"
+        },
+        {
+            "fullname": "Kristjan Elias",
+            "type": "Keynote",
+            "title": "Lessons from reinventing the wheel and driving big change in a 15-year-old tech giant"
+        },
+        {
+            "fullname": "Katie Richardson",
+            "type": "Talk",
+            "title": "Where have all the post offices gone?"
+        },
+        {
+            "fullname": "Alex Shershebnev",
+            "type": "Talk",
+            "title": "Will AI (finally) replace developers?"
+        },
+        {
+            "fullname": "Vitalii Lakusta",
+            "type": "Talk",
+            "title": "Iron Man Suit for Engineers: AI Agents"
+        },
+        {
+            "fullname": "Andrew Stroev",
+            "type": "Talk",
+            "title": "Live audio synthesis with Synchrotron"
+        },
+        {
+            "fullname": "Nikolay Barbanov",
+            "type": "Talk",
+            "title": "A COO-s Journey to Tracking KPIs, Ethics, and Team Dynamics"
+        },
+        {
+            "fullname": "Sreyeesh Garimella",
+            "type": "Talk",
+            "title": "Python in the Film Industry"
+        },
+        {
+            "fullname": "Sadeeq Akintola",
+            "type": "Talk",
+            "title": "End-to-end Data Engineering Workflow: Leveraging Python in Apache Beam and Airflow"
+        },
+        {
+            "fullname": "Stefano Piano",
+            "type": "Talk",
+            "title": "AI in Action: Solving a Month's Work in 60 Minutes"
+        },
+        {
+            "fullname": "Javier Ortín Cervera",
+            "type": "Talk",
+            "title": "Title: \"Teaching Python to Gen Z: Bridging the Gap Between File Systems and AI-Powered Applications"
+        },
+        {
+            "fullname": "Ayokunle Ademola-John",
+            "type": "Talk",
+            "title": "Demystifying AI and Machine Learning: From Python to Real-World Applications"
+        },
+        {
+            "fullname": "Martin Bode",
+            "type": "Talk",
+            "title": "Startup Visa Masterclass"
+        },
+        {
+            "fullname": "Getter Voitka",
+            "type": "Talk",
+            "title": "Startup Visa Masterclass"
+        }
+    ]
+}

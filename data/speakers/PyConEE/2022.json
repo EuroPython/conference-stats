@@ -1,0 +1,50 @@
+{
+    "year": 2022,
+    "speakers": [
+        {
+            "fullname": "Andrew Godwin",
+            "type": "Keynote",
+            "title": "Writing Maintainable Software At Scale"
+        },
+        {
+            "fullname": "Larry Hastings",
+            "type": "Keynote",
+            "title": "Book Report"
+        },
+        {
+            "fullname": "Laysa Uchoa",
+            "type": "Talk",
+            "title": "Super Search with OpenSearch and Python"
+        },
+        {
+            "fullname": "Anand S",
+            "type": "Talk",
+            "title": "Programming Minecraft with Python"
+        },
+        {
+            "fullname": "Patrick Arminio",
+            "type": "Talk",
+            "title": "Building GraphQL APIs using Python and Type Hints"
+        },
+        {
+            "fullname": "Devlin Duldulao",
+            "type": "Talk",
+            "title": "Fault Handling with Pyfailsafe and Python in microservices architecture"
+        },
+        {
+            "fullname": "Lauri Võsandi",
+            "type": "Talk",
+            "title": "Cloud native image processing"
+        },
+        {
+            "fullname": "Oleg Šelajev",
+            "type": "Talk",
+            "title": "Integration tests made easy with Testcontainers"
+        },
+        {
+            "fullname": "Rivo Laks",
+            "type": "Talk",
+            "title": "Crunching data to catch fraud"
+        }
+    ]
+}

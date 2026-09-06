@@ -1,0 +1,80 @@
+{
+    "year": 2018,
+    "speakers": [
+        {
+            "fullname": "Kristo Vaher",
+            "type": "Talk",
+            "title": "Killing Routine"
+        },
+        {
+            "fullname": "Alexander Norta",
+            "type": "Talk",
+            "title": "ICO - Myth? Scam? Business?"
+        },
+        {
+            "fullname": "Joonatan Samuel",
+            "type": "Talk",
+            "title": "Symbolic math in production robotics"
+        },
+        {
+            "fullname": "Rivo Laks",
+            "type": "Talk",
+            "title": "Creating Solid APIs"
+        },
+        {
+            "fullname": "Jürno Ader",
+            "type": "Talk",
+            "title": "Creating game servers with python and asyncio"
+        },
+        {
+            "fullname": "Mervi Sepp Rei",
+            "type": "Talk",
+            "title": "Text processing at scale from prototype to production"
+        },
+        {
+            "fullname": "Liubov Kyaes",
+            "type": "Talk",
+            "title": "Text processing at scale from prototype to production"
+        },
+        {
+            "fullname": "Markus Lippus",
+            "type": "Talk",
+            "title": "How to do Machine Learning with Health data"
+        },
+        {
+            "fullname": "Darius Barušauskas",
+            "type": "Talk",
+            "title": "Predicting health risks from medical pictures"
+        },
+        {
+            "fullname": "Taavi Tammiste",
+            "type": "Talk",
+            "title": "Predicting prescription drug marketing campaigns, based demographic, weather and sales data"
+        },
+        {
+            "fullname": "Karl Märka",
+            "type": "Talk",
+            "title": "Predicting microloan defaults in a high-competition, high-risk consumer loan market."
+        },
+        {
+            "fullname": "Mykola Herasymovych",
+            "type": "Talk",
+            "title": "Using reinforcement learning in loan portfolio optimization"
+        },
+        {
+            "fullname": "Kristo Koert",
+            "type": "Talk",
+            "title": "Why How and What of Testing"
+        },
+        {
+            "fullname": "Kadri Tuisk",
+            "type": "Talk",
+            "title": "If a rubber duck does not help you find solutions at work anymore, what to do?"
+        },
+        {
+            "fullname": "Join as a speaker",
+            "type": "Talk",
+            "title": ""
+        }
+    ]
+}

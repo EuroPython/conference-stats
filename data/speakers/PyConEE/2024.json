@@ -1,0 +1,85 @@
+{
+    "year": 2024,
+    "speakers": [
+        {
+            "fullname": "Pavel Kral",
+            "type": "Workshop",
+            "title": "Creating RAG in Python"
+        },
+        {
+            "fullname": "Fabien Vauchelles",
+            "type": "Talk",
+            "title": "Live-Coding: Mastering Python Web Scraping with Scrapoxy"
+        },
+        {
+            "fullname": "Paweł Zajączkowski",
+            "type": "Talk",
+            "title": "Leader in the Land of Dilemmas"
+        },
+        {
+            "fullname": "Marlene Mhangami",
+            "type": "Keynote",
+            "title": "Agency in the era of human and artificial intelligence"
+        },
+        {
+            "fullname": "Marcin Szymaniuk",
+            "type": "Workshop",
+            "title": "CHATGPT, LLMS AND LANGCHAINS: A Getting Started Guide"
+        },
+        {
+            "fullname": "Christophe Bornet",
+            "type": "Talk",
+            "title": "Building Retrieval Augmented Generation (RAG) applications with LangChain"
+        },
+        {
+            "fullname": "Rakhim Davletkaliyev",
+            "type": "Talk",
+            "title": "Quantum Computing Is Kind of Real, and Python is in its DNA"
+        },
+        {
+            "fullname": "Ibad Rehman",
+            "type": "Keynote",
+            "title": "Detecting Vulnerabilities - Static Code Analyzers vs LLMs"
+        },
+        {
+            "fullname": "Kushal Das",
+            "type": "Workshop",
+            "title": "Writing Python modules in Rust"
+        },
+        {
+            "fullname": "Meelik Kiik",
+            "type": "Talk",
+            "title": "Distributing ML via Python & Phoenix Live View"
+        },
+        {
+            "fullname": "Stefanie Molin",
+            "type": "Talk",
+            "title": "Data Morph: A Cautionary Tale of Summary Statistics"
+        },
+        {
+            "fullname": "Raymond Hettinger",
+            "type": "Keynote",
+            "title": "Three-Level Programming"
+        },
+        {
+            "fullname": "Utkarsh Sinha",
+            "type": "Talk",
+            "title": "Revolutionizing Financial Data Analysis with AI: From Challenges to Cutting-Edge Solutions"
+        },
+        {
+            "fullname": "Neeraj Pandey",
+            "type": "Workshop",
+            "title": "Generative Art and Music with Python: A Creative Journey"
+        },
+        {
+            "fullname": "Cristina Ferrer",
+            "type": "Talk",
+            "title": "Writing Better Code with Python Type Annotations"
+        },
+        {
+            "fullname": "Dag Brattli",
+            "type": "Talk",
+            "title": "Writing Better Code with Python Type Annotations"
+        }
+    ]
+}

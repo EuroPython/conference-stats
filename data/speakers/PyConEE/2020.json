@@ -1,0 +1,60 @@
+{
+    "year": 2020,
+    "speakers": [
+        {
+            "fullname": "Raymond Hettinger",
+            "type": "Keynote",
+            "title": "Object Oriented Programming from scratch (four times)"
+        },
+        {
+            "fullname": "Mengyi Yuan",
+            "type": "Keynote",
+            "title": "Get ready to scale with Python"
+        },
+        {
+            "fullname": "Anna-Lena Popkes",
+            "type": "Keynote",
+            "title": "Finding Magic in Python"
+        },
+        {
+            "fullname": "Christian Barra",
+            "type": "Talk",
+            "title": "Production-ready applications with Python"
+        },
+        {
+            "fullname": "Miroslav Šedivý",
+            "type": "Talk",
+            "title": "A Day Has Only 24+/-1 Hours"
+        },
+        {
+            "fullname": "Ankit Mahato",
+            "type": "Talk",
+            "title": "Supercharging Python with Numba"
+        },
+        {
+            "fullname": "Ram Rachum",
+            "type": "Talk",
+            "title": "PySnooper - Never use print for debugging again"
+        },
+        {
+            "fullname": "Anton Alekseev",
+            "type": "Talk",
+            "title": "Security Practices for Building Django Applications"
+        },
+        {
+            "fullname": "Felipe \"Bidu\" Rodrigues",
+            "type": "Talk",
+            "title": "Humans & Code"
+        },
+        {
+            "fullname": "Jörgen Ader",
+            "type": "Talk",
+            "title": "The async mindset"
+        },
+        {
+            "fullname": "Dogus Karabulut",
+            "type": "Talk",
+            "title": "Data Science at Veriff: a Python-powered workflow"
+        }
+    ]
+}

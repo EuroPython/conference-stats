@@ -1,0 +1,55 @@
+{
+    "year": 2019,
+    "speakers": [
+        {
+            "fullname": "Travis Oliphant",
+            "type": "Talk",
+            "title": "The past, present, and future of extending Python"
+        },
+        {
+            "fullname": "Lukáš Hurych",
+            "type": "Talk",
+            "title": "Hacking and social engineering with a 70% success rate"
+        },
+        {
+            "fullname": "Juha-Matti Santala",
+            "type": "Talk",
+            "title": "Contemporary Documentation"
+        },
+        {
+            "fullname": "Igor Davydenko",
+            "type": "Talk",
+            "title": "How to make your own CI/CD tool with Python 3"
+        },
+        {
+            "fullname": "Mike Solomon",
+            "type": "Talk",
+            "title": "Testing apps with third-party integrations"
+        },
+        {
+            "fullname": "Lauri Võsandi",
+            "type": "Talk",
+            "title": "Python on microcontrollers? Why not?"
+        },
+        {
+            "fullname": "Karl Märka",
+            "type": "Talk",
+            "title": "Data Processing Pipelines with Apache Airflow & Python"
+        },
+        {
+            "fullname": "Paul Tammo",
+            "type": "Talk",
+            "title": "Estonian Natural Language Toolkit"
+        },
+        {
+            "fullname": "Dom Weldon",
+            "type": "Talk",
+            "title": "Oxidizing MyPy: Why I decided to learn Rust and use it with Python"
+        },
+        {
+            "fullname": "Lauri Võsandi",
+            "type": "Talk",
+            "title": "Python in it's natural habitat"
+        }
+    ]
+}

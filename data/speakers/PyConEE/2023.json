@@ -1,0 +1,70 @@
+{
+    "year": 2023,
+    "speakers": [
+        {
+            "fullname": "David Mertz",
+            "type": "Keynote",
+            "title": "Attribution and Moral Rights in Generative AI"
+        },
+        {
+            "fullname": "Sebastiaan Zeeff",
+            "type": "Keynote",
+            "title": "Embracing Change"
+        },
+        {
+            "fullname": "Aroma Rodrigues",
+            "type": "Talk",
+            "title": "Are your friends bullshitting?"
+        },
+        {
+            "fullname": "Jacek Kołodziej",
+            "type": "Talk",
+            "title": "GIL: What's the hassle and... should I care?"
+        },
+        {
+            "fullname": "Aivars Kalvans",
+            "type": "Talk",
+            "title": "Pessimism, optimism, realism and Django database concurrency"
+        },
+        {
+            "fullname": "Justinas Kuizinas",
+            "type": "Talk",
+            "title": "Unleashing the Power of Domain Driven Design and AWS with Python microservices"
+        },
+        {
+            "fullname": "Rashmi Nagpal",
+            "type": "Talk",
+            "title": "Unwrap The Black-Box : Building Fair, Ethical & Unbiased ML Systems"
+        },
+        {
+            "fullname": "Kacper Lukawski",
+            "type": "Talk",
+            "title": "What is this all vector search buzz all about?"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Talk",
+            "title": "HTMX vs WASM - more backend or more frontend?"
+        },
+        {
+            "fullname": "Jim Dowling",
+            "type": "Workshop",
+            "title": "Building Serverless Machine Learning Systems in Python"
+        },
+        {
+            "fullname": "Artur Patoka",
+            "type": "Workshop",
+            "title": "Accelerate Python development using live PyCharm debugging"
+        },
+        {
+            "fullname": "Hossein Mortazavi",
+            "type": "Workshop",
+            "title": "How to use Pandas efficiently"
+        },
+        {
+            "fullname": "Juan Luis Cano Rodríguez",
+            "type": "Workshop",
+            "title": "Refactor your Jupyter notebooks into maintainable data science code with Kedro"
+        }
+    ]
+}
