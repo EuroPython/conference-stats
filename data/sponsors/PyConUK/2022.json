@@ -1,0 +1,67 @@
+{
+    "year": 2022,
+    "currency": "GBP",
+    "levels": {
+        "Headline": 0,
+        "Gold": 0,
+        "Silver": 0,
+        "Bronze": 0
+    },
+    "sponsors": [
+        {
+            "name": "JP Morgan Chase",
+            "website": "https://www.jpmorganchase.com/",
+            "level": "Headline"
+        },
+        {
+            "name": "Cookpad",
+            "website": "https://cookpad.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Microsoft",
+            "website": "https://developer.microsoft.com/en-us/python/",
+            "level": "Gold"
+        },
+        {
+            "name": "Bloomberg",
+            "website": "https://www.bloomberg.com/europe",
+            "level": "Gold"
+        },
+        {
+            "name": "Anvil",
+            "website": "https://anvil.works/",
+            "level": "Silver"
+        },
+        {
+            "name": "Taipy",
+            "website": "www.taipy.io",
+            "level": "Silver"
+        },
+        {
+            "name": "Invenia",
+            "website": "https://invenia.ca/",
+            "level": "Silver"
+        },
+        {
+            "name": "Sourcery",
+            "website": "https://sourcery.ai/",
+            "level": "Silver"
+        },
+        {
+            "name": "BenchSci",
+            "website": "https://www.benchsci.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Moneysupermarket Group",
+            "website": "https://www.moneysupermarketgroup.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Pyxll",
+            "website": "https://www.pyxll.com/",
+            "level": "Bronze"
+        }
+    ]
+}
