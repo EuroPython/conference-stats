@@ -1,0 +1,130 @@
+{
+    "year": 2025,
+    "speakers": [
+        {
+            "fullname": "Giunio De Luca",
+            "type": "Workshop",
+            "title": "FastAPI Meets Langchain: crafting a RAG AI-powered chatbot"
+        },
+        {
+            "fullname": "Aivars Kalvāns",
+            "type": "Talk",
+            "title": "QuerySet.explain(): make it make sense"
+        },
+        {
+            "fullname": "Lilinoe Harbottle",
+            "type": "Talk",
+            "title": "Python-Driven Robotics: Where Bytes Meet Biopsies"
+        },
+        {
+            "fullname": "Pablo Galindo Salgado",
+            "type": "Keynote",
+            "title": "Um Siri fazendo barra"
+        },
+        {
+            "fullname": "Cristián Maureira-Fredes",
+            "type": "Talk",
+            "title": "The role of C++ in the Python ecosystem: the case of the Qt framework"
+        },
+        {
+            "fullname": "Daniel Hervás",
+            "type": "Talk",
+            "title": "Inside the Black Box: The Anatomy of Virtual Environments"
+        },
+        {
+            "fullname": "Cristián Maureira-Fredes",
+            "type": "Workshop",
+            "title": "Understanding and expanding Python: hand-on experience with the Python internals"
+        },
+        {
+            "fullname": "Amanda Savluchinske",
+            "type": "Talk",
+            "title": "What if you became an open source contributor in 2025?"
+        },
+        {
+            "fullname": "Rodrigo Girão Serrão",
+            "type": "Workshop",
+            "title": "Advanced decorators – decorators & classes"
+        },
+        {
+            "fullname": "Rodrigo Girão Serrão",
+            "type": "Talk",
+            "title": "A tour of the module `itertools`"
+        },
+        {
+            "fullname": "Rodrigo Girão Serrão",
+            "type": "Workshop",
+            "title": "The Pokémon trainer's guide to Polars"
+        },
+        {
+            "fullname": "Daniel Mesejo",
+            "type": "Talk",
+            "title": "Unifying Data Management in Python with Ibis"
+        },
+        {
+            "fullname": "Emma Saroyan",
+            "type": "Talk",
+            "title": "Property-based testing the Python way"
+        },
+        {
+            "fullname": "Stefanie Molin",
+            "type": "Talk",
+            "title": "Data Morph: A Cautionary Tale of Summary Statistics"
+        },
+        {
+            "fullname": "Stefanie Molin",
+            "type": "Workshop",
+            "title": "(Pre-)Commit to Better Code"
+        },
+        {
+            "fullname": "Anže Pečar",
+            "type": "Talk",
+            "title": "What's new in Python 3.14"
+        },
+        {
+            "fullname": "Maxim Danilov",
+            "type": "Workshop",
+            "title": "Building pure Django REST API"
+        },
+        {
+            "fullname": "Sandro Costa",
+            "type": "Talk",
+            "title": "An A11y for better SEO"
+        },
+        {
+            "fullname": "Pablo Galindo Salgado",
+            "type": "Talk",
+            "title": "Pablo does random stuff"
+        },
+        {
+            "fullname": "Marília Felismino Simões",
+            "type": "Keynote",
+            "title": "From Lisbon to Space: Data Science at ExoPlanetary Scale with Python"
+        },
+        {
+            "fullname": "Nikki Grens",
+            "type": "Keynote",
+            "title": "From Lisbon to Space: Data Science at ExoPlanetary Scale with Python"
+        },
+        {
+            "fullname": "Duarte Pompeu",
+            "type": "Talk",
+            "title": "Tools to setup great Python projects: 2025 update"
+        },
+        {
+            "fullname": "Ricardo Sueiras",
+            "type": "Talk",
+            "title": "Build without limits - lessons learned from using generative AI dev tools"
+        },
+        {
+            "fullname": "Maxim Danilov",
+            "type": "Talk",
+            "title": "Visualizing complexity"
+        },
+        {
+            "fullname": "Lucas Pires",
+            "type": "Talk",
+            "title": "Django & HTMX: Patterns for Success"
+        }
+    ]
+}

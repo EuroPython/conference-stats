@@ -1,0 +1,145 @@
+{
+    "year": 2024,
+    "speakers": [
+        {
+            "fullname": "Rui Monteiro",
+            "type": "Other",
+            "title": "Attracting and retaining technological talent: challenges for cities"
+        },
+        {
+            "fullname": "Miguel Fonseca",
+            "type": "Other",
+            "title": "Attracting and retaining technological talent: challenges for cities"
+        },
+        {
+            "fullname": "Luis Rodrigues",
+            "type": "Other",
+            "title": "Attracting and retaining technological talent: challenges for cities"
+        },
+        {
+            "fullname": "Rui José",
+            "type": "Other",
+            "title": "Attracting and retaining technological talent: challenges for cities"
+        },
+        {
+            "fullname": "Stefanie Molin",
+            "type": "Workshop",
+            "title": "Introduction to Data Analysis Using Pandas - Part 2"
+        },
+        {
+            "fullname": "Marcelo Trylesinski",
+            "type": "Talk",
+            "title": "Unlocking ASGI Innovations: How FastAPI Reaps the Benefits"
+        },
+        {
+            "fullname": "Sebastian Arias",
+            "type": "Talk",
+            "title": "Pythonic Laziness: Unleashing the Power of Generators for Efficient Computing"
+        },
+        {
+            "fullname": "Alex Shershebnev",
+            "type": "Keynote",
+            "title": "Going Beyond Copilot with AI Agents"
+        },
+        {
+            "fullname": "Nithish Raghunandanan",
+            "type": "Talk",
+            "title": "Next-Gen Apps: Enhancing User Experience with Large Language Models"
+        },
+        {
+            "fullname": "Rodrigo Girão Serrão",
+            "type": "Talk",
+            "title": "503 days working full-time on FOSS: lessons learned"
+        },
+        {
+            "fullname": "João Vasconcelos",
+            "type": "Talk",
+            "title": "Pushing the Boundaries of Django Managers"
+        },
+        {
+            "fullname": "Tiago Silva",
+            "type": "Talk",
+            "title": "Esmerald and Lilya - How to speed up the development process"
+        },
+        {
+            "fullname": "Pedro Correia",
+            "type": "Talk",
+            "title": "Esmerald and Lilya - How to speed up the development process"
+        },
+        {
+            "fullname": "Anže Pečar",
+            "type": "Talk",
+            "title": "Self hosting your side projects with Django and duct tape"
+        },
+        {
+            "fullname": "Stefanie Molin",
+            "type": "Workshop",
+            "title": "Introduction to Data Analysis Using Pandas - Part 1"
+        },
+        {
+            "fullname": "Caio Salgado",
+            "type": "Talk",
+            "title": "Are We Typed Yet? The Evolution of Gradual Typing and Mypy"
+        },
+        {
+            "fullname": "Maxim Danilov",
+            "type": "Talk",
+            "title": "Modern art of simplifying python projects by distributing complexity."
+        },
+        {
+            "fullname": "Sydney Runkle",
+            "type": "Talk",
+            "title": "Reflections on My Year as an Open Source Intern at Pydantic"
+        },
+        {
+            "fullname": "Maxim Danilov",
+            "type": "Workshop",
+            "title": "Creating of really multilingual Django project in 2 hour"
+        },
+        {
+            "fullname": "Daniel Hervás",
+            "type": "Talk",
+            "title": "Better logging in Python"
+        },
+        {
+            "fullname": "Jorge Miranda",
+            "type": "Workshop",
+            "title": "Demystifying Bluetooth Low Energy with Python"
+        },
+        {
+            "fullname": "Sydney Runkle",
+            "type": "Talk",
+            "title": "Pydantic Logfire — Uncomplicated Observability"
+        },
+        {
+            "fullname": "Marcelo Trylesinski",
+            "type": "Talk",
+            "title": "Pydantic Logfire — Uncomplicated Observability"
+        },
+        {
+            "fullname": "Alexandra Oliveira",
+            "type": "Talk",
+            "title": "Comparing Time Series Forecasting Models: A Clustering Analysis Approach with Python"
+        },
+        {
+            "fullname": "Martin O'Hanlon",
+            "type": "Workshop",
+            "title": "GenAI Beyond Chat with RAG, Knowledge Graphs and Python"
+        },
+        {
+            "fullname": "Nicholas H.Tollervey",
+            "type": "Keynote",
+            "title": "Paying Attention with Python"
+        },
+        {
+            "fullname": "William Lacerda",
+            "type": "Workshop",
+            "title": "Let's Dive into Web Scraping with Python!"
+        },
+        {
+            "fullname": "Anže Pečar",
+            "type": "Talk",
+            "title": "Django, SQLite, and Production"
+        }
+    ]
+}

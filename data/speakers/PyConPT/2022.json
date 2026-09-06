@@ -1,0 +1,90 @@
+{
+    "year": 2022,
+    "speakers": [
+        {
+            "fullname": "Jodie Burchell",
+            "type": "Talk",
+            "title": "Text to … vectors? How feature engineering works in natural language processing"
+        },
+        {
+            "fullname": "Dash",
+            "type": "Workshop",
+            "title": "Training, Deploying, and Running a ML model using Python and Snowpark"
+        },
+        {
+            "fullname": "Richard Rowland",
+            "type": "Talk",
+            "title": "Why \"Hello World\" is a Massive Operation - From Python code to Stack Virtual Machine"
+        },
+        {
+            "fullname": "Prashant Nigam",
+            "type": "Talk",
+            "title": "Building a Handwritten Text Detection API for Medical Charts"
+        },
+        {
+            "fullname": "Marcelo Trylesinski",
+            "type": "Talk",
+            "title": "How to become a FastAPI Expert"
+        },
+        {
+            "fullname": "Diogo Valente Polónia",
+            "type": "Talk",
+            "title": "A Python-Based Methodology for Solving Sustainability Problems with Data Science"
+        },
+        {
+            "fullname": "João Afonso Pereira",
+            "type": "Talk",
+            "title": "A Python-Based Methodology for Solving Sustainability Problems with Data Science"
+        },
+        {
+            "fullname": "Patrícia Rocha",
+            "type": "Talk",
+            "title": "A Python-Based Methodology for Solving Sustainability Problems with Data Science"
+        },
+        {
+            "fullname": "João Matos",
+            "type": "Talk",
+            "title": "A Python-Based Methodology for Solving Sustainability Problems with Data Science"
+        },
+        {
+            "fullname": "Michael Seifert",
+            "type": "Workshop",
+            "title": "Bulletproof Python – Property-Based Testing with Hypothesis"
+        },
+        {
+            "fullname": "Daniele Procida",
+            "type": "Keynote",
+            "title": "KEYNOTE: What am I doing?"
+        },
+        {
+            "fullname": "Ashmi Banerjee",
+            "type": "Talk",
+            "title": "Automating mundane activities using Python"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Workshop",
+            "title": "Picking What to Watch Next - build a recommendation system"
+        },
+        {
+            "fullname": "Stefanie Molin",
+            "type": "Workshop",
+            "title": "Introduction to Data Analysis Using Pandas"
+        },
+        {
+            "fullname": "Max Kahan",
+            "type": "Talk",
+            "title": "Use my n-point checklist to become exponentially happier with your Python project"
+        },
+        {
+            "fullname": "Nabanita Roy",
+            "type": "Workshop",
+            "title": "Building and Optimizing a Multiclass Text Classifier using Keras"
+        },
+        {
+            "fullname": "Mark Farragher",
+            "type": "Talk",
+            "title": "Connecting those thoughts: Personal knowledge management with Python"
+        }
+    ]
+}

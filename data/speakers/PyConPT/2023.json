@@ -1,0 +1,180 @@
+{
+    "year": 2023,
+    "speakers": [
+        {
+            "fullname": "Maxim Danilov",
+            "type": "Workshop",
+            "title": "Django and ReportLab: create PDF Like A Boss ."
+        },
+        {
+            "fullname": "Cláudia Mendes",
+            "type": "Keynote",
+            "title": "Breaking Bias: PyWomen = 0 #ErrorAlert"
+        },
+        {
+            "fullname": "Efe Öge",
+            "type": "Talk",
+            "title": "Practical Guide to Database Locks with Django"
+        },
+        {
+            "fullname": "Riccardo Magliocchetti",
+            "type": "Talk",
+            "title": "A simple serverless data pipeline"
+        },
+        {
+            "fullname": "Avneet Kaur",
+            "type": "Talk",
+            "title": "Building Dainty Dashboards in Plotly Dash for health data science."
+        },
+        {
+            "fullname": "Luis Vaz",
+            "type": "Other",
+            "title": "Welcoming Session"
+        },
+        {
+            "fullname": "Alexandre Miguel Fernandes Gomes da Silva",
+            "type": "Other",
+            "title": "Welcoming Session"
+        },
+        {
+            "fullname": "Tiago Silva",
+            "type": "Talk",
+            "title": "Esmerald and Saffier - Complex Python made it easy with async"
+        },
+        {
+            "fullname": "Pedro Correia",
+            "type": "Talk",
+            "title": "Esmerald and Saffier - Complex Python made it easy with async"
+        },
+        {
+            "fullname": "Darya Petrashka",
+            "type": "Talk",
+            "title": "Amazon CodeWhisperer, ChatGPT, and GitHub Copilot: Choosing the Best Python AI Code Assistant"
+        },
+        {
+            "fullname": "Jayesh Kothari",
+            "type": "Workshop",
+            "title": "Data Storytelling using Python"
+        },
+        {
+            "fullname": "Rodrigo Girão Serrão",
+            "type": "Workshop",
+            "title": "Mastering comprehensions"
+        },
+        {
+            "fullname": "Rodrigo Girão Serrão",
+            "type": "Talk",
+            "title": "Comprehending Comprehensions"
+        },
+        {
+            "fullname": "Cristián Maureira-Fredes",
+            "type": "Talk",
+            "title": "CPython Survival Kit: basic C concepts to understand Python better"
+        },
+        {
+            "fullname": "Luca Baggi",
+            "type": "Talk",
+            "title": "I know Polars is fast, but my data pipelines are written in pandas!"
+        },
+        {
+            "fullname": "Olaniyan Adewale",
+            "type": "Workshop",
+            "title": "MicroPython and time series analysis: Forecasting and trend analysis"
+        },
+        {
+            "fullname": "Sulaiman Adisa Adigun",
+            "type": "Workshop",
+            "title": "MicroPython and time series analysis: Forecasting and trend analysis"
+        },
+        {
+            "fullname": "Leandro Damascena",
+            "type": "Talk",
+            "title": "Living and breathing backwards compatible changes"
+        },
+        {
+            "fullname": "Henrique Graça",
+            "type": "Talk",
+            "title": "Living and breathing backwards compatible changes"
+        },
+        {
+            "fullname": "Anastasiia Kostiv",
+            "type": "Talk",
+            "title": "Revealing Perspectives: The Art of Data Insight Communication in the Data-Driven Projects"
+        },
+        {
+            "fullname": "Shahriyar Rzayev",
+            "type": "Workshop",
+            "title": "Learn Flask the hard way: Introduce Architecture Patterns"
+        },
+        {
+            "fullname": "Gonçalo Marques",
+            "type": "Workshop",
+            "title": "From WebSites to Datasets: Unleashing the Power of Data Harvesting with Python"
+        },
+        {
+            "fullname": "Rashmi Nagpal",
+            "type": "Talk",
+            "title": "The Aesthetics of Unbiased Machine Learning Systems: Crafting Fairness in Practice"
+        },
+        {
+            "fullname": "Murilo Cunha",
+            "type": "Talk",
+            "title": "Faster Python with friends"
+        },
+        {
+            "fullname": "Tom Forbes",
+            "type": "Keynote",
+            "title": "Optimising for joy"
+        },
+        {
+            "fullname": "Quazi Nafiul Islam",
+            "type": "Talk",
+            "title": "Weird Python: A few ways in which Python can misbehave"
+        },
+        {
+            "fullname": "Lucas Pires",
+            "type": "Talk",
+            "title": "Building advanced back-office interfaces using Django & HTMX"
+        },
+        {
+            "fullname": "Stefanie Molin",
+            "type": "Workshop",
+            "title": "Beyond the Basics: Data Visualization in Python"
+        },
+        {
+            "fullname": "Joao Ferreira",
+            "type": "Talk",
+            "title": "Legacy apps, deadlines and project pragmatism - Delivering thousands of messages every night in primary healthcare"
+        },
+        {
+            "fullname": "Francisco Lavrador Pires",
+            "type": "Talk",
+            "title": "\"PYTHON IN QISKIT ENVIROMENTS FOR QUANTUM COMPUTING\""
+        },
+        {
+            "fullname": "Jorge Miranda",
+            "type": "Talk",
+            "title": "Tavern Crawler: a tool to enable fast and easy development of automated API tests"
+        },
+        {
+            "fullname": "Lucas",
+            "type": "Talk",
+            "title": "Artificial Intelligence running on the Blockchain"
+        },
+        {
+            "fullname": "Filipe Laíns",
+            "type": "Talk",
+            "title": "Getting started with (modern) Python packaging"
+        },
+        {
+            "fullname": "Duarte Pompeu",
+            "type": "Talk",
+            "title": "Tools to setup great python projects"
+        },
+        {
+            "fullname": "Felix Mino",
+            "type": "Workshop",
+            "title": "Boosting up your tests: property-based testing workshop"
+        }
+    ]
+}

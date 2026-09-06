@@ -1,0 +1,130 @@
+{
+    "year": 2026,
+    "speakers": [
+        {
+            "fullname": "Marcos Manuel Ortega González",
+            "type": "Talk",
+            "title": "Now available: A pythoneer's guide to IaC with Pulumi"
+        },
+        {
+            "fullname": "Juan Castillo del Río",
+            "type": "Talk",
+            "title": "Predicting the future with machine learning and Python"
+        },
+        {
+            "fullname": "Rodrigo Girão Serrão",
+            "type": "Talk",
+            "title": "And now for something completely different"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Workshop",
+            "title": "Audit and evaluate AI generated Python code"
+        },
+        {
+            "fullname": "Daniel Reis",
+            "type": "Talk",
+            "title": "Running Companies with Python and Open Source ERP"
+        },
+        {
+            "fullname": "Tiago Montes",
+            "type": "Workshop",
+            "title": "Trust Me, I'm a Certificate Authority"
+        },
+        {
+            "fullname": "Hilal Işık",
+            "type": "Workshop",
+            "title": "This Agent Will Judge Your Bias!"
+        },
+        {
+            "fullname": "Anastasia Mikheeva",
+            "type": "Workshop",
+            "title": "This Agent Will Judge Your Bias!"
+        },
+        {
+            "fullname": "Anže Pečar",
+            "type": "Talk",
+            "title": "Speeding Up Django Startup Times with Lazy Imports"
+        },
+        {
+            "fullname": "Laís Carvalho",
+            "type": "Keynote",
+            "title": "Keynote: Most of your AI output is Slop (and how to optimise it)"
+        },
+        {
+            "fullname": "Rafael Araújo",
+            "type": "Talk",
+            "title": "Implementing Data Quality Control with Python"
+        },
+        {
+            "fullname": "Mariatta",
+            "type": "Talk",
+            "title": "Reverse-engineering the QR code generator and URL forwarder service"
+        },
+        {
+            "fullname": "Pier Paolo La Pastina",
+            "type": "Talk",
+            "title": "The illusion of sequential execution in PySpark"
+        },
+        {
+            "fullname": "Yulia Markelova",
+            "type": "Talk",
+            "title": "strong ref, weakref and garbage collector walks into a bar"
+        },
+        {
+            "fullname": "Juan Caraballo",
+            "type": "Talk",
+            "title": "Your Software Mirrors Your Conversations. Your Conversations Just Went Private."
+        },
+        {
+            "fullname": "Mariatta",
+            "type": "Talk",
+            "title": "No More Spreadsheets! Building PyLadiesCon Infrastructure with Python and Django"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Talk",
+            "title": "Debug smarter, not harder - all you need to know about debugging in Python"
+        },
+        {
+            "fullname": "Rodrigo Girão Serrão",
+            "type": "Workshop",
+            "title": "Fast Python development with uv"
+        },
+        {
+            "fullname": "Mai Gimenez",
+            "type": "Keynote",
+            "title": "Keynote: Becoming a code curator: developing engineering taste in the age of generative agents"
+        },
+        {
+            "fullname": "Mohnish Awade",
+            "type": "Workshop",
+            "title": "Code Smarter with Functional Python"
+        },
+        {
+            "fullname": "Hugo van Kemenade",
+            "type": "Talk",
+            "title": "What's new in Python 3.14 & 3.15"
+        },
+        {
+            "fullname": "Stefanie Molin",
+            "type": "Workshop",
+            "title": "Process, Analyze, and Transform Python Code with ASTs"
+        },
+        {
+            "fullname": "Stefanie Molin",
+            "type": "Talk",
+            "title": "Build Your Own (Simple) Static Code Analyzer"
+        },
+        {
+            "fullname": "David Vaz",
+            "type": "Talk",
+            "title": "I Am a Sucker for Conventions. Why Django’s Defaults Work, Until They Don’t"
+        },
+        {
+            "fullname": "Natalia Riveros Núñez",
+            "type": "Talk",
+            "title": "Building Resilient Python APIs for Systems That Can't Afford to Fail"
+        }
+    ]
+}
