@@ -1,0 +1,18 @@
+{
+    "year": 2014,
+    "levels": {
+        "Sponsor": 0
+    },
+    "sponsors": [
+        {
+            "name": "Programmers of Vilnius",
+            "website": "",
+            "level": "Sponsor"
+        },
+        {
+            "name": "HacBee",
+            "website": "",
+            "level": "Sponsor"
+        }
+    ]
+}

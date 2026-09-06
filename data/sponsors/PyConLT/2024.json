@@ -1,0 +1,43 @@
+{
+    "year": 2024,
+    "levels": {
+        "Sponsor": 0
+    },
+    "sponsors": [
+        {
+            "name": "Oxylabs",
+            "website": "https://oxylabs.io/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Gurtam",
+            "website": "https://gurtam.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Carvertical",
+            "website": "https://www.carvertical.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "CornerCase Technologies",
+            "website": "",
+            "level": "Silver"
+        },
+        {
+            "name": "Shift4",
+            "website": "https://www.shift4.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Revel Systems",
+            "website": "https://revelsystems.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "AppSignal",
+            "website": "https://appsignal.com/",
+            "level": "Bronze"
+        }
+    ]
+}

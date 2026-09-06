@@ -1,0 +1,41 @@
+{
+    "year": 2022,
+    "levels": {
+        "Keystone": 0,
+        "Gold": 0,
+        "Silver": 0,
+        "Bronze": 0
+    },
+    "sponsors": [
+        {
+            "name": "Oxylabs",
+            "website": "https://oxylabs.io/",
+            "level": "Keystone"
+        },
+        {
+            "name": "Corner Case Technologies",
+            "website": "https://www.cornercasetech.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "ZealID",
+            "website": "https://www.zealid.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Convious",
+            "website": "https://www.convious.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Shoobx",
+            "website": "https://www.shoobx.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Strivr",
+            "website": "https://www.strivr.com/",
+            "level": "Bronze"
+        }
+    ]
+}

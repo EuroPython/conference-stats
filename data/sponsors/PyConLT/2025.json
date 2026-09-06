@@ -1,0 +1,93 @@
+{
+    "year": 2025,
+    "levels": {
+        "Sponsor": 0
+    },
+    "sponsors": [
+        {
+            "name": "Oxylabs",
+            "website": "https://oxylabs.io/",
+            "level": "Platinum"
+        },
+        {
+            "name": "Carvertical",
+            "website": "https://www.carvertical.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Revolut",
+            "website": "https://ep2026.europython.eu/sponsors#sponsor-revolut",
+            "level": "Gold"
+        },
+        {
+            "name": "Gurtam",
+            "website": "https://gurtam.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Mediatech",
+            "website": "",
+            "level": "Silver"
+        },
+        {
+            "name": "CornerCase Technologies",
+            "website": "",
+            "level": "Silver"
+        },
+        {
+            "name": "EPAM",
+            "website": "https://www.epam.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Packt",
+            "website": "www.packtpub.com",
+            "level": "Community"
+        },
+        {
+            "name": "O'Reilly",
+            "website": "www.oreilly.com",
+            "level": "Community"
+        },
+        {
+            "name": "Uncle Data",
+            "website": "",
+            "level": "Community"
+        },
+        {
+            "name": "PyLadies London",
+            "website": "",
+            "level": "Community"
+        },
+        {
+            "name": "PyLadies Lithuania",
+            "website": "",
+            "level": "Community"
+        },
+        {
+            "name": "EuroPython Society",
+            "website": "www.europython-society.org/",
+            "level": "Community"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Community"
+        },
+        {
+            "name": "PyCon Estonia",
+            "website": "https://pycon.ee/",
+            "level": "Community"
+        },
+        {
+            "name": "PyCon Italy",
+            "website": "https://www.pycon.it/",
+            "level": "Community"
+        },
+        {
+            "name": "PyCon Slovakia",
+            "website": "https://pycon.sk/",
+            "level": "Community"
+        }
+    ]
+}
