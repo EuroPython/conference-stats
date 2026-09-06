@@ -1,0 +1,39 @@
+{
+    "year": 2020,
+    "currency": "SEK",
+    "levels": {
+        "Sponsor": 0
+    },
+    "sponsors": [
+        {
+            "name": "Funnel",
+            "website": "https://funnel.io/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "H&M Group",
+            "website": "https://hmgroup.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Sticker Mule",
+            "website": "https://www.stickermule.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Klarna",
+            "website": "https://www.klarna.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "Sigma IT",
+            "website": "https://sigmaitgroup.com/",
+            "level": "Sponsor"
+        },
+        {
+            "name": "46elks",
+            "website": "https://46elks.com/",
+            "level": "Sponsor"
+        }
+    ]
+}
