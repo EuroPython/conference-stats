@@ -1,0 +1,80 @@
+{
+    "year": 2025,
+    "speakers": [
+        {
+            "fullname": "Mohamed El Fodil Ihaddaden",
+            "type": "Talk",
+            "title": "Shiny for Python: Reactive Web Apps Made Simple"
+        },
+        {
+            "fullname": "Miikka Koskinen",
+            "type": "Talk",
+            "title": "Python and Rust, a Perfect Pairing"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Talk",
+            "title": "Epic Evolution of Typing in Python: How We Get Here and Where Are We Going?"
+        },
+        {
+            "fullname": "Nil Bacardit",
+            "type": "Talk",
+            "title": "Guillotina Volto: A New Backend for Volto"
+        },
+        {
+            "fullname": "Roger Boixader Güell",
+            "type": "Talk",
+            "title": "Guillotina Volto: A New Backend for Volto"
+        },
+        {
+            "fullname": "Ramon Perez",
+            "type": "Talk",
+            "title": "Building with Multiple Languages: A Python-First Approach"
+        },
+        {
+            "fullname": "Alexander Loechel",
+            "type": "Talk",
+            "title": "eduTAP"
+        },
+        {
+            "fullname": "Juha-Matti Santala",
+            "type": "Talk",
+            "title": "Debugging Python"
+        },
+        {
+            "fullname": "Maurits van Rees",
+            "type": "Talk",
+            "title": "State of Plone 6 backend"
+        },
+        {
+            "fullname": "Daniel Vahla",
+            "type": "Talk",
+            "title": "Preparing for a Free-Threaded Python World"
+        },
+        {
+            "fullname": "Jeremy Mayeres",
+            "type": "Talk",
+            "title": "Using Python with Satellites, Lessons from a Staff Engineer"
+        },
+        {
+            "fullname": "Petr Andreev",
+            "type": "Talk",
+            "title": "noGIL: Diving into CPython 3.14’s, Free-Threaded Future"
+        },
+        {
+            "fullname": "Jayita Bhattacharyya",
+            "type": "Talk",
+            "title": "DSPy the Declarative Programming in the Era of AI"
+        },
+        {
+            "fullname": "Aroma Rodrigues",
+            "type": "Talk",
+            "title": "The Limits of Imagination : An Open Source journey"
+        },
+        {
+            "fullname": "Alan Runyan",
+            "type": "Talk",
+            "title": "I Wish You Were Fun"
+        }
+    ]
+}
