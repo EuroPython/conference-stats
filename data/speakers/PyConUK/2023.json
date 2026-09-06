@@ -1,0 +1,290 @@
+{
+    "year": 2023,
+    "speakers": [
+        {
+            "fullname": "Geraint Palmer",
+            "type": "Main Stage Event",
+            "title": "Multi-Objective Linear Programming to find the Best Pokémon Team"
+        },
+        {
+            "fullname": "Matthew Davies",
+            "type": "Lecture Room Event",
+            "title": "Using Python and Anvil in an FE College"
+        },
+        {
+            "fullname": "Paul Haesler",
+            "type": "Lecture Room Event",
+            "title": "Geodesy for Pythonistas (or How I Learned to Stop Worrying and Love Coordinate Reference Systems)"
+        },
+        {
+            "fullname": "Emma Delescolle",
+            "type": "Main Stage Event",
+            "title": "I plugged a Z80 into a Pi Pico, here's how it happened"
+        },
+        {
+            "fullname": "Tomas Horacek",
+            "type": "Main Stage Event",
+            "title": "Vulnerability Management with CVSS"
+        },
+        {
+            "fullname": "Josh Lowe",
+            "type": "Young Coders Event",
+            "title": "Create artwork with Python Turtle & EduBlocks"
+        },
+        {
+            "fullname": "Brett Beutell",
+            "type": "Main Stage Event",
+            "title": "Open-source, developer-friendly observability in only a few lines code"
+        },
+        {
+            "fullname": "Karen Jex",
+            "type": "Main Stage Event",
+            "title": "How to keep your database happy"
+        },
+        {
+            "fullname": "Tibs",
+            "type": "Main Stage Event",
+            "title": "How I used PostgreSQL® to find pictures of me at a party"
+        },
+        {
+            "fullname": "Alistair Lynn",
+            "type": "Main Stage Event",
+            "title": "Adventures in Unicode: the `str` less travelled"
+        },
+        {
+            "fullname": "Mark Smith",
+            "type": "Main Stage Event",
+            "title": "Sprints"
+        },
+        {
+            "fullname": "Max Kahan",
+            "type": "Main Stage Event",
+            "title": "Fear the mutants. Love the mutants."
+        },
+        {
+            "fullname": "Thomas Gregory",
+            "type": "Classroom Event",
+            "title": "Maths in Motion: Python-Powered Modelling for Real-World Phenomena"
+        },
+        {
+            "fullname": "Gurjot Singh",
+            "type": "Classroom Event",
+            "title": "Maths in Motion: Python-Powered Modelling for Real-World Phenomena"
+        },
+        {
+            "fullname": "CJ Shearwood",
+            "type": "Classroom Event",
+            "title": "Monte Carlo Simulations for Testing Tabletop Games"
+        },
+        {
+            "fullname": "Jacob Tomlinson",
+            "type": "Classroom Event",
+            "title": "Scaling the PyData Ecosystem with Dask"
+        },
+        {
+            "fullname": "Atieno Ouma",
+            "type": "Main Stage Event",
+            "title": "SIGN-TO-TEXT:Unleashing the Power of Google AI for real time ASL transcription"
+        },
+        {
+            "fullname": "Lisa Carpenter",
+            "type": "Round Table Event",
+            "title": "Effective teaching of Python"
+        },
+        {
+            "fullname": "Ann Barr",
+            "type": "Main Stage Event",
+            "title": "Welcome and Introductions"
+        },
+        {
+            "fullname": "Mx Chiin-Rui Tan",
+            "type": "Young Coders Event",
+            "title": "Turn Satellite Images into Digital Art with Python"
+        },
+        {
+            "fullname": "Sarah Townson",
+            "type": "Young Coders Event",
+            "title": "Stop the Treasure Thieves"
+        },
+        {
+            "fullname": "Carlos Pereira Atencio",
+            "type": "Young Coders Event",
+            "title": "Stop the Treasure Thieves"
+        },
+        {
+            "fullname": "Dom Weldon",
+            "type": "Main Stage Event",
+            "title": "Secure, Modern, and Simple Dependency Management with PDM and Friends"
+        },
+        {
+            "fullname": "Daniele Procida",
+            "type": "Main Stage Event",
+            "title": "What on earth is a code sprint?"
+        },
+        {
+            "fullname": "Becky Smith",
+            "type": "Round Table Event",
+            "title": "Board games & manual technology evening"
+        },
+        {
+            "fullname": "Alon Nir",
+            "type": "Main Stage Event",
+            "title": "3 Lessons Data Scientists Can Learn from World War II"
+        },
+        {
+            "fullname": "Mark Smith",
+            "type": "Main Stage Event",
+            "title": "Lightning Talks"
+        },
+        {
+            "fullname": "Myles Mitchell",
+            "type": "Classroom Event",
+            "title": "Data visualisation with Seaborn"
+        },
+        {
+            "fullname": "Parisa Gregg",
+            "type": "Classroom Event",
+            "title": "Data visualisation with Seaborn"
+        },
+        {
+            "fullname": "Daniele Procida",
+            "type": "Classroom Event",
+            "title": "Practical tools for documentation at scale"
+        },
+        {
+            "fullname": "Scott Morgan",
+            "type": "Main Stage Event",
+            "title": "Young Coders Presentations"
+        },
+        {
+            "fullname": "Emily Holyoake",
+            "type": "Main Stage Event",
+            "title": "If you can’t give me poetry, can’t you give me poetical science?"
+        },
+        {
+            "fullname": "Kevlin Henney",
+            "type": "Main Stage Event",
+            "title": "Technical Neglect"
+        },
+        {
+            "fullname": "Gail Ollis",
+            "type": "Round Table Event",
+            "title": "The internet of borrowed things"
+        },
+        {
+            "fullname": "James Williams",
+            "type": "Round Table Event",
+            "title": "The internet of borrowed things"
+        },
+        {
+            "fullname": "Coen de Groot",
+            "type": "Main Stage Event",
+            "title": "Interactive web pages with Django or Flask, without writing Javascript"
+        },
+        {
+            "fullname": "Ann Barr",
+            "type": "Main Stage Event",
+            "title": "Welcome and Introductions"
+        },
+        {
+            "fullname": "Ben Nuttall",
+            "type": "Main Stage Event",
+            "title": "Live highlights in BBC iPlayer"
+        },
+        {
+            "fullname": "Patrick Arminio",
+            "type": "Main Stage Event",
+            "title": "Optimizing GraphQL Performance: Tips and Techniques"
+        },
+        {
+            "fullname": "Mark Smith",
+            "type": "Main Stage Event",
+            "title": "Lightning Talks"
+        },
+        {
+            "fullname": "Mark Smith",
+            "type": "Classroom Event",
+            "title": "The ⚡️ Talk Workshop"
+        },
+        {
+            "fullname": "Sarah Townson",
+            "type": "Classroom Event",
+            "title": "Treasure Challenge"
+        },
+        {
+            "fullname": "Carlos Pereira Atencio",
+            "type": "Classroom Event",
+            "title": "Treasure Challenge"
+        },
+        {
+            "fullname": "Mia Bajić",
+            "type": "Main Stage Event",
+            "title": "The Standard Library Tour"
+        },
+        {
+            "fullname": "Jacob Tomlinson",
+            "type": "Main Stage Event",
+            "title": "When to rebuild things that already exist"
+        },
+        {
+            "fullname": "Sebastiaan Zeeff",
+            "type": "Main Stage Event",
+            "title": "The Magic of Self: How Python inserts self into methods"
+        },
+        {
+            "fullname": "Daniele Procida",
+            "type": "Main Stage Event",
+            "title": "The programmer's imagination"
+        },
+        {
+            "fullname": "Owen Campbell",
+            "type": "Main Stage Event",
+            "title": "Welcome and UKPA AGM"
+        },
+        {
+            "fullname": "Debayan Das",
+            "type": "Main Stage Event",
+            "title": "The Sound of Your Footsteps can Predict for Dementia"
+        },
+        {
+            "fullname": "Mark Smith",
+            "type": "Main Stage Event",
+            "title": "Lightning Talks"
+        },
+        {
+            "fullname": "Scott Morgan",
+            "type": "Young Coders Event",
+            "title": "Physical Computing with a Raspberry Pi"
+        },
+        {
+            "fullname": "Stefanie Molin",
+            "type": "Classroom Event",
+            "title": "Introduction to Data Analysis Using Pandas"
+        },
+        {
+            "fullname": "Mx Chiin-Rui Tan",
+            "type": "Main Stage Event",
+            "title": "Investigating Environmental issues with Python"
+        },
+        {
+            "fullname": "Hynek Schlawack",
+            "type": "Lecture Room Event",
+            "title": "Subclassing, Composition, Python, and You"
+        },
+        {
+            "fullname": "David Seddon",
+            "type": "Main Stage Event",
+            "title": "Domain Driven Design and Python"
+        },
+        {
+            "fullname": "Kane Swartz",
+            "type": "Main Stage Event",
+            "title": "Well well. ML is not the answer to everything."
+        },
+        {
+            "fullname": "Ann Barr",
+            "type": "Main Stage Event",
+            "title": "The Accidental Conference Director"
+        }
+    ]
+}

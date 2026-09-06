@@ -1,0 +1,190 @@
+{
+    "year": 2022,
+    "speakers": [
+        {
+            "fullname": "Dom Weldon",
+            "type": "Talk",
+            "title": "It's Your Call(able): a tour of Python's callable (function) interface"
+        },
+        {
+            "fullname": "Peter Johnson",
+            "type": "Talk",
+            "title": "Using python to create a prototype for web accessibility research"
+        },
+        {
+            "fullname": "Hannah Hazi",
+            "type": "Talk",
+            "title": "Unexploded Bombs"
+        },
+        {
+            "fullname": "Peter Russell",
+            "type": "Talk",
+            "title": "Alternative History Retrocomputing"
+        },
+        {
+            "fullname": "Mark Smith",
+            "type": "Workshop",
+            "title": "Intro to FARM Stack: FastAPI, React & MongoDB"
+        },
+        {
+            "fullname": "Daniele Procida",
+            "type": "Workshop",
+            "title": "Introduction to Diátaxis"
+        },
+        {
+            "fullname": "Marc-André Lemburg",
+            "type": "Talk",
+            "title": "An introduction to async programming - Writing a Telegram Antispam Bot in Python"
+        },
+        {
+            "fullname": "Becky Smith",
+            "type": "Talk",
+            "title": "OpenSAFELY: a python powered response to the COVID pandemic"
+        },
+        {
+            "fullname": "Simon Davy",
+            "type": "Talk",
+            "title": "OpenSAFELY: a python powered response to the COVID pandemic"
+        },
+        {
+            "fullname": "Olga Matoula",
+            "type": "Workshop",
+            "title": "Creating your first documentation site for your Python code"
+        },
+        {
+            "fullname": "Aya Elsayed",
+            "type": "Workshop",
+            "title": "Creating your first documentation site for your Python code"
+        },
+        {
+            "fullname": "Ally Stanley",
+            "type": "Talk",
+            "title": "Meta Generators: Playing Safe with Long Sequences"
+        },
+        {
+            "fullname": "Carlos Pereira Atencio",
+            "type": "Something Else",
+            "title": "Python on Hardware Community Showcase (Open Session)"
+        },
+        {
+            "fullname": "Mark Farragher",
+            "type": "Talk",
+            "title": "Connecting those thoughts: Personal knowledge management with Python"
+        },
+        {
+            "fullname": "Tibs",
+            "type": "Talk",
+            "title": "Fish and Chips and Apache Kafka®"
+        },
+        {
+            "fullname": "Philippe Masson",
+            "type": "Talk",
+            "title": "Giving Python to non-developers: A real-life story"
+        },
+        {
+            "fullname": "Rita Kesrouani",
+            "type": "Talk",
+            "title": "Giving Python to non-developers: A real-life story"
+        },
+        {
+            "fullname": "Dash Desai",
+            "type": "Workshop",
+            "title": "Training, Deploying, and Running a ML model using Python and Snowpark"
+        },
+        {
+            "fullname": "Ronan Lamy",
+            "type": "Talk",
+            "title": "HPy: a better C API for Python"
+        },
+        {
+            "fullname": "Tim Gilboy",
+            "type": "Talk",
+            "title": "Living With Technical Debt: Acknowledge It, Specify It, Reduce It"
+        },
+        {
+            "fullname": "Reka Horvath",
+            "type": "Talk",
+            "title": "Living With Technical Debt: Acknowledge It, Specify It, Reduce It"
+        },
+        {
+            "fullname": "Astrid Novicky",
+            "type": "Workshop",
+            "title": "Build an automated watering system"
+        },
+        {
+            "fullname": "Daniele Procida",
+            "type": "Talk",
+            "title": "How to wag a dog"
+        },
+        {
+            "fullname": "Stefanie Molin",
+            "type": "Workshop",
+            "title": "Introduction to Data Analysis Using Pandas"
+        },
+        {
+            "fullname": "Eli Holderness",
+            "type": "Talk",
+            "title": "Pointers? In my Python? It's more likely than you think"
+        },
+        {
+            "fullname": "Tatiana Al-Chueyr",
+            "type": "Workshop",
+            "title": "Getting started with Apache Airflow"
+        },
+        {
+            "fullname": "Kaxil Naik",
+            "type": "Workshop",
+            "title": "Getting started with Apache Airflow"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Talk",
+            "title": "I hate writing tests, that's why I use Hypothesis"
+        },
+        {
+            "fullname": "Scott Irwin",
+            "type": "Talk",
+            "title": "PyScript and my journey to the Web"
+        },
+        {
+            "fullname": "Vincent Knight",
+            "type": "Talk",
+            "title": "Do not trust my [or any] computational research."
+        },
+        {
+            "fullname": "Ian Thomas",
+            "type": "Talk",
+            "title": "Visualising large datasets: everyone in the UK Census"
+        },
+        {
+            "fullname": "Jodie Burchell",
+            "type": "Talk",
+            "title": "Vectorise all the things! How basic linear algebra can speed up your data science code"
+        },
+        {
+            "fullname": "Sarah Townson",
+            "type": "Workshop",
+            "title": "Coders: The Next Generation"
+        },
+        {
+            "fullname": "Ben Nuttall",
+            "type": "Talk",
+            "title": "Rapid prototyping in BBC News with Python and AWS"
+        },
+        {
+            "fullname": "Michael Seifert",
+            "type": "Workshop",
+            "title": "Bulletproof Python – Property-Based Testing with Hypothesis"
+        },
+        {
+            "fullname": "Emma Saroyan",
+            "type": "Talk",
+            "title": "Property-Based Testing the Python Way"
+        },
+        {
+            "fullname": "Irit Katriel",
+            "type": "Talk",
+            "title": "Exception Groups and except*"
+        }
+    ]
+}

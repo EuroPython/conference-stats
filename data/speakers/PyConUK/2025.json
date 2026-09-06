@@ -1,0 +1,315 @@
+{
+    "year": 2025,
+    "speakers": [
+        {
+            "fullname": "Kyle Into",
+            "type": "Talk",
+            "title": "Pyrefly: A Scalable Type Checker for a Unified IDE Experience"
+        },
+        {
+            "fullname": "Hannah Hazi",
+            "type": "Talk",
+            "title": "More Spoons Please: Coping With Long Covid As A Programmer"
+        },
+        {
+            "fullname": "Richard Terry",
+            "type": "Talk",
+            "title": "Prototypes, Sharing and Services: Full Django in a Single File"
+        },
+        {
+            "fullname": "Koti Vellanki",
+            "type": "interactive workshop or collaborative session",
+            "title": "Setting Up Reliable CI/CD Pipelines with Python, K8s & Testcontainers"
+        },
+        {
+            "fullname": "Daniel Rios",
+            "type": "Talk",
+            "title": "Much Ado About None"
+        },
+        {
+            "fullname": "Katie Bickford",
+            "type": "Talk",
+            "title": "A junior’s perspective: why doing difficult things is good for you and good for your team"
+        },
+        {
+            "fullname": "Ben Nuttall",
+            "type": "interactive workshop or collaborative session",
+            "title": "Data modelling with Pydantic"
+        },
+        {
+            "fullname": "Simon Davy",
+            "type": "interactive workshop or collaborative session",
+            "title": "Observing production systems with OpenTelemetry"
+        },
+        {
+            "fullname": "Jesse Carnaxide",
+            "type": "Talk",
+            "title": "How to be a Python Icon, writing Pythonic Code"
+        },
+        {
+            "fullname": "Kolen Cheung",
+            "type": "Talk",
+            "title": "JIT compilers for scientific computing in Python: Numba vs. JAX"
+        },
+        {
+            "fullname": "Marie Roald",
+            "type": "Talk",
+            "title": "Why `len('😶‍🌫️') == 4` and other weird things you should know about strings in Python"
+        },
+        {
+            "fullname": "Yngve Mardal Moe",
+            "type": "Talk",
+            "title": "Why `len('😶‍🌫️') == 4` and other weird things you should know about strings in Python"
+        },
+        {
+            "fullname": "CJ Shearwood",
+            "type": "Talk",
+            "title": "I'm a Luddite, Why Aren't You"
+        },
+        {
+            "fullname": "Nataly Merezhuk",
+            "type": "Talk",
+            "title": "Mapping Jane Austen’s Influence Across Space & Time with Python and ClickHouse"
+        },
+        {
+            "fullname": "Ben Nuttall",
+            "type": "Young Coders Event",
+            "title": "Make a Splat-a-cat Game With PyGameZero"
+        },
+        {
+            "fullname": "Frances Buontempo",
+            "type": "interactive workshop or collaborative session",
+            "title": "Simply the best: An introduction to machine learning with evolutionary algorithms"
+        },
+        {
+            "fullname": "Kevlin Henney",
+            "type": "Talk",
+            "title": "Principle Misunderstandings"
+        },
+        {
+            "fullname": "Pierre Weill-Tessier",
+            "type": "Talk",
+            "title": "Creative beginners Python programming in the browser"
+        },
+        {
+            "fullname": "Kristian Glass",
+            "type": "Talk",
+            "title": "The UK Python Association - About Us"
+        },
+        {
+            "fullname": "Peichao Qin",
+            "type": "Talk",
+            "title": "Speed Matters: Accelerating Python with C++ and Pybind11"
+        },
+        {
+            "fullname": "Bernhard Merkle",
+            "type": "Talk",
+            "title": "Marimo Magic: A New Era of Python Notebooks for Explorers and Engineers"
+        },
+        {
+            "fullname": "Harry Percival",
+            "type": "interactive workshop or collaborative session",
+            "title": "TDD: what it is, why it's good, and why it might just solve all your AI problems"
+        },
+        {
+            "fullname": "Daniele Procida",
+            "type": "interactive workshop or collaborative session",
+            "title": "How to measure and elevate quality in engineering practice"
+        },
+        {
+            "fullname": "David Seddon",
+            "type": "Talk",
+            "title": "Beyond lists: why other collection types are often better"
+        },
+        {
+            "fullname": "Sage Abdullah",
+            "type": "Talk",
+            "title": "From student to maintainer: how mentorship programs sustain Django and Wagtail"
+        },
+        {
+            "fullname": "Felienne Hermans",
+            "type": "Keynote",
+            "title": "Localization and translation of programming languages"
+        },
+        {
+            "fullname": "Sarah Townson",
+            "type": "interactive workshop or collaborative session",
+            "title": "Theming Workshops for Education via 'Coding a Satellite'"
+        },
+        {
+            "fullname": "Hugh Evans",
+            "type": "Young Coders Event",
+            "title": "Art with character(s): Make your own ASCII art with Python"
+        },
+        {
+            "fullname": "Joe Spademan",
+            "type": "Talk",
+            "title": "Enriching animation with python"
+        },
+        {
+            "fullname": "Travis Ralph-Donaldson",
+            "type": "Talk",
+            "title": "Enriching animation with python"
+        },
+        {
+            "fullname": "Deb Nicholson",
+            "type": "Talk",
+            "title": "Oh no! Your project became really popular!"
+        },
+        {
+            "fullname": "Justin Lee",
+            "type": "Talk",
+            "title": "Python for Humans - Designing Python Code Like a User Interface"
+        },
+        {
+            "fullname": "Abhigyan Shrivastava",
+            "type": "Talk",
+            "title": "From Data to Predictions: Building Regressors and Classifiers in Python"
+        },
+        {
+            "fullname": "Russell Keith-Magee",
+            "type": "Talk",
+            "title": "How to build a cross-platform GUI app with Python"
+        },
+        {
+            "fullname": "Miikka Koskinen",
+            "type": "Talk",
+            "title": "Python and Rust, a perfect pairing"
+        },
+        {
+            "fullname": "Hynek Schlawack",
+            "type": "Keynote",
+            "title": "Python’s True Superpower"
+        },
+        {
+            "fullname": "Aivars Kalvāns",
+            "type": "Talk",
+            "title": "How to solve a Python mystery"
+        },
+        {
+            "fullname": "Jake Howard",
+            "type": "Talk",
+            "title": "Halt and Catch Fire: Forcefully Stopping Python"
+        },
+        {
+            "fullname": "Christian Heitzmann",
+            "type": "interactive workshop or collaborative session",
+            "title": "What We Can Learn from Exemplary Python Documentation (SEE DESCRIPTION FOR PREPARATION)"
+        },
+        {
+            "fullname": "Laura Gates",
+            "type": "Talk",
+            "title": "From ELIZA to GPT: How the uncanny shaped human-AI interaction's hidden history"
+        },
+        {
+            "fullname": "Irit Katriel",
+            "type": "Talk",
+            "title": "The tale of PEP 765: SyntaxWarning on `return` in `finally`"
+        },
+        {
+            "fullname": "Jesse Carnaxide",
+            "type": "interactive workshop or collaborative session",
+            "title": "Memray 101: Demystifying memory profiling in Python"
+        },
+        {
+            "fullname": "Dialid Santiago",
+            "type": "Talk",
+            "title": "Bringing Randomness to Life: Building a Python tool to tell stories about stochastic processes"
+        },
+        {
+            "fullname": "Tatiana Al-Chueyr",
+            "type": "Talk",
+            "title": "Using Python to help with my spelling tests"
+        },
+        {
+            "fullname": "Amanda Al-Chueyr",
+            "type": "Talk",
+            "title": "Using Python to help with my spelling tests"
+        },
+        {
+            "fullname": "Sarah Townson",
+            "type": "Young Coders Event",
+            "title": "Code a Satellite"
+        },
+        {
+            "fullname": "Kane Swartz",
+            "type": "Talk",
+            "title": "Raspberry Pis, Crime and the CIA Triad"
+        },
+        {
+            "fullname": "Jack Travis",
+            "type": "Talk",
+            "title": "Raspberry Pis, Crime and the CIA Triad"
+        },
+        {
+            "fullname": "Dom Weldon",
+            "type": "Talk",
+            "title": "Why, and how, all your Python code should be Declarative in the Age of Generative AI"
+        },
+        {
+            "fullname": "Tibs",
+            "type": "Talk",
+            "title": "Type text, find pictures: an app using CLIP, PostgreSQL® and pgvector"
+        },
+        {
+            "fullname": "Sheena",
+            "type": "Keynote",
+            "title": "Playing the long game"
+        },
+        {
+            "fullname": "Sasha Romijn",
+            "type": "Talk",
+            "title": "Eight Python Performance Mistakes I Won’t Make Again"
+        },
+        {
+            "fullname": "Shahar Polak",
+            "type": "Talk",
+            "title": "FastAPI, Furious Tests: The Need for Speed"
+        },
+        {
+            "fullname": "Diego Russo",
+            "type": "Talk",
+            "title": "Exploring the CPython JIT"
+        },
+        {
+            "fullname": "Eric Thanenthiran",
+            "type": "Talk",
+            "title": "No data, no problem: Synthetic Data using LLMs and Faker"
+        },
+        {
+            "fullname": "Aastha",
+            "type": "Talk",
+            "title": "Why Your Async Code Might Be Slower — and How to Fix It"
+        },
+        {
+            "fullname": "Phil Jones (@pgjones)",
+            "type": "Talk",
+            "title": "Building SQL queries using t-strings"
+        },
+        {
+            "fullname": "David Asboth",
+            "type": "Talk",
+            "title": "exec: putting Python in your Python so you can code while you code"
+        },
+        {
+            "fullname": "Anthony Harrison",
+            "type": "Young Coders Event",
+            "title": "Introduction to Hedy"
+        },
+        {
+            "fullname": "Isaac Oldwood",
+            "type": "Talk",
+            "title": "From no-help to self-help: Streamlining processes with Slack and Python"
+        },
+        {
+            "fullname": "Harry Wake",
+            "type": "Young Coders Event",
+            "title": "Code a program that notifies you when the International Space Station is up above!"
+        },
+        {
+            "fullname": "Anna Wake",
+            "type": "Young Coders Event",
+            "title": "Code a program that notifies you when the International Space Station is up above!"
+        }
+    ]
+}
