@@ -1,0 +1,405 @@
+{
+    "year": 2022,
+    "speakers": [
+        {
+            "fullname": "Iván Valero Rodríguez",
+            "type": "Workshop (short)",
+            "title": "Chatbots, Reconocimiento de Voz y Text-to-Speech: Tu Asistente Virtual Open-Source"
+        },
+        {
+            "fullname": "Bea Hernández",
+            "type": "Talk",
+            "title": "Explicabilidad local: ¿cómo interpreto la predicción?"
+        },
+        {
+            "fullname": "Pedro González Rodelas",
+            "type": "Workshop (long)",
+            "title": "Introducción a los módulos fundamentales de Python para cálculo científico:  SymPy, NumPy, Matplotlib, SciPy y Pandas"
+        },
+        {
+            "fullname": "Francisco Miguel García Olmedo",
+            "type": "Workshop (long)",
+            "title": "Introducción a los módulos fundamentales de Python para cálculo científico:  SymPy, NumPy, Matplotlib, SciPy y Pandas"
+        },
+        {
+            "fullname": "Juan Carlos Gonzalez-Avella",
+            "type": "Talk",
+            "title": "Regresión al Futuro: Previsión de Series Temporales con XGBoost"
+        },
+        {
+            "fullname": "Jaume Perelló Perelló",
+            "type": "Talk",
+            "title": "Regresión al Futuro: Previsión de Series Temporales con XGBoost"
+        },
+        {
+            "fullname": "Inés Huertas Freire",
+            "type": "Talk",
+            "title": "MLOps con MLFlow"
+        },
+        {
+            "fullname": "Daniel Sánchez Llopis",
+            "type": "Talk",
+            "title": "Más vale Wagtail en mano que CMS volando"
+        },
+        {
+            "fullname": "Francis Santiago Cermeño",
+            "type": "Talk",
+            "title": "Open your mind!, no soy programadora pero uso Python"
+        },
+        {
+            "fullname": "Manuel Calzado Vidal",
+            "type": "Talk",
+            "title": "Feature Flags. Stay in Control"
+        },
+        {
+            "fullname": "Fran Muñoz",
+            "type": "Sponsor (Diamond)",
+            "title": "Resolver, Romper, Recombinar: las tres Rs para programar apps Django reutilizables"
+        },
+        {
+            "fullname": "Sonia Alhama",
+            "type": "Sponsor (Diamond)",
+            "title": "Resolver, Romper, Recombinar: las tres Rs para programar apps Django reutilizables"
+        },
+        {
+            "fullname": "Nerea Luis",
+            "type": "Talk",
+            "title": "\"Computer says no\""
+        },
+        {
+            "fullname": "Jimena Bermúdez",
+            "type": "Talk",
+            "title": "Charla Python España + Cierre"
+        },
+        {
+            "fullname": "Fede",
+            "type": "Talk",
+            "title": "Faster Python, démosle alas a la serpiente"
+        },
+        {
+            "fullname": "José Muñoz",
+            "type": "Talk",
+            "title": "Cómo no vender la misma entrada a dos personas diferentes"
+        },
+        {
+            "fullname": "Gerard",
+            "type": "Talk",
+            "title": "Escalado transparente de aplicaciones python en el cloud con Lithops"
+        },
+        {
+            "fullname": "Enrique Catalá",
+            "type": "Talk",
+            "title": "Despliega tu red neuronal python con FastAPI en kubernetes"
+        },
+        {
+            "fullname": "Javier Martin Salinas",
+            "type": "Talk",
+            "title": "Creando workflows dinámicos en Airflow"
+        },
+        {
+            "fullname": "Andrea Morales Garzón",
+            "type": "Workshop (long)",
+            "title": "Mi primera aplicación con Pytorch"
+        },
+        {
+            "fullname": "Miguel López Pérez",
+            "type": "Workshop (long)",
+            "title": "Mi primera aplicación con Pytorch"
+        },
+        {
+            "fullname": "Maria Moreno de Castro",
+            "type": "Workshop (short)",
+            "title": "Exactitud con certidumbre"
+        },
+        {
+            "fullname": "Pablo Galindo Salgado",
+            "type": "Talk",
+            "title": "Faster CPython project: Como estamos haciendo Python 3.11 más rápido"
+        },
+        {
+            "fullname": "Juan Aragon",
+            "type": "Talk",
+            "title": "Demystifying stepping down. Reversing a career in Software."
+        },
+        {
+            "fullname": "Alberto Vara",
+            "type": "Sponsor (Diamond)",
+            "title": "SegmentationFault Fest"
+        },
+        {
+            "fullname": "Israel Saeta Pérez",
+            "type": "Sponsor (Diamond)",
+            "title": "Django Zero Downtime Migrations"
+        },
+        {
+            "fullname": "Francesco Venneri",
+            "type": "Sponsor (Diamond)",
+            "title": "Django Zero Downtime Migrations"
+        },
+        {
+            "fullname": "Vasja Urbancic",
+            "type": "Sponsor (Diamond)",
+            "title": "Fail Fast MLOps: Lessons learned from deploying ML solutions in production"
+        },
+        {
+            "fullname": "Israel Blancas",
+            "type": "Talk",
+            "title": "Introducción a distributed tracing"
+        },
+        {
+            "fullname": "Marina Moro López",
+            "type": "Talk",
+            "title": "Biohacking con Python"
+        },
+        {
+            "fullname": "Israel Blancas",
+            "type": "Talk",
+            "title": "Trabajo remoto ¿estamos realmente sol@s?"
+        },
+        {
+            "fullname": "Miguel F Alarcon",
+            "type": "Talk",
+            "title": "Introducción a la causalidad en Python"
+        },
+        {
+            "fullname": "Javier Mayorgas",
+            "type": "Sponsor (Diamond)",
+            "title": "Streamlit and Snowpark... when Python meets Snowflake"
+        },
+        {
+            "fullname": "Manuel Muñoz",
+            "type": "Sponsor (Diamond)",
+            "title": "Streamlit and Snowpark... when Python meets Snowflake"
+        },
+        {
+            "fullname": "Jimena Bermúdez",
+            "type": "Talk",
+            "title": "Crea tu propio juguete sexual con Python 🍆🍑"
+        },
+        {
+            "fullname": "Sergio León",
+            "type": "Talk",
+            "title": "Inyección de dependencias, fácil!"
+        },
+        {
+            "fullname": "Victor Suarez",
+            "type": "Talk",
+            "title": "Pyxel: Los 8 bits Retro Pythoneros"
+        },
+        {
+            "fullname": "Caterina Fuster Barceló",
+            "type": "Talk",
+            "title": "Protegiendo el oro con tu corazón"
+        },
+        {
+            "fullname": "Benjamin Granados",
+            "type": "Sponsor (Diamond)",
+            "title": "La magia de OpenAPI Specification"
+        },
+        {
+            "fullname": "Martina Kienberger",
+            "type": "Talk",
+            "title": "Análisis de encuestas con Python"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Talk",
+            "title": "Came for the Conference, Stayed for the Sprint"
+        },
+        {
+            "fullname": "Elena Guidi",
+            "type": "Talk",
+            "title": "Salvemos los pingüinos con el green computing"
+        },
+        {
+            "fullname": "Cristián Maureira-Fredes",
+            "type": "Talk",
+            "title": "Aprendiendo sobre el núcleo de Python rompiéndolo todo: un tour gentil y en español"
+        },
+        {
+            "fullname": "Antonio Manjavacas",
+            "type": "Talk",
+            "title": "Introducción al aprendizaje por refuerzo en Python"
+        },
+        {
+            "fullname": "Alejandro Campoy Nieves",
+            "type": "Talk",
+            "title": "Introducción al aprendizaje por refuerzo en Python"
+        },
+        {
+            "fullname": "Gloria",
+            "type": "Talk",
+            "title": "Mi yo niña estaría orgullosa"
+        },
+        {
+            "fullname": "Nekmo",
+            "type": "Talk",
+            "title": "¿Qué hay de nuevo en Python 3.11?"
+        },
+        {
+            "fullname": "Marta Arcones",
+            "type": "Talk",
+            "title": "Desarrollo de software seguro"
+        },
+        {
+            "fullname": "Jorge Giménez García",
+            "type": "Talk",
+            "title": "FAKE NEWS ALARM! Cómo detectar noticias falsas con redes neuronales recurrentes"
+        },
+        {
+            "fullname": "Javier Alcaide Pérez",
+            "type": "Sponsor (Diamond)",
+            "title": "Soy un ordenador, ¿A qué quieres que te gane?"
+        },
+        {
+            "fullname": "Pablo Magán",
+            "type": "Sponsor (Diamond)",
+            "title": "Soy un ordenador, ¿A qué quieres que te gane?"
+        },
+        {
+            "fullname": "Juan Luis Cano Rodríguez",
+            "type": "Talk",
+            "title": "Hacer crecer tu proyecto open source"
+        },
+        {
+            "fullname": "Camila Guerrero",
+            "type": "Talk",
+            "title": "Lo mejor de dos mundos: Backend y Machine Learning con Python"
+        },
+        {
+            "fullname": "Ángel Luengo",
+            "type": "Talk",
+            "title": "Asegurando el tiro: intervalos de confianza para tus modelos de Machine Learning"
+        },
+        {
+            "fullname": "Guillermo Delgado Martínez",
+            "type": "Talk",
+            "title": "Asegurando el tiro: intervalos de confianza para tus modelos de Machine Learning"
+        },
+        {
+            "fullname": "Alejandro Cortés",
+            "type": "Talk",
+            "title": "Geolocalización sin G"
+        },
+        {
+            "fullname": "Juan Luis Cano Rodríguez",
+            "type": "Talk",
+            "title": "Más allá de pandas: comparativa de dataframes en Python"
+        },
+        {
+            "fullname": "Nieves Ábalos Serrano",
+            "type": "Keynote",
+            "title": "Inteligencia Artificial Conversacional ❤ Python"
+        },
+        {
+            "fullname": "Iris Núñez Navarro",
+            "type": "Talk",
+            "title": "Pandas usó de index contra dataframes gigantes ¡Es muy efectivo!"
+        },
+        {
+            "fullname": "Víctor",
+            "type": "Talk",
+            "title": "Inteligencia Artificial en Medicina: no es oro todo lo que reluce."
+        },
+        {
+            "fullname": "Irene M Morgado",
+            "type": "Talk",
+            "title": "Cuando tu empresa contraataca"
+        },
+        {
+            "fullname": "Camilo Chacón Sartori",
+            "type": "Workshop (short)",
+            "title": "Introducción a las redes complejas en Python"
+        },
+        {
+            "fullname": "Patricio Reyes",
+            "type": "Workshop (short)",
+            "title": "Introducción a las redes complejas en Python"
+        },
+        {
+            "fullname": "Antoni Aloy",
+            "type": "Talk",
+            "title": "Estimación de proyectos 101"
+        },
+        {
+            "fullname": "Zerjillo",
+            "type": "Talk",
+            "title": "Control de dispositivos astronómicos con Python"
+        },
+        {
+            "fullname": "Javier Flores Martín",
+            "type": "Talk",
+            "title": "Control de dispositivos astronómicos con Python"
+        },
+        {
+            "fullname": "Ramón Medrano Llamas",
+            "type": "Talk",
+            "title": "Cómo SRE utiliza Python para automatizar millones de máquinas y servicios"
+        },
+        {
+            "fullname": "Isabella Karabasz",
+            "type": "Talk",
+            "title": "The ups and downs of deploying AI in the wild: A pyspark story"
+        },
+        {
+            "fullname": "Daniel Molina",
+            "type": "Workshop (short)",
+            "title": "¿Qué está haciendo ahora mi programa? Analizando y mejorando el rendimiento de programas en Python"
+        },
+        {
+            "fullname": "Unai",
+            "type": "Talk",
+            "title": "Derechos o mesas de ping pong"
+        },
+        {
+            "fullname": "Irene Pérez Encinar",
+            "type": "Talk",
+            "title": "Home is where your Assistant is written in Python"
+        },
+        {
+            "fullname": "Javier Torres Niño",
+            "type": "Talk",
+            "title": "Home is where your Assistant is written in Python"
+        },
+        {
+            "fullname": "Celia Gomez Sancho",
+            "type": "Workshop (short)",
+            "title": "TDD aplicado al desarrollo de APIs"
+        },
+        {
+            "fullname": "Emilio Carrión",
+            "type": "Workshop (short)",
+            "title": "TDD aplicado al desarrollo de APIs"
+        },
+        {
+            "fullname": "Pamela Alejandra Bustamante Faúndez",
+            "type": "Talk",
+            "title": "Optimización Matemática con Python"
+        },
+        {
+            "fullname": "Jara Juana Bermejo Vega",
+            "type": "Talk",
+            "title": "Análisis de red del discurso de odio queerfóbico en Twitter"
+        },
+        {
+            "fullname": "Maria Jose Molina Contreras",
+            "type": "Talk",
+            "title": "Respira mejor: Creando un sistema de monitoreo y predictivo para calidad del aire en interiores."
+        },
+        {
+            "fullname": "José Carlos Calvo Tudela",
+            "type": "Sponsor (Diamond)",
+            "title": "Optimización de rendimiento de una API usando DRF"
+        },
+        {
+            "fullname": "Mai Giménez",
+            "type": "Keynote",
+            "title": "La era del diamante: sesgos y riesgos en IA"
+        },
+        {
+            "fullname": "Guillem Borrell Nogueras",
+            "type": "Workshop (short)",
+            "title": "El Big Data no existe. Modelando terabytes con una RPi4"
+        }
+    ]
+}

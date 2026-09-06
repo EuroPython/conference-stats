@@ -1,0 +1,275 @@
+{
+    "year": 2026,
+    "speakers": [
+        {
+            "fullname": "Brittany Reynoso",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "Lazy imports and the art of interpreter procrastination"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "Thinking AI is sentient is like seeing Jesus on toasts"
+        },
+        {
+            "fullname": "Anuradha KAR",
+            "type": "Workshop (90min)",
+            "title": "Detecting LLM Hallucinations with Uncertainty Fingerprinting: A Python Implementation"
+        },
+        {
+            "fullname": "Shafiya Kausar",
+            "type": "Workshop (90min)",
+            "title": "Detecting LLM Hallucinations with Uncertainty Fingerprinting: A Python Implementation"
+        },
+        {
+            "fullname": "Zahra Sharbaf",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "Using Python to reveal the faint side of galaxy clusters"
+        },
+        {
+            "fullname": "Raúl Cumplido Domínguez",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "Datanomy: Understanding the Anatomy of Arrow and Parquet"
+        },
+        {
+            "fullname": "Gema Parreño",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "Odyssey: De contributor a maintainer"
+        },
+        {
+            "fullname": "Sergi Porta",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "Surviving LLM Traffic Spikes: Routing, Rate Limits, and Failover in Python"
+        },
+        {
+            "fullname": "Joaquín Rayado",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "Cómo convertir tu aeropuerto más cercano en una app del tiempo"
+        },
+        {
+            "fullname": "Lucciano Sileo",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "Cómo convertir tu aeropuerto más cercano en una app del tiempo"
+        },
+        {
+            "fullname": "Miguel Ángel Rodríguez Vidal",
+            "type": "Workshop (90min)",
+            "title": "Creando animaciones con código python y Manim"
+        },
+        {
+            "fullname": "Leyre Labarga",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "Prevención de incendios forestales con Python"
+        },
+        {
+            "fullname": "Alberto Labarga",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "Prevención de incendios forestales con Python"
+        },
+        {
+            "fullname": "Stefanie Molin",
+            "type": "Workshop (90min)",
+            "title": "Process, Analyze, and Transform Python Code with ASTs"
+        },
+        {
+            "fullname": "Daniel Hervás",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "El texto no es texto: historia de las strings en Python"
+        },
+        {
+            "fullname": "Juan Carlos González-Avella",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "De Scripts a Autodidactas: Construyendo Agentes de IA que se Mejoran a Sí Mismos"
+        },
+        {
+            "fullname": "Almudena Zhou Ramírez López",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "Diseñar para el fallo en tiempo real: qué pasa cuando tu LLM se equivoca en el peor momento"
+        },
+        {
+            "fullname": "Tamara Kadyear",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "Diseñar para el fallo en tiempo real: qué pasa cuando tu LLM se equivoca en el peor momento"
+        },
+        {
+            "fullname": "Allen Y",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "Zero-Copy Data Sharing Between Python and Rust with PyO3 and Arrow"
+        },
+        {
+            "fullname": "Lino Figueroa",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "uv: organiza tus proyectos Python como si supieras lo que haces"
+        },
+        {
+            "fullname": "Diego",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "10 Years of Lessons Learned Maintaining Conan, a Critical Python Project"
+        },
+        {
+            "fullname": "Francisco Javier Luengo Gutiérrez",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "¿De quién es este hueso? Clasificación zooarqueológica con Python, Machine Learning y datos sintéticos"
+        },
+        {
+            "fullname": "Cristián Maureira-Fredes",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "¿Qué viene después de Rust en el ecosistema Python?"
+        },
+        {
+            "fullname": "Mariano Semelman",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "PydanticAI: Building Agents That Survive Production"
+        },
+        {
+            "fullname": "Daria Korsakova",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "Stop firefighting: practical observability for Python APIs, workers, and scheduled jobs"
+        },
+        {
+            "fullname": "Jara Juana Bermejo Vega",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "SIGIL4Py: Harmonic Integration for Large-Scale Python Systems via Compositional Plural Programming"
+        },
+        {
+            "fullname": "Marta Gomez Macias",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "Como he automatizado la preparación de mis planes operativos de vuelo"
+        },
+        {
+            "fullname": "Natàlia Padilla Sirera",
+            "type": "Workshop (90min)",
+            "title": "Introduction to Quantum Computing with QiliSDK"
+        },
+        {
+            "fullname": "Luke Mortimer",
+            "type": "Workshop (90min)",
+            "title": "Introduction to Quantum Computing with QiliSDK"
+        },
+        {
+            "fullname": "Ely Farrés",
+            "type": "Workshop (90min)",
+            "title": "Introduction to Quantum Computing with QiliSDK"
+        },
+        {
+            "fullname": "Clara de Luna",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "Ableton, Claude y Python son Las Supernenas de la música. ¿Cuál es la sustancia X?"
+        },
+        {
+            "fullname": "robmzj",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "Ableton, Claude y Python son Las Supernenas de la música. ¿Cuál es la sustancia X?"
+        },
+        {
+            "fullname": "Helena Gómez Pozo",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "Medicina personalizada: cómo el 0.1% de tu ADN puede cambiarlo todo"
+        },
+        {
+            "fullname": "Marina Moro López",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "Medicina personalizada: cómo el 0.1% de tu ADN puede cambiarlo todo"
+        },
+        {
+            "fullname": "Carlos Pereira Atencio",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "Python Meets Hardware: The Missing Survival Guide"
+        },
+        {
+            "fullname": "Javier Alonso",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "¿Qué pasa realmente cuando haces \"python my_app.py\"? Descubriendo las entrañas del lenguaje"
+        },
+        {
+            "fullname": "Dr Ana Rojo-Echeburúa",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "Questioning the Mathematical Foundations of AI"
+        },
+        {
+            "fullname": "Jimena Bermúdez",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "La amenaza fantasma: De GitHub a la trinchera"
+        },
+        {
+            "fullname": "Federico",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "Tu CI está perdiendo el tiempo (y Test Impact Analysis lo sabe)"
+        },
+        {
+            "fullname": "Alan Velasco",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "Desenredando la Web: Protocolos Alternativos con Python para un Internet Más Tranquilo"
+        },
+        {
+            "fullname": "Juan Rodriguez Monti",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "Diseñando arquitecturas reales. Cuando tu sistema no necesita escalar a un millón de usuarios."
+        },
+        {
+            "fullname": "Sangarshanan",
+            "type": "Workshop (90min)",
+            "title": "Build a Synthesizer with Python"
+        },
+        {
+            "fullname": "Pablo Galindo Salgado",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "Tachyon: el profiler por muestreo de Python 3.15 es más rápido que tu código"
+        },
+        {
+            "fullname": "Juan Luis Cano Rodríguez",
+            "type": "Workshop (90min)",
+            "title": "El año de [empaquetar tu aplicación Python para] Linux en el escritorio"
+        },
+        {
+            "fullname": "Miguel Ángel Fernández Gutiérrez",
+            "type": "Workshop (90min)",
+            "title": "Introducción a LangGraph: construyendo agentes que aprenden"
+        },
+        {
+            "fullname": "Mai Giménez",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "De caos a control: cómo guiar modelos de difusión con Python"
+        },
+        {
+            "fullname": "Carolina Passarello",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "Análisis forense con Python: evidencia digital explicable con agentes de IA."
+        },
+        {
+            "fullname": "Mauricio",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "Ataques Simulados, Detección Real: Python, Elastic Search y Caldera"
+        },
+        {
+            "fullname": "Camilo MATAJIRA",
+            "type": "Workshop (90min)",
+            "title": "Llamando Rust desde Python con PyO3 y maturin"
+        },
+        {
+            "fullname": "Ramón Corominas",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "Películas y vídeos más accesibles con Python (y un poco de IA)"
+        },
+        {
+            "fullname": "Eloisa Perez Bennetts",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "From code to consequences: Modelling for policy"
+        },
+        {
+            "fullname": "Marcelo Trylesinski",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "What I've Learned Maintaining the MCP Python SDK"
+        },
+        {
+            "fullname": "Dmytro Khmelenko",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "Securing High-Risk Django Applications: Lessons from the Payment Domain"
+        },
+        {
+            "fullname": "Pablo Oca Galeano",
+            "type": "Talk (35min + 5min questions & answers)",
+            "title": "Más allá del Global Interpreter Lock: Exprimiendo algoritmos genómicos con Numba, Cython y CUDA."
+        }
+    ]
+}

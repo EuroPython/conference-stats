@@ -1,0 +1,350 @@
+{
+    "year": 2024,
+    "speakers": [
+        {
+            "fullname": "Guzman",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Introducción as inxeccións de código en Python"
+        },
+        {
+            "fullname": "Eloy",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Introducción as inxeccións de código en Python"
+        },
+        {
+            "fullname": "Sebastian Arias",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Beyond Try-Except: Python's Frontier of Error Handling with Monads and Railway Magic"
+        },
+        {
+            "fullname": "Pablo García Santaclara",
+            "type": "Workshop (90min)",
+            "title": "Pattern busters: encontrando patrones significativos con Python en aplicaciones reales"
+        },
+        {
+            "fullname": "Camilo Piñón Blanco",
+            "type": "Workshop (90min)",
+            "title": "Pattern busters: encontrando patrones significativos con Python en aplicaciones reales"
+        },
+        {
+            "fullname": "Manuel Díaz",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Flujos de trabajo con agentes de IA en Python"
+        },
+        {
+            "fullname": "Borja Esteve Molner",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Flujos de trabajo con agentes de IA en Python"
+        },
+        {
+            "fullname": "Rafael Mena-Yedra",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Flujos de trabajo con agentes de IA en Python"
+        },
+        {
+            "fullname": "Rubén",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "El Gran Tsunami de la Desinformación: Cómo la IA generativa puede ayudarnos a ganar la batalla contra las Fake News"
+        },
+        {
+            "fullname": "Agustín C.",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "El Gran Tsunami de la Desinformación: Cómo la IA generativa puede ayudarnos a ganar la batalla contra las Fake News"
+        },
+        {
+            "fullname": "Javier Montoya Gutierrez de Ravé",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Representación del Juego del Caos: Convirtiendo secuencias genéticas a imagenes"
+        },
+        {
+            "fullname": "Shivay Lamba",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Python <3 WebAssembly - From Browser to Serverless"
+        },
+        {
+            "fullname": "Gaurav Pandey",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Python <3 WebAssembly - From Browser to Serverless"
+        },
+        {
+            "fullname": "Jafet Villafranca",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Python como herramienta artística en películas de animación"
+        },
+        {
+            "fullname": "Carlos Rico Adega",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Python como herramienta artística en películas de animación"
+        },
+        {
+            "fullname": "Mai Giménez",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Código saludable para equipos saludables (¿o al revés?)"
+        },
+        {
+            "fullname": "Diego Moreda",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Oxidando Python para acelerar la Computación Cuántica"
+        },
+        {
+            "fullname": "Anna",
+            "type": "Keynote",
+            "title": "Menos 'hype', más responsabilidad? Quien decide qué en el uso de datos y la IA"
+        },
+        {
+            "fullname": "Javier Alonso",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "RPA, TDD, and Embedded: A world glued together with Python!"
+        },
+        {
+            "fullname": "Francisco Puga",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Para desplegar tengo que coger el coche"
+        },
+        {
+            "fullname": "Gabriel Martín Blázquez",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "¿Quién necesita datos teniendo distilabel?"
+        },
+        {
+            "fullname": "Sara",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "El poder de la observabilidad en Machine Learning"
+        },
+        {
+            "fullname": "Christian",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "El poder de la observabilidad en Machine Learning"
+        },
+        {
+            "fullname": "Naomi Ceder",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "El modelo más importante"
+        },
+        {
+            "fullname": "Álvaro Ponce",
+            "type": "Charla",
+            "title": "Cómo validar los datos de toda una compañía de manera productiva"
+        },
+        {
+            "fullname": "Jordi Contestí",
+            "type": "Workshop (90min)",
+            "title": "Superando el reto del billón de filas con Python"
+        },
+        {
+            "fullname": "Kiko Correoso",
+            "type": "Workshop (90min)",
+            "title": "Superando el reto del billón de filas con Python"
+        },
+        {
+            "fullname": "Ernesto Coloma Rotger",
+            "type": "Workshop (90min)",
+            "title": "Superando el reto del billón de filas con Python"
+        },
+        {
+            "fullname": "Pablo Galindo Salgado",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Como estamos eliminando el GIL en CPython"
+        },
+        {
+            "fullname": "Mireya",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Cómo el Covid está fastidiando la predicción de series temporales y qué hacer para evitarlo"
+        },
+        {
+            "fullname": "Jorge Raúl Gómez Sánchez",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Cómo el Covid está fastidiando la predicción de series temporales y qué hacer para evitarlo"
+        },
+        {
+            "fullname": "Antonio Rodríguez Uguina",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Una IA para levantar un imperio: optimizando una partida de Age of Empires 2 con Python."
+        },
+        {
+            "fullname": "Juan Francisco Gómez González",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Una IA para levantar un imperio: optimizando una partida de Age of Empires 2 con Python."
+        },
+        {
+            "fullname": "Maria Moreno de Castro",
+            "type": "Workshop (90min)",
+            "title": "Predicción Conforme: el fin de la predicción puntual descalibrada"
+        },
+        {
+            "fullname": "Ricardo Fernández Jiménez",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "¿Cómo enseñarle física a una red neuronal? Introducción a las PINNs"
+        },
+        {
+            "fullname": "Manuel Souto Juan",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "¿Cómo enseñarle física a una red neuronal? Introducción a las PINNs"
+        },
+        {
+            "fullname": "Martín Quesada Zaragoza",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Navigating the ESG landscape with LLMs"
+        },
+        {
+            "fullname": "Vincent Rizzo",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Navigating the ESG landscape with LLMs"
+        },
+        {
+            "fullname": "Lucia Cerchie",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Visualize Realtime Stock Market Data with Kafka and FlinkSQL"
+        },
+        {
+            "fullname": "Javier Torres Niño",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Cuando Python no es suficientemente rápido: el caso de NucliaDB"
+        },
+        {
+            "fullname": "Ferran Llamas",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Cuando Python no es suficientemente rápido: el caso de NucliaDB"
+        },
+        {
+            "fullname": "ignacio gonzalez",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Python bajo el agua. Aplicaciones pyhon para vehículos submarinos."
+        },
+        {
+            "fullname": "Daniel Pérez Cabo",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Construyendo software resiliente y escalable con MLOps"
+        },
+        {
+            "fullname": "Aleksandra Plonska",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Let me introduce - Mercury - a new library for sharing notebooks as a web apps"
+        },
+        {
+            "fullname": "Piotr Płoński",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Let me introduce - Mercury - a new library for sharing notebooks as a web apps"
+        },
+        {
+            "fullname": "Alejandro Cabello Jiménez",
+            "type": "Charla",
+            "title": "Smooth Migration: Upgrading a  Large Codebase to Pydantic V2"
+        },
+        {
+            "fullname": "CLARA MARTÍ",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Outfit Generator: Intersección entre la Moda y la IA en Zara.com"
+        },
+        {
+            "fullname": "Adrian Portabales Goberna",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Outfit Generator: Intersección entre la Moda y la IA en Zara.com"
+        },
+        {
+            "fullname": "Nadal",
+            "type": "Charla",
+            "title": "Aprende Aprendizaje por refuerzo jugando a Doom"
+        },
+        {
+            "fullname": "Óscar Tienda Beteta",
+            "type": "Charla",
+            "title": "Aprende Aprendizaje por refuerzo jugando a Doom"
+        },
+        {
+            "fullname": "Ramón Corominas",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Un lector de pantalla para gobernarlos a todos: usando NVDA como plataforma de automatización y desarrollo de apps para Windows"
+        },
+        {
+            "fullname": "Antonio Gámiz Delgado",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Experimentando con Async en Python"
+        },
+        {
+            "fullname": "Juan Luis Cano Rodríguez",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Mapeando viviendas turísticas ilegales con Python"
+        },
+        {
+            "fullname": "ismael faro",
+            "type": "Keynote",
+            "title": "Python en Quantum+AI"
+        },
+        {
+            "fullname": "Antonio Aliaga Cortés",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Asegurando la calidad del dato con Databricks"
+        },
+        {
+            "fullname": "José Manuel García Giménez",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Asegurando la calidad del dato con Databricks"
+        },
+        {
+            "fullname": "Pedro Gómez López",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Gobierno del dato y el principio de Pareto: no dejes que lo perfecto sea enemigo de lo bueno."
+        },
+        {
+            "fullname": "Pablo Castro",
+            "type": "Charla",
+            "title": "Haciendo tu signup extensible y con una UX xeitosiña"
+        },
+        {
+            "fullname": "César Pérez",
+            "type": "Charla",
+            "title": "Apache Kafka y Python en Feeberse: Streaming de datos en tiempo real"
+        },
+        {
+            "fullname": "Alejandro Vidal",
+            "type": "Workshop (90min)",
+            "title": "GenAI❤️f-string. Desarrollando con IA Generativa sin cajas negras."
+        },
+        {
+            "fullname": "Brais González Rodríguez",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Modelando el efecto de las sombras en un sistema fotovoltaico"
+        },
+        {
+            "fullname": "Nayra Tarazon Barbera",
+            "type": "Workshop (90min)",
+            "title": "Nuestra primera API Restful + auth + OpenAPI"
+        },
+        {
+            "fullname": "Daniel Moisset",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Tipos, tipos, y otros tipos de tipos"
+        },
+        {
+            "fullname": "Brais Moure",
+            "type": "Charla",
+            "title": "El día en el que comencé a desarrollar todas mis Webs con Python"
+        },
+        {
+            "fullname": "Elena M Codonyer",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Dulce introducción al Ruff"
+        },
+        {
+            "fullname": "Ángel",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Dulce introducción al Ruff"
+        },
+        {
+            "fullname": "Benjamin Granados",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Comunidad: La clave del éxito de tu proyecto Open Source"
+        },
+        {
+            "fullname": "Marina Moro López",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Cómo destruir el mundo usando Python y un virus sintético"
+        },
+        {
+            "fullname": "Helena Gómez Pozo",
+            "type": "Talk (30min + 5min Q&A)",
+            "title": "Cómo destruir el mundo usando Python y un virus sintético"
+        }
+    ]
+}

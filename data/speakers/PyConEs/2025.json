@@ -1,0 +1,470 @@
+{
+    "year": 2025,
+    "speakers": [
+        {
+            "fullname": "Almudena Barreiro Carrillo",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "¿Sabe Instagram cuándo lo dejé con mi ex?"
+        },
+        {
+            "fullname": "Miguel Ángel Rodríguez Vidal",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Esta molécula... ¿Puede matarme?"
+        },
+        {
+            "fullname": "David Romero",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Prototipando la educación post-IA con Python y Gradio"
+        },
+        {
+            "fullname": "Jose Manuel Ortega",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Simulando ataques adversarios con TextAttack: Vulnerabilidades y defensas en PLN"
+        },
+        {
+            "fullname": "Juan Castillo del Río",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Opening the black box: SHAP values."
+        },
+        {
+            "fullname": "Hian Cañizares Diaz",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "La magia de Streamlit: de scripts de Python a web apps"
+        },
+        {
+            "fullname": "Felipe Calderero",
+            "type": "Workshop (90min + 10min presentation/final discussion)",
+            "title": "No data? No problem! Genera datasets sintéticos con Python (y sin comprometer la privacidad)"
+        },
+        {
+            "fullname": "Jose Felix Ontañón Carmona",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "AndaluGeeks Comunidá #OpenSource pa la difuçión del Andalûh"
+        },
+        {
+            "fullname": "Henar Vega",
+            "type": "Keynote",
+            "title": "HumanOS e IA. Salud mental en tiempos de algoritmos"
+        },
+        {
+            "fullname": "Miguel Ángel Fernández Gutiérrez",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Más allá de las palabras: rompiendo barreras de comunicación con Python"
+        },
+        {
+            "fullname": "Núria Pujol Vilanova",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Python para la Generación Z"
+        },
+        {
+            "fullname": "Marcelo Trylesinski",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Generative AI Monitoring with PydanticAI and Logfire"
+        },
+        {
+            "fullname": "Jonathan Chacón",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Accesibilidad e interfaces con Python, libres para codificar y libres para usar"
+        },
+        {
+            "fullname": "Julia Jaca",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "¡Vamos a la Playa!: Formando Jóvenes Oceanógraf@s con Instrumentación DIY"
+        },
+        {
+            "fullname": "Eider Loyola Azanza",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "¡Vamos a la Playa!: Formando Jóvenes Oceanógraf@s con Instrumentación DIY"
+        },
+        {
+            "fullname": "Alejandro Morales Kirioukhina",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "How would remote work in Spain be affected if Godzilla destroyed the city of Murcia?"
+        },
+        {
+            "fullname": "Pilar Niño",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "How would remote work in Spain be affected if Godzilla destroyed the city of Murcia?"
+        },
+        {
+            "fullname": "Israel Blancas",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Más allá del código: observabilidad como parte de la cultura dev"
+        },
+        {
+            "fullname": "Carolina Passarello",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Diseño de un Agente de IA Forense con LangGraph y Python para la detección de delitos criminales."
+        },
+        {
+            "fullname": "Marina Moro López",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Diagnóstico prenatal de enfermedades genéticas usando Python"
+        },
+        {
+            "fullname": "Helena Gómez Pozo",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Diagnóstico prenatal de enfermedades genéticas usando Python"
+        },
+        {
+            "fullname": "Inés Huertas Freire",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "BecarIA: Tu asistente para desarrollo software"
+        },
+        {
+            "fullname": "Isabel Najarro Borrego",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "BecarIA: Tu asistente para desarrollo software"
+        },
+        {
+            "fullname": "Manuel Díaz",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Get the right price using AI: Revealing the secrets of controversial dynamic pricing."
+        },
+        {
+            "fullname": "Rafael Mena-Yedra",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Get the right price using AI: Revealing the secrets of controversial dynamic pricing."
+        },
+        {
+            "fullname": "Facundo Batista",
+            "type": "Workshop (90min + 10min presentation/final discussion)",
+            "title": "Gentil introducción al mundo asincrónico"
+        },
+        {
+            "fullname": "Alexander Morgan",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Safely Batching Tokenization Merges"
+        },
+        {
+            "fullname": "Álvaro Ponce Cabrera",
+            "type": "Sponsored talk",
+            "title": "DataOps en acción: orquestando la transformación de datos con dbtCore y Athena"
+        },
+        {
+            "fullname": "Ricardo Bravo",
+            "type": "Sponsored talk",
+            "title": "DataOps en acción: orquestando la transformación de datos con dbtCore y Athena"
+        },
+        {
+            "fullname": "Vicente Herrera",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "IA responsable: corrigiendo la brecha entre promesas y realidad"
+        },
+        {
+            "fullname": "Alberto Rodríguez Fernández",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "IA responsable: corrigiendo la brecha entre promesas y realidad"
+        },
+        {
+            "fullname": "Laura Alcober",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Call Me! Creando APIs que dicen muchas cosas con Python"
+        },
+        {
+            "fullname": "Reka Horvath",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "LLMs for Testing"
+        },
+        {
+            "fullname": "Pablo Rodríguez Pérez",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Torneo de Poker entre LLMs"
+        },
+        {
+            "fullname": "Cristina Marquez",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Usos y costumbres de un país: Una foto hecha con datos"
+        },
+        {
+            "fullname": "Diego Díaz Morón",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Godot & Python: open source en videojuegos"
+        },
+        {
+            "fullname": "Rafael Valle Cabrera",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Monolito, te elijo a ti!"
+        },
+        {
+            "fullname": "Pablo Cordero",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Más allá del \"funciona\": Desafía tu sistema con Load Testing y descubre sus límites"
+        },
+        {
+            "fullname": "Daniel Hervás",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Lo que no sabías sobre contenedores en Python"
+        },
+        {
+            "fullname": "Mayumy CH",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Más allá del modelo: Presenta tus proyectos Python como aplicaciones interactivas con Flet"
+        },
+        {
+            "fullname": "Aryan Curiel",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Un clavo saca a otro: de DRF al mundo moderno con Django Ninja y FastAPI\""
+        },
+        {
+            "fullname": "Guillermo Fernández",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Últimamente el código abierto huele un poco a cerrado"
+        },
+        {
+            "fullname": "Juan Ignacio Rodriguez de León",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Estados imposibles (Y como eliminarlos)"
+        },
+        {
+            "fullname": "Ricardo Fernández Jiménez",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "El tiempo es oro, aprovéchalo con modelos de supervivencia en Python"
+        },
+        {
+            "fullname": "Nekmo",
+            "type": "Workshop (90min + 10min presentation/final discussion)",
+            "title": "Micropython: programación fácil y para todos de microcontroladores"
+        },
+        {
+            "fullname": "Joaquín Rayado",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Aprender a volar: análisis de datos con Python en planificación aeronáutica"
+        },
+        {
+            "fullname": "Stefanie Molin",
+            "type": "Workshop (90min + 10min presentation/final discussion)",
+            "title": "(Pre-)Commit to Better Code"
+        },
+        {
+            "fullname": "Marcos Manuel Ortega González",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Infraestructura como código en Python con Pulumi"
+        },
+        {
+            "fullname": "Eloisa Pérez Bennetts",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "How to Stop an Epidemic with Python"
+        },
+        {
+            "fullname": "Alejandro Cabello Jiménez",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Python en Serverless: Hacks pragmáticos para un rendimiento extremo"
+        },
+        {
+            "fullname": "Alberto Maldonado",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Python en Serverless: Hacks pragmáticos para un rendimiento extremo"
+        },
+        {
+            "fullname": "Miriam España Acebal",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Cuando Python oculta una excepción: depuración profunda entre el código, el sistema y la distribución"
+        },
+        {
+            "fullname": "Manuel Heredia Ortiz",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Robótica accesible con Python y un patito de goma: de lo básico al aprendizaje por inteligencia artificial"
+        },
+        {
+            "fullname": "Manuel Martin",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Robótica accesible con Python y un patito de goma: de lo básico al aprendizaje por inteligencia artificial"
+        },
+        {
+            "fullname": "Álvaro Gutiérrez Climent",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Análisis de un Accidente Marítimo con Python, Spark y Datos Geoespaciales"
+        },
+        {
+            "fullname": "Libertad Chapinal Cervantes",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Análisis de un Accidente Marítimo con Python, Spark y Datos Geoespaciales"
+        },
+        {
+            "fullname": "Pablo Martín Cobos",
+            "type": "Sponsored talk",
+            "title": "¿Cómo recibir 4.000 peticiones por minuto y no morir en el intento?… incluso poder dormir todas las noches"
+        },
+        {
+            "fullname": "Mireya",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Cuando tu LLM ve \"cosas\": Desentrañando y mitigando las alucinaciones con Python"
+        },
+        {
+            "fullname": "Jorge Raúl Gómez Sánchez",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Cuando tu LLM ve \"cosas\": Desentrañando y mitigando las alucinaciones con Python"
+        },
+        {
+            "fullname": "Jara Juana Bermejo Vega",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Computación cuántica con Python"
+        },
+        {
+            "fullname": "Antonio Aliaga Cortés",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Utilizando spark structured streaming para procesamiento batch"
+        },
+        {
+            "fullname": "Pablo Cabeza",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Utilizando spark structured streaming para procesamiento batch"
+        },
+        {
+            "fullname": "Antoni Aloy",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "¡voy a montar mi empresa!"
+        },
+        {
+            "fullname": "Francisco Guerrero",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Pruebas Unitarias con Pytest: DDT, TDD y BDD"
+        },
+        {
+            "fullname": "Koti Vellanki",
+            "type": "Workshop (90min + 10min presentation/final discussion)",
+            "title": "Setting Up Reliable CI/CD Pipelines with Python, K8s & Testcontainers"
+        },
+        {
+            "fullname": "Sneha Mavuri",
+            "type": "Workshop (90min + 10min presentation/final discussion)",
+            "title": "Setting Up Reliable CI/CD Pipelines with Python, K8s & Testcontainers"
+        },
+        {
+            "fullname": "Daniel Alejandro Coll Tejeda",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Multi-Cloud Serverless Parallel programming in Python (Lithops)"
+        },
+        {
+            "fullname": "David",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "From Simulation to Reality: Deep Reinforcement Learning for Smart and Sustainable Climate Control"
+        },
+        {
+            "fullname": "Alejandro Campoy Nieves",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "From Simulation to Reality: Deep Reinforcement Learning for Smart and Sustainable Climate Control"
+        },
+        {
+            "fullname": "Sebastián Ramírez (tiangolo)",
+            "type": "Keynote",
+            "title": "Detrás de escena de FastAPI y amigos para desarrolladores y creadores"
+        },
+        {
+            "fullname": "Michal Cyprian",
+            "type": "Sponsored talk",
+            "title": "Deliver, Deploy, Refactor, Repeat"
+        },
+        {
+            "fullname": "Pablo Álamo González",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "I have a need... a need for speed"
+        },
+        {
+            "fullname": "Ivan Sanchez Valencia",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Dissecting metaclasses: How Django models work."
+        },
+        {
+            "fullname": "Pablo",
+            "type": "Sponsored talk",
+            "title": "Scaling Teams while keeping the Human Side of Hiring"
+        },
+        {
+            "fullname": "Daniel Ortiz",
+            "type": "Workshop (90min + 10min presentation/final discussion)",
+            "title": "Orchestrating Data Pipelines in Python: From Generation to Quality"
+        },
+        {
+            "fullname": "Juan Aragón",
+            "type": "Workshop (90min + 10min presentation/final discussion)",
+            "title": "Orchestrating Data Pipelines in Python: From Generation to Quality"
+        },
+        {
+            "fullname": "Miquel Alzanillas",
+            "type": "Sponsored talk",
+            "title": "Odoo: Cómo Python está rompiendo el mercado del ERP"
+        },
+        {
+            "fullname": "Federico",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Visualiza lo invisible: cómo entender y mejorar tus tests"
+        },
+        {
+            "fullname": "Simon Sanchez Viloria",
+            "type": "Workshop (90min + 10min presentation/final discussion)",
+            "title": "Del papel al conocimiento: Creando un sistema RAG multimodal con Docling"
+        },
+        {
+            "fullname": "Andres Ruiz",
+            "type": "Workshop (90min + 10min presentation/final discussion)",
+            "title": "Del papel al conocimiento: Creando un sistema RAG multimodal con Docling"
+        },
+        {
+            "fullname": "Mai Giménez",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Let it rip: from noise to art or how to build a diffusion model in JAX"
+        },
+        {
+            "fullname": "Pablo García Sánchez",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Python Sostenible: Cómo reducir la huella energética de tus programas y modelos de IA"
+        },
+        {
+            "fullname": "Ignacio Soto Moreno",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Tu notebook no escala: lecciones para poner código en producción"
+        },
+        {
+            "fullname": "Diego",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Tu notebook no escala: lecciones para poner código en producción"
+        },
+        {
+            "fullname": "Lukáš Ševčík",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Events in Fintech: From State Machines to Event-Sourced Systems"
+        },
+        {
+            "fullname": "jmrivas86",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Python en el aula: pensamiento computacional y programación en la era de la IA"
+        },
+        {
+            "fullname": "Sofia Toro",
+            "type": "Workshop (90min + 10min presentation/final discussion)",
+            "title": "¿Y si Python entendiera español? — Introducción práctica a modificar CPython"
+        },
+        {
+            "fullname": "Pablo Galindo Salgado",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Como todo va a cambiar para los debuggers en Python 3.14"
+        },
+        {
+            "fullname": "Javier Chico García",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Sign2Text: Interpretando la lengua de signos con Python"
+        },
+        {
+            "fullname": "Almudena Zhou",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Sign2Text: Interpretando la lengua de signos con Python"
+        },
+        {
+            "fullname": "Jose Manuel",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "Sign2Text: Interpretando la lengua de signos con Python"
+        },
+        {
+            "fullname": "Aivars Kalvāns",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "How to solve a Python mystery"
+        },
+        {
+            "fullname": "Esther Fernández Carbayo",
+            "type": "Talk (30min + 5min questions & answers)",
+            "title": "De Tokens a Significados: Desentrañando la Lingüística en la IA"
+        }
+    ]
+}
