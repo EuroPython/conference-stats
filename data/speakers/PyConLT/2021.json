@@ -1,0 +1,55 @@
+{
+    "year": 2021,
+    "speakers": [
+        {
+            "fullname": "Šarūnas Navickas",
+            "type": "Talk",
+            "title": "How to do Programming videos"
+        },
+        {
+            "fullname": "Jev Gamper",
+            "type": "Talk",
+            "title": "Why care about experiments?"
+        },
+        {
+            "fullname": "Sebastián Ramírez (tiangolo)",
+            "type": "Keynote",
+            "title": "Modern Python through FastAPI and friends"
+        },
+        {
+            "fullname": "Szymon Zaborowski",
+            "type": "Talk",
+            "title": "Metric Learning for Session-Based Recommendations"
+        },
+        {
+            "fullname": "Martynas Saulius",
+            "type": "Talk",
+            "title": "Keeping your sanity with Python observability"
+        },
+        {
+            "fullname": "Kostas Jakeliunas",
+            "type": "Talk",
+            "title": "ZealiD Quiz"
+        },
+        {
+            "fullname": "Christian Heimes",
+            "type": "Keynote",
+            "title": "Ask a core developer anything"
+        },
+        {
+            "fullname": "Justinas Kuizinas",
+            "type": "Talk",
+            "title": "JWT and OAuth2. Should we reinvent the wheel?"
+        },
+        {
+            "fullname": "Petras Zdanavičius",
+            "type": "Talk",
+            "title": "Python Integers: nitty-gritty details"
+        },
+        {
+            "fullname": "Deividas Matačiūnas",
+            "type": "Talk",
+            "title": "Fine-tuning large NLP models"
+        }
+    ]
+}

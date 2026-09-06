@@ -1,0 +1,345 @@
+{
+    "year": 2024,
+    "speakers": [
+        {
+            "fullname": "Robert Dzisevič",
+            "type": "Talk",
+            "title": "Watsonx: A GenAI platform that's built for business"
+        },
+        {
+            "fullname": "Daniel Roy Greenfeld",
+            "type": "Keynote",
+            "title": "Keynote by Daniel Roy Greenfeld"
+        },
+        {
+            "fullname": "Monika Venčkauskaitė",
+            "type": "Tutorial",
+            "title": "Aligning and Using an Open-Source LLM"
+        },
+        {
+            "fullname": "Tadas Korris",
+            "type": "Talk",
+            "title": "How we Develop and Maintain a Modern Python Service at Mozilla: Merino as Example"
+        },
+        {
+            "fullname": "David Hewitt",
+            "type": "Talk",
+            "title": "Using Rust & PyO3 to make Pydantic v2 even faster"
+        },
+        {
+            "fullname": "Antanas Daujotis",
+            "type": "Talk",
+            "title": "Unleashing Python's potential with MAX Platform"
+        },
+        {
+            "fullname": "Piotr Gryko",
+            "type": "Talk",
+            "title": "Scaling, Refactoring and fixing a Django MVP for Production"
+        },
+        {
+            "fullname": "Luca Baggi",
+            "type": "Talk",
+            "title": "functime: a next generation ML forecasting library powered by Polars"
+        },
+        {
+            "fullname": "Marco Gorelli",
+            "type": "Tutorial",
+            "title": "Introduction to Polars DataFrames - how to supercharge your data workflows"
+        },
+        {
+            "fullname": "Laimonas Sutkus",
+            "type": "Workshop",
+            "title": "Object Oriented Programing the way it should be"
+        },
+        {
+            "fullname": "Cristián Maureira-Fredes",
+            "type": "Talk",
+            "title": "The role of Rust, Zig and C++ in the Python ecosystem"
+        },
+        {
+            "fullname": "Gabriel Martín Blázquez",
+            "type": "Talk",
+            "title": "🧼 From GPU-poor to data-rich: data quality practices for LLM fine-tuning"
+        },
+        {
+            "fullname": "David Berenstein",
+            "type": "Talk",
+            "title": "🧼 From GPU-poor to data-rich: data quality practices for LLM fine-tuning"
+        },
+        {
+            "fullname": "Martynas Venckus",
+            "type": "Talk",
+            "title": "Making an e-shop search bar your friend with Pinecone's hybrid search"
+        },
+        {
+            "fullname": "Isaac Chung",
+            "type": "Talk",
+            "title": "Speed up open source LLM-serving with llama-cpp-python"
+        },
+        {
+            "fullname": "Tung Hoang",
+            "type": "Talk",
+            "title": "Grokking Event-Driven Web App with Python"
+        },
+        {
+            "fullname": "Marco Gorelli",
+            "type": "Talk",
+            "title": "DataFrame interoperatiblity - what's been achieved, and what comes next?"
+        },
+        {
+            "fullname": "Rodrigo Girão Serrão",
+            "type": "Talk",
+            "title": "503 days working full-time on FOSS: lessons learned"
+        },
+        {
+            "fullname": "Albertas Gimbutas",
+            "type": "Talk",
+            "title": "Deadcode - a tool to ﬁnd and ﬁx dead (unused) Python code"
+        },
+        {
+            "fullname": "Franz Haas",
+            "type": "Talk",
+            "title": "analyzing stdf production test data in the silicon manufacturing industry using construct"
+        },
+        {
+            "fullname": "Tomas Peluritis",
+            "type": "Talk",
+            "title": "Write-Audit-Publish Pattern in Modern Data Pipelines"
+        },
+        {
+            "fullname": "Fabien Vauchelles",
+            "type": "Talk",
+            "title": "Cracking the Code: Decoding Anti-Bot Systems!"
+        },
+        {
+            "fullname": "Matthew Honnibal",
+            "type": "Talk",
+            "title": "Designing for tomorrow's programming workflows"
+        },
+        {
+            "fullname": "Isaac Chung",
+            "type": "Talk",
+            "title": "Transcend the Knowledge Barriers in RAG: Setup, Chat State, and More"
+        },
+        {
+            "fullname": "Robson Junior",
+            "type": "Talk",
+            "title": "The pragmatic Pythonic data engineer"
+        },
+        {
+            "fullname": "Vytautas Bielinskas",
+            "type": "Talk",
+            "title": "Generative AI in Lithuanian language"
+        },
+        {
+            "fullname": "Eli Holderness",
+            "type": "Talk",
+            "title": "Pointers? In My Python?"
+        },
+        {
+            "fullname": "Adam Furmanek",
+            "type": "Talk",
+            "title": "Lessons Learned From Maintaining SDK in Python for Three Years"
+        },
+        {
+            "fullname": "Peter Vidos",
+            "type": "Workshop",
+            "title": "Transforming Data Insights: Creating Dynamic Animated Stories with Python and ipyvizzu-story"
+        },
+        {
+            "fullname": "Emmanuel-Lin Toulemonde",
+            "type": "Talk",
+            "title": "[MLOps] CI/CD in the age of Machine Learning"
+        },
+        {
+            "fullname": "Maria Jose Molina Contreras",
+            "type": "Talk",
+            "title": "Customizing LLMs: A Guide to Fine-Tuning Open Source Models"
+        },
+        {
+            "fullname": "Jan Bartnitsky",
+            "type": "Talk",
+            "title": "RAG on KDTree"
+        },
+        {
+            "fullname": "Maxim Danilov",
+            "type": "Talk",
+            "title": "µDjango 2.0, an asynchronous microservices technique."
+        },
+        {
+            "fullname": "Tom",
+            "type": "Keynote",
+            "title": "Encode OSS: Funding open source development"
+        },
+        {
+            "fullname": "Yuliia Barabash",
+            "type": "Talk",
+            "title": "Your proposal: Data Harvest: Unlocking Insights with Web Scraping"
+        },
+        {
+            "fullname": "Johannes Bechberger",
+            "type": "Workshop",
+            "title": "Let’s create a Python Debugger together"
+        },
+        {
+            "fullname": "Julius Boakye",
+            "type": "Workshop",
+            "title": "FastDjango: Conjuring Powerful APIs with the Sorcery of Django Ninja"
+        },
+        {
+            "fullname": "Albertas Gimbutas",
+            "type": "Workshop",
+            "title": "Python package creation using bleeding edge toolset"
+        },
+        {
+            "fullname": "Tadas Gedgaudas",
+            "type": "Talk",
+            "title": "How to Utilize Machine Learning for Better Web Scraping"
+        },
+        {
+            "fullname": "Adrin Jalali",
+            "type": "Talk",
+            "title": "Revenue based scoring in `GridSearchCV`: a case for the new metadata routing in scikit-learn"
+        },
+        {
+            "fullname": "Zoe Steinkamp",
+            "type": "Workshop",
+            "title": "A 101 in time series analytics with Apache Arrow, Pandas and Parquet"
+        },
+        {
+            "fullname": "Tomas Peluritis",
+            "type": "Tutorial",
+            "title": "Data Processing with Apache Spark and Apache Iceberg"
+        },
+        {
+            "fullname": "Damian Wysocki",
+            "type": "Talk",
+            "title": "Deep Dive into Asynchronous SQLAlchemy - Transactions and Connections"
+        },
+        {
+            "fullname": "Romualdas",
+            "type": "Talk",
+            "title": "Python behind the scenes of Danske Bank's Cloud Migration at Scale"
+        },
+        {
+            "fullname": "Robert Smallshire",
+            "type": "Keynote",
+            "title": "Dancing with Design"
+        },
+        {
+            "fullname": "Tomáš Neubauer",
+            "type": "Talk",
+            "title": "Streaming DataFrames: A New Way to Process Streaming Data in Python"
+        },
+        {
+            "fullname": "Laysa Uchoa",
+            "type": "Talk",
+            "title": "Saying bye to the Keyboard, Hello to Alexa with Python AWS Lambda"
+        },
+        {
+            "fullname": "Yuliia Barabash",
+            "type": "Talk",
+            "title": "Saying bye to the Keyboard, Hello to Alexa with Python AWS Lambda"
+        },
+        {
+            "fullname": "Maxim Danilov",
+            "type": "Talk",
+            "title": "Django FTL: Resolving bottlenecks on the path to high performance."
+        },
+        {
+            "fullname": "Einat Orr",
+            "type": "Talk",
+            "title": "Data Version Control Done Right with Python and Unity"
+        },
+        {
+            "fullname": "Nir Ozeri",
+            "type": "Talk",
+            "title": "Data Version Control Done Right with Python and Unity"
+        },
+        {
+            "fullname": "Trevor James Smith",
+            "type": "Talk",
+            "title": "Building Open Climate Change Information Services in Python"
+        },
+        {
+            "fullname": "Rodrigo Girão Serrão",
+            "type": "Talk",
+            "title": "What are descriptors and why does Django need them?"
+        },
+        {
+            "fullname": "Eimantas Nėjus",
+            "type": "Talk",
+            "title": "Django + HTMX: Democratise Full Stack Web Development"
+        },
+        {
+            "fullname": "Francis Billa",
+            "type": "Talk",
+            "title": "Pythonic Insight: Navigating the Depths of Observability."
+        },
+        {
+            "fullname": "Ines Montani",
+            "type": "Keynote",
+            "title": "The AI Revolution Will Not Be Monopolized: How open-source beats economies of scale, even for LLMs"
+        },
+        {
+            "fullname": "Fabien Vauchelles",
+            "type": "Talk",
+            "title": "Mastering Web Scraping: Unleash Your Data Extraction Wizardry!"
+        },
+        {
+            "fullname": "Ritchie Vink",
+            "type": "Keynote",
+            "title": "Keynote Polars"
+        },
+        {
+            "fullname": "Dave Aronson",
+            "type": "Talk",
+            "title": "Kill All Mutants! (Intro to Mutation Testing)"
+        },
+        {
+            "fullname": "Maxim Zaks",
+            "type": "Talk",
+            "title": "Is Mojo just a hype?"
+        },
+        {
+            "fullname": "Jonas Jarutis",
+            "type": "Talk",
+            "title": "ML Model Serialization: Improving Efficiency and Flexibility"
+        },
+        {
+            "fullname": "Aurélien Massiot",
+            "type": "Workshop",
+            "title": "Coding a vector database from scratch"
+        },
+        {
+            "fullname": "Maxim Danilov",
+            "type": "Talk",
+            "title": "Simplifying large Python projects by distributing complexity."
+        },
+        {
+            "fullname": "Arjan Egges",
+            "type": "Keynote",
+            "title": "LLMs: when to use them and when to avoid them"
+        },
+        {
+            "fullname": "Piotr Gryko",
+            "type": "Talk",
+            "title": "Building and Scaling an AI Startup with Async Django"
+        },
+        {
+            "fullname": "Laysa Uchoa",
+            "type": "Talk",
+            "title": "OpenSearch, Python, and Serverless for Modern Search Applications"
+        },
+        {
+            "fullname": "Ben Clifford",
+            "type": "Talk",
+            "title": "The Ghosts of Distant Objects"
+        },
+        {
+            "fullname": "Justinas Kuizinas",
+            "type": "Talk",
+            "title": "Lessons (I Wish I Knew These Before) from Migrating a Farm of Django Projects from On-Premises to AWS with Kubernetes"
+        }
+    ]
+}

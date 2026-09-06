@@ -1,0 +1,385 @@
+{
+    "year": 2026,
+    "speakers": [
+        {
+            "fullname": "Artem Konotpchyk",
+            "type": "Workshop",
+            "title": "Quantum Machine Learning with Qiskit"
+        },
+        {
+            "fullname": "Manta Ribkauskyte",
+            "type": "Workshop",
+            "title": "Quantum Machine Learning with Qiskit"
+        },
+        {
+            "fullname": "James Donahue",
+            "type": "Talk",
+            "title": "LLMs through my last 3 professions: an interdisciplinary approach"
+        },
+        {
+            "fullname": "Neeraj Pandey",
+            "type": "Poster session",
+            "title": "Exposing Greenwashing: Satellite ML for Carbon Credit Verification"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Talk",
+            "title": "Are we free-threaded ready? Looking at where free-threaded Python fails"
+        },
+        {
+            "fullname": "Justinas Kuizinas",
+            "type": "Talk",
+            "title": "Leading Through the Shift: What Engineering Leadership Actually Looks Like"
+        },
+        {
+            "fullname": "Aurimas Griciunas",
+            "type": "Talk",
+            "title": "Leading Through the Shift: What Engineering Leadership Actually Looks Like"
+        },
+        {
+            "fullname": "Karolina Griciunė",
+            "type": "Talk",
+            "title": "Leading Through the Shift: What Engineering Leadership Actually Looks Like"
+        },
+        {
+            "fullname": "Tomas Peluritis",
+            "type": "Talk",
+            "title": "Leading Through the Shift: What Engineering Leadership Actually Looks Like"
+        },
+        {
+            "fullname": "Linas Petkevičius",
+            "type": "Talk",
+            "title": "AI Lithuania Summit"
+        },
+        {
+            "fullname": "Linas Petkevičius",
+            "type": "Talk",
+            "title": "AI Agents: risks and legal"
+        },
+        {
+            "fullname": "Karolina Griciunė",
+            "type": "Talk",
+            "title": "AI Agents: risks and legal"
+        },
+        {
+            "fullname": "Jonas Lekevicius",
+            "type": "Talk",
+            "title": "AI Agents: risks and legal"
+        },
+        {
+            "fullname": "prof. Paulius Pakutinskas",
+            "type": "Talk",
+            "title": "AI Agents: risks and legal"
+        },
+        {
+            "fullname": "Neringa Gaubiene",
+            "type": "Talk",
+            "title": "AI Agents: risks and legal"
+        },
+        {
+            "fullname": "James Donahue",
+            "type": "Talk",
+            "title": "Stats Meets ML - What I learned from my Machine Learning Certification"
+        },
+        {
+            "fullname": "Luca Baggi",
+            "type": "Talk",
+            "title": "Reading the Mind of an LLM"
+        },
+        {
+            "fullname": "Gabriele Orlandi",
+            "type": "Talk",
+            "title": "Reading the Mind of an LLM"
+        },
+        {
+            "fullname": "Artsem",
+            "type": "Talk",
+            "title": "Python for Data Quality in 2025: Why tests alone are no longer enough"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Talk",
+            "title": "Friend or Foe? AI at Play in Cybersecurity"
+        },
+        {
+            "fullname": "Tadas Goberis",
+            "type": "Talk",
+            "title": "Stop Guessing: Build Feedback Loop for Prompt Engineering"
+        },
+        {
+            "fullname": "Christian Heitzmann",
+            "type": "Talk",
+            "title": "Documenting Python Code—and Whether AI Can Really Help"
+        },
+        {
+            "fullname": "Kader Miyanyedi",
+            "type": "Talk",
+            "title": "A Practical Guide to Testing with Pytest, Faker, and Hypothesis"
+        },
+        {
+            "fullname": "Katharine Jarmul",
+            "type": "Keynote",
+            "title": "Claude Code Conspiracies"
+        },
+        {
+            "fullname": "Luca Baggi",
+            "type": "Talk",
+            "title": "From OpenAI to DeepSeek: New Scaling Laws for LLMs that can Reason"
+        },
+        {
+            "fullname": "Gediminas Sadaunykas",
+            "type": "Talk",
+            "title": "From Sports Stats to AI Safety: The Ranking Renaissance"
+        },
+        {
+            "fullname": "PJ Hagerty",
+            "type": "Talk",
+            "title": "Why Git Still Matters"
+        },
+        {
+            "fullname": "Kęstutis Gadeikis",
+            "type": "Talk",
+            "title": "Beyond the Static 2D Plot - Spatial Data Storytelling in 4D"
+        },
+        {
+            "fullname": "PJ Hagerty",
+            "type": "Talk",
+            "title": "AI & Ethics"
+        },
+        {
+            "fullname": "Egidijus Pilypas",
+            "type": "Keynote",
+            "title": "Attacking Toughest and Messiest Tech Challenges with AI"
+        },
+        {
+            "fullname": "Antanas Baltrušaitis",
+            "type": "Talk",
+            "title": "Cloud Data Solutions Are Overrated: Building a Pan-European Business Database for Lunch Money"
+        },
+        {
+            "fullname": "Özge Çinko",
+            "type": "Talk",
+            "title": "Measuring Experiments in LLMs: A/B Tests and Automated Testing"
+        },
+        {
+            "fullname": "Kader Miyanyedi",
+            "type": "Talk",
+            "title": "Measuring Experiments in LLMs: A/B Tests and Automated Testing"
+        },
+        {
+            "fullname": "Simona Skiotytė",
+            "type": "Talk",
+            "title": "Beyond the Prompt: Building Research Agents in Python"
+        },
+        {
+            "fullname": "Tomas Peluritis",
+            "type": "Keynote",
+            "title": "Technical Debt: When to Pay It Down vs. When to Just Live With It"
+        },
+        {
+            "fullname": "Ekaterina Korolkoviene",
+            "type": "Talk",
+            "title": "It’s Just Code: Library Dismantling 101"
+        },
+        {
+            "fullname": "Geoffrey Huntley",
+            "type": "Talk",
+            "title": "Software Development Now Costs Less Than Minimum Wage"
+        },
+        {
+            "fullname": "Federico Marchesi",
+            "type": "Workshop",
+            "title": "Data versioning"
+        },
+        {
+            "fullname": "Piotr Migdał",
+            "type": "Talk",
+            "title": "Vibe reverse engineering of old games and new hardware"
+        },
+        {
+            "fullname": "Paulius Venclovas",
+            "type": "Talk",
+            "title": "Python, rust and arrow for data processing"
+        },
+        {
+            "fullname": "Viraj Sharma",
+            "type": "Talk",
+            "title": "XAI - Explainable AI tools and techniques"
+        },
+        {
+            "fullname": "Aidis Stukas",
+            "type": "Talk",
+            "title": "LLM Agent Patterns — A Python Developer's Vocabulary"
+        },
+        {
+            "fullname": "Eric Thanenthiran",
+            "type": "Talk",
+            "title": "Infrastructure as Python: Pulumi for Cloud Deployments"
+        },
+        {
+            "fullname": "Purva",
+            "type": "Talk",
+            "title": "Creative Data Storytelling with Python"
+        },
+        {
+            "fullname": "Tadas Korris",
+            "type": "Talk",
+            "title": "AI and Agency: As Developers, We Decide The Future"
+        },
+        {
+            "fullname": "Antonino (Nino) Cangialosi",
+            "type": "Talk",
+            "title": "Master the Art of Schema Dissection: Operation Data Engineer"
+        },
+        {
+            "fullname": "Marat Saidov",
+            "type": "Talk",
+            "title": "From Data Collection to Partner Delivery: Shipping a Paraphrasing Skill on Small Language Models"
+        },
+        {
+            "fullname": "Denis Filiakin",
+            "type": "Talk",
+            "title": "An Art of Privacy"
+        },
+        {
+            "fullname": "Tomas Peluritis",
+            "type": "Talk",
+            "title": "Airflow Lessons They Don't Put in the Docs"
+        },
+        {
+            "fullname": "Jonas Adomaitis",
+            "type": "Talk",
+            "title": "Quantum Machine Learning with Qiskit"
+        },
+        {
+            "fullname": "Juan Luis Cano Rodríguez",
+            "type": "Talk",
+            "title": "How I mapped 10 000 illegal Airbnbs with Python"
+        },
+        {
+            "fullname": "Saurav Jain",
+            "type": "Talk",
+            "title": "Designing Python APIs for Data You Don’t Control"
+        },
+        {
+            "fullname": "Jaunė Malūkaitė",
+            "type": "Talk",
+            "title": "From experiments to systems: DS lessons for better software engineering"
+        },
+        {
+            "fullname": "Graham Lyons",
+            "type": "Talk",
+            "title": "Lessons Learned using FastAPI in the Wild"
+        },
+        {
+            "fullname": "Antanas Daujotis",
+            "type": "Talk",
+            "title": "Context Engineering with DeepAgents: Write, Select, Compress, Isolate"
+        },
+        {
+            "fullname": "Jarek Potiuk",
+            "type": "Talk",
+            "title": "Modern Python monorepo for Apache Airflow"
+        },
+        {
+            "fullname": "Rodrigo Girão Serrão",
+            "type": "Talk",
+            "title": "The paradox of itertools.tee"
+        },
+        {
+            "fullname": "Mauro Pelucchi",
+            "type": "Talk",
+            "title": "Multi-Model LLM Orchestration in Python: A Case Study in Research Automation"
+        },
+        {
+            "fullname": "Petras Zdanavičius",
+            "type": "Talk",
+            "title": "Serializing and displaying trees"
+        },
+        {
+            "fullname": "Roman Zaiev",
+            "type": "Talk",
+            "title": "Stop Using ORM"
+        },
+        {
+            "fullname": "Valdas Druskinis",
+            "type": "Talk",
+            "title": "Beyond SHAP: Diagnosing Vector Embeddings with Visual Explainable AI"
+        },
+        {
+            "fullname": "Piotr",
+            "type": "Keynote",
+            "title": "Computer Vision, Meet Sports"
+        },
+        {
+            "fullname": "Mark Smith",
+            "type": "Keynote",
+            "title": "What You're Leaving on the Table"
+        },
+        {
+            "fullname": "Alex Marmuzevich",
+            "type": "Workshop",
+            "title": "AI-Assisted Development in Practice: Chatbot + Agentic Testing from Scratch"
+        },
+        {
+            "fullname": "Jarek Potiuk",
+            "type": "Talk",
+            "title": "Death by a Thousand Prompts: Can Our Disclosure Standards Survive AI Slop?"
+        },
+        {
+            "fullname": "Neeraj Pandey",
+            "type": "Workshop",
+            "title": "Python Power Tools: Hands-On from Decorators to Context Managers"
+        },
+        {
+            "fullname": "Mia Bajić",
+            "type": "Keynote",
+            "title": "Your Python has a public roadmap. Most engineers never read it."
+        },
+        {
+            "fullname": "Fabien Vauchelles",
+            "type": "Talk",
+            "title": "What It Means to Be a CTO in an AI Startup Today"
+        },
+        {
+            "fullname": "Juan Luis Cano Rodríguez",
+            "type": "Workshop",
+            "title": "The year of [packaging your Python app for] the Linux Desktop"
+        },
+        {
+            "fullname": "Dmitri",
+            "type": "Talk",
+            "title": "Engineering Complex AI solutions: Observability and Testing of multi-Agent Solutions"
+        },
+        {
+            "fullname": "Ąžuolas Krušna",
+            "type": "Talk",
+            "title": "Streamline Python Package Release with uv, paws and trivia"
+        },
+        {
+            "fullname": "Tadas Korris",
+            "type": "Talk",
+            "title": "Python Tooling at Mozilla"
+        },
+        {
+            "fullname": "Oleksii Liashuk",
+            "type": "Talk",
+            "title": "Dataset Updates Without Losing Your Mind"
+        },
+        {
+            "fullname": "Piti Champeethong",
+            "type": "Talk",
+            "title": "Beyond Basic RAG: Boosting Accuracy with Hybrid Search and Fusion Algorithms."
+        },
+        {
+            "fullname": "Rodrigo Girão Serrão",
+            "type": "Talk",
+            "title": "And now for something completely different"
+        },
+        {
+            "fullname": "Zafarzhon Irismetov",
+            "type": "Talk",
+            "title": "Behind Every Instant Loan Is Data Science: How Python Scorecards Decide Credit Risk"
+        }
+    ]
+}

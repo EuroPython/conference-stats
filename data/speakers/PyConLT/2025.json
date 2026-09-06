@@ -1,0 +1,360 @@
+{
+    "year": 2025,
+    "speakers": [
+        {
+            "fullname": "Daniel Hervás",
+            "type": "Talk",
+            "title": "Python Containers: Best Practices"
+        },
+        {
+            "fullname": "David Andersson",
+            "type": "Talk",
+            "title": "I want to deploy my Flask app on Kubernetes, what are my options?"
+        },
+        {
+            "fullname": "Javier de la Puente",
+            "type": "Talk",
+            "title": "I want to deploy my Flask app on Kubernetes, what are my options?"
+        },
+        {
+            "fullname": "Ruslan Korniichuk",
+            "type": "Talk",
+            "title": "Python on the Pitch: How Germany will win World Cup 2026"
+        },
+        {
+            "fullname": "Ludvig Wärnberg Gerdin",
+            "type": "Talk",
+            "title": "Automate Brag Document Writing with LLMs"
+        },
+        {
+            "fullname": "Brandon Rhodes",
+            "type": "Keynote",
+            "title": "Skip the Design Patterns: Architecting with Nouns and Verbs"
+        },
+        {
+            "fullname": "Maximilian Lattka",
+            "type": "Talk",
+            "title": "Working for a Faster World: Accelerating Data Science with Less Resources"
+        },
+        {
+            "fullname": "Shiva Bhusal",
+            "type": "Talk",
+            "title": "Coding Aesthetics: PEP 8, Existing Conventions, and Beyond"
+        },
+        {
+            "fullname": "Evaldas Kazlauskis",
+            "type": "Talk",
+            "title": "When safety is non-negotiable - 3 stages of building safety using data & AI"
+        },
+        {
+            "fullname": "Florian Stefan",
+            "type": "Talk",
+            "title": "Accelerating privacy-enhancing data processing"
+        },
+        {
+            "fullname": "Gediminas Sadaunykas",
+            "type": "Talk",
+            "title": "Pydantic: Crafting confidence in AI apps"
+        },
+        {
+            "fullname": "Andrii Soldatenko",
+            "type": "Talk",
+            "title": "Code review the right way"
+        },
+        {
+            "fullname": "Antanas Baltrušaitis",
+            "type": "Talk",
+            "title": "Leveraging Large Language Models for Automated Generation and Validation of Financial Descriptions for Lithuanian Companies"
+        },
+        {
+            "fullname": "Taisija Kozarina",
+            "type": "Talk",
+            "title": "Unlocking the Power of Python and PyTorch for Biomedical Image Segmentation"
+        },
+        {
+            "fullname": "Patricia Goldberg",
+            "type": "Talk",
+            "title": "From Chaos to Control: Automating BI Tools with Pydantic and Python"
+        },
+        {
+            "fullname": "Antonis Kalipetis",
+            "type": "Talk",
+            "title": "Sync or async? Feel the magic of coroutines and the event loop in Django"
+        },
+        {
+            "fullname": "Megan Robertson",
+            "type": "Talk",
+            "title": "Top 5 Lessons from a Senior Data Scientist"
+        },
+        {
+            "fullname": "James Donahue",
+            "type": "Talk",
+            "title": "Variable Selection: What your model can't tell you"
+        },
+        {
+            "fullname": "Aurimas Griciunas",
+            "type": "Keynote",
+            "title": "Challenges and Opportunities of Agentic Systems: Present and Future"
+        },
+        {
+            "fullname": "piotr stepinski",
+            "type": "Talk",
+            "title": "📂 Slow Productivity AI: Automating Knowledge & Task Management with Offline Hugging Face, n8n & Obsidian"
+        },
+        {
+            "fullname": "Ruslan Korniichuk",
+            "type": "Talk",
+            "title": "Architecture as Code (AaC) with Python"
+        },
+        {
+            "fullname": "Maxim Danilov",
+            "type": "Talk",
+            "title": "The art of yield"
+        },
+        {
+            "fullname": "Florian Stefan",
+            "type": "Talk",
+            "title": "Testable data pipelines"
+        },
+        {
+            "fullname": "Anwesha Das",
+            "type": "Talk",
+            "title": "Using Trusted Publishing to Ansible release"
+        },
+        {
+            "fullname": "Tomas Peluritis",
+            "type": "Talk",
+            "title": "Beyond dbt: Modern SQL Transformation and Lineage with sqlglot and sqlmesh"
+        },
+        {
+            "fullname": "Kushal Das",
+            "type": "Keynote",
+            "title": "Ethics, Privacy and few other words"
+        },
+        {
+            "fullname": "Mark Fukson",
+            "type": "Talk",
+            "title": "Beyond Deployment: Continuously Adding Features to Drive Marginal Gains in Models"
+        },
+        {
+            "fullname": "Vidmantė Čižienė",
+            "type": "Talk",
+            "title": "The Power of Python for Data Management (or How You’ve Been Doing Data Management All Along Without Even Realizing It)"
+        },
+        {
+            "fullname": "Robert Dzisevič",
+            "type": "Talk",
+            "title": "The Emergence of Agentic Workflows in AI"
+        },
+        {
+            "fullname": "Hanna Danilovich",
+            "type": "Talk",
+            "title": "From Raw Transactions to Insights: The Power of Embeddings in Fintech"
+        },
+        {
+            "fullname": "Vladas Tamošaitis",
+            "type": "Talk",
+            "title": "Beyond the GIL: Python's Evolution and Future Directions"
+        },
+        {
+            "fullname": "Jurgis Zagorskas",
+            "type": "Talk",
+            "title": "Python in 3D computer graphics"
+        },
+        {
+            "fullname": "Siddharth Gupta",
+            "type": "Workshop",
+            "title": "Build & Deploy Apps like a (pro) Data Scientist using Streamlit"
+        },
+        {
+            "fullname": "Matej Hamaš",
+            "type": "Workshop",
+            "title": "Build, Deploy, Monetize: The Future of the Developer Economy"
+        },
+        {
+            "fullname": "Davi Nascimento de Paula",
+            "type": "Talk",
+            "title": "Transforming REST APIs with Protobuf: Unlocking Performance and Flexibility"
+        },
+        {
+            "fullname": "Laurynas Stašys",
+            "type": "Workshop",
+            "title": "Using feature stores to deliver awesome models"
+        },
+        {
+            "fullname": "Mantas Cepulkovskis",
+            "type": "Workshop",
+            "title": "Using feature stores to deliver awesome models"
+        },
+        {
+            "fullname": "Siddharth Gupta",
+            "type": "Talk",
+            "title": "Surprisal and the headache of tokenizer encodings in LLMs!"
+        },
+        {
+            "fullname": "Gabor Szarnyas",
+            "type": "Keynote",
+            "title": "The evolution of data management techniques"
+        },
+        {
+            "fullname": "Sadeeq Akintola",
+            "type": "Workshop",
+            "title": "Orchestrating an end-to-end Data Engineering Workflow:  Leveraging Python in Apache Beam and Airflow"
+        },
+        {
+            "fullname": "Ąžuolas Krušna",
+            "type": "Talk",
+            "title": "How I tracked my stocks with Python"
+        },
+        {
+            "fullname": "Pietro Peterlongo",
+            "type": "Talk",
+            "title": "A Crash course in Time Series Forecasting from Naive to Foundational"
+        },
+        {
+            "fullname": "Ruslan Korniichuk",
+            "type": "Workshop",
+            "title": "Investing: Technical Analysis libraries in Python"
+        },
+        {
+            "fullname": "Maxim Danilov",
+            "type": "Workshop",
+            "title": "Building pure Django REST API"
+        },
+        {
+            "fullname": "Mauro Pelucchi",
+            "type": "Talk",
+            "title": "Data Warehouses Meet Data Lakes"
+        },
+        {
+            "fullname": "Alius Petraška",
+            "type": "Talk",
+            "title": "How We Outperformed Microsoft, Google, and OpenAI in Speech-to-Text"
+        },
+        {
+            "fullname": "David Masip",
+            "type": "Talk",
+            "title": "cluster-experiments: A Python library for end-to-end A/B testing workflows"
+        },
+        {
+            "fullname": "Ed Crewe",
+            "type": "Talk",
+            "title": "Cutting the price of Scraping Cloud Costs"
+        },
+        {
+            "fullname": "Zafarzhon Irismetov",
+            "type": "Talk",
+            "title": "The Best of Both Worlds: A Hybrid Approach to Lightning-Fast Product Matching"
+        },
+        {
+            "fullname": "Donatas Rasiukevičius",
+            "type": "Talk",
+            "title": "Do Repeat Yourself"
+        },
+        {
+            "fullname": "Stefanie Molin",
+            "type": "Keynote",
+            "title": "Build Your Own (Simple) Static Code Analyzer"
+        },
+        {
+            "fullname": "Patricia Goldberg",
+            "type": "Talk",
+            "title": "Organize your data stack using Dagster"
+        },
+        {
+            "fullname": "David Batista",
+            "type": "Talk",
+            "title": "Smarter Retrieval, Better Generation: Improving RAG Systems"
+        },
+        {
+            "fullname": "Merve Noyan",
+            "type": "Keynote",
+            "title": "Open-source Multimodal AI"
+        },
+        {
+            "fullname": "Christophe Bornet",
+            "type": "Talk",
+            "title": "Building multi-agent AI applications made easy with LangFlow"
+        },
+        {
+            "fullname": "Sebastian Krauss",
+            "type": "Talk",
+            "title": "How to evaluate fairness and safety in LLM applications?"
+        },
+        {
+            "fullname": "Stefan Kraus",
+            "type": "Talk",
+            "title": "Let the Robots Test: Acceptance Test-Driven Development (ATDD) with Robot Framework"
+        },
+        {
+            "fullname": "Ruslan Korniichuk",
+            "type": "Talk",
+            "title": "Temporal: Bulletproof Workflows"
+        },
+        {
+            "fullname": "Tuana Çelik",
+            "type": "Talk",
+            "title": "Knowledge Bases & Memory for Agentic AI"
+        },
+        {
+            "fullname": "Jonas Jarutis",
+            "type": "Talk",
+            "title": "Image deduplication using embeddings"
+        },
+        {
+            "fullname": "Piotr Gryko",
+            "type": "Talk",
+            "title": "Anonymization of sensitive information in financial documents using, python, diffusion models and named entity recognition"
+        },
+        {
+            "fullname": "Viraj Sharma",
+            "type": "Talk",
+            "title": "Enhancing Model Context Protocol (MCP) with Dynamic Tool Discovery for Smarter AI"
+        },
+        {
+            "fullname": "Piti Champeethong",
+            "type": "Talk",
+            "title": "Migrating billions records from SQL to NoSQL using continuous migration technique with PySpark and DataProc."
+        },
+        {
+            "fullname": "Tung Hoang",
+            "type": "Talk",
+            "title": "Real-Time Data Analytics at Scale: From Ingestion to Retrieval"
+        },
+        {
+            "fullname": "Antanas Daujotis",
+            "type": "Talk",
+            "title": "Code Generation in Regulated Industries: Opportunities and Challenges"
+        },
+        {
+            "fullname": "Aleksejs Vesjolijs",
+            "type": "Talk",
+            "title": "EGTL data-processing model prototype using Python"
+        },
+        {
+            "fullname": "Daniel Hervás",
+            "type": "Talk",
+            "title": "Inside the Black Box: The Anatomy of Virtual Environments"
+        },
+        {
+            "fullname": "Christian Heitzmann",
+            "type": "Workshop",
+            "title": "What We Can Learn from Exemplary Python Documentation"
+        },
+        {
+            "fullname": "Stefan Dayneko",
+            "type": "Talk",
+            "title": "AI 360: From Theory to Transformation"
+        },
+        {
+            "fullname": "Daria Lashkevich",
+            "type": "Talk",
+            "title": "GenAI for Clients: No pain, no gain"
+        },
+        {
+            "fullname": "Tomas Peluritis",
+            "type": "Talk",
+            "title": "Data Day Opening"
+        }
+    ]
+}

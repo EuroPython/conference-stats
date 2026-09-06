@@ -1,0 +1,245 @@
+{
+    "year": 2023,
+    "speakers": [
+        {
+            "fullname": "Yuichiro Tachibana",
+            "type": "Talk",
+            "title": "Streamlit meets WebAssembly - stlite"
+        },
+        {
+            "fullname": "Peter Vidos",
+            "type": "Talk",
+            "title": "Let them explore! Building interactive, animated reports in Streamlit with ipyvizzu & a few lines of Python"
+        },
+        {
+            "fullname": "Marlene Mhangami",
+            "type": "Keynote",
+            "title": "Python and Creativity (An Explorers Guide)"
+        },
+        {
+            "fullname": "Samuel Colvin",
+            "type": "Talk",
+            "title": "Uncle Data session 1"
+        },
+        {
+            "fullname": "Uncle Data",
+            "type": "Talk",
+            "title": "Uncle Data session 1"
+        },
+        {
+            "fullname": "Tadas Pikutis",
+            "type": "Talk",
+            "title": "Largest B2B pharma marketplace online: 7 years effors redone in a year thanks to python"
+        },
+        {
+            "fullname": "Marc Garcia",
+            "type": "Talk",
+            "title": "Uncle Data session 3"
+        },
+        {
+            "fullname": "Ritchie Vink",
+            "type": "Talk",
+            "title": "Uncle Data session 3"
+        },
+        {
+            "fullname": "Uncle Data",
+            "type": "Talk",
+            "title": "Uncle Data session 3"
+        },
+        {
+            "fullname": "Karolina Griciunė",
+            "type": "Talk",
+            "title": "How to Build a Data Science Portfolio That Will Make Recruiters Swipe Right"
+        },
+        {
+            "fullname": "Martin Turóci",
+            "type": "Talk",
+            "title": "H2O Wave - Build web apps with nothing but Python"
+        },
+        {
+            "fullname": "Piotr Płoński",
+            "type": "Talk",
+            "title": "Mercury widgets - a new way to make interactive webapp from Jupyter Notebook"
+        },
+        {
+            "fullname": "Aleksandra Plonska",
+            "type": "Talk",
+            "title": "Mercury widgets - a new way to make interactive webapp from Jupyter Notebook"
+        },
+        {
+            "fullname": "Tomas Peluritis",
+            "type": "Talk",
+            "title": "Is it the end for Apache Airflow?"
+        },
+        {
+            "fullname": "Elijah ben Izzy",
+            "type": "Talk",
+            "title": "Portable Feature Engineering with Hamilton: Write Once, Run Everywhere"
+        },
+        {
+            "fullname": "Marc Garcia",
+            "type": "Talk",
+            "title": "Make your first open source contribution"
+        },
+        {
+            "fullname": "Marc Garcia",
+            "type": "Talk",
+            "title": "pandas 2.0 and the Arrow revolution"
+        },
+        {
+            "fullname": "Imaad Mohamed Khan",
+            "type": "Talk",
+            "title": "Production ready Machine Learning pipelines using ZenML for MLOps management"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Talk",
+            "title": "Driving down the Memray lane - Profiling your data science work"
+        },
+        {
+            "fullname": "Monika Venčkauskaitė",
+            "type": "Talk",
+            "title": "ML model serving and monitoring with FastAPI"
+        },
+        {
+            "fullname": "Sanskar Jethi",
+            "type": "Talk",
+            "title": "Robyn: A fast async Python web framework with a Rust runtime"
+        },
+        {
+            "fullname": "Samuel Colvin",
+            "type": "Keynote",
+            "title": "Garbage in -> Pydantic -> you're golden!"
+        },
+        {
+            "fullname": "Avision Ho",
+            "type": "Talk",
+            "title": "Market attribution in an increasingly privacy-centric industry"
+        },
+        {
+            "fullname": "Dr. Thomas Wiecki",
+            "type": "Keynote",
+            "title": "Bayes in Business: Transparent and Interpretable Solutions"
+        },
+        {
+            "fullname": "Juan Luis Cano Rodríguez",
+            "type": "Workshop",
+            "title": "Analyze your data at the speed of light with Polars and Kedro"
+        },
+        {
+            "fullname": "Chang She",
+            "type": "Talk",
+            "title": "Serverless billion-scale vector search for AI applications"
+        },
+        {
+            "fullname": "Aurimas Griciunas",
+            "type": "Talk",
+            "title": "MLOps Fundamentals or What Every Machine Learning Engineer Should Know"
+        },
+        {
+            "fullname": "Barbara Toporowska",
+            "type": "Talk",
+            "title": "Domain Driven Design Meets Infractucture from Code: An AWS Credentials Management Case Study"
+        },
+        {
+            "fullname": "Justinas Kuizinas",
+            "type": "Talk",
+            "title": "Uncle Data session 2"
+        },
+        {
+            "fullname": "Uncle Data",
+            "type": "Talk",
+            "title": "Uncle Data session 2"
+        },
+        {
+            "fullname": "Carsten Frommhold",
+            "type": "Workshop",
+            "title": "Unlocking the Power of PySpark: A Comprehensive Workshop"
+        },
+        {
+            "fullname": "Aleksandr Sulimov",
+            "type": "Talk",
+            "title": "Repid: new job scheduler with Asyncio in mind"
+        },
+        {
+            "fullname": "Shahriyar Rzayev",
+            "type": "Workshop",
+            "title": "Building Hexagonal Python Services"
+        },
+        {
+            "fullname": "Justinas Kuizinas",
+            "type": "Talk",
+            "title": "Unleashing the Power of Domain Driven Design and AWS with Python microservices"
+        },
+        {
+            "fullname": "Ashmi Banerjee",
+            "type": "Workshop",
+            "title": "The Ultimate Matchmaker: Building Recommender Systems with TensorFlow"
+        },
+        {
+            "fullname": "Travis Oliphant",
+            "type": "Talk",
+            "title": "Leader talks"
+        },
+        {
+            "fullname": "Linas Petkevičius",
+            "type": "Workshop",
+            "title": "Similarity search in practice or how AI can help in everyday’s life"
+        },
+        {
+            "fullname": "Robert Hoffmann",
+            "type": "Talk",
+            "title": "The role and skills of the developer: Past and Future"
+        },
+        {
+            "fullname": "Ritchie Vink",
+            "type": "Talk",
+            "title": "Polars: done the fast, now the scale"
+        },
+        {
+            "fullname": "Aroma Rodrigues",
+            "type": "Talk",
+            "title": "I talk to ChatGPT about things"
+        },
+        {
+            "fullname": "Hila Israeli",
+            "type": "Talk",
+            "title": "One Platform for All: A Revolution for Customers, Developers, and Sales"
+        },
+        {
+            "fullname": "Deleted User",
+            "type": "Talk",
+            "title": "Code More, Draw Less: Auto-Generate Software Architecture Visualizations ft. Graph DBs, pandas & Python"
+        },
+        {
+            "fullname": "Kang Min Bae",
+            "type": "Talk",
+            "title": "Code More, Draw Less: Auto-Generate Software Architecture Visualizations ft. Graph DBs, pandas & Python"
+        },
+        {
+            "fullname": "Anas El Amraoui",
+            "type": "Talk",
+            "title": "How to scale old Django apps for free"
+        },
+        {
+            "fullname": "Dima Savostyanov",
+            "type": "Talk",
+            "title": "How we predict purchases in mobile games"
+        },
+        {
+            "fullname": "Travis Oliphant",
+            "type": "Keynote",
+            "title": "Building sustainable software for AI and ML with lessons from the SciPyData community"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Talk",
+            "title": "HTMX vs WASM - more backend or more frontend?"
+        },
+        {
+            "fullname": "Alexander Podkhalyuzin",
+            "type": "Workshop",
+            "title": "PyCharm, let's discuss your problems"
+        }
+    ]
+}

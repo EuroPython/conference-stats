@@ -1,0 +1,180 @@
+{
+    "year": 2022,
+    "speakers": [
+        {
+            "fullname": "Andrej Baranovskij",
+            "type": "Keynote",
+            "title": "MLOps with FastAPI, RabbitMQ and Kubernetes using Skipper"
+        },
+        {
+            "fullname": "Sara Iris Garcia",
+            "type": "Talk",
+            "title": "Detecting and removing outliers in your data"
+        },
+        {
+            "fullname": "Emma Delescolle",
+            "type": "Talk",
+            "title": "Py:Script: could it be used as a frontend framework?"
+        },
+        {
+            "fullname": "Peter Vidos",
+            "type": "Workshop",
+            "title": "ipyvizzu - a new, open-source charting tool to create animated data stories with Python in Jupyter"
+        },
+        {
+            "fullname": "Juan Luis Cano Rodríguez",
+            "type": "Talk",
+            "title": "Beyond pandas: The great Python dataframe showdown"
+        },
+        {
+            "fullname": "Matthias Valvekens",
+            "type": "Talk",
+            "title": "Bringing digital signatures and PKI to the masses with Python"
+        },
+        {
+            "fullname": "Łukasz Langa",
+            "type": "Keynote",
+            "title": "Use typing to speed up your apps with mypyc"
+        },
+        {
+            "fullname": "Rokas Cvirka",
+            "type": "Talk",
+            "title": "\"Programming Platform \"Angis\" trough the Eyes of a Teenager\""
+        },
+        {
+            "fullname": "Ugne Ubartaite",
+            "type": "Talk",
+            "title": "\"Programming Platform \"Angis\" trough the Eyes of a Teenager\""
+        },
+        {
+            "fullname": "Kostas Jakeliūnas",
+            "type": "Talk",
+            "title": "Processing identity doc NFC chips: Pythonic way to handle parsing and cryptography"
+        },
+        {
+            "fullname": "Dr. Inga Popovaitė",
+            "type": "Talk",
+            "title": "How I Learned to Stop Worrying and Love Python"
+        },
+        {
+            "fullname": "Ivan Klimuk",
+            "type": "Talk",
+            "title": "User-Centric Machine Learning"
+        },
+        {
+            "fullname": "Pēteris Ratnieks",
+            "type": "Talk",
+            "title": "A new framework for testing"
+        },
+        {
+            "fullname": "Andrea Coifman",
+            "type": "Workshop",
+            "title": "It's (not) about the data!"
+        },
+        {
+            "fullname": "Aidis Stukas",
+            "type": "Lightning talk session",
+            "title": "Introduction"
+        },
+        {
+            "fullname": "Petras Zdanavičius",
+            "type": "Talk",
+            "title": "Implementing Ray Tracing in Python"
+        },
+        {
+            "fullname": "Jev Gamper",
+            "type": "Talk",
+            "title": "Up and Down the Ladder of Experimentation"
+        },
+        {
+            "fullname": "Darius Barušauskas",
+            "type": "Talk",
+            "title": "Artificial Intelligence in Radiology - are we there yet?"
+        },
+        {
+            "fullname": "Rokas Cvirka",
+            "type": "Keynote",
+            "title": "Hacking a Python Compiler, a Game Engine and Some Other Dark Magic to Build a Pythonic Online Learn to Code Tool for Kids"
+        },
+        {
+            "fullname": "Gedas Lukšas",
+            "type": "Keynote",
+            "title": "Hacking a Python Compiler, a Game Engine and Some Other Dark Magic to Build a Pythonic Online Learn to Code Tool for Kids"
+        },
+        {
+            "fullname": "Mantas Urbonas",
+            "type": "Keynote",
+            "title": "Hacking a Python Compiler, a Game Engine and Some Other Dark Magic to Build a Pythonic Online Learn to Code Tool for Kids"
+        },
+        {
+            "fullname": "Rokas Cvirka",
+            "type": "Talk",
+            "title": "Python Handbook for schools"
+        },
+        {
+            "fullname": "Artūras Nikončukas",
+            "type": "Talk",
+            "title": "Python Handbook for schools"
+        },
+        {
+            "fullname": "Philippe de Meulenaer",
+            "type": "Talk",
+            "title": "MLOps: challenges faced when deploying machine learning models to production"
+        },
+        {
+            "fullname": "Cheuk Ting Ho",
+            "type": "Talk",
+            "title": "Trojan Source Code - Can we trust open-source anymore?"
+        },
+        {
+            "fullname": "James Powell",
+            "type": "Keynote",
+            "title": "`int` is to `list` as `float` is to `tuple`"
+        },
+        {
+            "fullname": "Paulius Briedis",
+            "type": "Talk",
+            "title": "How we taught a.i. to schools in Finland, Malta, Kaunas"
+        },
+        {
+            "fullname": "Darius Grigaliūnas",
+            "type": "Talk",
+            "title": "How we taught a.i. to schools in Finland, Malta, Kaunas"
+        },
+        {
+            "fullname": "Laimonas Sutkus",
+            "type": "Talk",
+            "title": "AWS CDK with Python"
+        },
+        {
+            "fullname": "Albertas Gimbutas",
+            "type": "Talk",
+            "title": "Scaling Websockets"
+        },
+        {
+            "fullname": "Nithish Raghunandanan",
+            "type": "Talk",
+            "title": "Select ML from Databases"
+        },
+        {
+            "fullname": "Anas El Amraoui",
+            "type": "Talk",
+            "title": "RedLock a smart lock for distributed systems"
+        },
+        {
+            "fullname": "Karolina Griciunė",
+            "type": "Talk",
+            "title": "Data-driven products: from zero to hero"
+        },
+        {
+            "fullname": "Justinas Kuizinas",
+            "type": "Talk",
+            "title": "TypedDict, Dataclasses and Pydantic in action"
+        },
+        {
+            "fullname": "Sebastián Ramírez (tiangolo)",
+            "type": "Keynote",
+            "title": "Await for it: mixing async and blocking code"
+        }
+    ]
+}
