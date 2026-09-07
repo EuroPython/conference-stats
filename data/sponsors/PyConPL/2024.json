@@ -1,0 +1,53 @@
+{
+    "year": 2024,
+    "currency": "PLN",
+    "levels": {
+        "Platinum": 0,
+        "Gold": 0,
+        "Graphite": 0,
+        "Community": 0,
+        "PyLadies": 0
+    },
+    "sponsors": [
+        {
+            "name": "Splunk",
+            "website": "https://www.splunk.com/",
+            "level": "Platinum"
+        },
+        {
+            "name": "HealthJoy",
+            "website": "https://www.healthjoy.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Fly.io",
+            "website": "https://fly.io/",
+            "level": "Gold"
+        },
+        {
+            "name": "Zencoder",
+            "website": "https://zencoder.ai/",
+            "level": "Gold"
+        },
+        {
+            "name": "Slido",
+            "website": "https://www.slido.com/",
+            "level": "Graphite"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf-landing/",
+            "level": "Community"
+        },
+        {
+            "name": "EuroPython Society",
+            "website": "https://www.europython-society.org/",
+            "level": "Community"
+        },
+        {
+            "name": "Ørsted",
+            "website": "https://orsted.com/",
+            "level": "PyLadies"
+        }
+    ]
+}

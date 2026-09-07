@@ -1,0 +1,26 @@
+{
+    "year": 2025,
+    "currency": "PLN",
+    "levels": {
+        "Silver": 0,
+        "Graphite": 0,
+        "PyLadies": 0
+    },
+    "sponsors": [
+        {
+            "name": "Sunscrapers",
+            "website": "https://sunscrapers.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Slido",
+            "website": "https://www.slido.com/",
+            "level": "Graphite"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf-landing/",
+            "level": "PyLadies"
+        }
+    ]
+}
