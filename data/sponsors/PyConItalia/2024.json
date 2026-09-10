@@ -1,0 +1,261 @@
+{
+    "year": 2024,
+    "levels": {
+        "Keystone": 10000,
+        "Gold": 7000,
+        "Silver": 5000,
+        "Exclusive Tech Partner": 6000,
+        "Bronze": 3000,
+        "Patron": 1000,
+        "Startup": 500,
+        "Diversity": 1000,
+        "Media Partners": 0
+    },
+    "sponsors": [
+        {
+            "name": "Kraken",
+            "website": "https://kraken.tech/",
+            "level": "Keystone"
+        },
+        {
+            "name": "Vedrai",
+            "website": "https://vedrai.com/",
+            "level": "Gold"
+        },
+        {
+            "name": "Pydantic",
+            "website": "https://pydantic.dev/",
+            "level": "Gold"
+        },
+        {
+            "name": "20tab",
+            "website": "https://www.20tab.com/",
+            "level": "Silver"
+        },
+        {
+            "name": "Fiscozen",
+            "website": "https://www.fiscozen.it/",
+            "level": "Silver"
+        },
+        {
+            "name": "Generali",
+            "website": "http://www.gogenerali.com",
+            "level": "Silver"
+        },
+        {
+            "name": "Sentry",
+            "website": "https://sentry.io/welcome/",
+            "level": "Exclusive Tech Partner"
+        },
+        {
+            "name": "Bloomberg",
+            "website": "https://www.bloomberg.com/company/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Immobiliare.it",
+            "website": "https://labs.immobiliare.it/",
+            "level": "Bronze"
+        },
+        {
+            "name": "JetBrains",
+            "website": "https://www.jetbrains.com/",
+            "level": "Bronze"
+        },
+        {
+            "name": "Thux Code",
+            "website": "https://thux.it/it/thux-code/",
+            "level": "Patron"
+        },
+        {
+            "name": "APPBOX",
+            "website": "https://appbox.cloud/",
+            "level": "Patron"
+        },
+        {
+            "name": "Dvision Lab",
+            "website": "https://dvisionlab.it/",
+            "level": "Patron"
+        },
+        {
+            "name": "AppSignal",
+            "website": "https://www.appsignal.com/",
+            "level": "Patron"
+        },
+        {
+            "name": "Dygma",
+            "website": "https://dygma.com/",
+            "level": "Patron"
+        },
+        {
+            "name": "subito.it",
+            "website": "https://www.subito.it",
+            "level": "Patron"
+        },
+        {
+            "name": "Fabio Lamanna",
+            "website": "http://www.fabiolamanna.it/",
+            "level": "Startup"
+        },
+        {
+            "name": "E42",
+            "website": "https://www.elan42.com/",
+            "level": "Startup"
+        },
+        {
+            "name": "Barisoft",
+            "website": "https://www.barisoft.it/",
+            "level": "Startup"
+        },
+        {
+            "name": "Smitten",
+            "website": "https://smitten.fun/",
+            "level": "Startup"
+        },
+        {
+            "name": "EuroPython Society",
+            "website": "https://www.europython-society.org/",
+            "level": "Diversity"
+        },
+        {
+            "name": "Nephila",
+            "website": "https://www.nephila.digital/it/",
+            "level": "Diversity"
+        },
+        {
+            "name": "Python Software Foundation",
+            "website": "https://www.python.org/psf/",
+            "level": "Diversity"
+        },
+        {
+            "name": "Seeweb",
+            "website": "https://www.seeweb.it",
+            "level": "Diversity"
+        },
+        {
+            "name": "Top-IX",
+            "website": "https://www.top-ix.org/it/home/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "Python Biella Group",
+            "website": "https://pythonbiellagroup.it/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "GrUSP",
+            "website": "https://www.grusp.org/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "PyRE",
+            "website": "https://pyre.it",
+            "level": "Media Partners"
+        },
+        {
+            "name": "Speck&Tech",
+            "website": "https://speckand.tech/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "Python Milano",
+            "website": "http://milano.python.it",
+            "level": "Media Partners"
+        },
+        {
+            "name": "theRedCode",
+            "website": "https://www.theredcode.it/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "Schrödinger Hat",
+            "website": "https://www.schrodinger-hat.it/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "GDG Pisa",
+            "website": "https://gdgpisa.it/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "WTM Pisa",
+            "website": "https://gdgpisa.it/wtm",
+            "level": "Media Partners"
+        },
+        {
+            "name": "firenze.dev",
+            "website": "https://firenze.dev/community",
+            "level": "Media Partners"
+        },
+        {
+            "name": "She Tech",
+            "website": "https://shetechitaly.org/eventi/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "WTM Italia",
+            "website": "https://www.facebook.com/WTMItalia",
+            "level": "Media Partners"
+        },
+        {
+            "name": "Codemotion",
+            "website": "http://codemo.tech/partners",
+            "level": "Media Partners"
+        },
+        {
+            "name": "pisa.dev",
+            "website": "https://pisa.dev/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "Django Girls Italia",
+            "website": "https://djangogirls.org/pt/bologna/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "Apogeo Editore",
+            "website": "https://www.apogeonline.com/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "PyCon Lithuania",
+            "website": "https://pycon.lt/2024",
+            "level": "Media Partners"
+        },
+        {
+            "name": "DjangoCon EU",
+            "website": "https://2024.djangocon.eu/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "PLUG",
+            "website": "https://www.pignolalug.it/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "PyBari",
+            "website": "https://bari.python.it/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "Python Pescara",
+            "website": "https://pescara.python.it/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "PyRoma",
+            "website": "https://t.me/pyroma",
+            "level": "Media Partners"
+        },
+        {
+            "name": "Python Torino",
+            "website": "https://torino.python.it/",
+            "level": "Media Partners"
+        },
+        {
+            "name": "Tripsitta",
+            "website": "https://tripsitta.com/",
+            "level": "Media Partners"
+        }
+    ]
+}
